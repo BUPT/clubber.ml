@@ -2,6 +2,11 @@
 
 Awesome Chat Bot
 
+## TUTORIALS
+
+* [自己动手做聊天机器人教程](https://github.com/warmheartli/ChatBotCourse)
+* [零基础系列教程：如何开发微信聊天机器人并集成深度人工智能应用](https://github.com/telescopeuser/workshop_blog)
+
 ## SLIDES
 
 * [Neural Approaches to Conversational AI, July 8, 2018​](https://www.microsoft.com/en-us/research/publication/neural-approaches-to-conversational-ai/)
