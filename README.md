@@ -3,7 +3,9 @@
 Awesome Chat Bot
 
 ## TUTORIALS
-
+### Deep Learning
+* [吴恩达老师的深度学习课程笔记及资源](https://github.com/fengdu78/deeplearning_ai_books)
+### Chat Bot
 * [自己动手做聊天机器人教程](https://github.com/warmheartli/ChatBotCourse)
 * [零基础系列教程：如何开发微信聊天机器人并集成深度人工智能应用](https://github.com/telescopeuser/workshop_blog)
 * [Natural Language Processing is Fun! - How computers understand Human Language](https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e)
