@@ -13,6 +13,7 @@ Awesome Chat Bot
 ## SLIDES
 
 * [Neural Approaches to Conversational AI, July 8, 2018​](https://www.microsoft.com/en-us/research/publication/neural-approaches-to-conversational-ai/)
+* [Deep Learning for Conversational AI, NAACL 2018 Tutorial, 1st June, 2018. New Orleans, USA.](https://www.poly-ai.com/naacl18)
 
 ## NLP
 
