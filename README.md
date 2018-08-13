@@ -24,6 +24,7 @@ Awesome Chat Bot
 
 * [Dialog System Technology Challenge (DSTC)](https://www.microsoft.com/en-us/research/event/dialog-state-tracking-challenge/)
 * [DSTC7: End-to-End Conversation Modeling](https://github.com/DSTC-MSR-NLP/DSTC7-End-to-End-Conversation-Modeling)
+* http://convai.io/
 
 ## DOMAIN
 
