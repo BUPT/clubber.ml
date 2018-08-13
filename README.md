@@ -5,6 +5,8 @@ Awesome Chat Bot
 ## TUTORIALS
 ### Deep Learning
 * [吴恩达老师的深度学习课程笔记及资源](https://github.com/fengdu78/deeplearning_ai_books)
+### Reinforcement Learning
+* [强化学习从入门到放弃的资料](https://github.com/wwxFromTju/awesome-reinforcement-learning-zh)
 ### Chat Bot
 * [自己动手做聊天机器人教程](https://github.com/warmheartli/ChatBotCourse)
 * [零基础系列教程：如何开发微信聊天机器人并集成深度人工智能应用](https://github.com/telescopeuser/workshop_blog)
