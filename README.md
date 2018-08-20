@@ -37,9 +37,10 @@ Awesome Chat Bot
 
 * [.BOT is an identity for bots.](https://www.amazonregistry.com/bot) - Currently, anyone who owns, operates or manages bots published using a supported tool (Amazon Lex, Botkit Studio, Dialogflow, Gupshup, Microsoft Bot Framework, and Pandorabots) can validate a bot and register a .BOT domain name.
 
-## AUTHOR
+## Contributors
 
 [Huan LI](http://linkedin.com/in/zixia) \<zixia@zixia.net\>
+[TBD]
 
 <a href="https://stackexchange.com/users/265499">
   <img src="https://stackexchange.com/users/flair/265499.png" width="208" height="58" alt="profile for zixia on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for zixia on Stack Exchange, a network of free, community-driven Q&amp;A sites">
@@ -50,3 +51,4 @@ Awesome Chat Bot
 * Code & Docs © 2016-2018 Huan LI \<zixia@zixia.net\>
 * Code released under the Apache-2.0 License
 * Docs released under Creative Commons
+
