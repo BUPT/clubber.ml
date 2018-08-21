@@ -32,6 +32,7 @@ Awesome Chat Bot
 
 * https://github.com/ricsinaruto/Seq2seqChatbots/wiki/Chatbot-and-Related-Research-Paper-Notes-with-Images
 * https://github.com/nicolas-ivanov/seq2seq_chatbot_links
+* [Neural Network Dialog System Papers](https://github.com/snakeztc/NeuralDialogPapers)
 
 ## DOMAIN
 
