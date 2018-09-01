@@ -5,6 +5,8 @@ Awesome Chat Bot
 ## TUTORIALS
 ### Deep Learning
 * [吴恩达老师的深度学习课程笔记及资源](https://github.com/fengdu78/deeplearning_ai_books)
+### Reinforcement Learning
+* [强化学习从入门到放弃的资料](https://github.com/wwxFromTju/awesome-reinforcement-learning-zh)
 ### Chat Bot
 * [自己动手做聊天机器人教程](https://github.com/warmheartli/ChatBotCourse)
 * [零基础系列教程：如何开发微信聊天机器人并集成深度人工智能应用](https://github.com/telescopeuser/workshop_blog)
@@ -30,21 +32,28 @@ Awesome Chat Bot
 
 * https://github.com/ricsinaruto/Seq2seqChatbots/wiki/Chatbot-and-Related-Research-Paper-Notes-with-Images
 * https://github.com/nicolas-ivanov/seq2seq_chatbot_links
+* [Neural Network Dialog System Papers](https://github.com/snakeztc/NeuralDialogPapers)
 
 ## DOMAIN
 
 * [.BOT is an identity for bots.](https://www.amazonregistry.com/bot) - Currently, anyone who owns, operates or manages bots published using a supported tool (Amazon Lex, Botkit Studio, Dialogflow, Gupshup, Microsoft Bot Framework, and Pandorabots) can validate a bot and register a .BOT domain name.
 
-## AUTHOR
+## TOOLS
 
-[Huan LI](http://linkedin.com/in/zixia) \<zixia@zixia.net\>
+- [GitXiv — Collaborative Open Computer Science](http://www.gitxiv.com) - arXiv + Github + Links + Discussion
+- [Web interface for browsing, search and filtering recent arxiv submissions](http://www.arxiv-sanity.com/library)
 
-<a href="https://stackexchange.com/users/265499">
-  <img src="https://stackexchange.com/users/flair/265499.png" width="208" height="58" alt="profile for zixia on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for zixia on Stack Exchange, a network of free, community-driven Q&amp;A sites">
-</a>
+## Contributors
+
+- [Huan LI](http://linkedin.com/in/zixia) \<zixia@zixia.net\>
+- [Da XIAO]() \<\>
+- [Zhengyuan ZHU]() \<\>
+- [Chongyu ZHANG]() \<\>
+- [Yining WANG]() \<\>
 
 ## COPYRIGHT & LICENSE
 
-* Code & Docs © 2016-2018 Huan LI \<zixia@zixia.net\>
+* Code & Docs © 2018 Contributors
 * Code released under the Apache-2.0 License
 * Docs released under Creative Commons
+
