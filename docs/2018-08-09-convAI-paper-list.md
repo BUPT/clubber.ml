@@ -77,17 +77,17 @@ tags:
         - 98: [MindNet: acquiring and structuring semantic information from text](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/COLING-98-richardson-dolan-vanderwende.pdf):Stephen D.Richardson(Microsoft Research)
     - Neural is robust but not comprehensible
         - [**duplicate**] 16: [Link Prediction using Embedded Knowledge Graphs](https://arxiv.org/pdf/1611.04642.pdf?): Yulong Shen（Microsoft&Google Research）
-        - 15: [EMBEDDING ENTITIES AND RELATIONS FOR LEARNING AND INFERENCE IN KNOWLEDGE BASES](https://arxiv.org/abs/1412.6575):Bishan Yang(Cornell University)
+        - 15: [EMBEDDING ENTITIES AND RELATIONS FOR LEARNING AND INFERENCE IN KNOWLEDGE BASES](https://arxiv.org/abs/1412.6575):Bishan Yang(Cornell University), [TensorFlow code](https://github.com/thunlp/OpenKE/blob/master/models/DistMult.py), [PyTorch code](https://github.com/thunlp/OpenKE/blob/OpenKE-PyTorch/models/DistMult.py)
     - Hybrid is robust and  comprehensible
         - 18: [M-Walk: Learning to Walk in Graph with Monte Carlo Tree Search](https://arxiv.org/pdf/1802.04394.pdf):Yelong Shen(Microsoft Research&Tecent AI Lab)
 	    - 18: [DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning](https://arxiv.org/abs/1707.06690):Wenhan Xiong(University of California,Santa Barbara), [code1](https://github.com/xwhan/DeepPath) [code2](https://github.com/arunarn2/DeepPathwithTensorforce)
 	    - 18: [GO FOR A WALK AND ARRIVE AT THE ANSWER: REASONING OVER PATHS IN KNOWLEDGE BASES USING REINFORCEMENT LEARNING](https://arxiv.org/abs/1711.05851):Rajarshi Das(University of Massachusetts,Amherst), 
 5. Multi-turn KB-QA
-    - Programmed Dialogue policy
-	    - 15: [A Probabilistic Framework for Representing Dialog Systems and Entropy-Based Dialog Management through Dynamic Stochastic State Evolution](https://arxiv.org/pdf/1504.07182.pdf):Ji Wu(IEEE)
+    ~~- Programmed Dialogue policy
+	    - 15: [A Probabilistic Framework for Representing Dialog Systems and Entropy-Based Dialog Management through Dynamic Stochastic State Evolution](https://arxiv.org/pdf/1504.07182.pdf):Ji Wu(IEEE)~~
     - Trained via RL Dialogue policy
-	    - 16: [A Network-based End-to-End Trainable Task-oriented Dialogue System](https://arxiv.org/abs/1604.04562):Tsung-Hsien Wen(Cambridge University)
-	    - 17: [Towards End-to-End Reinforcement Learning of Dialogue Agents for Information Access](https://arxiv.org/abs/1609.00777):Bhuwan Dhingra(Carnegie Mellon University)
+	    - 16: [A Network-based End-to-End Trainable Task-oriented Dialogue System](https://arxiv.org/abs/1604.04562):Tsung-Hsien Wen(Cambridge University), [Theano code](https://github.com/shawnwun/NNDIAL)
+	    - 17: [Towards End-to-End Reinforcement Learning of Dialogue Agents for Information Access](https://arxiv.org/abs/1609.00777):Bhuwan Dhingra(Carnegie Mellon University), [Theano code](https://github.com/MiuLab/KB-InfoBot)
 
 #### Text-QA
 1. MS MARCO
