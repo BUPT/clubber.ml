@@ -60,13 +60,13 @@ tags:
 ### Open-Domain Question Answering
 #### Knowledge Base-QA
 1. Symbolic approach via Large-scale knowledge graphs
-    - 98: [MindNet: acquiring and structuring semantic information from text](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/COLING-98-richardson-dolan-vanderwende.pdf): Stephen D.Richardson(Microsoft Research)
-    - 13: [Semantic Parsing on Freebase from Question-Answer Pairs](http://www.aclweb.org/anthology/D13-1160): Jonathan Berant(Stanford University)
+    - [**oral**] 98: [MindNet: acquiring and structuring semantic information from text](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/COLING-98-richardson-dolan-vanderwende.pdf): Stephen D.Richardson(Microsoft Research)
+    - [**oral**] 13: [Semantic Parsing on Freebase from Question-Answer Pairs](http://www.aclweb.org/anthology/D13-1160): Jonathan Berant(Stanford University)
     - 15: [Attention with Intention for a Neural Network Conversation Model](https://arxiv.org/pdf/1510.08565.pdf): Kaisheng Yao(Microsoft Research)
     - 14: [Knowledge-Based Question Answering as Machine Translation](http://www.aclweb.org/anthology/P14-1091): Junwei Bao(Harbin Institute of Technology)
     - 15: [Semantic Parsing via Staged Query Graph Generation: Question Answering with Knowledge Base](http://aclweb.org/anthology/P15-1128):Wen-tau Yih(Microsoft Research)
 1. **ReasoNet** with Shared Memory
-    - [**duplicate**] 16: [Link Prediction using Embedded Knowledge Graphs](https://arxiv.org/pdf/1611.04642.pdf?): Yulong Shen（Microsoft&Google Research）
+    - [**oral**][**duplicate**] 16: [Link Prediction using Embedded Knowledge Graphs](https://arxiv.org/pdf/1611.04642.pdf?): Yulong Shen（Microsoft&Google Research）
     - 17: [ReasoNet: Learning to Stop Reading in Machine Comprehension](https://arxiv.org/pdf/1609.05284.pdf):Yelong Shen(Microsoft Research)
   
 2. Search Controller in **ReasoNet** 
@@ -77,17 +77,18 @@ tags:
         - 98: [MindNet: acquiring and structuring semantic information from text](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/COLING-98-richardson-dolan-vanderwende.pdf):Stephen D.Richardson(Microsoft Research)
     - Neural is robust but not comprehensible
         - [**duplicate**] 16: [Link Prediction using Embedded Knowledge Graphs](https://arxiv.org/pdf/1611.04642.pdf?): Yulong Shen（Microsoft&Google Research）
-        - 15: [EMBEDDING ENTITIES AND RELATIONS FOR LEARNING AND INFERENCE IN KNOWLEDGE BASES](https://arxiv.org/abs/1412.6575):Bishan Yang(Cornell University)
+        - [**oral**] 15: [EMBEDDING ENTITIES AND RELATIONS FOR LEARNING AND INFERENCE IN KNOWLEDGE BASES](https://arxiv.org/abs/1412.6575):Bishan Yang(Cornell University), [TensorFlow code](https://github.com/thunlp/OpenKE/blob/master/models/DistMult.py), [PyTorch code](https://github.com/thunlp/OpenKE/blob/OpenKE-PyTorch/models/DistMult.py)
     - Hybrid is robust and  comprehensible
         - 18: [M-Walk: Learning to Walk in Graph with Monte Carlo Tree Search](https://arxiv.org/pdf/1802.04394.pdf):Yelong Shen(Microsoft Research&Tecent AI Lab)
-	    - 18: [DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning](https://arxiv.org/abs/1707.06690):Wenhan Xiong(University of California,Santa Barbara), [code1](https://github.com/xwhan/DeepPath) [code2](https://github.com/arunarn2/DeepPathwithTensorforce)
+	    - 18: [**oral**] [DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning](https://arxiv.org/abs/1707.06690):Wenhan Xiong(University of California,Santa Barbara), [code1](https://github.com/xwhan/DeepPath) [code2](https://github.com/arunarn2/DeepPathwithTensorforce)
 	    - 18: [GO FOR A WALK AND ARRIVE AT THE ANSWER: REASONING OVER PATHS IN KNOWLEDGE BASES USING REINFORCEMENT LEARNING](https://arxiv.org/abs/1711.05851):Rajarshi Das(University of Massachusetts,Amherst), 
 5. Multi-turn KB-QA
-    - Programmed Dialogue policy
-	    - 15: [A Probabilistic Framework for Representing Dialog Systems and Entropy-Based Dialog Management through Dynamic Stochastic State Evolution](https://arxiv.org/pdf/1504.07182.pdf):Ji Wu(IEEE)
+    - ~~Programmed Dialogue policy~~
+	    - ~~15: [A Probabilistic Framework for Representing Dialog Systems and Entropy-Based Dialog Management through Dynamic Stochastic State Evolution](https://arxiv.org/pdf/1504.07182.pdf):Ji Wu(IEEE)~~
     - Trained via RL Dialogue policy
-	    - 16: [A Network-based End-to-End Trainable Task-oriented Dialogue System](https://arxiv.org/abs/1604.04562):Tsung-Hsien Wen(Cambridge University)
-	    - 17: [Towards End-to-End Reinforcement Learning of Dialogue Agents for Information Access](https://arxiv.org/abs/1609.00777):Bhuwan Dhingra(Carnegie Mellon University)
+	    - 16: [Neural Generative Question Answering ](https://arxiv.org/abs/1512.01337):Jun Yin(Noah’s Ark Lab, Huawe) [corpus](https://github.com/jxfeb/Generative_QA)
+	    - [**oral**] 16: [A Network-based End-to-End Trainable Task-oriented Dialogue System](https://arxiv.org/abs/1604.04562):Tsung-Hsien Wen(Cambridge University), [Theano code](https://github.com/shawnwun/NNDIAL)
+	    - [**oral**] 17: [Towards End-to-End Reinforcement Learning of Dialogue Agents for Information Access](https://arxiv.org/abs/1609.00777):Bhuwan Dhingra(Carnegie Mellon University), [Theano code](https://github.com/MiuLab/KB-InfoBot)
 
 #### Text-QA
 1. MS MARCO
