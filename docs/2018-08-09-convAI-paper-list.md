@@ -86,6 +86,7 @@ tags:
     - ~~Programmed Dialogue policy~~
 	    - ~~15: [A Probabilistic Framework for Representing Dialog Systems and Entropy-Based Dialog Management through Dynamic Stochastic State Evolution](https://arxiv.org/pdf/1504.07182.pdf):Ji Wu(IEEE)~~
     - Trained via RL Dialogue policy
+	    - 16: [Neural Generative Question Answering ](https://arxiv.org/abs/1512.01337):Jun Yin(Noah’s Ark Lab, Huawe) [corpus](https://github.com/jxfeb/Generative_QA)
 	    - [**oral**] 16: [A Network-based End-to-End Trainable Task-oriented Dialogue System](https://arxiv.org/abs/1604.04562):Tsung-Hsien Wen(Cambridge University), [Theano code](https://github.com/shawnwun/NNDIAL)
 	    - [**oral**] 17: [Towards End-to-End Reinforcement Learning of Dialogue Agents for Information Access](https://arxiv.org/abs/1609.00777):Bhuwan Dhingra(Carnegie Mellon University), [Theano code](https://github.com/MiuLab/KB-InfoBot)
 
