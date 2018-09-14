@@ -21,6 +21,7 @@ Awesome Chat Bot
 
 * [Microsoft Natural Language Processing Group](https://www.microsoft.com/en-us/research/group/natural-language-processing/)
 * [Microsoft Research - Conversational Intelligence](https://www.microsoft.com/en-us/research/project/conversational-intelligence/#)
+* [Tracking Progress in Natural Language Processing](https://github.com/sebastianruder/NLP-progress)
 
 ## CHANLLENGE
 
