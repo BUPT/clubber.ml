@@ -1,5 +1,7 @@
 # AWESOME-CHATBOT
 **** [our_blog](https://bupt.github.io/awesome-chatbot/)
+* [PLEASE READ IF YOU WANT TO JOIN US](https://github.com/BUPT/awesome-chatbot/wiki)
+
 
 ## TUTORIALS
 ### Deep Learning
