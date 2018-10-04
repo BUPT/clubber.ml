@@ -1,6 +1,13 @@
 # AWESOME-CHATBOT
-* [our_blog](https://bupt.github.io/awesome-chatbot/)
-* [PLEASE READ IF YOU WANT TO JOIN US](https://github.com/BUPT/awesome-chatbot/wiki/Newcomer-Manual)
+
+Welcome to awesome chatbot repository!
+
+We have a weekly offline meetup, you are welcome to join if you are interested. 
+
+1. Learn more about the meetup at <https://github.com/BUPT/awesome-chatbot/issues>.
+1. Get started to join us by reading [Newcomers Manual](https://github.com/BUPT/awesome-chatbot/wiki/Newcomer-Manual)
+
+> Our blog at: <https://bupt.github.io/awesome-chatbot/>
 
 
 ## TUTORIALS
