@@ -2,17 +2,23 @@
 
 [![Colab Notebook](https://img.shields.io/badge/Google_Colab-Notebook-brightgreen.svg)](https://colab.research.google.com/drive/1AO3bwIgzfy63ty8OSSgUPRG1PIii3oo_)
 
+> Our blog at: <https://bupt.github.io/awesome-chatbot/>
+
+## JOIN US 💖
+
 Welcome to awesome chatbot repository!
 
-We have a weekly offline meetup, you are welcome to join if you are interested. 
+We have a weekly offline meetup, you are welcome to join if you are interested.
+
+Only two steps are needed before you join：
 
 1. Learn more about the meetup at <https://github.com/BUPT/awesome-chatbot/issues>.
 1. Get started to join us by reading [Newcomers Manual](https://github.com/BUPT/awesome-chatbot/wiki/Newcomer-Manual)
 
-> Our blog at: <https://bupt.github.io/awesome-chatbot/>
-
+We are looking forward to see you in the next meetup!
 
 ## TUTORIALS
+
 ### Deep Learning
 * [吴恩达老师的深度学习课程笔记及资源](https://github.com/fengdu78/deeplearning_ai_books)
 ### Reinforcement Learning
