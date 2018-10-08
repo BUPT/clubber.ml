@@ -1,5 +1,7 @@
 # AWESOME-CHATBOT
 
+[![Colab Notebook](https://img.shields.io/badge/Google_Colab-Notebook-brightgreen.svg)](https://colab.research.google.com/drive/1AO3bwIgzfy63ty8OSSgUPRG1PIii3oo_)
+
 Welcome to awesome chatbot repository!
 
 We have a weekly offline meetup, you are welcome to join if you are interested. 
