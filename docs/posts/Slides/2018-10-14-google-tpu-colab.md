@@ -3,6 +3,12 @@ title: TPU for developers，and the FREE Colab
 author: @zixia
 comments: true
 mathjax: true
+categories: 
+  - Slides
+tags:
+  - tpu
+  - tensorflow
+
 ---
 
 ### TPU For Developers (SLIDE)
