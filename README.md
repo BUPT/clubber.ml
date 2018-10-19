@@ -1,9 +1,24 @@
 # AWESOME-CHATBOT
-* [our_blog](https://bupt.github.io/awesome-chatbot/)
-* [PLEASE READ IF YOU WANT TO JOIN US](https://github.com/BUPT/awesome-chatbot/wiki/Newcomer-Manual)
 
+[![Colab Notebook](https://img.shields.io/badge/Google_Colab-Notebook-brightgreen.svg)](https://colab.research.google.com/drive/1AO3bwIgzfy63ty8OSSgUPRG1PIii3oo_)
+
+Welcome to awesome chatbot repository!
+
+> Our blog at: <https://bupt.github.io/awesome-chatbot/>
+
+## JOIN US 💖
+
+We have weekly offline meetups, you will be welcome to join if you are interested.
+
+Only two steps are needed before you join:
+
+1. Learn more about the meetup at <https://github.com/BUPT/awesome-chatbot/issues>.
+1. Learn how to become a newcomer by reading [Newcomers Manual](https://github.com/BUPT/awesome-chatbot/wiki/Newcomer-Manual)
+
+Then you are set. we are looking forward to see you in the next meetup!
 
 ## TUTORIALS
+
 ### Deep Learning
 * [吴恩达老师的深度学习课程笔记及资源](https://github.com/fengdu78/deeplearning_ai_books)
 ### Reinforcement Learning
@@ -19,6 +34,7 @@
 * [Deep Learning for Conversational AI, NAACL 2018 Tutorial, 1st June, 2018. New Orleans, USA.](https://www.poly-ai.com/naacl18)
 * [Deep Learning for Dialogue Systems. COLING 2018 Tutorial](https://sites.google.com/view/deepdial/)
 * [End-to-end Goal-oriented. Question Answering Systems. KDD 2018 Tutorial](https://sites.google.com/view/goal-oriented-qa/)
+* [Speech and Language Processsing. Chapter 25: Conversational Agents. Stanford 2017](https://web.stanford.edu/~jurafsky/slp3/slides/convagents1.pdf)
 
 ## NLP
 
@@ -26,6 +42,7 @@
 * [Microsoft Research - Conversational Intelligence](https://www.microsoft.com/en-us/research/project/conversational-intelligence/#)
 * [Tracking Progress in Natural Language Processing](https://github.com/sebastianruder/NLP-progress)
 * [NLP Guide](https://nlpguide.github.io)
+* [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)
 
 ## CHANLLENGE
 
