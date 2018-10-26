@@ -2,9 +2,12 @@
 
 [![Colab Notebook](https://img.shields.io/badge/Google_Colab-Notebook-brightgreen.svg)](https://colab.research.google.com/drive/1AO3bwIgzfy63ty8OSSgUPRG1PIii3oo_)
 
-Welcome to awesome chatbot repository!
+Welcome to awesome chatbot paper club!
 
-> Our blog at: <https://bupt.github.io/awesome-chatbot/>
+- Meetup Announcements & Minutes: <https://github.com/BUPT/awesome-chatbot/issues>
+- Paper Index: <https://bupt.github.io/conversational-ai-club/>
+- Blog: <https://bupt.github.io/awesome-chatbot/>
+- Newcomers Manual: <https://github.com/BUPT/awesome-chatbot/wiki/Newcomer-Manual>
 
 ## JOIN US 💖
 
