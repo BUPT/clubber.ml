@@ -21,8 +21,10 @@ Only two steps are needed before you join:
 Then you are set. we are looking forward to see you in the next meetup!
 
 ![paper oral](https://bupt.github.io/conversational-ai-club/images/paper-oral-screen.jpg)
+> [第十一次沙龙：朱正源Oral](https://github.com/BUPT/awesome-chatbot/issues/28)
 
 ![group photo](https://bupt.github.io/conversational-ai-club/images/group-photo.jpg)
+> [第七次沙龙：会员合影](https://github.com/BUPT/awesome-chatbot/issues/16)
 
 ## TUTORIALS
 
