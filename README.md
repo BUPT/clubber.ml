@@ -20,6 +20,10 @@ Only two steps are needed before you join:
 
 Then you are set. we are looking forward to see you in the next meetup!
 
+[!paper oral](https://bupt.github.io/conversational-ai-club/images/paper-oral-screen.jpg)
+
+[!group photo](https://bupt.github.io/conversational-ai-club/images/group-photo.jpg)
+
 ## TUTORIALS
 
 ### Deep Learning
