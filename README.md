@@ -1,7 +1,7 @@
 # AWESOME-CHATBOT
 
 [![Colab Notebook](https://img.shields.io/badge/Google_Colab-Notebook-brightgreen.svg)](https://colab.research.google.com/drive/1AO3bwIgzfy63ty8OSSgUPRG1PIii3oo_)
-[![CAD Project](https://img.shields.io/badge/%20-BUPT_CAD_Project-blue.svg)](https://github.com/bupt/awesome-cad)
+[![BUPT CAD Project](https://img.shields.io/badge/👀-BUPT_CAD_Project-blue.svg)](https://github.com/bupt/awesome-cad)
 
 Welcome to awesome chatbot paper club!
 
