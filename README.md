@@ -29,6 +29,9 @@ Then you are set. we are looking forward to see you in the next meetup!
 ![group photo](https://bupt.github.io/conversational-ai-club/images/group-photo.jpg)
 > [第七次沙龙：会员合影](https://github.com/BUPT/awesome-chatbot/issues/16)
 
+![group photo - 1st year annual](https://user-images.githubusercontent.com/12370338/50087797-24c9a980-023c-11e9-9d3f-05a7fcf4689f.jpeg)
+> [第十九次沙龙：第一界年会](https://github.com/BUPT/awesome-chatbot/issues/44)
+
 ## TUTORIALS
 
 ### Deep Learning
