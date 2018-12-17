@@ -14,10 +14,9 @@ Welcome to awesome chatbot paper club!
 
 We have weekly offline meetups, you will be welcome to join if you are interested.
 
-Only two steps are needed before you join:
+Only one step is needed before you join:
 
-1. Learn more about the meetup at <https://github.com/BUPT/awesome-chatbot/issues>.
-1. Learn how to become a newcomer by reading [Newcomers Manual](https://github.com/BUPT/awesome-chatbot/wiki/Newcomer-Manual)
+1. **Learn how to become a newcomer by reading [Newcomers Manual](https://github.com/BUPT/awesome-chatbot/wiki/Newcomer-Manual)**
 
 Then you are set. we are looking forward to see you in the next meetup!
 
