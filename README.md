@@ -1,7 +1,7 @@
 # AWESOME-CHATBOT
 
 [![Colab Notebook](https://img.shields.io/badge/Google_Colab-Notebook-brightgreen.svg)](https://colab.research.google.com/drive/1AO3bwIgzfy63ty8OSSgUPRG1PIii3oo_)
-[![CAD Project](https://img.shields.io/badge/%20-BUPT_CAD_Project-blue.svg)](https://github.com/bupt/awesome-cad)
+[![BUPT CAD Project](https://img.shields.io/badge/👀-BUPT_CAD_Project-blue.svg)](https://github.com/bupt/awesome-cad)
 
 Welcome to awesome chatbot paper club!
 
@@ -14,10 +14,9 @@ Welcome to awesome chatbot paper club!
 
 We have weekly offline meetups, you will be welcome to join if you are interested.
 
-Only two steps are needed before you join:
+Only one step is needed before you join:
 
-1. Learn more about the meetup at <https://github.com/BUPT/awesome-chatbot/issues>.
-1. Learn how to become a newcomer by reading [Newcomers Manual](https://github.com/BUPT/awesome-chatbot/wiki/Newcomer-Manual)
+1. **Learn how to become a newcomer by reading [Newcomers Manual](https://github.com/BUPT/awesome-chatbot/wiki/Newcomer-Manual)**
 
 Then you are set. we are looking forward to see you in the next meetup!
 
@@ -29,6 +28,9 @@ Then you are set. we are looking forward to see you in the next meetup!
 
 ![group photo](https://bupt.github.io/conversational-ai-club/images/group-photo.jpg)
 > [第七次沙龙：会员合影](https://github.com/BUPT/awesome-chatbot/issues/16)
+
+![group photo - 1st year annual](https://user-images.githubusercontent.com/12370338/50087797-24c9a980-023c-11e9-9d3f-05a7fcf4689f.jpeg)
+> [第十九次沙龙：第一界年会](https://github.com/BUPT/awesome-chatbot/issues/44)
 
 ## TUTORIALS
 
