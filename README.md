@@ -32,21 +32,28 @@ Then you are set. we are looking forward to see you in the next meetup!
 ![group photo - 1st year annual](https://user-images.githubusercontent.com/12370338/50087797-24c9a980-023c-11e9-9d3f-05a7fcf4689f.jpeg)
 > [第十九次沙龙：第一界年会](https://github.com/BUPT/awesome-chatbot/issues/44)
 
-## TUTORIALS
+## CONVERSATIONAL AI TUTORIALS
 
-### Deep Learning
+* [Neural Approaches to Conversational AI, July 8, 2018​](https://www.microsoft.com/en-us/research/publication/neural-approaches-to-conversational-ai/)
+* [2017 Tutorial - Deep Learning for Dialogue Systems](https://www.slideshare.net/mlreview/2017-tutorial-deep-learning-for-dialogue-systems)
+
+## CHANLLENGES
+
+* [Dialog System Technology Challenge (DSTC)](https://www.microsoft.com/en-us/research/event/dialog-state-tracking-challenge/)
+* [The Conversational Intelligence Challenge 2 (ConvAI2, NIPS 2018 Competition, ongoing!)](http://convai.io/)
+
+### Deep Learning Tutorials
 * [吴恩达老师的深度学习课程笔记及资源](https://github.com/fengdu78/deeplearning_ai_books)
 ### Reinforcement Learning
 * [强化学习从入门到放弃的资料](https://github.com/wwxFromTju/awesome-reinforcement-learning-zh)
-### Chat Bot
+
+### ChatBot Tutorials
 * [自己动手做聊天机器人教程](https://github.com/warmheartli/ChatBotCourse)
 * [零基础系列教程：如何开发微信聊天机器人并集成深度人工智能应用](https://github.com/telescopeuser/workshop_blog)
 * [Natural Language Processing is Fun! - How computers understand Human Language](https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e)
 
 ## SLIDES
 
-* [Neural Approaches to Conversational AI, July 8, 2018​](https://www.microsoft.com/en-us/research/publication/neural-approaches-to-conversational-ai/)
-* [2017 Tutorial - Deep Learning for Dialogue Systems](https://www.slideshare.net/mlreview/2017-tutorial-deep-learning-for-dialogue-systems)
 * [Deep Learning for Conversational AI, NAACL 2018 Tutorial, 1st June, 2018. New Orleans, USA.](https://www.poly-ai.com/naacl18)
 * [Deep Learning for Dialogue Systems. COLING 2018 Tutorial](https://sites.google.com/view/deepdial/)
 * [End-to-end Goal-oriented. Question Answering Systems. KDD 2018 Tutorial](https://sites.google.com/view/goal-oriented-qa/)
@@ -59,12 +66,6 @@ Then you are set. we are looking forward to see you in the next meetup!
 * [Tracking Progress in Natural Language Processing](https://github.com/sebastianruder/NLP-progress)
 * [NLP Guide](https://nlpguide.github.io)
 * [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)
-
-## CHANLLENGE
-
-* [Dialog System Technology Challenge (DSTC)](https://www.microsoft.com/en-us/research/event/dialog-state-tracking-challenge/)
-* [DSTC7: End-to-End Conversation Modeling](https://github.com/DSTC-MSR-NLP/DSTC7-End-to-End-Conversation-Modeling)
-* [The Conversational Intelligence Challenge 2 (ConvAI2, NIPS 2018 Competition, ongoing!)](http://convai.io/)
 
 ## PAPERS & CODES
 
