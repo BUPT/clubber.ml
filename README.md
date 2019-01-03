@@ -36,6 +36,7 @@ Then you are set. we are looking forward to see you in the next meetup!
 
 * [Neural Approaches to Conversational AI, July 8, 2018​](https://www.microsoft.com/en-us/research/publication/neural-approaches-to-conversational-ai/)
 * [2017 Tutorial - Deep Learning for Dialogue Systems](https://www.slideshare.net/mlreview/2017-tutorial-deep-learning-for-dialogue-systems)
+* [An Annotated Reading List of Conversational AI](https://medium.com/gobeyond-ai/a-reading-list-and-mini-survey-of-conversational-ai-32fceea97180)
 
 ## CHANLLENGES
 
