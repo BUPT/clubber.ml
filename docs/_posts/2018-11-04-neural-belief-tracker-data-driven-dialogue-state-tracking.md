@@ -9,4 +9,4 @@ tags:
 ---
 
 
-{% pdf https://drive.google.com/drive/u/0/folders/1FOUwAjOeSdwue0ZuIFbbf6DppzfLsDXZ/preview %}
+PDF: https://drive.google.com/drive/u/0/folders/1FOUwAjOeSdwue0ZuIFbbf6DppzfLsDXZ/preview

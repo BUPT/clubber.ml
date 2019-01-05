@@ -13,7 +13,7 @@ tags:
 第一部分根据国外博客进行make sense的直观理解。
 第二部分根据苏神博客的进行数学方面的推导加强理解。
 
-{% pdf https://drive.google.com/file/d/1mA1dSM1q-12pfpr75842DWO0zcvsIFbt/preview %}
+PDF https://drive.google.com/file/d/1mA1dSM1q-12pfpr75842DWO0zcvsIFbt/preview
 
 ## Reference
 1. https://kexue.fm/archives/5155
