@@ -1,6 +1,6 @@
 ---
 title: Tensorflow in JavaScript
-author: @zixia
+author: zixia
 comments: true
 mathjax: true
 categories: 
