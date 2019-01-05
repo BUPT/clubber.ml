@@ -124,7 +124,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/bupt/awesome-chatbot"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -275,3 +275,9 @@ defaults:
       comments: true
       share: true
       related: true
+  # - scope:
+  #     path: ""
+  #     type: pages
+  #   values:
+  #     layout: single
+  #     author_profile: true
