@@ -1,18 +1,30 @@
 ---
-layout: page
-title: About
 permalink: /about/
+title: "About"
+excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+toc: true
+toc_label: "Unique Title"
+toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+# H1
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+test1
 
+## H2
 
-[jekyll-organization]: https://github.com/jekyll
+test2
+
+## H2-1
+
+test3
+
+# H1-1
+
+test4
+
+## H2-2
+
+teset5
