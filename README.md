@@ -90,6 +90,8 @@ Test under local:
 
 ```sh
 cd docs
+
+bundle install
 bundle update
 bundle exec jekyll serve
 ```
