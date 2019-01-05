@@ -83,17 +83,40 @@ Then you are set. we are looking forward to see you in the next meetup!
 - [GitXiv — Collaborative Open Computer Science](http://www.gitxiv.com) - arXiv + Github + Links + Discussion
 - [Web interface for browsing, search and filtering recent arxiv submissions](http://www.arxiv-sanity.com/library)
 
-## Contributors
+## BLOG
 
-- [Huan LI](http://linkedin.com/in/zixia) \<zixia@zixia.net\>
+Test under local:
+
+
+```sh
+cd docs
+bundle update
+bundle exec jekyll serve
+```
+
+## MEMBERS
+
+### Academic Chairman
+
 - [Da XIAO]() \<\>
-- [Zhengyuan ZHU]() \<\>
+
+### Members
+
+- @huan - [Huan LI](http://linkedin.com/in/zixia) \<zixia@zixia.net\>
+- @824zzy [Zhengyuan ZHU]() \<\>
 - [Chongyu ZHANG]() \<\>
 - [Yining WANG]() \<\>
 
+Add your name to this list by yourself if you are a member.
+
+## CO-FOUNDERS
+
+- @huan - Huan LI, CS Ph.D.
+- @824zzy - Zhengyuan ZHU, Master
+
 ## COPYRIGHT & LICENSE
 
-* Code & Docs © 2018 Contributors
-* Code released under the Apache-2.0 License
-* Docs released under Creative Commons
+- Code & Docs © 2018-2019 Contributors
+- Code released under the Apache-2.0 License
+- Docs released under Creative Commons
 
