@@ -3,7 +3,7 @@ title: 变分自编码器及其应用
 comments: true
 mathjax: true
 categories:
-  - VAE
+  - vqa
 tags:
   - note
   - code

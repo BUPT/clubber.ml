@@ -4,10 +4,12 @@ author: huan
 comments: true
 mathjax: true
 categories: 
-  - Slides
+  - slides
 tags:
-  - tpu
+  - javascript
   - tensorflow
+header:
+  teaser: /assets/2019/tensorflow-in-javascript-teaser-500x300.png
 
 ---
 

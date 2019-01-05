@@ -1,9 +1,10 @@
 ---
 title: Visual-Question-Learning(VQA)学习笔记
+author: 824zzy
 comments: true
 mathjax: true
 categories:
-  - VQA
+  - vqa
 tags:
   - summarize
 

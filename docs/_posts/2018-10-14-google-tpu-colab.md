@@ -4,7 +4,7 @@ author: huan
 comments: true
 mathjax: true
 categories: 
-  - Slides
+  - slides
 tags:
   - tpu
   - tensorflow

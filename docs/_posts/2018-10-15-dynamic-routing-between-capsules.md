@@ -4,10 +4,10 @@ author: 824zzy
 comments: true
 mathjax: true
 categories:
-  - Classical_paper
+  - classical paper
 tags:
   - capsule
-  - dynamic_routing
+  - dynamic routing
 ---
 
 ## 手写笔记

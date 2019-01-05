@@ -3,7 +3,7 @@ title: 对象差分注意力机制
 comments: true
 mathjax: true
 categories:
-  - VQA
+  - vqa
 tags:
   - attention
 

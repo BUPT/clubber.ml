@@ -1,9 +1,10 @@
 ---
 title: belief state tracking
+author: 824zzy
 comments: true
 mathjax: true
 categories:
-  - Task-Oriented-Dialogues
+  - task oriented dialogues
 tags:
   - belief state
 ---

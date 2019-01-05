@@ -1,11 +1,12 @@
 ---
 title: demo驱动学习：Image_Caption
+author: 824zzy
 comments: true
 mathjax: true
 categories:
-  - VQA
+  - vqa
 tags:
-  - imageCaption
+  - image caption
   
 ---
 

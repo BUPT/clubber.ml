@@ -3,9 +3,9 @@ title: Natural Language Inference with Hierarchical BiLSTM Max Pooling Architect
 comments: true
 mathjax: true
 categories:
-  - classical_paper
+  - classical paper
 tags:
-  - NLI
+  - nli
   - embedding
 ---
 
