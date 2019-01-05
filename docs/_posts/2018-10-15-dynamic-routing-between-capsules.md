@@ -1,5 +1,6 @@
 ---
 title: 胶囊（Capsule）网络
+author: 824zzy
 comments: true
 mathjax: true
 categories:

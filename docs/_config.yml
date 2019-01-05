@@ -103,30 +103,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Huan LI"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Conversational AI Coder."
+  name             : "Conversational AI Club"
+  avatar           : "/assets/images/teaser-500x300.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "We are learning to build a AI that can learning language"
   location         : "Beijing, China"
   email            : "huan@bupt.edu.cn"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:huan@bupt.edu.cn
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://www.zixia.net"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/zixia"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/lizhuohuan"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/huan"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://bupt.github.io/conversational-ai-club"
 
 # Site Footer
 footer:

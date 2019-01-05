@@ -1,6 +1,6 @@
 ---
 title: TPU for developers，and the FREE Colab
-author: zixia
+author: huan
 comments: true
 mathjax: true
 categories: 

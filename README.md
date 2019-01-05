@@ -83,10 +83,11 @@ Then you are set. we are looking forward to see you in the next meetup!
 - [GitXiv — Collaborative Open Computer Science](http://www.gitxiv.com) - arXiv + Github + Links + Discussion
 - [Web interface for browsing, search and filtering recent arxiv submissions](http://www.arxiv-sanity.com/library)
 
-## BLOG
+## Blog
+
+We are using [GitHub Pages](https://pages.github.com/) to host our blog, powered by [Jekyll] with the nice and flexible two-column Jekyll theme [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/).
 
 Test under local:
-
 
 ```sh
 cd docs
@@ -95,6 +96,11 @@ bundle install
 bundle update
 bundle exec jekyll serve
 ```
+
+### Rules
+
+1. Attachments & Image files: all files need to be saved under the folder `docs/assets/2019/` (2019 is the current year), and you can expect the url of your file is under the url `https://bupt.github.io/awesome-chatbot/assets/2019/`
+1. Author Information: all the author information is saved in the file `docs/_data/author.yml`, please free free to add & modify it by yourself.
 
 ## MEMBERS
 
