@@ -124,8 +124,8 @@ Add your name to this list by yourself if you are a member.
 
 ## CO-FOUNDERS
 
-- @huan - Huan LI, CS Ph.D.
-- @824zzy - Zhengyuan ZHU, Master
+- @huan - Huan LI (李卓桓), CS Ph.D.
+- @824zzy - Zhengyuan ZHU (朱正源), Master
 
 ## COPYRIGHT & LICENSE
 
