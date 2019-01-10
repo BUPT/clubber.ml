@@ -2,7 +2,7 @@ main:
   - title: "About"
     url: "/about/"
   - title: "Events"
-    url: "https://github.com/BUPT/awesome-chatbot/issues"
+    url: /categories/#events
   - title: "Manuals"
     url: "https://github.com/BUPT/awesome-chatbot/wiki"
   # - title: "Posts"
