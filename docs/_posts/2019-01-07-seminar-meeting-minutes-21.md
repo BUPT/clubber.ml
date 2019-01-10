@@ -1,6 +1,7 @@
 ---
 title: 第二十一次CAIC沙龙活动纪要
 author: qhduan
+date: 2019-01-07 12:00 +0800
 comments: true
 mathjax: true
 categories: 
