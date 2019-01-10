@@ -30,14 +30,14 @@ Only one step is needed before you join:
 
 Then you are set. we are looking forward to see you in the next meetup!
 
-![paper oral](https://bupt.github.io/conversational-ai-club/images/paper-oral-screen.jpg)
+![paper oral]({{ 'assets/2018/paper-oral-screen.jpg' | relative_url }})
 > [第十一次沙龙：朱正源Oral](https://github.com/BUPT/awesome-chatbot/issues/28)
 
-![paper poster](https://bupt.github.io/conversational-ai-club/images/paper-poster-board.jpg)
+![paper poster]({{ 'assets/2018/paper-poster-board.jpg' | relative_url }})
 > [第十二次沙龙：李童俊Poster](https://github.com/BUPT/awesome-chatbot/issues/31)
 
-![group photo](https://bupt.github.io/conversational-ai-club/images/group-photo.jpg)
+![group photo]({{ 'assets/2018/group-photo.jpg' | relative_url }})
 > [第七次沙龙：会员合影](https://github.com/BUPT/awesome-chatbot/issues/16)
 
-![group photo - 1st year annual](https://user-images.githubusercontent.com/12370338/50087797-24c9a980-023c-11e9-9d3f-05a7fcf4689f.jpeg)
+![group photo - 1st year annual]({{ '/assets/2018/annual-group-photo.jpg' | relative_url }})
 > [第十九次沙龙：第一界年会](https://github.com/BUPT/awesome-chatbot/issues/44)
