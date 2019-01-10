@@ -4,11 +4,11 @@ author: qhduan
 comments: true
 mathjax: true
 categories: 
-  - seminar
+  - events
 tags:
-  - event
+  - vae
 header:
-  teaser: /assets/2019/seminar-21-chairman-appointment.jpg
+  teaser: /assets/2019/seminar-21-group-photo.jpg
 ---
 
 << 本次沙龙通知: [#51](https://github.com/BUPT/awesome-chatbot/issues/51)
@@ -72,7 +72,7 @@ Poster
 1. 学术主席(Chief Academic Counselor)点评 李童俊 @TuringLee
 
 
-![授蛋仪式]({{ 'assets/2019/seminar-21-chairman-appointment.jpg' | relative_url }})
+![CAIC合影]({{ 'assets/2019/seminar-21-group-photo.jpg' | relative_url }})
 
 ## RSVP
 
