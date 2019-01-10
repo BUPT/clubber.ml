@@ -23,7 +23,7 @@ huan:
 
 
 824zzy:
-  name        : "Zhengyuan ZHU (朱正源)"
+  name        : "朱正源"
   bio         : "The father of artificial general intelligence(AGI) in the future"
   avatar      : "https://avatars0.githubusercontent.com/u/13566583?s=460&v=4"
   links:
@@ -33,3 +33,12 @@ huan:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/rhymeswithsackit"
+
+qhduan:
+  name        : "段清华"
+  bio         : "人工智障工程师"
+  avatar      : "https://avatars0.githubusercontent.com/u/3895924?s=460&v=4"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "http://qhduan.com"

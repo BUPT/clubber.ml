@@ -87,14 +87,28 @@ Then you are set. we are looking forward to see you in the next meetup!
 
 We are using [GitHub Pages](https://pages.github.com/) to host our blog, powered by [Jekyll] with the nice and flexible two-column Jekyll theme [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/).
 
-Test under local:
+### Install
 
 ```sh
-cd docs
+make install
+```
 
-bundle install
-bundle update
-bundle exec jekyll serve
+### Serve
+
+```sh
+make serve
+```
+
+### Image Resizing
+
+```sh
+# Mac
+brew install magicmagick
+
+# Linux
+apt install magicmagick
+
+make fitimage
 ```
 
 ### Rules

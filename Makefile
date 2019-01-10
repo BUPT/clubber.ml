@@ -28,3 +28,7 @@ code:
 .PHONY: serve
 serve:
 	(cd docs && bundle exec jekyll serve)
+
+.PHONY: fit-image
+fit-image:
+	./scripts/fit-image.sh docs/assets/2019
