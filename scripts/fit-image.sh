@@ -10,7 +10,7 @@ FILES=$(git ls-files --exclude-standard --others *.jpg)
 
 mogrify \
   -verbose \
-  -resize 1920 \
+  -resize '1920>' \
   ${FILES}
 
 cd -
