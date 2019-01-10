@@ -1,6 +1,7 @@
 ---
 title: Beta Variational AutoEncoder Introduction
 author: huan
+date: 2019-01-06 12:00 +0800
 comments: true
 mathjax: true
 categories: 
