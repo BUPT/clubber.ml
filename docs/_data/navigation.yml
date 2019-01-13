@@ -17,5 +17,7 @@ main:
   #   url: /collection-archive/
   - title: "Papers"
     url: https://bupt.github.com/conversational-ai-club
+  - title: "Wishlist"
+    url: /wishlist/
   - title: "Posts"
     url: /
