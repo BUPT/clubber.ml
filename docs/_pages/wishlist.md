@@ -18,4 +18,4 @@ toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 
 # WISHLIST
 
-1. (Neural Ordinary Differential Equations)[https://arxiv.org/abs/1806.07366]
+1. [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366)
