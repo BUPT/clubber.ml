@@ -108,7 +108,7 @@ brew install magicmagick
 # Linux
 apt install magicmagick
 
-make fitimage
+make fit-image
 ```
 
 ### Rules
