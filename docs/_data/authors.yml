@@ -51,3 +51,13 @@ TuringLee:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://github.com/TuringLee"
+
+
+cgpeter96:
+  name        : "陈光"
+  bio         : "Beiguo Man"
+  avatar      : "https://avatars2.githubusercontent.com/u/18066295?s=96&v=4"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://github.com/cgpeter96"
