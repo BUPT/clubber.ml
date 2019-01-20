@@ -67,14 +67,14 @@ tags:
 ### 神经模型的第一次尝试：
 ![LSTM-YT模型](http://ww1.sinaimg.cn/mw690/ca26ff18ly1fzcwjf53bsj214x0ksajx.jpg)
 
-1. 从视频中，每十帧取出一帧进行分析
+- 从视频中，每十帧取出一帧进行分析
 
-![](http://ww1.sinaimg.cn/mw690/ca26ff18ly1fzczmke1dbj20vg0astdq.jpg)
+　![](http://ww1.sinaimg.cn/mw690/ca26ff18ly1fzczmke1dbj20vg0astdq.jpg)
 　人类眼睛的帧数是每秒24帧，从仿生学的观点出发，模型也不需要处理视频中所有的帧。再对视频帧进行缩放以便计算机进行处理。
 
-2. 使用CNN提取特征并进行平均池化（Mean Pooling）
+- 使用CNN提取特征并进行平均池化（Mean Pooling）
 
-![](http://ww1.sinaimg.cn/mw690/ca26ff18ly1fzczv0iwy6j20x40mktg0.jpg)
+　![](http://ww1.sinaimg.cn/mw690/ca26ff18ly1fzczv0iwy6j20x40mktg0.jpg)
 
   - 预训练的Alexnet[2012]:在120万张图片上进行预训练[ImageNet LSVRC-2012]，提取最后一层（第七层全连接层）的特征（4096维）。注意：提取的向量不是最后进行分类的1000维特征向量。
   
@@ -83,17 +83,17 @@ tags:
   - 对所有的视频帧进行池化
 
 
-3. 句子生成
+- 句子生成
 
-![RNN生成句子](http://ww1.sinaimg.cn/mw690/ca26ff18ly1fzd06rquyyj20qk0nwgo6.jpg)
+　![RNN生成句子](http://ww1.sinaimg.cn/mw690/ca26ff18ly1fzd06rquyyj20qk0nwgo6.jpg)
 
 
 ### 迁移学习和微调模型
-1. 在图片描述任务进行预训练
+- 在图片描述任务进行预训练
 
-![transfer-learning from image captioning](http://ww1.sinaimg.cn/mw690/ca26ff18ly1fzd0skao7sj216c0jm0zn.jpg)
+　![transfer-learning from image captioning](http://ww1.sinaimg.cn/mw690/ca26ff18ly1fzd0skao7sj216c0jm0zn.jpg)
 
-2. 微调（Fine-tuning）
+- 微调（Fine-tuning）
 　需要注意的是，在视频描述过程中：
   - 将输入从图片转换为视频；
   - 添加了平均池化特征这个技巧；
@@ -102,20 +102,31 @@ tags:
 
 ### 实验细节
 #### 数据集
-1. [Microsoft Research Video Description dataset](http://www.cs.utexas.edu/users/ml/clamp/videoDescription/)
+- [Microsoft Research Video Description dataset](http://www.cs.utexas.edu/users/ml/clamp/videoDescription/)
 
 > 1970条Youtobe视频片段：每条大约10到30秒，并且只包含了一个活动，其中没有对话。1200条用作训练，100条用作验证，670条用作测试。
 
 ![dataset](https://ws1.sinaimg.cn/mw690/ca26ff18ly1fzd1cmxyalj217g0lcdyf.jpg)
 
-2. [MSCOCO数据集下载](https://blog.csdn.net/daniaokuye/article/details/78699138)
-3. [Flickr30k数据集下载](https://blog.csdn.net/gaoyueace/article/details/80564642)
+- [MSCOCO数据集下载](https://blog.csdn.net/daniaokuye/article/details/78699138)
+- [Flickr30k数据集下载](https://blog.csdn.net/gaoyueace/article/details/80564642)
 
 #### 评估指标
 - SVO(Subject, Verb, Object accuracy)
 - BLEU
 - METEOR
 - Human evaluation
+
+#### 实验结果
+- SVO正确率：
+
+　![result on SVO](https://ws1.sinaimg.cn/mw690/ca26ff18ly1fzd5gnjzg6j20p20f8n0d.jpg)
+
+- BLEU值和METEOR值
+
+　![result on BLEU and METEOR](https://ws1.sinaimg.cn/mw690/ca26ff18ly1fzd5p0xo78j20nm0aotak.jpg)
+
+
 
 ### 站在2019年回看2015年的论文
 以19年的后见之明来考察这篇论文，虽然论文没有Attention和强化学习加持的，但是也开辟了用神经模型完成视频描述任务的先河。
