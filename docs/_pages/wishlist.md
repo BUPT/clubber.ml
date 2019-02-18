@@ -19,4 +19,4 @@ toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 # WISHLIST
 
 1. [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366)
-1. [A Neural Conversational Model](https://arxiv.org/pdf/1506.05869.pdf)
+1. [Oriol Vinyals, Quoc V. Le - A Neural Conversational Model, 2015](https://arxiv.org/pdf/1506.05869.pdf)
