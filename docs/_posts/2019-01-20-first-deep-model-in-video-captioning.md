@@ -8,6 +8,9 @@ categories:
   - AGI
 tags:
   - videoCaptioning 
+
+header:
+  teaser: /assets/2019/2019-01-20-zzy824.png
 ---
 
 ## 论文基本信息
