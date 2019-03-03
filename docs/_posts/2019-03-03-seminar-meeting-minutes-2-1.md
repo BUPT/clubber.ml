@@ -22,30 +22,28 @@ header:
 - 新人：廖豪劲、石羽嘉
 
 ## 沙龙内容
-![20190120235058](/assets/2019/seminar-2-1-oral-zzy.jpg)
+![20190120235058]({{ '/assets/2019/seminar-2-1-oral-zzy.jpg' | relative_url }})
 
 - 朱正源  @824zzy 基于时序结构的视频描述
 > 介绍论文的主要创新点：通过时序结构的全局信息和局部信息，利用注意力机制提升了模型性能，并且该论文提出了MSVD数据集。
 
-
-![20190120235051](/assets/2019/seminar-2-1-talk-zzy.jpg)
-![20190120235052](/assets/2019/seminar-2-1-talk-zzy2.jpg)
+![20190120235051]({{ '/assets/2019/seminar-2-1-talk-zzy.jpg' | relative_url }})
+![20190120235052]({{ '/assets/2019/seminar-2-1-talk-zzy2.jpg' | relative_url }})
 - 朱正源 @824zzy ICME2019视频理解大赛
 >  介绍了视频理解大赛的数据，评测和思路。
 
-![20190120235046](/assets/2019/seminar-2-1-talk-chenguang.jpg)
+![20190120235046]({{ '/assets/2019/seminar-2-1-talk-chenguang.jpg' | relative_url }})
 - 陈光 @cgpeter96 
 > 介绍了一个通过利用视觉语义概念与语义顺序来增强图像表示的语义增强图文匹配模型。
-
 
 ----
 授蛋仪式
 
-![](/assets/2019/seminar-2-1-group-egg.jpg)
+![egg]({{ '/assets/2019/seminar-2-1-group-egg.jpg' | relative_url }})
 
 ----
 集体合照
-![](/assets/2019/seminar-2-1-group-photo.jpg)
+![group]({{ '/assets/2019/seminar-2-1-group-photo.jpg' | relative_url }})
 
 ## 沙龙结论
 1. 活动通知提前48小时发出，可以先发然后再接着修改
