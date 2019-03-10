@@ -40,15 +40,14 @@ header:
 ## Framework of model
 
 1. Work processing
-  - **Pretrained CNN** encoding stage we obtain: 
-  video frame features: $v={v_i}$, where $i$ is index of frames.
+  - **Pretrained CNN** encoding stage we obtain: video frame features: $v={v_i}$, where $i$ is index of frames.
   - Language Model encoding stage we obtain:
-    Worker : $h^{E_w}={h_i^{E_w}}$ from low-level **Bi-LSTM** encoder
+    Worker : $$h^{E_w}={h_i^{E_w}}$$ from low-level **Bi-LSTM** encoder
     Manager: $h^{E_m}={h_i^{E_m}}$ from high **LSTM** encoder
   - HRL agent decoding stage we obtain:
     Language description:$a_{1}a_{2}...a_{T}$, where $T$ is the length of generated caption.
 
-2. Details in HRL agent:
+1. Details in HRL agent:
     1. High-level manager:
       - Operate at lower temporal resolution.
       - Emits a goal for worker to accomplish.
@@ -57,7 +56,7 @@ header:
     3. Internal critic 
       - Determin if the worker has accomplished the goal
 
-3. Details in Policy Network:
+2. Details in Policy Network:
     1. Attention Module:
        1. At each time step t: $c_t^W=\sum\alpha_{t,i}^{W}h^{E_w}_i$
        2. Note that attention score $\alpha_{t,i}^{W}=\frac{exp(e_{t, i})}{\sum_{k=1}^{n}exp(e_t, k)}$, where $e_{t,i}=w^{T} tanh(W_{a} h_{i}^{E_w} + U_{a} h^{W}_{t-1})$
@@ -68,7 +67,7 @@ header:
        1. evaluate worker's progress. Using an RNN struture takes a word sequence as input to discriminate whether end.
        2. Internal Critic RNN take $h^I_{t-1}, a_t$ as input, and generate probability $p(z_t)$.
 
-4. Details in Learning:
+3. Details in Learning:
    1. Definition of Reward: 
    $R(a_t)$ = $\sum_{k=0} \gamma^{k} f(a_{t+k})$ , where　 $f(x)=CIDEr(sent+x)-CIDEr(sent)$ and $sent$ is previous generated caption.
    1. Pseudo Code of HRL training algorithm:
