@@ -42,11 +42,9 @@ header:
 1. Work processing
   - **Pretrained CNN** encoding stage we obtain: 
   video frame features: $v={v_i}$, where $i$ is index of frames.
-
   - Language Model encoding stage we obtain:
     Worker : $h^{E_w}={h_i^{E_w}}$ from low-level **Bi-LSTM** encoder
     Manager: $h^{E_m}={h_i^{E_m}}$ from high **LSTM** encoder
-
   - HRL agent decoding stage we obtain:
     Language description:$a_{1}a_{2}...a_{T}$, where $T$ is the length of generated caption.
 
