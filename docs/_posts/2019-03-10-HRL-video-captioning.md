@@ -72,6 +72,7 @@ header:
    $R(a_t)$ = $\sum_{k=0} \gamma^{k} f(a_{t+k})$ , where　 $f(x)=CIDEr(sent+x)-CIDEr(sent)$ and $sent$ is previous generated caption.
    1. Pseudo Code of HRL training algorithm:
 ```py
+
 import training_pairs
 import pretrained_CNN, internal_critic
 for i in range(M):
@@ -88,6 +89,7 @@ for i in range(M):
         Reward = [r_i for r_i in calculate_R(sampled_caption)]
         Worker(enable=False)
         manager_policy = Policy_gradient(Reward)
+        
 ``` 
 
 ### All in one
