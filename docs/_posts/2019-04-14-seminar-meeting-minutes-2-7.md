@@ -35,7 +35,7 @@ header:
 
 - 刘云 @fuyunfuyun666 
 > [e2e Multi-Language Scene Text recognition](https://bupt.github.io/conversational-ai-club/#/papers/e2e-mlt-an-unconstrained-end-to-end-method-for-multi-language-scene-text-2018)端到端的多语言自然场景文本检测识别模型，其中多语言是论文的核心创新点
-![刘云]({{ '/assets/2019/seminar-2-7-poster-liuyun.jpg' | relative_url }})
+![刘云]({{ '/assets/2019/seminar-2-7-poster-liuyun.jpeg' | relative_url }})
 
 - 陈光 @cgpeter96
 >  [VLN](https://bupt.github.io/conversational-ai-club/#/papers/reinforced-cross-modal-matching-and-self-supervised-imitation-learning-for-vision-language-navigation-2018)视觉语言导航的任务，威廉王引入了强化学习来解决智能体在三维环境下的导航
