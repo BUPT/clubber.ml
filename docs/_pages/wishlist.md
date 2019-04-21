@@ -20,3 +20,4 @@ toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 
 1. [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366)
 1. [Oriol Vinyals, Quoc V. Le - A Neural Conversational Model, 2015](https://arxiv.org/pdf/1506.05869.pdf)
+1. [Google’s Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](https://arxiv.org/pdf/1611.04558.pdf) @huan
