@@ -44,7 +44,7 @@ header:
 
     ![](http://ww1.sinaimg.cn/mw690/b3beb1ffgy1g2a8dutm3ej21de0qi7ia.jpg)
 
-    #### 计算过程
+    - 计算过程
 
     ![](http://ww1.sinaimg.cn/mw690/b3beb1ffgy1g2a8h5s9shj20ls02u74e.jpg)
 
