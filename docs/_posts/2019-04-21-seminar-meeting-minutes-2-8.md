@@ -12,7 +12,7 @@ header:
   teaser: /assets/2019/seminar-2-8-group-photo.jpeg
 ---
 
-<< 本次沙龙通知: #89  << 
+<< 本次沙龙通知: [#89](https://github.com/BUPT/awesome-chatbot/issues/89)  << 
 
 # 第二季第八次CAIC沙龙活动纪要
 
@@ -60,6 +60,7 @@ header:
 4. 严格限制时间Oral：30-45分钟（soft-limit：30min，hard-limit：45min）、Poster：5-15分钟（soft-limit：10min，hard-limit：15min），若超时需要**发红包10元一分钟**（beta测试阶段）
 5. 每次沙龙约会议室需要找：1. 李卓桓 2.石珅达，如果两位师兄没在学校，就需要找两位师兄联系其他人开门。
 6. 参会会员可以分享自己的研究领域的研究发现和自己科研心得体会。
+7. 下次沙龙活动时间因五一劳动节顺延到5月5日~
 
 
 ## RSVP
