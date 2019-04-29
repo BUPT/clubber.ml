@@ -141,6 +141,14 @@ Add your name to this list by yourself if you are a member.
 - @huan - Huan LI (李卓桓), CS Ph.D.
 - @824zzy - Zhengyuan ZHU (朱正源), Master
 
+## SPONSORS
+
+The AwesomeChatbot Study Group, and the Conversational AI Club (CAIC) are sponsored by the professor [Meina Song](https://github.com/HoneyCatty) who's in charge of [CAD Center](https://github.com/bupt/cad) from [BUPT](https://github.com/bupt/) CS department. We really appreciate for letting us to use the great 821 meeting room in every sunday evening because it's very convenience for the members come from BUPT.
+
+> CAD欢迎大家，很荣幸能成为大家办活动的场地，也很高兴能跟各位才俊在一个社群。
+> 任何需要，联系我们。
+>  - [Meina SONG](https://github.com/HoneyCatty), professor of CAD Center, BUPT. [link](https://github.com/BUPT/awesome-chatbot/issues/93#issuecomment-487449444)
+
 ## COPYRIGHT & LICENSE
 
 - Code & Docs © 2018-2019 Contributors
