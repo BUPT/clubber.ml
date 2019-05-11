@@ -29,28 +29,29 @@ header:
 
 1. 朱正源 @824zzy 分享 [初代神经图灵机原理与代码](https://bupt.github.io/conversational-ai-club/#/papers/neural-turing-machines-2014)
 
- ![](http://ww1.sinaimg.cn/large/b3beb1ffgy1g2am71n91lj23402c0npo.jpg)
+ ![朱正源]({{ '/assets/2019/seminar-2-8-zzy.jpg' | relative_url }})
 
 2. 廖豪劲 @YapheeetS 分享 [针对段落的层次自编码器](https://bupt.github.io/conversational-ai-club/#/papers/a-hierarchical-neural-autoencoder-for-paragraphs-and-documents-2015)
 
- ![](http://ww1.sinaimg.cn/large/b3beb1ffgy1g2am4uog6bj23402c0x71.jpg)
+ ![廖豪劲]({{ '/assets/2019/seminar-2-8-lhj.jpg' | relative_url }})
 
 3. 刘云 @fuyunfuyun666 分享 [基于Incetion-text的场景文字识别](https://bupt.github.io/conversational-ai-club/#/papers/inceptext-a-new-inception-text-module-with-deformable-psroi-pooling-for-multi-oriented-scene-text-detection-2018)
 
- ![](http://ww1.sinaimg.cn/large/b3beb1ffgy1g2amh2ulkqj23402c0he6.jpg)
+ ![刘云]({{ '/assets/2019/seminar-2-8-ly.jpg' | relative_url }})
 
 4. 陈光 @cgpeter96 分享 图神经网络的基本概念
 
- ![](http://ww1.sinaimg.cn/large/b3beb1ffgy1g2ammsywd6j23402c01l6.jpg)
+
+ ![刘云]({{ '/assets/2019/seminar-2-8-cg.jpg' | relative_url }})
 
 ## 授蛋仪式
 
- ![](http://ww1.sinaimg.cn/large/b3beb1ffgy1g2amohknrpj21400yzb29.jpg)
+ ![egg]({{ '/assets/2019/seminar-2-8-group-egg.jpg' | relative_url }})
 
 
 ## 集体合照
 
- ![](http://ww1.sinaimg.cn/large/b3beb1ffgy1g2ampf2cdaj21h910mx6p.jpg)
+ ![group]({{ '/assets/2019/seminar-2-8-group-photo.jpg' | relative_url }})
 
 ## 沙龙结论
 
