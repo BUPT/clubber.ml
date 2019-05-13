@@ -1,14 +1,14 @@
-# AWESOME-CHATBOT
+# AI ML CLUB
 
 [![Colab Notebook](https://img.shields.io/badge/Google_Colab-Notebook-brightgreen.svg)](https://colab.research.google.com/drive/1AO3bwIgzfy63ty8OSSgUPRG1PIii3oo_)
 [![BUPT CAD Project](https://img.shields.io/badge/👀-BUPT_CAD_Project-blue.svg)](https://github.com/bupt/awesome-cad)
 
-Welcome to awesome chatbot paper club!
+Welcome to Artificial Intelligence & Machine Learning CLUB!
 
-- Meetup Announcements & Minutes: <https://github.com/BUPT/awesome-chatbot/issues>
+- Meetup Announcements & Minutes: <https://github.com/BUPT/ai-ml.club/issues>
 - Paper Index: <https://bupt.github.io/conversational-ai-club/>
-- Blog: <https://bupt.github.io/awesome-chatbot/>
-- Newcomers Manual: <https://github.com/BUPT/awesome-chatbot/wiki/Newcomer-Manual>
+- Blog: <https://ai-ml.club/>
+- Newcomers Manual: <https://github.com/BUPT/ai-ml.club/wiki/Newcomer-Manual>
 
 ## JOIN US 💖
 
@@ -16,21 +16,21 @@ We have weekly offline meetups, you will be welcome to join if you are intereste
 
 Only one step is needed before you join:
 
-1. **Learn how to become a newcomer by reading [Newcomers Manual](https://github.com/BUPT/awesome-chatbot/wiki/Newcomer-Manual)**
+1. **Learn how to become a newcomer by reading [Newcomers Manual](https://github.com/BUPT/ai-ml.club/wiki/Newcomer-Manual)**
 
 Then you are set. we are looking forward to see you in the next meetup!
 
 ![paper oral](https://bupt.github.io/conversational-ai-club/images/paper-oral-screen.jpg)
-> [第十一次沙龙：朱正源Oral](https://github.com/BUPT/awesome-chatbot/issues/28)
+> [第十一次沙龙：朱正源Oral](https://github.com/BUPT/ai-ml.club/issues/28)
 
 ![paper poster](https://bupt.github.io/conversational-ai-club/images/paper-poster-board.jpg)
-> [第十二次沙龙：李童俊Poster](https://github.com/BUPT/awesome-chatbot/issues/31)
+> [第十二次沙龙：李童俊Poster](https://github.com/BUPT/ai-ml.club/issues/31)
 
 ![group photo](https://bupt.github.io/conversational-ai-club/images/group-photo.jpg)
-> [第七次沙龙：会员合影](https://github.com/BUPT/awesome-chatbot/issues/16)
+> [第七次沙龙：会员合影](https://github.com/BUPT/ai-ml.club/issues/16)
 
 ![group photo - 1st year annual](https://user-images.githubusercontent.com/12370338/50087797-24c9a980-023c-11e9-9d3f-05a7fcf4689f.jpeg)
-> [第十九次沙龙：第一界年会](https://github.com/BUPT/awesome-chatbot/issues/44)
+> [第十九次沙龙：第一界年会](https://github.com/BUPT/ai-ml.club/issues/44)
 
 ## CONVERSATIONAL AI TUTORIALS
 
@@ -113,7 +113,7 @@ make fit-image
 
 ### Rules
 
-1. Attachments & Image files: all files need to be saved under the folder `docs/assets/2019/` (2019 is the current year), and you can expect the url of your file is under the url `https://bupt.github.io/awesome-chatbot/assets/2019/`
+1. Attachments & Image files: all files need to be saved under the folder `docs/assets/2019/` (2019 is the current year), and you can expect the url of your file is under the url `https://ai-ml.club/assets/2019/`
 1. Author Information: all the author information is saved in the file `docs/_data/author.yml`, please free free to add & modify it by yourself. See: <https://mmistakes.github.io/minimal-mistakes/docs/authors/>
 1. Add a teasor image with size 500x300 to your post by add the following `YAML Front Matter` to your post:
     ```yaml
@@ -145,14 +145,13 @@ Add your name to this list by yourself if you are a member.
 
 [![BUPT CAD Project](https://img.shields.io/badge/👀-BUPT_CAD_Project-blue.svg)](https://github.com/bupt/awesome-cad)
 
-The AwesomeChatbot Study Group, and the Conversational AI Club (CAIC) are sponsored by the professor [Meina Song](https://github.com/HoneyCatty) who's in charge of [CAD Center](https://github.com/bupt/cad) from [BUPT](https://github.com/bupt/) CS department. We really appreciate for letting us to use the great 821 meeting room in every sunday evening because it's very convenience for the members come from BUPT.
+The AI ML CLUB are sponsored by the professor [Meina Song](https://github.com/HoneyCatty) who's in charge of [CAD Center](https://github.com/bupt/cad) from [BUPT](https://github.com/bupt/) CS department. We really appreciate for letting us to use the great 821 meeting room in every sunday evening because it's very convenience for the members come from BUPT.
 
 > “CAD欢迎大家，很荣幸能成为大家办活动的场地，也很高兴能跟各位才俊在一个社群。任何需要，联系我们。”  
->  － [Meina SONG](https://github.com/HoneyCatty), professor of CAD Center, BUPT. [link](https://github.com/BUPT/awesome-chatbot/issues/93#issuecomment-487449444)
+>  － [Meina SONG](https://github.com/HoneyCatty), professor of CAD Center, BUPT. [link](https://github.com/BUPT/ai-ml.club/issues/93#issuecomment-487449444)
 
 ## COPYRIGHT & LICENSE
 
 - Code & Docs © 2018-2019 Contributors
 - Code released under the Apache-2.0 License
 - Docs released under Creative Commons
-
