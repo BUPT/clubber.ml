@@ -55,7 +55,7 @@ Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks](https
 1. 域名：<https://ai-ml.club>
 1. Reposiroty Name: `ai-ml.club`
 
-## 俱乐部重大决定之二：After Party - Bear Happy Hour (optional)
+## 俱乐部重大决定之二：After Party - Beer Happy Hour (optional)
 
 本次俱乐部活动之后，大家一起前往了北邮东门北侧的 Lakers Bar ，畅饮到次日凌晨2点，畅谈正则化、论文、氨基酸蛋白质、通用人工智能、数学算法等各路话题。
 
