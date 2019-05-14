@@ -12,7 +12,7 @@ header:
   teaser: /assets/2019/seminar-2-1-group-photo.jpg
 ---
 
-<< 本次沙龙通知: [#80](https://github.com/BUPT/awesome-chatbot/issues/80)
+<< 本次沙龙通知: [#80](https://github.com/BUPT/ai-ml.club/issues/80)
 
 - 日期：2019-03-10 19:00-21:30
 - 地点：北邮科研楼821会议室
