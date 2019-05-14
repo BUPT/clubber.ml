@@ -144,14 +144,44 @@ Add your name to this list by yourself if you are a member.
 - @huan - Huan LI (李卓桓), CS Ph.D.
 - @824zzy - Zhengyuan ZHU (朱正源), Master
 
-## SPONSORS
+## Contributors
 
+[![Open Collective Backers](https://opencollective.com/ai-ml-club/backer/badge.svg?label=open%20collective%20backers&color=blue)](https://opencollective.com/ai-ml-club/)
+[![Open Collective Sponsors](https://opencollective.com/ai-ml-club/sponsors/badge.svg?label=open%20collective%20sponsors&color=blue)](https://opencollective.com/ai-ml-club/)
+
+This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
+<a href="https://github.com/BUPT/ai-ml.club/graphs/contributors"><img src="https://opencollective.com/ai-ml-club/contributors.svg?width=890&button=false" /></a>
+
+## Backers
+
+[![Backers on Open Collective](https://opencollective.com/ai-ml-club/backers/badge.svg)](#backers)
+
+Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/ai-ml-club#backer)]
+
+<a href="https://opencollective.com/ai-ml-club#backers" target="_blank"><img src="https://opencollective.com/ai-ml-club/backers.svg?width=890"></a>
+
+## Sponsors
+
+[![Sponsors on Open Collective](https://opencollective.com/ai-ml-club/sponsors/badge.svg)](#sponsors)
 [![BUPT CAD Project](https://img.shields.io/badge/👀-BUPT_CAD_Project-blue.svg)](https://github.com/bupt/awesome-cad)
 
 The AI ML CLUB are sponsored by the professor [Meina Song](https://github.com/HoneyCatty) who's in charge of [CAD Center](https://github.com/bupt/cad) from [BUPT](https://github.com/bupt/) CS department. We really appreciate for letting us to use the great 821 meeting room in every sunday evening because it's very convenience for the members come from BUPT.
 
 > “CAD欢迎大家，很荣幸能成为大家办活动的场地，也很高兴能跟各位才俊在一个社群。任何需要，联系我们。”  
 >  － [Meina SONG](https://github.com/HoneyCatty), professor of CAD Center, BUPT. [link](https://github.com/BUPT/ai-ml.club/issues/93#issuecomment-487449444)
+
+Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/ai-ml-club#sponsor)]
+
+<a href="https://opencollective.com/ai-ml-club/sponsor/0/website" target="_blank"><img src="https://opencollective.com/ai-ml-club/sponsor/0/avatar.svg"></a>
+<a href="https://opencollective.com/ai-ml-club/sponsor/1/website" target="_blank"><img src="https://opencollective.com/ai-ml-club/sponsor/1/avatar.svg"></a>
+<a href="https://opencollective.com/ai-ml-club/sponsor/2/website" target="_blank"><img src="https://opencollective.com/ai-ml-club/sponsor/2/avatar.svg"></a>
+<a href="https://opencollective.com/ai-ml-club/sponsor/3/website" target="_blank"><img src="https://opencollective.com/ai-ml-club/sponsor/3/avatar.svg"></a>
+<a href="https://opencollective.com/ai-ml-club/sponsor/4/website" target="_blank"><img src="https://opencollective.com/ai-ml-club/sponsor/4/avatar.svg"></a>
+<a href="https://opencollective.com/ai-ml-club/sponsor/5/website" target="_blank"><img src="https://opencollective.com/ai-ml-club/sponsor/5/avatar.svg"></a>
+<a href="https://opencollective.com/ai-ml-club/sponsor/6/website" target="_blank"><img src="https://opencollective.com/ai-ml-club/sponsor/6/avatar.svg"></a>
+<a href="https://opencollective.com/ai-ml-club/sponsor/7/website" target="_blank"><img src="https://opencollective.com/ai-ml-club/sponsor/7/avatar.svg"></a>
+<a href="https://opencollective.com/ai-ml-club/sponsor/8/website" target="_blank"><img src="https://opencollective.com/ai-ml-club/sponsor/8/avatar.svg"></a>
+<a href="https://opencollective.com/ai-ml-club/sponsor/9/website" target="_blank"><img src="https://opencollective.com/ai-ml-club/sponsor/9/avatar.svg"></a>
 
 ## COPYRIGHT & LICENSE
 
