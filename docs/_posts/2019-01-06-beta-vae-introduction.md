@@ -12,7 +12,7 @@ header:
   teaser: /assets/2019/vae-architecture.png
 ---
 
-Poster for [2019-01-06 CAIC(Conversaional AI Club)第二十一次CAIC沙龙活动通知](https://github.com/BUPT/awesome-chatbot/issues/51)
+Poster for [2019-01-06 CAIC(Conversaional AI Club)第二十一次CAIC沙龙活动通知](https://github.com/BUPT/ai-ml.club/issues/51)
 
 ![Beta-VAE]({{ '/assets/2019/2019-01-06-beta-vae-introduction-celeba_h_beta10_z32_traverse.jpg' | relative_url }})
 > [Pytorch implementation of β-VAE](https://github.com/1Konny/Beta-VAE)

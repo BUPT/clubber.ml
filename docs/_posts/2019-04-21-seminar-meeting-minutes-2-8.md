@@ -12,7 +12,7 @@ header:
   teaser: /assets/2019/seminar-2-8-group-photo.jpeg
 ---
 
-<< 本次沙龙通知: [#89](https://github.com/BUPT/awesome-chatbot/issues/89)  << 
+<< 本次沙龙通知: [#89](https://github.com/BUPT/ai-ml.club/issues/89)  << 
 
 # 第二季第八次CAIC沙龙活动纪要
 

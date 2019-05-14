@@ -12,7 +12,7 @@ header:
   teaser: /assets/2019/seminar-2-10-group-photo-beer.jpg
 ---
 
-<< 本次沙龙通知: [#95](https://github.com/BUPT/awesome-chatbot/issues/95)  << 
+<< 本次沙龙通知: [#95](https://github.com/BUPT/ai-ml.club/issues/95)  << 
 
 - 日期：2019-05-12 19:00-02:00
 - 地点：北邮科研楼821会议室 & Laker Bar
