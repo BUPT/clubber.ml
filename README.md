@@ -162,8 +162,8 @@ Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com
 
 ## Sponsors
 
-[![Sponsors on Open Collective](https://opencollective.com/ai-ml-club/sponsors/badge.svg)](#sponsors)
 [![BUPT CAD Project](https://img.shields.io/badge/👀-BUPT_CAD_Project-blue.svg)](https://github.com/bupt/awesome-cad)
+[![Sponsors on Open Collective](https://opencollective.com/ai-ml-club/sponsors/badge.svg)](#sponsors)
 
 The AI ML CLUB are sponsored by the professor [Meina Song](https://github.com/HoneyCatty) who's in charge of [CAD Center](https://github.com/bupt/cad) from [BUPT](https://github.com/bupt/) CS department. We really appreciate for letting us to use the great 821 meeting room in every sunday evening because it's very convenience for the members come from BUPT.
 
