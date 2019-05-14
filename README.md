@@ -32,6 +32,9 @@ Then you are set. we are looking forward to see you in the next meetup!
 ![group photo - 1st year annual](https://user-images.githubusercontent.com/12370338/50087797-24c9a980-023c-11e9-9d3f-05a7fcf4689f.jpeg)
 > [第十九次沙龙：第一界年会](https://github.com/BUPT/ai-ml.club/issues/44)
 
+![group photo - laker beer](docs/assets/2019/seminar-2-10-group-photo-beer.jpg)
+> [第二季第10次俱乐部 After Party: Beers at Lakers Bar](https://ai-ml.club/events/seminar-meeting-minutes-2-10/)
+
 ## CONVERSATIONAL AI TUTORIALS
 
 * [Neural Approaches to Conversational AI, July 8, 2018​](https://www.microsoft.com/en-us/research/publication/neural-approaches-to-conversational-ai/)
