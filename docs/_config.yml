@@ -16,13 +16,13 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Awesome ChatBot!"
+title                    : "AI ML Club"
 title_separator          : "-"
-name                     : "ChatBot"
-description              : "Here's the future ChatBot makers."
+name                     : "AMC"
+description              : "Here's the future AI/ML makers."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "BUPT/awesome-chatbot" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "BUPT/ai-ml.club" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/teaser-500x300.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Conversational AI Club"
+  name             : "AI ML Club"
   avatar           : "/assets/images/teaser-500x300.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "We are learning to build a AI that can learning language"
   location         : "Beijing, China"
@@ -125,7 +125,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/bupt/awesome-chatbot"
+      url: "https://github.com/bupt/ai-ml.club"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:

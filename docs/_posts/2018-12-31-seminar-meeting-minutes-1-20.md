@@ -12,8 +12,8 @@ header:
   teaser: /assets/2018/annual-group-photo.jpg
 ---
 
-沙龙活动纪要在2018年，全部基于GitHub Issue系统发布。地址在[这里](https://github.com/BUPT/awesome-chatbot/issues)
+沙龙活动纪要在2018年，全部基于GitHub Issue系统发布。地址在[这里](https://github.com/BUPT/ai-ml.club/issues)
 
-- Blog Post 发布说明：[Blog Post Manual](https://github.com/BUPT/awesome-chatbot/wiki/Blog-Post-Manual)
+- Blog Post 发布说明：[Blog Post Manual](https://github.com/BUPT/ai-ml.club/wiki/Blog-Post-Manual)
 
-[![2018年CAIC年会合影]({{ '/assets/2018/annual-group-photo.jpg' | relative_url }})](https://github.com/BUPT/awesome-chatbot/issues)
+[![2018年CAIC年会合影]({{ '/assets/2018/annual-group-photo.jpg' | relative_url }})](https://github.com/BUPT/ai-ml.club/issues)

@@ -12,9 +12,9 @@ header:
   teaser: /assets/2019/seminar-21-group-photo.jpg
 ---
 
-<< 本次沙龙通知: [#51](https://github.com/BUPT/awesome-chatbot/issues/51)
+<< 本次沙龙通知: [#51](https://github.com/BUPT/ai-ml.club/issues/51)
 
-注：Blog Post 发布说明：[Blog Post Manual](https://github.com/BUPT/awesome-chatbot/wiki/Blog-Post-Manual)
+注：Blog Post 发布说明：[Blog Post Manual](https://github.com/BUPT/ai-ml.club/wiki/Blog-Post-Manual)
 
 - 日期：2019-01-06 19:00-23:00
 - 地点：北邮科研楼821会议室
