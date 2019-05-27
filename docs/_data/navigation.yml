@@ -16,6 +16,8 @@ main:
   # - title: "Collections"
   #   url: /collection-archive/
   - title: "Papers"
+    url: /papers
+  - title: "Papers(DEPRECATED)"
     url: https://bupt.github.com/conversational-ai-club
   - title: "Wishlist"
     url: /wishlist/
