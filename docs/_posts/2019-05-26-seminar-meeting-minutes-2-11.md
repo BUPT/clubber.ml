@@ -44,7 +44,7 @@ header:
 
 ![林博]({{ '/assets/2019/seminar-2-11-linbo0518.jpg' | relative_url }})
 
-3. 李卓桓 @huan 用 3D U-Net Segmentation 做冷冻电子显微镜数据的氨基酸二级结构识别
+3. 李卓桓 @huan 用 [3D U-Net Segmentation 做冷冻电子显微镜数据的氨基酸二级结构识别](https://bupt.github.io/conversational-ai-club/#papers/secondary-structure-elements-3d-segmentation-for-protein-2019.md)
 
 ![Huan 李卓桓]({{ '/assets/2019/seminar-2-11-huan.jpg' | relative_url }})
 
