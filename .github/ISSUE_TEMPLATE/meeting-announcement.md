@@ -2,6 +2,9 @@
 name: Meeting Announcement
 about: The announcement should be published at least 48 hours before the meeting, and the minutes should be published no more than 48 hours after the meeting.
 ---
+> TITLE TEMPLATE:  
+> S2E12 AMC Meeting Announcement  
+> DELETE THIS PART AFTER FINISHED COPY/PASTE
 
 << _Previous AMC meeting minutes: [S2E11](https://ai-ml.club/events/seminar-meeting-minutes-2-11/)_ <<
 
