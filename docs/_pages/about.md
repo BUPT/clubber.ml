@@ -16,9 +16,9 @@ toc_label: "Unique Title"
 toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 
-# AI ML Club
+# Artificial Intelligence & Machine Learning Club
 
-Welcome to the AI ML Club, we are a group of students have a paper studying seminar at 7-9pm every sunday!
+Welcome to the Artificial Intelligence & Machine Learning Club, we are a group of researchers have a paper studying seminar at 7-9pm every sunday!
 
 ## JOIN US 💖
 
