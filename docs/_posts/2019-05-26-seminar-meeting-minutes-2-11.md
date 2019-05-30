@@ -79,7 +79,8 @@ header:
 
 ### After Party
 AfterParty 第二次活动顺利结束！
-![AfterParty]
+
+![AfterParty]({{ '/assets/2019/seminar-2-11-group-photo-beer.jpg' | relative_url }})
 
 ## 沙龙结论
 1. 下一任主席刘云，副主席陈光
