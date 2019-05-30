@@ -18,6 +18,10 @@ toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 
 # Artificial Intelligence & Machine Learning Club
 
+- Full Name: Artificial Intelligence & Machine Learning Club
+- Short Name: AI ML Club
+- Abbr: AMC
+
 Welcome to the Artificial Intelligence & Machine Learning Club, we are a group of researchers have a paper studying seminar at 7-9pm every sunday!
 
 ## JOIN US 💖
