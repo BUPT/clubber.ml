@@ -1,8 +1,7 @@
 ---
 name: Meeting Announcement
 about: \
-  1. Meeting announcement should be published at least 48 hours before the meeting, and the \
-  1. Meeting minutes should be published no more than 48 hours after the meeting.
+  Meeting announcement should be published at least 48 hours before the meeting, and the Meeting minutes should be published no more than 48 hours after the meeting.
 ---
 
 << _Previous AMC meeting minutes: [S2E11](https://ai-ml.club/events/seminar-meeting-minutes-2-11/)_ <<
