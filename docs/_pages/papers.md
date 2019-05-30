@@ -18,13 +18,32 @@ toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 
 # PAPERS
 
-We only list papers that we had shared in our seminar at here. i.e. Poster-ed or Oral-ed.
+We only add paper to this list before we decide to oral/poster it at our seminar.
 
 ## TODO
 
 - [ ] move all papers from <https://bupt.github.com/conversational-ai-club> to this file.
 - [ ] close the repository of https://github.com/conversational-ai-club after we had move all papers to this file.
 
-| Member | Paper Title | Seminar |
-| :---: | :---: | :---: |
-| [@huan](https://github.com/huan) | [Secondary Structure Elements 3D Segmentation for Protein(TBW)， Kui and Huan et. al., 2019](https://github.com/huan/sse-3d-seg) | [S2E11](https://ai-ml.club/events/seminar-meeting-minutes-2-11/) |
+## WISHLIST
+
+We add paper to this list if we want to presente it later, or want to ask other members to present it, at our seminar.
+
+| Applicant | Paper |
+| :--- | :--- |
+| @huan | [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366) |
+| @huan | [Oriol Vinyals, Quoc V. Le - A Neural Conversational Model, 2015](https://arxiv.org/pdf/1506.05869.pdf) |
+| @huan | [Google’s Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](https://arxiv.org/pdf/1611.04558.pdf) |
+
+
+## ORAL
+
+| Seminar | Member | Paper Title |
+| :--- | :--- | :--- |
+| [S2E11](https://ai-ml.club/events/seminar-meeting-minutes-2-11/) | [@huan](https://github.com/huan) | [Secondary Structure Elements 3D Segmentation for Protein(TBW)， Kui and Huan et. al., 2019](https://github.com/huan/sse-3d-seg) |
+
+## POSTER
+
+| Seminar | Member | Paper Title |
+| :--- | :--- | :--- |
+| [S2E11](https://ai-ml.club/events/seminar-meeting-minutes-2-11/) | [@huan](https://github.com/huan) | paper title |
