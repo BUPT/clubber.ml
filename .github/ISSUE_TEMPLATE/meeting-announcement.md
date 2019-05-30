@@ -14,18 +14,27 @@ about: The announcement should be published at least 48 hours before the meeting
 
 - Date/Time: 7-9 pm, Sunday
 - Location: 821, 8th floor, BUPT Research Building
-- Rotating Chairman：Huan LI
-  - Vice Chairman：Zhengyuan ZHU
+- Rotating Chairman：Zhengyuan ZHU
+  - Vice Chairman：Huan LI
 
-## Oral / Posters
+## Oral
 
-- Oral (30 mins)
-    - Huan LI @huan [PAPER NAME](https://arxiv.org/PAPER_URL)
-- Posters (5 mins/poster)
-    1. NAME @GITHUB_USERNAME [PAPER NAME](https://arxiv.org/PAPER_URL)
+> Oral should be prepared for 15-30 minutes, and no more than 45 minutes, including Q/A.
+
+- Presenter: Zhengyuan ZHU @824zzy
+- Paper: [PAPER NAME](https://arxiv.org/PAPER_URL)
+
+## Posters
+
+> Posters should be prepared for 5 minutes, and no more than 15 minutes, including Q/A.
+
+| Presenter | Paper |
+| :--- | :--- |
+| Huan LI @huan | [PAPER NAME](https://arxiv.org/PAPER_URL) |
+| NAME @GITHUB_USERNAME | [PAPER NAME](https://arxiv.org/PAPER_URL) |
 
 ## New Comers
 
-1. NEW COMER NAME
-    - @GITHUB_USERNAME
-    - ONE SENTENCE BIOGRAPHY
+| Referrer | Newcomer | GitHub | Bio |
+| :---: | :---: |  :---: |  :---: |
+| @huan | NAME | @GITHUB_USERNAME | ONE SENTENCE BIOGRAPHY |
