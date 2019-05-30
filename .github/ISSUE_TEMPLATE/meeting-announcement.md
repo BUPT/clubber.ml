@@ -36,5 +36,5 @@ about: The announcement should be published at least 48 hours before the meeting
 ## New Comers
 
 | Referrer | Newcomer | GitHub | Bio |
-| :---: | :---: |  :---: |  :---: |
+| :--- | :--- |  :--- |  :--- |
 | @huan | NAME | @GITHUB_USERNAME | ONE SENTENCE BIOGRAPHY |
