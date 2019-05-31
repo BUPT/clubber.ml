@@ -46,4 +46,4 @@ We add paper to this list if we want to presente it later, or want to ask other 
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
-| [S2E11](https://ai-ml.club/events/seminar-meeting-minutes-2-11/) | [@huan](https://github.com/huan) | paper title |
+| [S2E12](https://ai-ml.club/events/seminar-meeting-minutes-2-11/) | [@huan](https://github.com/huan) | [Speech2Face: Learning the Face Behind a Voice, Tae-Hyun et. al., 2019](https://arxiv.org/pdf/1905.09773.pdf) |
