@@ -27,28 +27,28 @@ header:
 
 ## 沙龙内容
 ### Oral
-1. 徐魁 @barrykui [基于学习的方法从冷冻电子显微镜数据中进行三维大分子建模的方法](https://bupt.github.io/conversational-ai-club/#/papers/a-square-net-molecular-structure-estimation-from-cryo-em-density-volumes)
+- 徐魁 @barrykui [基于学习的方法从冷冻电子显微镜数据中进行三维大分子建模的方法](https://bupt.github.io/conversational-ai-club/#/papers/a-square-net-molecular-structure-estimation-from-cryo-em-density-volumes)
 
 ![徐魁]({{ '/assets/2019/seminar-2-11-barrykui.jpg' | relative_url }})
 
-2. 石珅达 @CyFeng16 Survey of Neural Architecture Search [slide](https://docs.google.com/presentation/d/1llOlyryvinCDd2T-zdaLxEFS6MkybjhGogaaVE6v_No/edit?usp=sharing)
+- 石珅达 @CyFeng16 Survey of Neural Architecture Search [slide](https://docs.google.com/presentation/d/1llOlyryvinCDd2T-zdaLxEFS6MkybjhGogaaVE6v_No/edit?usp=sharing)
 
 ![石珅达]({{ '/assets/2019/seminar-2-11-cyfeng16.jpg' | relative_url }})
 
 ### Poster
-1. 李军 @muzi-8 简单讲解 U-Net [slide](https://docs.google.com/presentation/d/1ZYIQbvSKMdqNXp6ZvNuvTPlryiUA5QXWhBD2v-bILO4/edit#slide=id.g5a9ae80013_0_33)
+- 李军 @muzi-8 简单讲解 U-Net [slide](https://docs.google.com/presentation/d/1ZYIQbvSKMdqNXp6ZvNuvTPlryiUA5QXWhBD2v-bILO4/edit#slide=id.g5a9ae80013_0_33)
 
 ![李军]({{ '/assets/2019/seminar-2-11-muzi8.jpg' | relative_url }})
 
-2. 林博 @linbo0518 [3D U-Net](https://bupt.github.io/conversational-ai-club/#/papers/3d-u-net-2016.md) [slide](https://docs.google.com/presentation/d/1V-SApGwnHwWw40PjEMIuxI_LMiH4kvdef4yp4p6pd64/edit?usp=sharing)
+- 林博 @linbo0518 [3D U-Net](https://bupt.github.io/conversational-ai-club/#/papers/3d-u-net-2016.md) [slide](https://docs.google.com/presentation/d/1V-SApGwnHwWw40PjEMIuxI_LMiH4kvdef4yp4p6pd64/edit?usp=sharing)
 
 ![林博]({{ '/assets/2019/seminar-2-11-linbo0518.jpg' | relative_url }})
 
-3. 李卓桓 @huan 用 [3D U-Net Segmentation 做冷冻电子显微镜数据的氨基酸二级结构识别](https://bupt.github.io/conversational-ai-club/#papers/secondary-structure-elements-3d-segmentation-for-protein-2019.md)
+- 李卓桓 @huan 用 [3D U-Net Segmentation 做冷冻电子显微镜数据的氨基酸二级结构识别](https://bupt.github.io/conversational-ai-club/#papers/secondary-structure-elements-3d-segmentation-for-protein-2019.md)
 
 ![Huan 李卓桓]({{ '/assets/2019/seminar-2-11-huan.jpg' | relative_url }})
 
-4. 朱正源 @824zzy [first attempt for own paper](https://bupt.github.io/conversational-ai-club/#/papers/online-scheduled-hard-example-selection-for-visual-storytelling.md)
+- 朱正源 @824zzy [first attempt for own paper](https://bupt.github.io/conversational-ai-club/#/papers/online-scheduled-hard-example-selection-for-visual-storytelling.md)
 
 ![朱正源]({{ '/assets/2019/seminar-2-11-824zzy.jpg' | relative_url }})
 
@@ -79,7 +79,8 @@ header:
 
 ### After Party
 AfterParty 第二次活动顺利结束！
-![AfterParty]
+
+![AfterParty]({{ '/assets/2019/seminar-2-11-group-photo-beer.jpg' | relative_url }})
 
 ## 沙龙结论
 1. 下一任主席刘云，副主席陈光
