@@ -17,24 +17,25 @@ about: The announcement should be published at least 48 hours before the meeting
 - Rotating Chairman：Zhengyuan ZHU
   - Vice Chairman：Huan LI
 
-## Oral
+## Oral Presentation
 
-> Oral should be prepared for 15-30 minutes, and no more than 45 minutes, including Q/A.
+> Oral should be prepared for **15 - 30** minutes, and no more than _45_ minutes, including Q/A.
 
-- Presenter: Zhengyuan ZHU @824zzy
-- Paper: [PAPER NAME](https://arxiv.org/PAPER_URL)
+| Oral Presenter | Paper |
+| -------------- | ----- |
+| Zhengyuan ZHU @824zzy | [PAPER NAME](https://arxiv.org/PAPER_URL) |
 
-## Posters
+## Poster Presentations
 
-> Posters should be prepared for 5 minutes, and no more than 15 minutes, including Q/A.
+> Posters should be prepared for **5 - 10** minutes, and no more than _15_ minutes, including Q/A.
 
-| Presenter | Paper |
-| :--- | :--- |
+| Poster Presenter | Paper |
+| ---------------- | ----- |
 | Huan LI @huan | [PAPER NAME](https://arxiv.org/PAPER_URL) |
 | NAME @GITHUB_USERNAME | [PAPER NAME](https://arxiv.org/PAPER_URL) |
 
 ## New Comers
 
 | Referrer | Newcomer | GitHub | Bio |
-| :--- | :--- |  :--- |  :--- |
+| -------- | -------- | ------ | --- |
 | @huan | NAME | @GITHUB_USERNAME | ONE SENTENCE BIOGRAPHY |
