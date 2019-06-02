@@ -38,14 +38,14 @@ We add paper to this list if we want to presente it later, or want to ask other 
 
 ## ORAL
 
-| Seminar | Member | Paper | Conference | Code |
-| ------- | ------ | ----- | ---------- | ---- |
+| Seminar | Member | Paper |
+| ------- | ------ | ----- |
 | [S2E11](https://ai-ml.club/events/seminar-meeting-minutes-2-11/) | [@huan](https://github.com/huan) | [Secondary Structure Elements 3D Segmentation for Protein(TBW)， Kui and Huan et. al., 2019](https://github.com/huan/sse-3d-seg) |
-| [S2E12](https://ai-ml.club/events/seminar-meeting-minutes-2-11/) | [@824zzy](https://github.com/824zzy) | [Unsupervised Latent Tree Induction with Deep Inside-Outside Recursive Autoencoders, Drozdov et al., 2019](https://arxiv.org/pdf/1904.02142.pdf) | NAACL2019 | [Pytorch](https://github.com/iesl/diora)
+| [S2E12](https://ai-ml.club/events/seminar-meeting-minutes-2-12/) | [@824zzy](https://github.com/824zzy) | [Unsupervised Latent Tree Induction with Deep Inside-Outside Recursive Autoencoders, Drozdov et al., NAACL2019](https://arxiv.org/pdf/1904.02142.pdf) |
 
 ## POSTER
 
-| Seminar | Member | Paper | Conference | Code |
-| ------- | ------ | ----- | ---------- | ---- | 
+| Seminar | Member | Paper |
+| ------- | ------ | ----- |
 | [S2E11](https://ai-ml.club/events/seminar-meeting-minutes-2-11/) | [@huan](https://github.com/huan) | paper title |
-| [S2E12](https://ai-ml.club/events/seminar-meeting-minutes-2-11/) | [@Yapheeets](https://github.com/YapheeetS) | [ORDERED NEURONS: INTEGRATING TREE STRUCTURES INTO RECURRENT NEURAL NETWORKS, Shen et al., 2019](https://arxiv.org/abs/1810.09536) | ICLR2019 | [Keras](https://github.com/bojone/on-lstm) [Pytorch](https://github.com/yikangshen/Ordered-Neurons)
+| [S2E12](https://ai-ml.club/events/seminar-meeting-minutes-2-11/) | [@Yapheeets](https://github.com/YapheeetS) | [ORDERED NEURONS: INTEGRATING TREE STRUCTURES INTO RECURRENT NEURAL NETWORKS, Shen et al., ICLR2019](https://arxiv.org/abs/1810.09536) |
