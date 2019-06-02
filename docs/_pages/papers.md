@@ -47,3 +47,4 @@ We add paper to this list if we want to presente it later, or want to ask other 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
 | [S2E11](https://ai-ml.club/events/seminar-meeting-minutes-2-11/) | [@huan](https://github.com/huan) | paper title |
+| [S2E12](https://ai-ml.club/events/seminar-meeting-minutes-2-11/) | [@houzhenggangGit](https://github.com/houzhenggangGit) | [Convolutional Pose Machines](https://arxiv.org/abs/1602.00134) |
