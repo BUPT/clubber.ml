@@ -47,4 +47,4 @@ We add paper to this list if we want to presente it later, or want to ask other 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
 | [S2E11](https://ai-ml.club/events/seminar-meeting-minutes-2-11/) | [@huan](https://github.com/huan) | paper title |
-| [S2E12](https://ai-ml.club/events/seminar-meeting-minutes-2-11/) | [@linbo0518](https://github.com/linbo0518) | [Bag of Tricks for Image Classification with Convolutional Neural Networks](https://arxiv.org/abs/1812.01187) |
+| [S2E12](https://ai-ml.club/events/seminar-meeting-minutes-2-12/) | [@linbo0518](https://github.com/linbo0518) | [Bag of Tricks for Image Classification with Convolutional Neural Networks](https://arxiv.org/abs/1812.01187) |
