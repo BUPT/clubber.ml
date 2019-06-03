@@ -6,36 +6,36 @@ about: The announcement should be published at least 48 hours before the meeting
 > S2E12 AMC Meeting Announcement  
 > DELETE THIS PART AFTER FINISHED COPY/PASTE
 
-<< _Previous AMC meeting minutes: [S2E11](https://ai-ml.club/events/seminar-meeting-minutes-2-11/)_ <<
-
 # AMC meeting announcement
 
-## Session 2 Episodes 12 (S2E12)
+| S2E12 | Session 2 Episodes 12 |
+| --- | --- |
+| Date | 7-9 pm, Sunday |
+| Location | 821, 8th floor, BUPT Research Building |
+| Chairman | Zhengyuan ZHU @[824zzy](https://github.com/824zzy) |
+| Vice Chairman | Huan LI @[huan](https://github.com/huan) |
 
-- Date/Time: 7-9 pm, Sunday
-- Location: 821, 8th floor, BUPT Research Building
-- Rotating Chairman：Zhengyuan ZHU
-  - Vice Chairman：Huan LI
+## Previous meeting minutes
 
-## Oral Presentation
+[S2E11 (Session 2 Episodes 11)](https://ai-ml.club/events/seminar-meeting-minutes-2-11/)
 
-> Oral should be prepared for **15 - 30** minutes, and no more than _45_ minutes, including Q/A.
+## Agenda
 
-| Oral Presenter | Paper |
-| -------------- | ----- |
-| Zhengyuan ZHU @824zzy | [PAPER NAME](https://arxiv.org/PAPER_URL) |
+| Presenter | Paper |
+| --------- | ----- |
+| Zhengyuan ZHU @[824zzy](https://github.com/824zzy) | [PAPER NAME](https://arxiv.org/PAPER_URL) |
+| Huan LI @[huan](https://github.com/huan) | [PAPER NAME](https://arxiv.org/PAPER_URL) |
+| NAME @[GITHUB_USERNAME](https://github.com/GITHUB_USERNAME) | [PAPER NAME](https://arxiv.org/PAPER_URL) |
 
-## Poster Presentations
+## RSVP
 
-> Posters should be prepared for **5 - 10** minutes, and no more than _15_ minutes, including Q/A.
+All presenter are required to reply this issue for answering the following two questions:
 
-| Poster Presenter | Paper |
-| ---------------- | ----- |
-| Huan LI @huan | [PAPER NAME](https://arxiv.org/PAPER_URL) |
-| NAME @GITHUB_USERNAME | [PAPER NAME](https://arxiv.org/PAPER_URL) |
+1. Whether you want to present as an **Oral**(O) or **Poster**(P)
+    > O. _Oral_ should be prepared for _15 - 30_ minutes, and must be finished in **45** minutes.  
+    > P. _Poster_ should be prepared for _5 - 10_ minutes, and must be finished in **15** minutes.  
+    > - All time are including Q/A.
 
-## New Comers
-
-| Referrer | Newcomer | GitHub | Bio |
-| -------- | -------- | ------ | --- |
-| @huan | NAME | @GITHUB_USERNAME | ONE SENTENCE BIOGRAPHY |
+1. Whether you will invite new friend to the club.
+    1. If so, please introduce each new friend by an one line bio.
+    1. If not, just say `N/A`.
