@@ -1,5 +1,5 @@
 ---
-title: 第二季第 11 场 AI ML Club 活动纪要
+title: 第二季第11场 AI ML Club 活动纪要
 author: VDeamoV
 date: 2019-05-27 19:00 +0800
 comments: true
