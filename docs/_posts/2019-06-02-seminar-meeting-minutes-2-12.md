@@ -26,13 +26,13 @@ header:
 ## 沙龙内容
 ### Oral
 - 朱正源 @824zzy
-> 分享了DIORA[Unsupervised Latent Tree Induction with Deep Inside-Outside Recursive Autoencoders](https://arxiv.org/abs/1904.02142)和ICLR2019最佳论文有序神经元[Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks](https://arxiv.org/abs/1810.09536)
+> 分享了DIORA[Unsupervised Latent Tree Induction with Deep Inside-Outside Recursive Autoencoders](https://arxiv.org/abs/1904.02142)和ICLR2019最佳论文基于有序神经元的长短时记忆网络[Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks](https://arxiv.org/abs/1810.09536)
 
 ![朱正源]({{ '/assets/2019/seminar-2-12-zhengyuan.jpg' | relative_url }})
 
 ### Poster
 - 廖豪劲 @Yapheeets
-> 分享了ICLR2019最佳论文有序神经元[Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks](https://arxiv.org/abs/1810.09536) 
+> 分享了ICLR2019最佳论文基于有序神经元的长短时记忆网络[Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks](https://arxiv.org/abs/1810.09536) 
 
 ![廖豪劲]({{ '/assets/2019/seminar-2-12-haojin.jpg' | relative_url }})
 
@@ -66,7 +66,7 @@ header:
 1. 沙龙活动通知使用英文版模板，活动纪要使用中文版，便于区分。
 2. 迁移Conversational AI上面的paper list到ai-ml.club。
 3. 报名参加Oral或者Poster之前大家观察观察人数，如果人数过多，可以下次报名。
-4. 报名在ai-ml.club上进行，paper名称中可以加入文章的作者，年份会议等信息，越简洁越好。
+4. 报名从conversational-ai(deprecated)迁移至**ai-ml.club**。具体格式请参考[paper页](https://github.com/BUPT/ai-ml.club/blob/master/docs/_pages/papers.md)
 
 
 ## After Party
