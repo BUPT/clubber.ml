@@ -93,6 +93,11 @@ We are using [GitHub Pages](https://pages.github.com/) to host our blog, powered
 ### Install
 
 ```sh
+# Setup ruby environment first
+sudo apt install ruby
+sudo gem install bundle
+
+# Install the blog requirements
 make install
 ```
 
