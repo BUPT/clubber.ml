@@ -24,7 +24,7 @@ about: The announcement should be published at least 48 hours before the meeting
 
 ### 1. Oral
 
-> Oral should be prepared for 15-30 minutes, and no more than 45 minutes, including Q/A.
+> Oral should be prepared for _15 - 30_ minutes, and no more than **45** minutes, including Q/A.
 
 | Presenter | Paper |
 | --------- | ----- |
@@ -32,7 +32,7 @@ about: The announcement should be published at least 48 hours before the meeting
 
 ### 2. Poster
 
-> Posters should be prepared for 5 minutes, and no more than 15 minutes, including Q/A.
+> Posters should be prepared for _5 - 10_ minutes, and no more than **15** minutes, including Q/A.
 
 | Presenter | Paper |
 | --------- | ----- |
