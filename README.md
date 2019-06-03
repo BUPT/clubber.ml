@@ -3,12 +3,12 @@
 [![Colab Notebook](https://img.shields.io/badge/Google_Colab-Notebook-brightgreen.svg)](https://colab.research.google.com/drive/1AO3bwIgzfy63ty8OSSgUPRG1PIii3oo_)
 [![BUPT CAD Project](https://img.shields.io/badge/👀-BUPT_CAD_Project-blue.svg)](https://github.com/bupt/awesome-cad)
 
-Welcome to Artificial Intelligence & Machine Learning CLUB!
+Welcome to Artificial Intelligence & Machine Learning CLUB! 
 
-- Meetup Announcements & Minutes: <https://github.com/BUPT/ai-ml.club/issues>
-- Paper Index: <https://bupt.github.io/conversational-ai-club/>
-- Blog: <https://ai-ml.club/>
-- Newcomers Manual: <https://github.com/BUPT/ai-ml.club/wiki/Newcomer-Manual>
+Here are all of friends for Paper, Code, and Beer!
+
+- Paper Index: <https://ai-ml.club/papers>
+- Meetup Announcements & Minutes: <https://ai-ml.club/categories/#events>
 
 ## JOIN US 💖
 
@@ -133,21 +133,25 @@ make fit-image
 
 ### Academic Chairman
 
-- [Da XIAO]() \<\>
+- [Meina SONG](https://baike.baidu.com/item/%E5%AE%8B%E7%BE%8E%E5%A8%9C/4444673) Ph.D, Professor, School of Computer Science, BUPT
+- [Da XIAO](https://scss.bupt.edu.cn/info/1063/1162.htm) 肖达，博士毕业于清华大学计算机科学与技术系，现为北京邮电大学网络空间安全学院讲师，彩云科技首席科学家，集智俱乐部核心成员。目前研究兴趣包括深度学习、人工智能、认知科学。曾在集智俱乐部发起并主持“脑与Deep Learning读书会”、“高级认知Deep Learning读书会”等线下活动。
+
+### Chairmans
+
+AI ML Club Chairperson List: <https://github.com/orgs/BUPT/teams/chairs>
+
+Require any chairperson for helping to add yourself to the chairs team on GitHub if you are a confirmed chairperson. (at least managed one AMC seminar as a rotating chairperson)
 
 ### Members
 
-- @huan - [Huan LI](http://linkedin.com/in/zixia) \<zixia@zixia.net\>
-- @824zzy [Zhengyuan ZHU]() \<\>
-- [Chongyu ZHANG]() \<\>
-- [Yining WANG]() \<\>
+AI ML Club Member List: <https://github.com/orgs/BUPT/teams/members>
 
-Add your name to this list by yourself if you are a member.
+Require any members for helping to add yourself to the member team on GitHub if you are a confirmed member. (at least presented one time at the AMC seminar)
 
 ## CO-FOUNDERS
 
-- @huan - Huan LI (李卓桓), CS Ph.D.
-- @824zzy - Zhengyuan ZHU (朱正源), Master
+- @huan - Huan LI (李卓桓), CS Ph.D, BUPT
+- @824zzy - Zhengyuan ZHU (朱正源), Master, BUPT
 
 ## Contributors
 
