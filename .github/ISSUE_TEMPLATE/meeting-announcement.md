@@ -22,21 +22,37 @@ about: The announcement should be published at least 48 hours before the meeting
 
 ## Agenda
 
+### 1. Oral
+
+> Oral should be prepared for 15-30 minutes, and no more than 45 minutes, including Q/A.
+
 | Presenter | Paper |
 | --------- | ----- |
 | Zhengyuan ZHU @[824zzy](https://github.com/824zzy) | [PAPER NAME](https://arxiv.org/PAPER_URL) |
+
+### 2. Poster
+
+> Posters should be prepared for 5 minutes, and no more than 15 minutes, including Q/A.
+
+| Presenter | Paper |
+| --------- | ----- |
 | Huan LI @[huan](https://github.com/huan) | [PAPER NAME](https://arxiv.org/PAPER_URL) |
 | NAME @[GITHUB_USERNAME](https://github.com/GITHUB_USERNAME) | [PAPER NAME](https://arxiv.org/PAPER_URL) |
 
-## RSVP
+### 3. After Party
 
-All presenter are required to reply this issue for answering the following **two questions**:
+Everyone will be welcome. You can join or not join as you want (not required by the AMC), and change your mind at anytime.
 
-1. Whether you want to present as an _Oral_(O) or _Poster_(P)
-    > 1. Oral should be prepared for _15 - 30_ minutes, and must be finished in **45** minutes.  
-    > 1. Poster should be prepared for _5 - 10_ minutes, and must be finished in **15** minutes.  
-    > - All time are including Q/A.
+> 1. After Party will be started right after all the meeting agenda had been fulfilled.
+> 1. We will find a bar and drink beers and talk whatever we want. (we can expect that it will be related to meeting topics of the day)
+> 1. The bill will be paid AA
 
-1. Whether you will invite new friend to the club.
-    1. If so, please introduce each new friend by an one line bio.
-    1. If not, just say `N/A`.
+1. Huan LI
+1. Zhengyuan ZHU
+1. ANY ONE WILL BE WELCOME
+
+## New Comers
+
+| Referrer | Newcomer | GitHub | Bio |
+| -------- | -------- | ------ | --- |
+| @[huan](https://github.com/huan) | NEWCOMER_NAME | @GITHUB_USERNAME | ONE_SENTENCE_BIOGRAPHY |
