@@ -18,12 +18,7 @@ toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 
 # PAPERS
 
-We only add paper to this list before we decide to oral/poster it at our seminar.
-
-## TODO
-
-- [ ] move all papers from <https://bupt.github.com/conversational-ai-club> to this file.
-- [ ] close the repository of https://github.com/conversational-ai-club after we had move all papers to this file.
+We only add paper to this list before we decide to oral/poster it at our AMC seminar.
 
 ## WISHLIST
 
@@ -49,3 +44,7 @@ We add paper to this list if we want to presente it later, or want to ask other 
 | [S2E12](https://ai-ml.club/events/seminar-meeting-minutes-2-12/) | [@linbo0518](https://github.com/linbo0518) | [Bag of Tricks for Image Classification with Convolutional Neural Networks, He et al., 2018](https://arxiv.org/abs/1812.01187) |
 | [S2E12](https://ai-ml.club/events/seminar-meeting-minutes-2-12/) | [@Yapheeets](https://github.com/YapheeetS) | [ORDERED NEURONS: INTEGRATING TREE STRUCTURES INTO RECURRENT NEURAL NETWORKS, Shen et al., ICLR2019](https://arxiv.org/abs/1810.09536) |
 | [S2E12](https://ai-ml.club/events/seminar-meeting-minutes-2-12/) | [@huan](https://github.com/huan) | [Speech2Face: Learning the Face Behind a Voice, Tae-Hyun et. al., 2019](https://arxiv.org/pdf/1905.09773.pdf) |
+
+## TODO
+
+- [ ] move all papers from <https://bupt.github.com/conversational-ai-club> to this file.
