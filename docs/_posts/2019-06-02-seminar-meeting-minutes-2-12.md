@@ -1,5 +1,5 @@
 ---
-title: 第二季第 12 场 AI ML Club 活动纪要
+title: 第二季第12场 AI ML Club 活动纪要
 author: fuyunfuyun666
 date: 2019-06-02 19:00 +0800
 comments: true
