@@ -2,6 +2,7 @@
 name: Meeting Announcement
 about: The announcement should be published at least 48 hours before the meeting, and the minutes should be published no more than 48 hours after the meeting.
 ---
+
 > TITLE TEMPLATE:  
 > S2E12 AMC Meeting Announcement  
 > DELETE THIS PART AFTER FINISHED COPY/PASTE
@@ -9,7 +10,7 @@ about: The announcement should be published at least 48 hours before the meeting
 # AMC meeting announcement
 
 | S2E12 | Session 2 Episodes 12 |
-| --- | --- |
+| ----: | :-------------------- |
 | Date | 7-9 pm, Sunday |
 | Location | 821, 8th floor, BUPT Research Building |
 | Chairman | Zhengyuan ZHU @[824zzy](https://github.com/824zzy) |
