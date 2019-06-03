@@ -30,11 +30,11 @@ about: The announcement should be published at least 48 hours before the meeting
 
 ## RSVP
 
-All presenter are required to reply this issue for answering the following two questions:
+All presenter are required to reply this issue for answering the following **two questions**:
 
-1. Whether you want to present as an **Oral**(O) or **Poster**(P)
-    > 1. O. _Oral_ should be prepared for _15 - 30_ minutes, and must be finished in **45** minutes.  
-    > 1. P. _Poster_ should be prepared for _5 - 10_ minutes, and must be finished in **15** minutes.  
+1. Whether you want to present as an _Oral_(O) or _Poster_(P)
+    > 1. Oral should be prepared for _15 - 30_ minutes, and must be finished in **45** minutes.  
+    > 1. Poster should be prepared for _5 - 10_ minutes, and must be finished in **15** minutes.  
     > - All time are including Q/A.
 
 1. Whether you will invite new friend to the club.
