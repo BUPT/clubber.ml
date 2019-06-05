@@ -40,8 +40,8 @@
 > 1. We will find a bar and drink beers and talk whatever we want. (we can expect that it will be related to meeting topics of the day)
 > 1. The bill will be paid AA
 
-- [x] YES! I'll definitely join the After Party!
-- [ ] Maybe. I'll decide later...
+- [ ] YES! I'll definitely join the After Party!
+- [x] Maybe. I'll decide later...
 - [ ] No, I'll not join.
 
 ## 4. New Friend
