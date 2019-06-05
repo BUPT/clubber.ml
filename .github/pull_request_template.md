@@ -48,10 +48,10 @@ Please fill the following table for the new friend sign up(if any), or delete it
 | @[newcomer](https://github.com/newcomer) | NEWCOMER_NAME | @GITHUB_USERNAME | ONE_SENTENCE_BIOGRAPHY |
 
 ----------------
-<small>
-<i>Artificial Intelligence & Machine Learning CLUB, AMC 2018 - 2019
-<ul>
-<li>AI ML Club - <a href="https://ai-ml.club">https://ai-ml.club</a></li>
-<li>Member Manual - <a href="https://ai-ml.club">https://github.com/BUPT/ai-ml.club/wiki/Member-Manual</a></li>
+<sub>
+<i>
+
+Artificial Intelligence & Machine Learning CLUB, 2018 - 2019 <a href="https://ai-ml.club">AI ML Club - AMC</a> <a href="https://github.com/BUPT/ai-ml.club/wiki/Member-Manual">Member Manual</a>
+
 </i>
-</small>
+</sub>
