@@ -4,6 +4,10 @@
 
 # AMC Seminar Sign Up
 
+> Link to previous seminar meeting minutes issue:
+
+#ISSUE_NUMBER
+
 ## 1. Oral / Poster Selection
 
 > Select one of the following selections for Oral or Poster:
@@ -12,7 +16,7 @@
 > 1. Posters should be prepared for _5 - 10_ minutes, and no more than **15** minutes, including Q/A.
 
 - [ ] Oral (15 MIN)
-- [ ] Poster (5 MIN)
+- [x] Poster (5 MIN)
 
 ## 2. Paper Information
 
@@ -28,18 +32,24 @@
 | Blog | BLOG_LINK |
 | Arxiv | ARXIV_LINK |
 
-## 3. Previous Meeting
+### 3. After Party
 
-> Link to previous seminar meeting minutes issue:
+> Everyone will be welcome. You can join or not join as you want (not required by the AMC), and change your mind at anytime.
+>
+> 1. After Party will be started right after all the meeting agenda had been fulfilled.
+> 1. We will find a bar and drink beers and talk whatever we want. (we can expect that it will be related to meeting topics of the day)
+> 1. The bill will be paid AA
 
-#ISSUE_NUMBER
+- [x] YES! I'll definitely join the After Party!
+- [ ] Maybe. I'll decide later...
+- [ ] No, I'll not join.
 
 ## 4. New Friend
 
 > Whether you have a new friend comes with you to the club.
 
 - [ ] I'll bring a new friend
-- [ ] There's no new friend from me
+- [x] There's no new friend from me
 
 Please fill the following table for the new friend sign up(if any), or delete it.
 
