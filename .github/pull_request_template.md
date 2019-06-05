@@ -4,22 +4,31 @@
 
 # AMC Seminar Sign Up
 
-## 1. Oral / Poster Purpose
+## 1. Oral / Poster Selection
 
 > Select one of the following selections for Oral or Poster:
+>
+> 1. Oral should be prepared for _15 - 30_ minutes, and no more than **45** minutes, including Q/A.
+> 1. Posters should be prepared for _5 - 10_ minutes, and no more than **15** minutes, including Q/A.
 
-- [ ] Oral
-    > Oral should be prepared for _15 - 30_ minutes, and no more than **45** minutes, including Q/A.
-- [ ] Poster
-    > Posters should be prepared for _5 - 10_ minutes, and no more than **15** minutes, including Q/A.
+- [ ] Oral (15 MIN)
+- [ ] Poster (5 MIN)
 
 ## 2. Paper Information
 
-> Past the paper name with the link that you want to present
+> Please fill the follow table and provide all the information as many as possible, for sharing with others better. (delete the rows that you did not fill)
 
-[PAPER_NAME](PAPER_LINK)
+| Paper | Information |
+| --- | --- |
+| Name | PAPER_NAME |
+| Year | PUBLISH_YEAR |
+| Publish | CONFERENCE_OR_JOURNAL_NAME |
+| Author | AUTHOR1, et. al. |
+| GitHub | GITHUB_LINK |
+| Blog | BLOG_LINK |
+| Arxiv | ARXIV_LINK |
 
-## 3. Previous Meeting Minutes
+## 3. Previous Meeting
 
 > Link to previous seminar meeting minutes issue:
 
@@ -27,9 +36,9 @@
 
 ## 4. New Friend
 
-> Whether you have new friend comes with you to the club.
+> Whether you have a new friend comes with you to the club.
 
-- [ ] I'll bring new friend
+- [ ] I'll bring a new friend
 - [ ] There's no new friend from me
 
 Please fill the following table for the new friend sign up(if any), or delete it.
