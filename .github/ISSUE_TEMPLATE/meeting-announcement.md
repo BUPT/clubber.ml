@@ -16,9 +16,12 @@ about: The announcement should be published at least 48 hours before the meeting
 | Chairman | Zhengyuan ZHU @[824zzy](https://github.com/824zzy) |
 | Vice Chairman | Huan LI @[huan](https://github.com/huan) |
 
-## Previous Meeting Minutes
+## Previous Meeting
 
-[S2E11 (Session 2 Episodes 11)](https://ai-ml.club/events/seminar-meeting-minutes-2-11/)
+| Minutes | Link |
+| ------- | ---- |
+| Blog    | [SsEe (Session s Episodes e)](https://ai-ml.club/events/seminar-meeting-minutes-s-e/) |
+| Issue   | #num |
 
 ## Agenda
 
