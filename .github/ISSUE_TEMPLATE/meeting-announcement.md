@@ -54,7 +54,11 @@ Everyone will be welcome. You can join or not join as you want (not required by 
 1. Zhengyuan ZHU
 1. ANY ONE WILL BE WELCOME
 
-## New Comers
+## Newcomers
+
+> Please remove the following table and set the number to 0 if there's no newcomers.
+
+Newcomers number: 1
 
 | Referrer | Newcomer | GitHub | Bio |
 | -------- | -------- | ------ | --- |
