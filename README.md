@@ -5,7 +5,7 @@
 
 Welcome to Artificial Intelligence & Machine Learning CLUB! 
 
-Here are all of friends for Paper, Code, and Beer!
+Here are all of friends for Paper, Code, and Beers! 🍻
 
 - Paper Index: <https://ai-ml.club/papers>
 - Meetup Announcements & Minutes: <https://ai-ml.club/categories/#events>
