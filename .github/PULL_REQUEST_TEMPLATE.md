@@ -41,8 +41,8 @@
 > 1. The bill will be paid AA
 
 - [ ] YES! I'll definitely join the After Party!
-- [x] Maybe. I'll decide later...
-- [ ] No, I'll not join.
+- [x] Maybe. I'd like to decide later.
+- [ ] No, I'm afraid not this time.
 
 ## 4. New Friend
 
