@@ -27,7 +27,7 @@ header:
 ## 沙龙内容
 ### Oral
 - 朱正源 @824zzy
-> 分享了DIORA[面向深度学习系统的突变软件测试]()
+> 分享了[面向深度学习系统的突变软件测试]()
 从变异编译出发 ，思考如何将变异测试迁移到深度学习
 
 ![朱正源]({{ '/assets/2019/seminar-2-13/zhuzhengyuan.jpg'| relative_url }})
@@ -60,14 +60,14 @@ CPM检测人体关节点
 - 林博  @linbo0518
 > 即兴发挥：softmax小知识补充
 
-![林博]({{ '/assets/2019/seminar-2-13/libo.jpg' | relative_url }})
+![林博]({{ '/assets/2019/seminar-2-13/linbo.jpg' | relative_url }})
 
 
 - 刘云 @fuyunfuyun666 
 > [Detecting Curve Text in the Wild: New Dataset and New Solution](https://arxiv.org/abs/1712.02170) 
  扭曲文本检测开山之作
 
- ![林博]({{ '/assets/2019/seminar-2-13/liuyun.jpg' | relative_url }})
+ ![刘云]({{ '/assets/2019/seminar-2-13/liuyun.jpg' | relative_url }})
 
 ## 授蛋仪式
 
