@@ -61,3 +61,12 @@ cgpeter96:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://github.com/cgpeter96"
+
+VDeamoV:
+  name        : "段嘉铭"
+  bio         : "Initializing....."
+  avatar      : "https://avatars3.githubusercontent.com/u/35023950?v=4"
+  links:
+    - lable: "Blog"
+      icon: "fas fa-fw fa-link"
+      url:  "https://vdeamov.github.io"
