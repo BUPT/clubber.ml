@@ -29,6 +29,14 @@ We add paper to this list if we want to presente it later, or want to ask other 
 | @huan | [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366) |
 | @huan | [Oriol Vinyals, Quoc V. Le - A Neural Conversational Model, 2015](https://arxiv.org/pdf/1506.05869.pdf) |
 | @huan | [Google’s Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](https://arxiv.org/pdf/1611.04558.pdf) |
+| @newip | Newcomer, Brief introducaton about myself. |
+
+## 
+
+| Referrer | Newcomer | GitHub | Bio |
+| -------- | -------- | ------ | --- |
+| [@Huan](https://github.com/huan) | HE XIN | @newip | Robotics Startup founder, Electronic and Informantion Tech researcher. |
+
 
 ## ORAL
 
