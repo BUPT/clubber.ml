@@ -22,10 +22,9 @@ A To-do list for vice chairperson.
 
 ## Vice Chairperson To-do List
 
-1. 兼任[[监事|Supervisor Manual]]角色，承担监事职责
+1. 兼任监事(Supervisor)角色，承担监事职责
 1. 辅助主席开展工作
 1. 在主席无法行使职能的时候，代替主席，肩负主席职责，开展相关工作
-
 
 ## Supervisor: 观察员，监事
 
@@ -33,12 +32,12 @@ A To-do list for vice chairperson.
 
 评估反馈包括：
 
-1. 主席是否完成了[[Chairman Manual]]的要求（逐项检查）
+1. 主席是否完成了[Chairman Manual]({{ '/manuals/chair' | relative_url }})的要求（逐项检查）
     1. 活动准备
     1. 活动主持
     1. 活动总结
-1. 参会会员是否符合[[Member Manual]]的要求（逐项检查）
-1. 新人是否符合[[Newcomer Manual]]的要求（逐项检查）
+1. 参会会员是否符合[Member Manual]({{ '/manuals/member' | relative_url }})的要求（逐项检查）
+1. 新人是否符合[Newcomer Manual]({{ '/manuals/newcomer' | relative_url }})的要求（逐项检查）
 
 监事报告，在活动总结发布之后24小时内，以回复issue的形式进行正式发布
 
@@ -50,11 +49,11 @@ I, SUPERVISOR_NAME, is the Supervisor of AMC seminar S_SESSION_E_SPISODE.
 
 I confirm that the Chairperson had followed(or not followed) the following steps in this seminar:
 
-- [ ] Chairman followed all the [Chairman Manual](https://ai-ml.club/manuals/chair) requirements
+- [ ] Chairman followed all the [Chairman Manual]({{ '/manuals/chair' | relative_url }}) requirements
     - [ ] Before Seminar
     - [ ] In Seminar
     - [ ] After Seminar
-- [ ] Members followed all the [[Member Manual]] requirements
-- [ ] Newcomers followed all the [[Newcomer Manual]] requirements
+- [ ] Members followed all the [Member Manual]({{ '/manuals/member' | relative_url }}) requirements
+- [ ] Newcomers followed all the [Newcomer Manual]({{ '/manuals/newcomer' | relative_url }}) requirements
 
 > Notes: put additional information here.
