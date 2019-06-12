@@ -16,11 +16,11 @@ toc_label: "Unique Title"
 toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 
-# PAPERS
+## Papers
 
 We only add paper to this list before we decide to oral/poster it at our AMC seminar.
 
-## WISHLIST
+### Wishlist
 
 We add paper to this list if we want to presente it later, or want to ask other members to present it, at our seminar.
 
@@ -30,7 +30,9 @@ We add paper to this list if we want to presente it later, or want to ask other 
 | @huan | [Oriol Vinyals, Quoc V. Le - A Neural Conversational Model, 2015](https://arxiv.org/pdf/1506.05869.pdf) |
 | @huan | [Google’s Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](https://arxiv.org/pdf/1611.04558.pdf) |
 
-## ORAL
+## Session 2 Episode 1 - now
+
+### Orals (Session 2)
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
@@ -44,33 +46,13 @@ We add paper to this list if we want to presente it later, or want to ask other 
 | [S2E06](https://ai-ml.club/events/seminar-meeting-minutes-2-6/) |  [@824zzy](https://github.com/824zzy)  | [Learning to Compose Topic-Aware Mixture of Experts for Zero-shot Video Captioning, Xin et. al, 2018-11-23](http://arxiv.org/abs/1811.02765) |
 | [S2E05](https://ai-ml.club/events/seminar-meeting-minutes-2-5/) |  [@824zzy](https://github.com/824zzy)  | [Visul Storytelling, Ting-Hao et. al, 2016](https://arxiv.org/abs/1604.03968) |
 | [S2E02](https://ai-ml.club/events/seminar-meeting-minutes-2-2) |  [@VDeamoV](https://github.com/VDeamoV)  | [travelgan-image-to-image-translation-by-transformation-vector-learning, Amodio et. al, 2019](https://arxiv.org/abs/1902.09631) |
-| [S2E01](https://ai-ml.club/events/seminar-meeting-minutes-2-1) |  [@824zzy](https://github.com/824zzy)  | [Describing Videos by Exploiting Temporal Structure, Li et. al, 2015](https://arxiv.org/pdf/1502.08029.pdf) |
-| [S1E22](https://github.com/BUPT/ai-ml.club/issues/60) |  [@TuringLee](https://github.com/TuringLee)  | [Dual Ask-Answer Network forMachine Reading Comprehension, Han et. al, 2018](https://arxiv.org/pdf/1809.01997.pdf) |
-| [S1E21](https://github.com/BUPT/ai-ml.club/issues/51) |  [@TuringLee](https://github.com/TuringLee)  | [The Design and Implementation of XiaoIce, an Empathetic Social Chatbot, Li et. al, 2018](https://arxiv.org/pdf/1812.08989.pdf) |
-| [S1E20](https://github.com/BUPT/ai-ml.club/issues/48) |  [@824zzy](https://github.com/824zzy)   | [A Comprehensive Survey of Deep Learning for Image Captioning, MD. et. al, 2018](https://arxiv.org/abs/1810.04020) |
-| [S1E19](https://github.com/BUPT/ai-ml.club/issues/47) |  [@qhduan](https://github.com/qhduan)  | [如何从零构建一个对话机器人](None) |
-| [S1E18](https://github.com/BUPT/ai-ml.club/issues/44) |  [@cgpeter96](https://github.com/cgpeter96)  | [order embeddings of images and language, Ivan et. al, 2016](https://arxiv.org/abs/1511.06361) |
-| [S1E17](https://github.com/BUPT/ai-ml.club/issues/42) |  [@cgpeter96](https://github.com/cgpeter96)  | [An overview of gradient descent optimization algorithms, SebastianRuder et. al, 2016](http://cn.arxiv.org/pdf/1803.10122.pdf) |
-| [S1E16](https://github.com/BUPT/ai-ml.club/issues/40) |  [@824zzy](https://github.com/824zzy)  | [On Learning to Think, Jurgen et. al, 2018](https://arxiv.org/abs/1511.09249) |
-| [S1E15](https://github.com/BUPT/ai-ml.club/issues/38) |  [@huan](https://github.com/huan)  | [Demo: Seq2seq chit chat model](https://github.com/huan/python-concise-chitchat) |
-| [S1E14](https://github.com/BUPT/ai-ml.club/issues/36) |  [@qhduan](https://github.com/qhduan)  | [Chatbot Design Experience](https://slides.com/qhduan/deck#/) |
-| [S1E13](https://github.com/BUPT/ai-ml.club/issues/33) |  [@initc](https://github.com/initc)  | [Neural Belief Tracker: Data-Driven Dialogue State Tracking, Tsung-Hsien et. al, 2017](https://arxiv.org/pdf/1606.03777.pdf) |
-| [S1E12](https://github.com/BUPT/ai-ml.club/issues/31) |  [@824zzy](https://github.com/824zzy)  | [World Models, Jurgen et. al, 2018](http://cn.arxiv.org/pdf/1803.10122.pdf) |
-| [S1E11](https://github.com/BUPT/ai-ml.club/issues/28) |  [@824zzy](https://github.com/824zzy)  | [Dynamic Routing Between Capsules, Sara et. al, NIPS2017](http://cn.arxiv.org/pdf/1710.09829.pdf) |
-| [S1E10](https://github.com/BUPT/ai-ml.club/issues/24) |  [@TuringLee](https://github.com/TuringLee)  | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, Jacob et. al, 2018](https://arxiv.org/abs/1810.04805) |
-| [S1E09](https://github.com/BUPT/ai-ml.club/issues/22) |  [@huan](https://github.com/huan)  | [A Mini Review of Word Embedding in Morpho](https://github.com/zixia/paper-morpho-vector-presentation) |
-| [S1E08](https://github.com/BUPT/ai-ml.club/issues/18) |  [@initc](https://github.com/initc)  | [Question Answering with Subgraph Embeddings, Antoine et. al, 2014](https://arxiv.org/pdf/1406.3676.pdf) |
-| [S1E08](https://github.com/BUPT/ai-ml.club/issues/18) |  [@initc](https://github.com/initc)  | [Question Answering over Freebase with Multi-Column Convolutional Neural Networks, Li et. al, 2015](http://www.aclweb.org/anthology/P15-1026) |
-| [S1E07](https://github.com/BUPT/ai-ml.club/issues/16) |  [@initc](https://github.com/initc)  | [Semantic Parsing on Freebase from Question-Answer Pairs, Jonathan et. al, 2013](http://www.aclweb.org/anthology/D13-1160) |
-| [S1E07](https://github.com/BUPT/ai-ml.club/issues/16) |  [@initc](https://github.com/initc)  | [Information Extraction over Structured Data: Question Answering with Freebase, Xuchen et. al, 2014](http://cs.jhu.edu/~xuchen/paper/yao-jacana-freebase-acl2014.pdf) |
-| [S1E06](https://github.com/BUPT/ai-ml.club/issues/13) |  [@824zzy](https://github.com/824zzy)  | [A Diversity-Promoting Objective Function for Neural Conversation Models, Jiwei Li et. al, 2016](https://arxiv.org/abs/1510.03055) |
-| [S1E06](https://github.com/BUPT/ai-ml.club/issues/13) |  [@initc](https://github.com/initc)  | [MACHINE COMPREHENSION USING MATCH-LSTM AND ANSWER POINTER, Shuohang et. al, 2016](https://arxiv.org/pdf/1608.07905.pdf) |
-| [S1E05](https://github.com/BUPT/ai-ml.club/issues/10) |  [@824zzy](https://github.com/824zzy)  | [Link Prediction using Embedded Knowledge Graphs, Yelong et. al, 2016-11-14](https://arxiv.org/abs/1611.04642) |
+| [S2E01](https://ai-ml.club/events/seminar-meeting-minutes-2-1) |  [@824zzy](https://github.com/824zzy)  | [Describing Videos by Explo
 
-## POSTER
+### Posters (Session 2)
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
+Learning Framework for Unsupervised Text Style Transfer, Fuli Luo et. al., ACL2019](https://github.com/luofuli/DualRL) |
 | [S2E13](https://ai-ml.club/events/seminar-meeting-minutes-2-13/) | [@chen-dixi](https://github.com/chen-dixi) | [Almost Unsupervised Text to Speech and Automatic Speech Recognition, Yi Ren, et. al., ICML2019](https://speechresearch.github.io/unsuper/) |
 | [S2E13](https://ai-ml.club/events/seminar-meeting-minutes-2-13/) | [@vdeamov](https://github.com/vdeamov) | [TADAM: Task dependent adaptive metric for improved few-shot learnin, Oreshkin, et. al., 2018](http://papers.nips.cc/paper/7352-tadam-task-dependent-adaptive-metric-for-improved-few-shot-learning.pdf) |
 | [S2E13](https://ai-ml.club/events/seminar-meeting-minutes-2-13/) | [@fuyunfuyun666](https://github.com/fuyunfuyun666) | [Detecting Curve Text in the Wild: New Dataset and New Solution, Liu et. al., 2017](https://arxiv.org/abs/1712.02170) |
@@ -104,6 +86,39 @@ We add paper to this list if we want to presente it later, or want to ask other 
 | [S2E02](https://ai-ml.club/events/seminar-meeting-minutes-2-2) |  [@CyFeng16](https://github.com/CyFeng16)  | [TF2.0使用心法](https://tensorflow.org) |
 | [S2E02](https://ai-ml.club/events/seminar-meeting-minutes-2-2) |  [@cgpeter96](https://github.com/cgpeter96)  | [图神经网络工具DGL介绍](https://docs.dgl.ai/#get-started) |
 | [S2E01](https://ai-ml.club/events/seminar-meeting-minutes-2-1) |  [@cgpeter96](https://github.com/cgpeter96) | [Learning Semantic Concepts and Order for Image and Sentence Matching, Huang et. al, 2018](https://arxiv.org/abs/1712.02036) |
+
+## Session 1 Episode 1 - 23
+
+### Orals (Session 1)
+
+| Seminar | Member | Paper |
+| ------- | ------ | ----- |
+| [S1E22](https://github.com/BUPT/ai-ml.club/issues/60) |  [@TuringLee](https://github.com/TuringLee)  | [Dual Ask-Answer Network forMachine Reading Comprehension, Han et. al, 2018](https://arxiv.org/pdf/1809.01997.pdf) |
+| [S1E21](https://github.com/BUPT/ai-ml.club/issues/51) |  [@TuringLee](https://github.com/TuringLee)  | [The Design and Implementation of XiaoIce, an Empathetic Social Chatbot, Li et. al, 2018](https://arxiv.org/pdf/1812.08989.pdf) |
+| [S1E20](https://github.com/BUPT/ai-ml.club/issues/48) |  [@824zzy](https://github.com/824zzy)   | [A Comprehensive Survey of Deep Learning for Image Captioning, MD. et. al, 2018](https://arxiv.org/abs/1810.04020) |
+| [S1E19](https://github.com/BUPT/ai-ml.club/issues/47) |  [@qhduan](https://github.com/qhduan)  | [如何从零构建一个对话机器人](None) |
+| [S1E18](https://github.com/BUPT/ai-ml.club/issues/44) |  [@cgpeter96](https://github.com/cgpeter96)  | [order embeddings of images and language, Ivan et. al, 2016](https://arxiv.org/abs/1511.06361) |
+| [S1E17](https://github.com/BUPT/ai-ml.club/issues/42) |  [@cgpeter96](https://github.com/cgpeter96)  | [An overview of gradient descent optimization algorithms, SebastianRuder et. al, 2016](http://cn.arxiv.org/pdf/1803.10122.pdf) |
+| [S1E16](https://github.com/BUPT/ai-ml.club/issues/40) |  [@824zzy](https://github.com/824zzy)  | [On Learning to Think, Jurgen et. al, 2018](https://arxiv.org/abs/1511.09249) |
+| [S1E15](https://github.com/BUPT/ai-ml.club/issues/38) |  [@huan](https://github.com/huan)  | [Demo: Seq2seq chit chat model](https://github.com/huan/python-concise-chitchat) |
+| [S1E14](https://github.com/BUPT/ai-ml.club/issues/36) |  [@qhduan](https://github.com/qhduan)  | [Chatbot Design Experience](https://slides.com/qhduan/deck#/) |
+| [S1E13](https://github.com/BUPT/ai-ml.club/issues/33) |  [@initc](https://github.com/initc)  | [Neural Belief Tracker: Data-Driven Dialogue State Tracking, Tsung-Hsien et. al, 2017](https://arxiv.org/pdf/1606.03777.pdf) |
+| [S1E12](https://github.com/BUPT/ai-ml.club/issues/31) |  [@824zzy](https://github.com/824zzy)  | [World Models, Jurgen et. al, 2018](http://cn.arxiv.org/pdf/1803.10122.pdf) |
+| [S1E11](https://github.com/BUPT/ai-ml.club/issues/28) |  [@824zzy](https://github.com/824zzy)  | [Dynamic Routing Between Capsules, Sara et. al, NIPS2017](http://cn.arxiv.org/pdf/1710.09829.pdf) |
+| [S1E10](https://github.com/BUPT/ai-ml.club/issues/24) |  [@TuringLee](https://github.com/TuringLee)  | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, Jacob et. al, 2018](https://arxiv.org/abs/1810.04805) |
+| [S1E09](https://github.com/BUPT/ai-ml.club/issues/22) |  [@huan](https://github.com/huan)  | [A Mini Review of Word Embedding in Morpho](https://github.com/zixia/paper-morpho-vector-presentation) |
+| [S1E08](https://github.com/BUPT/ai-ml.club/issues/18) |  [@initc](https://github.com/initc)  | [Question Answering with Subgraph Embeddings, Antoine et. al, 2014](https://arxiv.org/pdf/1406.3676.pdf) |
+| [S1E08](https://github.com/BUPT/ai-ml.club/issues/18) |  [@initc](https://github.com/initc)  | [Question Answering over Freebase with Multi-Column Convolutional Neural Networks, Li et. al, 2015](http://www.aclweb.org/anthology/P15-1026) |
+| [S1E07](https://github.com/BUPT/ai-ml.club/issues/16) |  [@initc](https://github.com/initc)  | [Semantic Parsing on Freebase from Question-Answer Pairs, Jonathan et. al, 2013](http://www.aclweb.org/anthology/D13-1160) |
+| [S1E07](https://github.com/BUPT/ai-ml.club/issues/16) |  [@initc](https://github.com/initc)  | [Information Extraction over Structured Data: Question Answering with Freebase, Xuchen et. al, 2014](http://cs.jhu.edu/~xuchen/paper/yao-jacana-freebase-acl2014.pdf) |
+| [S1E06](https://github.com/BUPT/ai-ml.club/issues/13) |  [@824zzy](https://github.com/824zzy)  | [A Diversity-Promoting Objective Function for Neural Conversation Models, Jiwei Li et. al, 2016](https://arxiv.org/abs/1510.03055) |
+| [S1E06](https://github.com/BUPT/ai-ml.club/issues/13) |  [@initc](https://github.com/initc)  | [MACHINE COMPREHENSION USING MATCH-LSTM AND ANSWER POINTER, Shuohang et. al, 2016](https://arxiv.org/pdf/1608.07905.pdf) |
+| [S1E05](https://github.com/BUPT/ai-ml.club/issues/10) |  [@824zzy](https://github.com/824zzy)  | [Link Prediction using Embedded Knowledge Graphs, Yelong et. al, 2016-11-14](https://arxiv.org/abs/1611.04642) |
+
+### Posters (Session 1)
+
+| Seminar | Member | Paper |
+| ------- | ------ | ----- |
 | [S1E23](https://ai-ml.club/events/seminar-meeting-minutes-23/#) |  [@WEN6Lev57q4](https://github.com/WEN6Lev57q4) | [Theme and Sentiment Analysis Model of Public Opinion Dissemination based on Generative Adversarial Network, Haihong et. al, 2017](https://drive.google.com/open?id=1ednMWMxJfrGdZEsPzI_fMNw8L1Tp5wel) |
 | [S1E23](https://ai-ml.club/events/seminar-meeting-minutes-23/#) |  [@cgpeter96](https://github.com/cgpeter96)  | [Multimodal Convolutional Neural Networks for Matching Image and Sentence, Ma et. al, ICCV2015](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Ma_Multimodal_Convolutional_Neural_ICCV_2015_paper.pdf) |
 | [S1E23](https://ai-ml.club/events/seminar-meeting-minutes-23/#) |  [@huan](https://github.com/huan)  | [对于LSTM中使用缺省的sigmod激活函数，收敛效果好于ReLu的思考](https://github.com/huan/computational-linguistics-homework) |
