@@ -64,6 +64,6 @@ Everyone will be welcome. You can join or not join as you want (not required by 
 
 Newcomers number: 1
 
-| Referrer | Newcomer | GitHub | Bio |
-| -------- | -------- | ------ | --- |
-| @huan    | NEWCOMER_NAME | @GITHUB_USERNAME | ONE_SENTENCE_BIOGRAPHY |
+| Referrer | Newcomer  | Bio |
+| -------- | --------- | --- |
+| @huan    | @NEWCOMER | ONE_SENTENCE_BIOGRAPHY |
