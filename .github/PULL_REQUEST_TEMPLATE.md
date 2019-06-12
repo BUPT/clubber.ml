@@ -34,7 +34,7 @@
 
 ### 3. After Party 🍻
 
-> Everyone will be welcome. You can join or not join as you want (not required by the AMC), and change your mind at anytime.
+> Everyone will be welcome. You can join or not join as you want (not required by the AMC), and change your mind at any time.
 >
 > 1. After Party will be started right after all the meeting agenda had been fulfilled.
 > 1. We will find a bar and drink beers and talk whatever we want. (we can expect that it will be related to meeting topics of the day)
@@ -53,9 +53,9 @@
 
 Please fill the following table for the new friend sign up(if any), or delete it.
 
-| Referrer | Newcomer | GitHub | Bio |
-| -------- | -------- | ------ | --- |
-| @[newcomer](https://github.com/newcomer) | NEWCOMER_NAME | @GITHUB_USERNAME | ONE_SENTENCE_BIOGRAPHY |
+| Referrer | Newcomer  | Bio |
+| -------- | --------- | --- |
+| @member  | @NEWCOMER | ONE_SENTENCE_BIOGRAPHY |
 
 ----------------
 <sub>
