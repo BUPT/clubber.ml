@@ -52,6 +52,7 @@ We add paper to this list if we want to presente it later, or want to ask other 
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
+| [S2E14](https://ai-ml.club/events/seminar-meeting-minutes-2-14/) | [@fuyunfuyun666](https://github.com/fuyunfuyun666) | [Character Region Awareness for Text Detection, Youngmin Baek et. al., CVPR2019](https://arxiv.org/abs/1904.01941) |
 | [S2E13](https://ai-ml.club/events/seminar-meeting-minutes-2-13/) | [@chen-dixi](https://github.com/chen-dixi) | [Almost Unsupervised Text to Speech and Automatic Speech Recognition, Yi Ren, et. al., ICML2019](https://speechresearch.github.io/unsuper/) |
 | [S2E13](https://ai-ml.club/events/seminar-meeting-minutes-2-13/) | [@vdeamov](https://github.com/vdeamov) | [TADAM: Task dependent adaptive metric for improved few-shot learnin, Oreshkin, et. al., 2018](http://papers.nips.cc/paper/7352-tadam-task-dependent-adaptive-metric-for-improved-few-shot-learning.pdf) |
 | [S2E13](https://ai-ml.club/events/seminar-meeting-minutes-2-13/) | [@fuyunfuyun666](https://github.com/fuyunfuyun666) | [Detecting Curve Text in the Wild: New Dataset and New Solution, Liu et. al., 2017](https://arxiv.org/abs/1712.02170) |
