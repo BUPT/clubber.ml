@@ -34,6 +34,7 @@ We add paper to this list if we want to presente it later, or want to ask other 
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
+| [S2E14](https://ai-ml.club/events/seminar-meeting-minutes-2-14/) | [@Jarvisgivemeasuit](https://github.com/Jarvisgivemeasuit) | [Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks, Zhang et al., IEEE Signal Processing Letters 2016](https://arxiv.org/abs/1604.02878) |
 | [S2E13](https://ai-ml.club/events/seminar-meeting-minutes-2-13/) | [@824zzy](https://github.com/824zzy) | [面相深度学习系统的突变软件测试, Zhu et al., 2019(Coming Soon)](None) |
 | [S2E12](https://ai-ml.club/events/seminar-meeting-minutes-2-12/) | [@824zzy](https://github.com/824zzy) | [Unsupervised Latent Tree Induction with Deep Inside-Outside Recursive Autoencoders, Drozdov et al., NAACL2019](https://arxiv.org/pdf/1904.02142.pdf) |
 | [S2E11](https://ai-ml.club/events/seminar-meeting-minutes-2-11/) | [@barrykui](https://github.com/barrykui) | [A^2-Net: Molecular Structure Estimation from Cryo-EM Density Volumes, Xu et al., AAAI2019](https://arxiv.org/pdf/1901.00785.pdf) |
