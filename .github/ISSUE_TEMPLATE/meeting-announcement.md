@@ -9,19 +9,19 @@ about: The announcement should be published at least 48 hours before the meeting
 
 # AMC Meeting Announcement
 
-| S2E12 | Session 2 Episodes 12 |
-| ----: | :-------------------- |
-| Date | 7-9 pm, Sunday |
-| Location | 821, 8th floor, BUPT Research Building |
-| Chairman | Zhengyuan ZHU @[824zzy](https://github.com/824zzy) |
-| Vice Chairman | Huan LI @[huan](https://github.com/huan) |
+|         S2E12 | Session 2 Episodes 12 |
+| ------------: | :-------------------- |
+|          Date | 7-9 pm, Sunday        |
+|      Location | 821, 8th floor, BUPT Research Building |
+|      Chairman | @824zzy               |
+| Vice Chairman | @huan                 |
 
 ## Previous Meeting
 
-| Minutes | Link |
-| ------- | ---- |
+| Minutes | Link                        |
+| ------- | --------------------------- |
 | Blog    | [SsEe (Session s Episodes e)](https://ai-ml.club/events/seminar-meeting-minutes-s-e/) |
-| Issue   | #num |
+| Issue   | #num                        |
 
 ## Agenda
 
@@ -29,30 +29,34 @@ about: The announcement should be published at least 48 hours before the meeting
 
 > Oral should be prepared for _15 - 30_ minutes, and no more than **45** minutes, including Q/A.
 
-| Presenter | Paper |
-| --------- | ----- |
-| Zhengyuan ZHU @[824zzy](https://github.com/824zzy) | [PAPER NAME](https://arxiv.org/PAPER_URL) |
+| Presenter | Paper                                     |
+| --------- | ----------------------------------------- |
+| @824zzy   | [PAPER NAME](https://arxiv.org/PAPER_URL) |
 
 ### 2. Poster
 
-> Posters should be prepared for _5 - 10_ minutes, and no more than **15** minutes, including Q/A.
+> 1. Posters should be prepared for _5 - 10_ minutes, and no more than **15** minutes, including Q/A.
+> 1. No more than **4** posters per seminar. If there's more than 4 posters purposals(PRs), the chairman should pick at most 4, and leave the others in the PR queue.
 
-| Presenter | Paper |
-| --------- | ----- |
-| Huan LI @[huan](https://github.com/huan) | [PAPER NAME](https://arxiv.org/PAPER_URL) |
-| NAME @[GITHUB_USERNAME](https://github.com/GITHUB_USERNAME) | [PAPER NAME](https://arxiv.org/PAPER_URL) |
+| Presenter | Paper                                     |
+| --------- | ----------------------------------------- |
+| @huan     | [PAPER NAME](https://arxiv.org/PAPER_URL) |
+| @GITHUB_USERNAME | [PAPER NAME](https://arxiv.org/PAPER_URL) |
 
 ### 3. After Party
 
 Everyone will be welcome. You can join or not join as you want (not required by the AMC), and change your mind at anytime.
 
-> 1. After Party will be started right after all the meeting agenda had been fulfilled.
-> 1. We will find a bar and drink beers and talk whatever we want. (we can expect that it will be related to meeting topics of the day)
-> 1. The bill will be paid AA
+1. After Party will be started right after all the meeting agenda had been fulfilled.
+1. We will find a bar and drink beers and talk whatever we want. (we can expect that it will be related to meeting topics of the day)
+1. The bill will be paid AA
 
-1. Huan LI
-1. Zhengyuan ZHU
-1. ANY ONE WILL BE WELCOME
+#### Party Animals
+
+> List all members here except those who confirmed not coming. Put a * at the end of the members' name if they said _maybe_
+
+1. 🍻 @huan
+1. 🍺 @824zzy *
 
 ## Newcomers
 
@@ -60,6 +64,6 @@ Everyone will be welcome. You can join or not join as you want (not required by 
 
 Newcomers number: 1
 
-| Referrer | Newcomer | GitHub | Bio |
-| -------- | -------- | ------ | --- |
-| @[huan](https://github.com/huan) | NEWCOMER_NAME | @GITHUB_USERNAME | ONE_SENTENCE_BIOGRAPHY |
+| Referrer | Newcomer  | Bio |
+| -------- | --------- | --- |
+| @huan    | @NEWCOMER | ONE_SENTENCE_BIOGRAPHY |
