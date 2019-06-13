@@ -36,17 +36,18 @@ We add paper to this list if we want to presente it later, or want to ask other 
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
-| [S2E13](https://ai-ml.club/events/seminar-meeting-minutes-2-13/) | [@824zzy](https://github.com/824zzy) | [面相深度学习系统的突变软件测试, Zhu et al., 2019(Coming Soon)](None) |
+| [S2E14](https://ai-ml.club/events/seminar-meeting-minutes-2-14/) | [@824zzy](https://github.com/824zzy) | [Weight Agnostic Neural Networks, David Ha, 2019](https://arxiv.org/abs/1906.04358) |
+| [S2E13](https://ai-ml.club/events/seminar-meeting-minutes-2-13/) | [@824zzy](https://github.com/824zzy) | [面相深度学习系统的突变软件测试, Zhu et al., 2019](https://www.overleaf.com/read/ghxjcsvkhtpz) |
 | [S2E12](https://ai-ml.club/events/seminar-meeting-minutes-2-12/) | [@824zzy](https://github.com/824zzy) | [Unsupervised Latent Tree Induction with Deep Inside-Outside Recursive Autoencoders, Drozdov et al., NAACL2019](https://arxiv.org/pdf/1904.02142.pdf) |
 | [S2E11](https://ai-ml.club/events/seminar-meeting-minutes-2-11/) | [@barrykui](https://github.com/barrykui) | [A^2-Net: Molecular Structure Estimation from Cryo-EM Density Volumes, Xu et al., AAAI2019](https://arxiv.org/pdf/1901.00785.pdf) |
 | [S2E11](https://ai-ml.club/events/seminar-meeting-minutes-2-11/) | [@CyFeng16](https://github.com/CyFeng16) | [Survey of Neural Architecture Search, Shi, 2019](https://docs.google.com/presentation/d/1llOlyryvinCDd2T-zdaLxEFS6MkybjhGogaaVE6v_No/edit?usp=sharing) |
-| [S2E10](https://ai-ml.club/events/seminar-meeting-minutes-2-10/) |  [@huan](https://github.com/huan)  | [Google’s Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation, Melvin et. al, ACL2017](https://aclweb.org/anthology/Q17-1024) |
+| [S2E10](https://ai-ml.club/events/semin\ar-meeting-minutes-2-10/) |  [@huan](https://github.com/huan)  | [Google’s Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation, Melvin et. al, ACL2017](https://aclweb.org/anthology/Q17-1024) |
 | [S2E09](https://ai-ml.club/events/seminar-meeting-minutes-2-9/) |  [@824zzy](https://github.com/824zzy)  | [Hybrid computing using a neural network with dynamic external memory, Alex et. al, Nature2016](https://www.nature.com/articles/nature20101) |
 | [S2E08](https://ai-ml.club/events/seminar-meeting-minutes-2-8/) |  [@824zzy](https://github.com/824zzy)  | [Neural Turing Machine, Alex et. al, 2014](https://arxiv.org/pdf/1410.5401v2.pdf) |
 | [S2E06](https://ai-ml.club/events/seminar-meeting-minutes-2-6/) |  [@824zzy](https://github.com/824zzy)  | [Learning to Compose Topic-Aware Mixture of Experts for Zero-shot Video Captioning, Xin et. al, 2018-11-23](http://arxiv.org/abs/1811.02765) |
 | [S2E05](https://ai-ml.club/events/seminar-meeting-minutes-2-5/) |  [@824zzy](https://github.com/824zzy)  | [Visul Storytelling, Ting-Hao et. al, 2016](https://arxiv.org/abs/1604.03968) |
 | [S2E02](https://ai-ml.club/events/seminar-meeting-minutes-2-2) |  [@VDeamoV](https://github.com/VDeamoV)  | [travelgan-image-to-image-translation-by-transformation-vector-learning, Amodio et. al, 2019](https://arxiv.org/abs/1902.09631) |
-| [S2E01](https://ai-ml.club/events/seminar-meeting-minutes-2-1) |  [@824zzy](https://github.com/824zzy)  | [Describing Videos by Explo
+| [S2E01](https://ai-ml.club/events/seminar-meeting-minutes-2-1) |  [@824zzy](https://github.com/824zzy)  | [Describing Videos by Exploiting Temporal Structure, Li et. al, 2015](https://arxiv.org/pdf/1502.08029.pdf) |
 
 ### Posters (Session 2)
 
