@@ -5,7 +5,7 @@
 
 Welcome to Artificial Intelligence & Machine Learning CLUB! 
 
-Here are all of friends for Paper, Code, and Beer!
+Here are all of friends for Code, Paper, and Beers! 🍻
 
 - Paper Index: <https://ai-ml.club/papers>
 - Meetup Announcements & Minutes: <https://ai-ml.club/categories/#events>
@@ -155,7 +155,7 @@ Require any members for helping to add yourself to the member team on GitHub if 
 ## CO-FOUNDERS
 
 - @huan - Huan LI (李卓桓), CS Ph.D, BUPT
-- @824zzy - Zhengyuan ZHU (朱正源), Master, BUPT
+- @824zzy - Yuan ZHU (朱正源), Master, BUPT
 
 ## Contributors
 
