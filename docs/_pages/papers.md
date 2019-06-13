@@ -71,6 +71,7 @@ We add paper to this list if we want to presente it later, or want to ask other 
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
+
 | [S2E13](https://ai-ml.club/events/seminar-meeting-minutes-2-13/) | [@huan](https://github.com/huan) | [Generating Long Sequences with Sparse Transformers, Rewon Child, et. al., 2019](https://openai.com/blog/sparse-transformer/) |
 | [S2E12](https://ai-ml.club/events/seminar-meeting-minutes-2-12/) | [@huan](https://github.com/huan) | [Speech2Face: Learning the Face Behind a Voice, Tae-Hyun et. al., 2019](https://arxiv.org/pdf/1905.09773.pdf) |
 | [S2E12](https://ai-ml.club/events/seminar-meeting-minutes-2-12/) | [@linbo0518](https://github.com/linbo0518) | [Bag of Tricks for Image Classification with Convolutional Neural Networks, He et al., 2018](https://arxiv.org/abs/1812.01187) |
@@ -135,7 +136,7 @@ We add paper to this list if we want to presente it later, or want to ask other 
 | [S1E16](https://github.com/BUPT/ai-ml.club/issues/40) |  [@huan](https://github.com/huan)   | [Tensorflow JS Demo: Aida](http://aida.dor.ai/demo) |
 | [S1E16](https://github.com/BUPT/ai-ml.club/issues/40) |  [@Samurais](https://github.com/Samurais)   | [创始人讲述ChatOpera的故事](https://github.com/chatopera) |
 | [S1E16](https://github.com/BUPT/ai-ml.club/issues/40) |  [@Samurais](https://github.com/Samurais)  | [A Network-based End-to-End Trainable Task-oriented Dialogue System, Tsung-Hsien et. al, 2017](https://arxiv.org/pdf/1604.04562.pdf) |
-| [S1E15](https://github.com/BUPT/ai-ml.club/issues/38) |  [@824zzy](https://github.com/824zzy)  | [Mixture Density Networks, Christopher et. al, 1994](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/bishop-ncrg-94-004.pdf) |
+| [S1E15](https://github.com/BUPT/ai-ml.club/issues/38) |  [@824zzy]  | [Mixture Density Networks, Christopher et. al, 1994](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/bishop-ncrg-94-004.pdf) |
 | [S1E15](https://github.com/BUPT/ai-ml.club/issues/38) |  [@qhduan](https://github.com/qhduan)  | [Predicting Emotion Labels for Chinese Microblog Texts, Zheng et. al, 2015](http://ceur-ws.org/Vol-917/SDAD2012_4_Yuan.pdf) |
 | [S1E14](https://github.com/BUPT/ai-ml.club/issues/36) |  [@824zzy](https://github.com/824zzy)  | [Evolution Strategies as a Scalable Alternative to Reinforcement Learning, Tim et. al, 2017](https://arxiv.org/pdf/1703.03864.pdf) |
 | [S1E14](https://github.com/BUPT/ai-ml.club/issues/36) |  [@cgpeter96](https://github.com/cgpeter96)  | [Stacked Cross Attention for Image-Text Matching, Lee/ et. al, ECCV2018](https://arxiv.org/abs/1803.08024) |
@@ -157,7 +158,7 @@ We add paper to this list if we want to presente it later, or want to ask other 
 | [S1E10](https://github.com/BUPT/ai-ml.club/issues/24) |  [@huan](https://github.com/zixia)  | [Sequence to Sequence Learning with Neural Networks, Ilya et. al, 2014](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf) |
 | [S1E10](https://github.com/BUPT/ai-ml.club/issues/24) |  [@initc](https://github.com/initc)  | [DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning, Wenhan et. al, 2018](https://arxiv.org/pdf/1707.06690.pdf) |
 | [S1E10](https://github.com/BUPT/ai-ml.club/issues/24) |  [@wyy0206](https://github.com/wyy0206)  | [Semantic Parsing via Staged Query Graph Generation:Question Answering with Knowledge Base, Wen-tau et. al, ACL2015](https://www.aclweb.org/anthology/P15-1128) |
-| [S1E10](https://github.com/BUPT/ai-ml.club/issues/24) |  [@wangshirui33]((https://github.com/wangshirui33))  | [Natural Language Inference with Hierarchical BiLSTM Max Pooling Architecture, Aarne et. al, 2018](https://arxiv.org/pdf/1808.08762.pdf) |
+| [S1E10](https://github.com/BUPT/ai-ml.club/issues/24) |  [@wangshirui33]((https://github.com/))  | [Natural Language Inference with Hierarchical BiLSTM Max Pooling Architecture, Aarne et. al, 2018](https://arxiv.org/pdf/1808.08762.pdf) |
 | [S1E10](https://github.com/BUPT/ai-ml.club/issues/24) |  [@charliecheung99](https://github.com/charliecheung99)  | [Character-Level Question Answering with Attention, David et. al, 2016](http://www.aclweb.org/anthology/D16-1166) |
 | [S1E10](https://github.com/BUPT/ai-ml.club/issues/24) |  [@xiaoda99](https://github.com/xiaoda99)  | [Commonsense for Generative Multi-Hop Question Answering, Lisa et. al, 2018](https://export.arxiv.org/abs/1809.06309) |
 | [S1E09](https://github.com/BUPT/ai-ml.club/issues/22) |  [@zwj277567959](https://github.com/zwj277567959)  | [ELMo: Deep contextualized word representations, Matthew et. al, 2018](https://arxiv.org/pdf/1802.05365.pdf) |
