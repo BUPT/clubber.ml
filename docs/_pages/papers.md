@@ -18,7 +18,7 @@ toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 
 ## Papers
 
-We only add paper to this list before we decide to oral/poster it at our AMC seminar.
+We only add paper📰 to this list before we decide to oral/poster it at our AMC seminar.
 
 ### Wishlist
 
@@ -30,7 +30,7 @@ We add paper to this list if we want to presente it later, or want to ask other 
 | @huan | [Oriol Vinyals, Quoc V. Le - A Neural Conversational Model, 2015](https://arxiv.org/pdf/1506.05869.pdf) |
 | @huan | [Google’s Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](https://arxiv.org/pdf/1611.04558.pdf) |
 
-## Session 2 Episode 1 - now
+## Session 2 (Episode 1 - 24EST)
 
 ### Orals (Session 2)
 
@@ -62,7 +62,7 @@ We add paper to this list if we want to presente it later, or want to ask other 
 | [S2E12](https://ai-ml.club/events/seminar-meeting-minutes-2-12/) | [@Yapheeets](https://github.com/YapheeetS) | [ORDERED NEURONS: INTEGRATING TREE STRUCTURES INTO RECURRENT NEURAL NETWORKS, Shen et al., ICLR2019](https://arxiv.org/abs/1810.09536) |
 | [S2E11](https://ai-ml.club/events/seminar-meeting-minutes-2-11/) | [@muzi-8](https://github.com/muzi-8) | [Visualization of FCN and Unet](https://docs.google.com/presentation/d/1ZYIQbvSKMdqNXp6ZvNuvTPlryiUA5QXWhBD2v-bILO4/edit#slide=id.g5a9ae80013_0_33) |
 | [S2E11](https://ai-ml.club/events/seminar-meeting-minutes-2-11/) | [@linbo0518](https://github.com/linbo0518) | [3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation, Cicek et al., 2016](https://arxiv.org/pdf/1606.06650.pdf) |
-| [S2E11](https://ai-ml.club/events/seminar-meeting-minutes-2-11/) | [@huan](https://github.com/huan) | Secondary Structure Elements 3D Segmentation for Protein, Li et. al., 2019[Coming Soon] |
+| [S2E11](https://ai-ml.club/events/seminar-meeting-minutes-2-11/) | [@huan](https://github.com/huan) | [Secondary Structure Elements 3D Segmentation for Protein, Li et. al., 2019](https://github.com/huan/sse-3d-seg/) |
 | [S2E11](https://ai-ml.club/events/seminar-meeting-minutes-2-11/) |  [@824zzy](https://github.com/824zzy)  | Online Scheduled Hard Example Selection for Visual Storytelling, Zhu et. al, 2019(Coming soon) |
 | [S2E10](https://ai-ml.club/events/seminar-meeting-minutes-2-10/) |  [@linbo0518](https://github.com/linbo0518)  | [轮子不够自己造：PyTorch’s Semantic Segmentation Toolbox](https://github.com/linbo0518/BLSeg) |
 | [S2E10](https://ai-ml.club/events/seminar-meeting-minutes-2-10/) |  [@824zzy](https://github.com/824zzy)  | [Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks, Samy et. al, 2015](https://arxiv.org/pdf/1506.03099.pdf) |
@@ -87,7 +87,7 @@ We add paper to this list if we want to presente it later, or want to ask other 
 | [S2E02](https://ai-ml.club/events/seminar-meeting-minutes-2-2) |  [@cgpeter96](https://github.com/cgpeter96)  | [图神经网络工具DGL介绍](https://docs.dgl.ai/#get-started) |
 | [S2E01](https://ai-ml.club/events/seminar-meeting-minutes-2-1) |  [@cgpeter96](https://github.com/cgpeter96) | [Learning Semantic Concepts and Order for Image and Sentence Matching, Huang et. al, 2018](https://arxiv.org/abs/1712.02036) |
 
-## Session 1 Episode 1 - 23
+## Session 1 (Episode 1 - 23)
 
 ### Orals (Session 1)
 
@@ -165,7 +165,7 @@ We add paper to this list if we want to presente it later, or want to ask other 
 | [S1E12](https://github.com/BUPT/ai-ml.club/issues/31) |  [@qhduan](https://github.com/qhduan)  | [Graph2Seq: Graph to Sequence Learning with Attention-Based Neural Networks, Kun et. al, 2018](https://arxiv.org/pdf/1804.00823.pdf) |
 | [S1E12](https://github.com/BUPT/ai-ml.club/issues/31) |  [@TuringLee](https://github.com/TuringLee)  | [GLoMo: Unsupervisedly Learned Relational Graphs as Transferable Representations, Zhilin et. al, 2018](https://arxiv.org/pdf/1806.05662.pdf) |
 | [S1E12](https://github.com/BUPT/ai-ml.club/issues/31) |  [@wangshirui33](https://github.com/wangshirui33)  | [Skip-Thought Vectors, Ryan et. al, 2015](https://arxiv.org/pdf/1506.06726.pdf) |
-| [S1E12](https://github.com/BUPT/ai-ml.club/issues/31) |  [@huan](https://github.com/huan)  | Tensorflow in JavaScript |
+| [S1E12](https://github.com/BUPT/ai-ml.club/issues/31) |  [@huan](https://github.com/huan)  | [Tensorflow in JavaScript](https://docs.google.com/presentation/d/10u2hKAz4VjryCYr-oHxcxX4HzFeKOir7lq79ASV6TIA/edit?usp=sharing) |
 | [S1E11](https://github.com/BUPT/ai-ml.club/issues/28) |  [@zecheng](https://github.com/zhanzecheng)  | [A Syntactic Neural Model for General-Purpose Code Generation, Pengcheng et. al, ACL2017](https://arxiv.org/pdf/1704.01696.pdf) |
 | [S1E11](https://github.com/BUPT/ai-ml.club/issues/28) |  [@huan](https://github.com/huan)  | [Sequence to Sequence Learning with Neural Networks, Ilya et. al, 2014](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf) |
 | [S1E11](https://github.com/BUPT/ai-ml.club/issues/28) |  [@cgpeter96](https://github.com/cgpeter96)  | [Convolutional Sequence to Sequence Learning, Jonas et. al, 2017](https://arxiv.org/pdf/1705.03122.pdf) |
