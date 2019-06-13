@@ -61,3 +61,16 @@ cgpeter96:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://github.com/cgpeter96"
+
+
+linbo0518:
+  name        : "林博"
+  bio         : "慢几步，深几度"
+  avatar      : "https://avatars0.githubusercontent.com/u/5896078?s=460&v=4"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/linbo0518"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:linbo0518@gmail.com"
