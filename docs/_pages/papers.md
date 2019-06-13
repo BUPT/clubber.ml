@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 ---
 title: "Papers"
 permalink: /papers/
@@ -65,7 +63,7 @@ We add paper to this list if we want to presente it later, or want to ask other 
 | [S2E11](https://ai-ml.club/events/seminar-meeting-minutes-2-11/) | [@muzi-8](https://github.com/muzi-8) | [Visualization of FCN and Unet](https://docs.google.com/presentation/d/1ZYIQbvSKMdqNXp6ZvNuvTPlryiUA5QXWhBD2v-bILO4/edit#slide=id.g5a9ae80013_0_33) |
 | [S2E11](https://ai-ml.club/events/seminar-meeting-minutes-2-11/) | [@linbo0518](https://github.com/linbo0518) | [3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation, Cicek et al., 2016](https://arxiv.org/pdf/1606.06650.pdf) |
 | [S2E11](https://ai-ml.club/events/seminar-meeting-minutes-2-11/) | [@huan](https://github.com/huan) | [Secondary Structure Elements 3D Segmentation for Protein, Li et. al., 2019[Coming Soon]](None) |
-| [S2E11](https://ai-ml.club/events/seminar-meeting-minutes-2-11/) |  [@824zzy](https://github.com/824zzy)  | [Online Scheduled Hard Example Selection for Visual Storytelling, Zhu et. al, 2019(Coming soon)](None) |
+| [S2E11](https://ai-ml.club/events/seminar-meeting-minutes-2-11/) |  [@824zzy](https://github.com/824zzy)  | [Online Scheduled Hard Example Selection for Visual Storytelling, Zhu et. al, 2019](https://www.overleaf.com/read/bpxpdzgfqyxj) |
 | [S2E10](https://ai-ml.club/events/seminar-meeting-minutes-2-10/) |  [@linbo0518](https://github.com/linbo0518)  | [轮子不够自己造：PyTorch’s Semantic Segmentation Toolbox](https://github.com/linbo0518/BLSeg) |
 | [S2E10](https://ai-ml.club/events/seminar-meeting-minutes-2-10/) |  [@824zzy](https://github.com/824zzy)  | [Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks, Samy et. al, 2015](https://arxiv.org/pdf/1506.03099.pdf) |
 | [S2E09](https://ai-ml.club/events/seminar-meeting-minutes-2-9/) |  [@vdeamov](https://github.com/vdeamov)  | [Histograms of Oriented Gradients for Human Detection, Navneet et. al, CVPR2005](https://hal.inria.fr/file/index/docid/548512/filename/hog_cvpr2005.pdf) |
@@ -204,4 +202,3 @@ We add paper to this list if we want to presente it later, or want to ask other 
 | [S1E05](https://github.com/BUPT/ai-ml.club/issues/10) |  [@wyy0206](https://github.com/wyy0206)  | [An End-to-End Model for Question Answering over Knowledge Base with Cross-Attention Combining Global Knowledge, Yanchao et. al, ACL2017](http://www.nlpr.ia.ac.cn/cip/~liukang/liukangPageFile/ACL2017-Hao.pdf) |
 | [S1E05](https://github.com/BUPT/ai-ml.club/issues/10) |  [@huan](https://github.com/zixia)  | [End-to-End Task-Completion Neural Dialogue Systems,  et. al, 2018](https://arxiv.org/pdf/1703.01008.pdf) |
 | [S1E05](https://github.com/BUPT/ai-ml.club/issues/10) |  [@yxHu](None)  | [微软实习经验分享](None) |
->>>>>>> a9f9ae3c5a87088bea04e9412fb4c733f3955a09
