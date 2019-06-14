@@ -16,9 +16,9 @@ toc_label: "Unique Title"
 toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 
-## Papers
+## Papers 📰
 
-We only add paper📰 to this list before we decide to oral/poster it at our AMC seminar.
+We only add paper to this list before we decide to oral/poster it at our AMC seminar.
 
 ### Wishlist
 
