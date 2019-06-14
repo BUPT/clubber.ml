@@ -19,10 +19,16 @@ toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 # Code of Conduct
 
 ## 1. Problem-driven
+
 ## 2. Code first, paper second
+
 ## 3. Always ask questions
-    - :heavy_check_mark: He who asks a question remains a fool for five minutes. 
-    - :x: He who does not ask remains a fool forever.
+
+- ✔ He who asks a question remains a fool for five minutes. 
+- ✕ He who does not ask remains a fool forever.
+
 ## 4. Always follow the **two-pizza rule**
-    > "Never have a meeting where two pizzas couldn't feed the entire group."  
-    > -- Jeff Bezos, Amazon CEO
+
+> "Never have a meeting where two pizzas couldn't feed the entire group."  
+> -- Jeff Bezos, Amazon CEO
+
