@@ -1,4 +1,4 @@
-# /_data/authors.yml
+ # /_data/authors.yml
 
 huan:
   name        : "Huan LI (李卓桓)"
@@ -61,3 +61,13 @@ cgpeter96:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://github.com/cgpeter96"
+
+
+fuyunfuyun666:
+  name        : "刘云"
+  bio         : "真的很不错哦"
+  avatar      : "https://avatars1.githubusercontent.com/u/42915208?s=400&u=c1ad7ea34603b95207f3f59391db4402c2d57d6d&v=4"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://github.com/fuyunfuyun666"
