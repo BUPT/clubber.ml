@@ -30,9 +30,9 @@ We add paper to this list if we want to presente it later, or want to ask other 
 | @huan | [Oriol Vinyals, Quoc V. Le - A Neural Conversational Model, 2015](https://arxiv.org/pdf/1506.05869.pdf) |
 | @huan | [Google’s Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](https://arxiv.org/pdf/1611.04558.pdf) |
 
-## Session 2 (Episode 1 - 24EST)
+## Season 2 (Episode 1 - 24EST)
 
-### Orals (Session 2)
+### Orals (Season 2)
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
@@ -49,7 +49,7 @@ We add paper to this list if we want to presente it later, or want to ask other 
 | [S2E02](https://ai-ml.club/events/seminar-meeting-minutes-2-2) |  [@VDeamoV](https://github.com/VDeamoV)  | [travelgan-image-to-image-translation-by-transformation-vector-learning, Amodio et. al, 2019](https://arxiv.org/abs/1902.09631) |
 | [S2E01](https://ai-ml.club/events/seminar-meeting-minutes-2-1) |  [@824zzy](https://github.com/824zzy)  | [Describing Videos by Exploiting Temporal Structure, Li et. al, 2015](https://arxiv.org/pdf/1502.08029.pdf) |
 
-### Posters (Session 2)
+### Posters (Season 2)
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
@@ -87,9 +87,9 @@ We add paper to this list if we want to presente it later, or want to ask other 
 | [S2E02](https://ai-ml.club/events/seminar-meeting-minutes-2-2) |  [@cgpeter96](https://github.com/cgpeter96)  | [图神经网络工具DGL介绍](https://docs.dgl.ai/#get-started) |
 | [S2E01](https://ai-ml.club/events/seminar-meeting-minutes-2-1) |  [@cgpeter96](https://github.com/cgpeter96) | [Learning Semantic Concepts and Order for Image and Sentence Matching, Huang et. al, 2018](https://arxiv.org/abs/1712.02036) |
 
-## Session 1 (Episode 1 - 23)
+## Season 1 (Episode 1 - 23)
 
-### Orals (Session 1)
+### Orals (Season 1)
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
@@ -115,7 +115,7 @@ We add paper to this list if we want to presente it later, or want to ask other 
 | [S1E06](https://github.com/BUPT/ai-ml.club/issues/13) |  [@initc](https://github.com/initc)  | [MACHINE COMPREHENSION USING MATCH-LSTM AND ANSWER POINTER, Shuohang et. al, 2016](https://arxiv.org/pdf/1608.07905.pdf) |
 | [S1E05](https://github.com/BUPT/ai-ml.club/issues/10) |  [@824zzy](https://github.com/824zzy)  | [Link Prediction using Embedded Knowledge Graphs, Yelong et. al, 2016-11-14](https://arxiv.org/abs/1611.04642) |
 
-### Posters (Session 1)
+### Posters (Season 1)
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |

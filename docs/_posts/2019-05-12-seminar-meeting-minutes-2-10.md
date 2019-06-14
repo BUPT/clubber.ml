@@ -69,7 +69,7 @@ Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks](https
 
 我作为 AI ML Club 的发起者，和本期活动主席，为俱乐部设立了在线的开放账单系统，可以用来未来记录每次活动的收支情况，地址：[Open Collective - AI ML Club](https://opencollective.com/ai-ml-club)
 
-本次活动的费用，由主席赞助。赞助及报销记录：[Session 2 Episode 10 After Party - Laker Beer#8030](https://opencollective.com/ai-ml-club/expenses/8030)
+本次活动的费用，由主席赞助。赞助及报销记录：[Season 2 Episode 10 After Party - Laker Beer#8030](https://opencollective.com/ai-ml-club/expenses/8030)
 
 ![after party beer bill]({{ '/assets/2019/seminar-2-10-after-party-bill.jpg' | relative_url }})
 
