@@ -5,6 +5,7 @@ function resize () {
   FILE=$1
   mogrify \
     -verbose \
+    -quality 80 \
     -resize '1920>' \
     ${FILE}
 }
@@ -21,6 +22,7 @@ for FILE in "${FILE_LIST[@]}"; do
   WIDTH=$(identify -ping -format '%w' "$FILE")
   if [ $WIDTH -gt 1920 ]; then
     echo "$FILE $WIDTH"
+    resize $FILE
   fi
 done
 
