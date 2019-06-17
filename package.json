@@ -10,7 +10,7 @@
     "lint": "npm run lint:fn",
     "lint:fn": "file-name-linter file-name-linter.json",
     "test": "npm run lint && npm run test:unit",
-    "test:unit": "blue-tape -r ts-node/register 'src/**/*.spec.ts' 'tests/**/*.spec.ts'"
+    "test:unit": "ts-node --files ./node_modules/.bin/blue-tape 'src/**/*.spec.ts' 'tests/**/*.spec.ts'"
   },
   "repository": {
     "type": "git",
