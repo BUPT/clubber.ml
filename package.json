@@ -9,7 +9,7 @@
   "scripts": {
     "fit-image": "./scripts/fit-image.sh",
     "lint": "npm run lint:fn",
-    "lint:fn": "file-name-linter file-name-linter.json",
+    "lint:fn": "file-name-linter .file-name-linter.json",
     "test": "npm run lint && npm run test:unit",
     "test:unit": "ts-node --files ./node_modules/.bin/blue-tape 'src/**/*.spec.ts' 'tests/**/*.spec.ts'"
   },
