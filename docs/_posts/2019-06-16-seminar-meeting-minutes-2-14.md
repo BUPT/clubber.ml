@@ -57,6 +57,12 @@ MTCNN，人脸检测的经典方法，一直沿用至今，通过`3-Stage`的实
 
 ![review]({{ '/assets/2019/seminar-2-14/academic_review.jpg' | relative_url }})
 
+## 脑洞拓展
+
+1. 搜索CNN网络结构
+2. 结构化的儿童成长数据
+3. 带有个人属性的文本风格迁移
+
 ## 授蛋仪式
 
 ![授蛋]({{ '/assets/2019/seminar-2-14/awarded_egg.jpg' | relative_url }})
@@ -67,18 +73,18 @@ MTCNN，人脸检测的经典方法，一直沿用至今，通过`3-Stage`的实
 
 ## 俱乐部讨论内容
 
-1. 沙龙活动通知使用英文版模板，活动纪要使用中文版，便于区分。
-2. 迁移Conversational AI上面的paper list到ai-ml.club。
-3. 报名参加Oral或者Poster之前大家观察观察人数，如果人数过多，可以下次报名。
-4. 报名从conversational-ai(deprecated)迁移至**ai-ml.club**。具体格式请参考[paper页](https://github.com/BUPT/ai-ml.club/blob/master/docs/_pages/papers.md)
-
+1. 时间控制较好，每次活动1个oral和3个poster
+2. 对于脑洞拓展以及不足之处环节，进一步控制时间，限制每人1分钟
+3. 对于活动规则和时间要尽可能严格遵守
 
 ## After Party
+
 AfterParty 第五次活动顺利结束！
 
 ![AfterParty]({{ '/assets/2019/seminar-2-14/after_party.jpg' | relative_url }})
 
 ## 沙龙结论
+
 1. 下一任主席陈帝羲，副主席侯正罡
 2. 将通知时间从7点至9点改为7点至10点
 3. 学术主席点评减轻轮值主席工作量
