@@ -2,16 +2,17 @@
 set -e
 
 DSTDIR=${1:-.}
-
-cd ${DSTDIR}
 echo "${DSTDIR}"
 
-FILES=$(git ls-files --exclude-standard --others *.jpg)
+push ${DSTDIR}
 
+# FILES=$(git ls-files --exclude-standard --others *.jpg)
+FILES=$(find . -type f -name *.jpg -o -name *.png -o -name *.gif)
+
+echo $FILES
 mogrify \
   -verbose \
   -resize '1920>' \
   ${FILES}
 
-cd -
-
+popd
