@@ -11,7 +11,7 @@ about: The announcement should be published at least 48 hours before the meeting
 
 |         S2E12 | Season 2 Episodes 12 |
 | ------------: | :-------------------- |
-|          Date | 7-9 pm, Sunday        |
+|          Date | 7-10 pm, Sunday        |
 |      Location | 821, 8th floor, BUPT Research Building |
 |      Chairman | @824zzy               |
 | Vice Chairman | @huan                 |
