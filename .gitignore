@@ -66,3 +66,4 @@ _site/
 tmp/
 
 package-lock.json
+*.bak
