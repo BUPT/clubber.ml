@@ -31,4 +31,4 @@ serve:
 
 .PHONY: fit-image
 fit-image:
-	./scripts/fit-image.sh docs/assets/2019
+	./scripts/fit-image.sh docs/assets/
