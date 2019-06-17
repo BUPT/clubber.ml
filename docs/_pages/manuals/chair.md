@@ -74,9 +74,3 @@ Oral & Poster 活动之后，主席可以根据大家实际情况和需求，酌
 1. 不晚于活动结束后48小时，按照[Meeting Minutes Template](https://github.com/BUPT/ai-ml.club/wiki/Meeting-Minutes-Template)模板整理本次沙龙活动纪要，并将其发表于 <https://ai-ml.club/categories/#events> 之下。新手可以参考[Blog操作手册](https://ai-ml.club/manuals/blog/)
 1. 邀请下任轮值主席和副主席的GitHub账号，加入[GitHub Team `AMC/chairs`](https://github.com/orgs/BUPT/teams/chairs)并将主席设置为 `maintainer`，并确保主席收到邀请并完成加入
 1. 督促下任轮值主席，按时发出下次活动通知
-
-# 副主席工作清单
-
-1. 兼任监事(Supervisor)角色，承担监事职责
-1. 辅助主席开展工作
-1. 在主席无法行使职能的时候，代替主席，肩负主席职责，开展相关工作

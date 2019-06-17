@@ -55,15 +55,15 @@ qhduan:
 
 1. 选择论文笔记所属分类（Category），可以参考之前的[分类列表](https://bupt.github.io/ai-ml.club/categories/)
 1. 选择论文笔记所带标签（Tag），可以参考之前的[分类列表](https://bupt.github.io/ai-ml.club/tags/)
-1. 沙龙活动会议纪要命名格式为：`XXXX-XX-XX-seminar-meeting-minutes-${session}-${episode}.md`。其中`${session}`是沙龙活动第几季；`${episode}`是沙龙活动在本季的活动编号，顺序递增。
+1. 沙龙活动会议纪要命名格式为：`XXXX-XX-XX-seminar-meeting-minutes-${season}-${episode}.md`。其中`${season}`是沙龙活动第几季；`${episode}`是沙龙活动在本季的活动编号，顺序递增。
 1. 论文笔记命名格式为： XXXX-XX-XX-paper-title-in-lower-case.md。"XXXX-XX-XX"为年月日；为了统一规范论文名一律小写。
 1. 上传博客文章所需文件（如图片、PDF等），所有文件都必须存放在`docs/assets/${year}/`目录下（${year}是四位数字年份）
 1. 所有上传文件，需要符合以下命名规则：
     1. 文件名全部小写，有空格的地方用`-`连接；
-    1. 如果是沙龙活动纪要相关文件，则文件名前缀按照`seminar-${session}-${episode}-`命名。其中`${episode}`是沙龙活动的编号
-        1. 授蛋仪式照片：`seminar-${session}-${episode}-chairman-appointment.jpg`
-        1. 沙龙演讲照片：`seminar-${session}-${episode}-talk-${talker-name}.jpg`。其中`${talker-name}`是演讲人姓名拼音
-        1. 合影照片：`seminar-${session}-${episode}-group-photo.jpg`
+    1. 如果是沙龙活动纪要相关文件，则文件名前缀按照`seminar-${season}-${episode}-`命名。其中`${episode}`是沙龙活动的编号
+        1. 授蛋仪式照片：`seminar-${season}-${episode}-chairman-appointment.jpg`
+        1. 沙龙演讲照片：`seminar-${season}-${episode}-talk-${talker-name}.jpg`。其中`${talker-name}`是演讲人姓名拼音
+        1. 合影照片：`seminar-${season}-${episode}-group-photo.jpg`
     1. 其他文件，尽量文件名和Blog Post的文件名一致，便于后续维护工作识别
 1. 在添加图片到git之前，运行`make fit-image`将图片尺寸进行调整。
 
