@@ -12,8 +12,6 @@ header:
   teaser: /assets/images/teaser-500x300.png
 ---
 
-## Text Stle Transfer
-
 Everyone talks different, even we want to express the same information.
 
 It will be very interesting if we can change the style of a sentense... as whatever we what.
