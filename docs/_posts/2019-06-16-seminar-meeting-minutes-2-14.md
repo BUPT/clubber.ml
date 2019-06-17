@@ -1,5 +1,5 @@
 ---
-title: 第二季第14场 AI ML Club 活动纪要
+title: 第二季14场 AI ML Club 活动纪要
 author: linbo0518
 date: 2019-06-16 19:00 +0800
 comments: true
@@ -14,7 +14,7 @@ header:
 
 << 本次沙龙通知: [#137](https://github.com/BUPT/ai-ml.club/issues/137)  <<
 
-## 第二季第14场 AMC 沙龙活动通知
+## 第二季14场 AMC 沙龙活动通知
 
 - 日期：2019年6月16日周日晚上7-10点
 - 地点：北邮科研楼821
