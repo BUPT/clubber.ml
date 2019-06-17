@@ -104,6 +104,9 @@ sudo gem install bundle
 
 # Install the blog requirements
 make install
+
+# Install the NPM dependencies
+npm install
 ```
 
 ### Serve
@@ -124,11 +127,13 @@ apt install magicmagick
 ./script/fit-image.sh
 ```
 
-### VsCode Linting
+### VsCode Markdown Linting
 
-```md
-2019-06-09-seminar-meeting-minutes-2-13.md
+```shell
+code --install-extension DavidAnson.vscode-markdownlint
 ```
+
+Learn more from <https://github.com/DavidAnson/vscode-markdownlint>
 
 ### Rules
 
