@@ -12,7 +12,8 @@ header:
   teaser: /assets/2019/seminar-2-14/after-party.jpg
 ---
 
-<< 本次沙龙通知: [#137](https://github.com/BUPT/ai-ml.club/issues/137)  << 
+<< 本次沙龙通知: [#137](https://github.com/BUPT/ai-ml.club/issues/137)  <<
+
 ## 第二季第14场 AMC 沙龙活动通知
 
 - 日期：2019年6月16日周日晚上7-10点
@@ -27,28 +28,29 @@ header:
 ## 沙龙内容
   
 ### Oral
+
 - 朱正源 @824zzy
-> 分享了[Weight Agnostic Neural Networks](https://arxiv.org/abs/1906.04358)
+    > 分享了[Weight Agnostic Neural Networks](https://arxiv.org/abs/1906.04358)
 新的思维方式：从 `固定神经网络架构搜索权重参数` 到 `固定权重参数搜索神经网络架构`
 
 ![朱正源]({{ '/assets/2019/seminar-2-14/oral-zhuzhengyuan.jpg'| relative_url }})
 
 ### Poster
 
-- 李卓桓 @huan 
-> [A Dual Reinforcement Learning Framework for Unsupervised Text Style Transfer](https://arxiv.org/abs/1905.10060)
+- 李卓桓 @huan
+    > [A Dual Reinforcement Learning Framework for Unsupervised Text Style Transfer](https://arxiv.org/abs/1905.10060)
 将风格迁移应用到文本之上，通过一个`Style Classifier`进行非监督学习，风格Reward：我们想要的水军，重建Reward：Cycle-GAN的idea保证，好评变差评再变好评
 
 ![李卓桓]({{ '/assets/2019/seminar-2-14/poster-lizhuohuan.jpg' | relative_url }})
 
 - 刘云 @fuyunfuyun666
-> [Character Region Awareness for Text Detection](https://arxiv.org/abs/1904.01941)
+    > [Character Region Awareness for Text Detection](https://arxiv.org/abs/1904.01941)
 使用FPN+U-Net的字符级别的文字检测，利用`HeatMap`作为Label进行文本检测，加入文本间关联性的学习，利用弱监督进行字符级别检测
 
 ![刘云]({{ '/assets/2019/seminar-2-14/poster-liuyun.jpg' | relative_url }})
 
 - 李京伦 @Jarvisgivemeasuit
-> [Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks](https://arxiv.org/abs/1604.02878)  
+    > [Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks](https://arxiv.org/abs/1604.02878)  
 MTCNN，人脸检测的经典方法，一直沿用至今，通过`3-Stage`的实时性人脸检测：P-Net，R-Net，O-Net
 
 ![李京伦]({{ '/assets/2019/seminar-2-14/poster-lijinglun.jpg' | relative_url }})
@@ -98,4 +100,3 @@ AfterParty 第五次活动顺利结束！
 3. 如果计划邀请新朋友参加下次沙龙活动，请让新朋友回复一句话的自我介绍
 
 ## 特别鸣谢CAD中心提供活动场地，以及宋美娜老师和实验室全体人员对本沙龙的支持与帮助~
-
