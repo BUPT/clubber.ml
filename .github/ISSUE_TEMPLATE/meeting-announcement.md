@@ -9,7 +9,7 @@ about: The announcement should be published at least 48 hours before the meeting
 
 # AMC Meeting Announcement
 
-|         S2E12 | Session 2 Episodes 12 |
+|         S2E12 | Season 2 Episodes 12 |
 | ------------: | :-------------------- |
 |          Date | 7-9 pm, Sunday        |
 |      Location | 821, 8th floor, BUPT Research Building |
@@ -20,7 +20,7 @@ about: The announcement should be published at least 48 hours before the meeting
 
 | Minutes | Link                        |
 | ------- | --------------------------- |
-| Blog    | [SsEe (Session s Episodes e)](https://ai-ml.club/events/seminar-meeting-minutes-s-e/) |
+| Blog    | [SsEe (Season s Episodes e)](https://ai-ml.club/events/seminar-meeting-minutes-s-e/) |
 | Issue   | #num                        |
 
 ## Agenda
