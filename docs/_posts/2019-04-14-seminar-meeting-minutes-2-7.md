@@ -43,7 +43,7 @@ header:
 
 - 廖豪劲 @YapheeetS
 > [Natural Language Processing for Information Extraction](https://bupt.github.io/conversational-ai-club/#/papers/natural-language-processing-for-information-extraction-2018)知识提取的综述，介绍了一些非常常用的模型
-![廖豪劲]({{ '/assets/2019/seminar-2-7-poster-yapheeetS.jpg' | relative_url }})
+![廖豪劲]({{ '/assets/2019/seminar-2-7-poster-yapheeets.jpg' | relative_url }})
 
 ----
 授蛋仪式

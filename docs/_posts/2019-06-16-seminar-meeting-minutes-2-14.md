@@ -9,7 +9,7 @@ categories:
 tags:
   - 
 header:
-  teaser: /assets/2019/seminar-2-14/after_party.jpg
+  teaser: /assets/2019/seminar-2-14/after-party.jpg
 ---
 
 << 本次沙龙通知: [#137](https://github.com/BUPT/ai-ml.club/issues/137)  << 
@@ -31,7 +31,7 @@ header:
 > 分享了[Weight Agnostic Neural Networks](https://arxiv.org/abs/1906.04358)
 新的思维方式：从 `固定神经网络架构搜索权重参数` 到 `固定权重参数搜索神经网络架构`
 
-![朱正源]({{ '/assets/2019/seminar-2-14/oral_zhuzhengyuan.jpg'| relative_url }})
+![朱正源]({{ '/assets/2019/seminar-2-14/oral-zhuzhengyuan.jpg'| relative_url }})
 
 ### Poster
 
@@ -39,23 +39,23 @@ header:
 > [A Dual Reinforcement Learning Framework for Unsupervised Text Style Transfer](https://arxiv.org/abs/1905.10060)
 将风格迁移应用到文本之上，通过一个`Style Classifier`进行非监督学习，风格Reward：我们想要的水军，重建Reward：Cycle-GAN的idea保证，好评变差评再变好评
 
-![李卓桓]({{ '/assets/2019/seminar-2-14/poster_lizhuohuan.jpg' | relative_url }})
+![李卓桓]({{ '/assets/2019/seminar-2-14/poster-lizhuohuan.jpg' | relative_url }})
 
 - 刘云 @fuyunfuyun666
 > [Character Region Awareness for Text Detection](https://arxiv.org/abs/1904.01941)
 使用FPN+U-Net的字符级别的文字检测，利用`HeatMap`作为Label进行文本检测，加入文本间关联性的学习，利用弱监督进行字符级别检测
 
-![刘云]({{ '/assets/2019/seminar-2-14/poster_liuyun.jpg' | relative_url }})
+![刘云]({{ '/assets/2019/seminar-2-14/poster-liuyun.jpg' | relative_url }})
 
 - 李京伦 @Jarvisgivemeasuit
 > [Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks](https://arxiv.org/abs/1604.02878)  
 MTCNN，人脸检测的经典方法，一直沿用至今，通过`3-Stage`的实时性人脸检测：P-Net，R-Net，O-Net
 
-![李京伦]({{ '/assets/2019/seminar-2-14/poster_lijinglun.jpg' | relative_url }})
+![李京伦]({{ '/assets/2019/seminar-2-14/poster-lijinglun.jpg' | relative_url }})
 
 ### 学术主席点评
 
-![review]({{ '/assets/2019/seminar-2-14/academic_review.jpg' | relative_url }})
+![review]({{ '/assets/2019/seminar-2-14/academic-review.jpg' | relative_url }})
 
 ## 脑洞拓展
 
@@ -65,7 +65,7 @@ MTCNN，人脸检测的经典方法，一直沿用至今，通过`3-Stage`的实
 
 ## 授蛋仪式
 
-![授蛋]({{ '/assets/2019/seminar-2-14/awarded_egg.jpg' | relative_url }})
+![授蛋]({{ '/assets/2019/seminar-2-14/awarded-egg.jpg' | relative_url }})
 
 ## 集体合照
 
@@ -81,7 +81,7 @@ MTCNN，人脸检测的经典方法，一直沿用至今，通过`3-Stage`的实
 
 AfterParty 第五次活动顺利结束！
 
-![AfterParty]({{ '/assets/2019/seminar-2-14/after_party.jpg' | relative_url }})
+![AfterParty]({{ '/assets/2019/seminar-2-14/after-party.jpg' | relative_url }})
 
 ## 沙龙结论
 

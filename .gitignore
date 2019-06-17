@@ -64,3 +64,5 @@ typings/
 Gemfile.lock
 _site/
 tmp/
+
+package-lock.json
