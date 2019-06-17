@@ -1,0 +1,39 @@
+{
+  "name": "ai-ml.club",
+  "version": "0.0.1",
+  "description": "AI ML Club",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "lint": "npm run lint:fs",
+    "lint:fs": "file-name-linter file-name-linter.json",
+    "test": "npm run test:unit",
+    "test:unit": "blue-tape -r ts-node/register 'src/**/*.spec.ts' 'tests/**/*.spec.ts'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BUPT/ai-ml.club.git"
+  },
+  "keywords": [
+    "AI",
+    "ML",
+    "Club",
+    "AMC"
+  ],
+  "author": "Huan LI <zixia@zixia.net>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/BUPT/ai-ml.club/issues"
+  },
+  "homepage": "https://github.com/BUPT/ai-ml.club#readme",
+  "devDependencies": {
+    "@chatie/eslint-config": "^0.6.12",
+    "@chatie/tsconfig": "^0.6.1",
+    "@types/glob": "^7.1.1",
+    "file-name-linter": "^1.1.0",
+    "glob": "^7.1.4",
+    "tstest": "^0.4.2"
+  }
+}

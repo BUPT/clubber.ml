@@ -9,7 +9,7 @@ categories:
 tags:
   - 
 header:
-  teaser: /assets/2019/seminar-2-8-group-photo.jpeg
+  teaser: /assets/2019/seminar-2-8-group-photo.jpg
 ---
 
 << 本次沙龙通知: [#89](https://github.com/BUPT/ai-ml.club/issues/89)  << 

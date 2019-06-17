@@ -89,7 +89,7 @@ CPM检测人体关节点
 ## After Party
 AfterParty 第三次活动顺利结束！
 
-![AfterParty]({{ '/assets/2019/seminar-2-13/after_party.jpg' | relative_url }})
+![AfterParty]({{ '/assets/2019/seminar-2-13/after-party.jpg' | relative_url }})
 
 ## 沙龙结论
 1. 下一任主席林博，副主席陈帝羲

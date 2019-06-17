@@ -9,7 +9,7 @@ categories:
 tags:
   - 
 header:
-  teaser: /assets/2019/seminar-2-9-group-photo.jpeg
+  teaser: /assets/2019/seminar-2-9-group-photo.jpg
 ---
 
 << 本次沙龙通知: [#95](https://github.com/BUPT/ai-ml.club/issues/95)  << 
@@ -31,11 +31,11 @@ header:
 
 1. 段嘉铭 @VDeamoV 分享 [Histograms of Oriented Gradients for Human Detection](https://hal.inria.fr/file/index/docid/548512/filename/hog_cvpr2005.pdf): 通过方向梯度直方图（Histograms of Oriented Gradient,HOG）对行人进行检测，它通过计算局部区域的梯度方向并进行统计来作为该局部区域的特征。
 
-![段嘉铭]({{ '/assets/2019/seminar-2-9-duanjm-HOG.jpg' | relative_url }})
+![段嘉铭]({{ '/assets/2019/seminar-2-9-duanjm-hog.jpg' | relative_url }})
 
 3. 刘云 @fuyunfuyun666 分享 [Region-of-Interest(RoI) Pooling](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf): 在计算机视觉领域中的一个常用池化技术，把不同大小的图片映射到相同大小的向量然后进行分类。
 
-![刘云]({{ '/assets/2019/seminar-2-9-liuyun-roiPooling.jpg' | relative_url }})
+![刘云]({{ '/assets/2019/seminar-2-9-liuyun-roipooling.jpg' | relative_url }})
 
 ## 授蛋仪式
 
@@ -44,7 +44,7 @@ header:
 
 ## 集体合照
 
-![合照]({{ '/assets/2019/seminar-2-9-group-photo.jpeg' | relative_url }})
+![合照]({{ '/assets/2019/seminar-2-9-group-photo.jpg' | relative_url }})
 
 ## 沙龙结论
 

@@ -14,3 +14,4 @@ mogrify \
   ${FILES}
 
 cd -
+
