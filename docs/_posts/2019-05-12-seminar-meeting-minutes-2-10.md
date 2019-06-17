@@ -12,7 +12,7 @@ header:
   teaser: /assets/2019/seminar-2-10-group-photo-beer.jpg
 ---
 
-<< 本次沙龙通知: [#95](https://github.com/BUPT/ai-ml.club/issues/95)  << 
+<< 本次沙龙通知: [#95](https://github.com/BUPT/ai-ml.club/issues/95)  <<
 
 - 日期：2019-05-12 19:00-02:00
 - 地点：北邮科研楼821会议室 & Laker Bar
@@ -40,7 +40,6 @@ Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks](https
 
 ![EGG]({{ '/assets/2019/seminar-2-10-group-egg.jpg' | relative_url }})
 
-
 ## 集体合照
 
 ![合照]({{ '/assets/2019/seminar-2-10-group-photo.jpg' | relative_url }})
@@ -64,6 +63,7 @@ Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks](https
 活动之后大家十分尽兴，决定在未来每次活动后，由主席根据当时大家的状态，可选的举办 After Party ，让大家能够换个环境更加深度的交流！
 
 关于费用，有两种方式，大家根据情况选择：
+
 1. AA均摊
 1. 赞助者买单
 
@@ -97,4 +97,3 @@ Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks](https
 3. 如果计划邀请新朋友参加下次沙龙活动，请让新朋友回复一句话的自我介绍
 
 ## 特别鸣谢CAD中心提供活动场地，以及宋美娜老师和实验室全体人员对本沙龙的支持与帮助~
-

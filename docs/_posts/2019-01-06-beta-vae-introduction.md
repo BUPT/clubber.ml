@@ -16,14 +16,14 @@ Poster for [2019-01-06 CAIC(Conversaional AI Club)第二十一次CAIC沙龙活�
 
 ![Beta-VAE]({{ '/assets/2019/2019-01-06-beta-vae-introduction-celeba-h-beta10-z32-traverse.jpg' | relative_url }})
 > [Pytorch implementation of β-VAE](https://github.com/1Konny/Beta-VAE)
-
+>  
 > Beta-VAE
 > If each variable in the inferred latent representation z is only sensitive to one single generative factor and relatively invariant to other factors, we will say this representation is disentangled or factorized. One benefit that often comes with disentangled representation is good interpretability and easy generalization to a variety of tasks.
-> 
+>  
 > For example, a model trained on photos of human faces might capture the gentle, skin color, hair color, hair length, emotion, whether wearing a pair of glasses and many other relatively independent factors in separate dimensions. Such a disentangled representation is very beneficial to facial image generation.
-> 
+>  
 > β-VAE ([Higgins et al., 2017](https://openreview.net/forum?id=Sy2fzU9gl)) is a modification of Variational Autoencoder with a special emphasis to discover disentangled latent factors. Following the same incentive in VAE, we want to maximize the probability of generating real data, while keeping the distance between the real and estimated posterior distributions small.
-> 
+>  
 > Source: [From Autoencoder to Beta-VAE](https://lilianweng.github.io/lil-log/2018/08/12/from-autoencoder-to-beta-vae.html)
 
 ## SEE ALSO

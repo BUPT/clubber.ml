@@ -16,7 +16,7 @@ toc_label: "Unique Title"
 toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 
-# Artificial Intelligence & Machine Learning Club
+## Artificial Intelligence & Machine Learning Club
 
 - Full Name: Artificial Intelligence & Machine Learning Club
 - Short Name: AI ML Club
@@ -24,7 +24,7 @@ toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 
 Welcome to the Artificial Intelligence & Machine Learning Club, we are a group of researchers have a paper studying seminar at 7-10pm every sunday!
 
-## JOIN US 💖
+### JOIN US 💖
 
 We have weekly offline meetups, you will be welcome to join if you are interested.
 
