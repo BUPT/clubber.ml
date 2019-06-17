@@ -12,9 +12,9 @@ header:
   teaser: /assets/2019/seminar-2-12-beer.jpg
 ---
 
-<< 本次沙龙通知: #{n} <<
+<< 本次沙龙通知: #ISSUE_NUMBER <<
 
-## 第 {N} 次CAIC沙龙活动纪要
+## 第SEASON季EPISODE场 AI ML Club 活动纪要
 
 - 日期：{2018-08-26 19:00-22:00}
 - 地点：北邮科研楼821会议室
