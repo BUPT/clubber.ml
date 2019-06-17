@@ -2,6 +2,7 @@
 
 [![Colab Notebook](https://img.shields.io/badge/Google_Colab-Notebook-brightgreen.svg)](https://colab.research.google.com/drive/1AO3bwIgzfy63ty8OSSgUPRG1PIii3oo_)
 [![BUPT CAD Project](https://img.shields.io/badge/👀-BUPT_CAD_Project-blue.svg)](https://github.com/bupt/awesome-cad)
+[![Build Status](https://travis-ci.com/BUPT/ai-ml.club.svg?branch=master)](https://travis-ci.com/BUPT/ai-ml.club)
 
 Welcome to Artificial Intelligence & Machine Learning CLUB! 
 
