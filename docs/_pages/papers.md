@@ -16,9 +16,9 @@ toc_label: "Unique Title"
 toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 
-## Papers
+## Papers 📰
 
-We only add paper📰 to this list before we decide to oral/poster it at our AMC seminar.
+We only add paper to this list before we decide to oral/poster it at our AMC seminar.
 
 ### Wishlist
 
@@ -30,14 +30,14 @@ We add paper to this list if we want to presente it later, or want to ask other 
 | @huan | [Oriol Vinyals, Quoc V. Le - A Neural Conversational Model, 2015](https://arxiv.org/pdf/1506.05869.pdf) |
 | @huan | [Google’s Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](https://arxiv.org/pdf/1611.04558.pdf) |
 
-## Session 2 (Episode 1 - 24EST)
+## Season 2 (Episode 1 - 24EST)
 
-### Orals (Session 2)
+### Orals (Season 2)
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
 | [S2E14](https://ai-ml.club/events/seminar-meeting-minutes-2-14/) | [@824zzy](https://github.com/824zzy) | [Weight Agnostic Neural Networks, David Ha, 2019](https://arxiv.org/abs/1906.04358) |
-| [S2E13](https://ai-ml.club/events/seminar-meeting-minutes-2-13/) | [@824zzy](https://github.com/824zzy) | [面相深度学习系统的突变软件测试, Zhu et al., 2019](https://www.overleaf.com/read/ghxjcsvkhtpz) |
+| [S2E13](https://ai-ml.club/events/seminar-meeting-minutes-2-13/) | [@824zzy](https://github.com/824zzy) | [面向深度学习系统的突变软件测试, Zhu et al., 2019](https://www.overleaf.com/read/ghxjcsvkhtpz) |
 | [S2E12](https://ai-ml.club/events/seminar-meeting-minutes-2-12/) | [@824zzy](https://github.com/824zzy) | [Unsupervised Latent Tree Induction with Deep Inside-Outside Recursive Autoencoders, Drozdov et al., NAACL2019](https://arxiv.org/pdf/1904.02142.pdf) |
 | [S2E11](https://ai-ml.club/events/seminar-meeting-minutes-2-11/) | [@barrykui](https://github.com/barrykui) | [A^2-Net: Molecular Structure Estimation from Cryo-EM Density Volumes, Xu et al., AAAI2019](https://arxiv.org/pdf/1901.00785.pdf) |
 | [S2E11](https://ai-ml.club/events/seminar-meeting-minutes-2-11/) | [@CyFeng16](https://github.com/CyFeng16) | [Survey of Neural Architecture Search, Shi, 2019](https://docs.google.com/presentation/d/1llOlyryvinCDd2T-zdaLxEFS6MkybjhGogaaVE6v_No/edit?usp=sharing) |
@@ -49,10 +49,12 @@ We add paper to this list if we want to presente it later, or want to ask other 
 | [S2E02](https://ai-ml.club/events/seminar-meeting-minutes-2-2) |  [@VDeamoV](https://github.com/VDeamoV)  | [travelgan-image-to-image-translation-by-transformation-vector-learning, Amodio et. al, 2019](https://arxiv.org/abs/1902.09631) |
 | [S2E01](https://ai-ml.club/events/seminar-meeting-minutes-2-1) |  [@824zzy](https://github.com/824zzy)  | [Describing Videos by Exploiting Temporal Structure, Li et. al, 2015](https://arxiv.org/pdf/1502.08029.pdf) |
 
-### Posters (Session 2)
+### Posters (Season 2)
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
+| [S2E14](https://ai-ml.club/events/seminar-meeting-minutes-2-14/) | [@fuyunfuyun666](https://github.com/fuyunfuyun666) | [Character Region Awareness for Text Detection, Youngmin Baek et. al., CVPR2019](https://arxiv.org/abs/1904.01941) |
+| [S2E14](https://ai-ml.club/events/seminar-meeting-minutes-2-14/) | [@huan](https://github.com/huan) | [A Dual Reinforcement Learning Framework for Unsupervised Text Style Transfer, Fuli Luo et. al., ACL2019](https://github.com/luofuli/DualRL) |
 | [S2E13](https://ai-ml.club/events/seminar-meeting-minutes-2-13/) | [@chen-dixi](https://github.com/chen-dixi) | [Almost Unsupervised Text to Speech and Automatic Speech Recognition, Yi Ren, et. al., ICML2019](https://speechresearch.github.io/unsuper/) |
 | [S2E13](https://ai-ml.club/events/seminar-meeting-minutes-2-13/) | [@vdeamov](https://github.com/vdeamov) | [TADAM: Task dependent adaptive metric for improved few-shot learnin, Oreshkin, et. al., 2018](http://papers.nips.cc/paper/7352-tadam-task-dependent-adaptive-metric-for-improved-few-shot-learning.pdf) |
 | [S2E13](https://ai-ml.club/events/seminar-meeting-minutes-2-13/) | [@fuyunfuyun666](https://github.com/fuyunfuyun666) | [Detecting Curve Text in the Wild: New Dataset and New Solution, Liu et. al., 2017](https://arxiv.org/abs/1712.02170) |
@@ -62,8 +64,8 @@ We add paper to this list if we want to presente it later, or want to ask other 
 | [S2E12](https://ai-ml.club/events/seminar-meeting-minutes-2-12/) | [@Yapheeets](https://github.com/YapheeetS) | [ORDERED NEURONS: INTEGRATING TREE STRUCTURES INTO RECURRENT NEURAL NETWORKS, Shen et al., ICLR2019](https://arxiv.org/abs/1810.09536) |
 | [S2E11](https://ai-ml.club/events/seminar-meeting-minutes-2-11/) | [@muzi-8](https://github.com/muzi-8) | [Visualization of FCN and Unet](https://docs.google.com/presentation/d/1ZYIQbvSKMdqNXp6ZvNuvTPlryiUA5QXWhBD2v-bILO4/edit#slide=id.g5a9ae80013_0_33) |
 | [S2E11](https://ai-ml.club/events/seminar-meeting-minutes-2-11/) | [@linbo0518](https://github.com/linbo0518) | [3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation, Cicek et al., 2016](https://arxiv.org/pdf/1606.06650.pdf) |
-| [S2E11](https://ai-ml.club/events/seminar-meeting-minutes-2-11/) | [@huan](https://github.com/huan) | [Secondary Structure Elements 3D Segmentation for Protein, Li et. al., 2019](https://github.com/huan/sse-3d-seg/) |
-| [S2E11](https://ai-ml.club/events/seminar-meeting-minutes-2-11/) |  [@824zzy](https://github.com/824zzy)  | Online Scheduled Hard Example Selection for Visual Storytelling, Zhu et. al, 2019(Coming soon) |
+| [S2E11](https://ai-ml.club/events/seminar-meeting-minutes-2-11/) | [@huan](https://github.com/huan) | [Secondary Structure Elements 3D Segmentation for Protein, Li et. al., 2019[Coming Soon]](None) |
+| [S2E11](https://ai-ml.club/events/seminar-meeting-minutes-2-11/) |  [@824zzy](https://github.com/824zzy)  | [Online Scheduled Hard Example Selection for Visual Storytelling, Zhu et. al, 2019](https://www.overleaf.com/read/bpxpdzgfqyxj) |
 | [S2E10](https://ai-ml.club/events/seminar-meeting-minutes-2-10/) |  [@linbo0518](https://github.com/linbo0518)  | [轮子不够自己造：PyTorch’s Semantic Segmentation Toolbox](https://github.com/linbo0518/BLSeg) |
 | [S2E10](https://ai-ml.club/events/seminar-meeting-minutes-2-10/) |  [@824zzy](https://github.com/824zzy)  | [Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks, Samy et. al, 2015](https://arxiv.org/pdf/1506.03099.pdf) |
 | [S2E09](https://ai-ml.club/events/seminar-meeting-minutes-2-9/) |  [@vdeamov](https://github.com/vdeamov)  | [Histograms of Oriented Gradients for Human Detection, Navneet et. al, CVPR2005](https://hal.inria.fr/file/index/docid/548512/filename/hog_cvpr2005.pdf) |
@@ -87,9 +89,9 @@ We add paper to this list if we want to presente it later, or want to ask other 
 | [S2E02](https://ai-ml.club/events/seminar-meeting-minutes-2-2) |  [@cgpeter96](https://github.com/cgpeter96)  | [图神经网络工具DGL介绍](https://docs.dgl.ai/#get-started) |
 | [S2E01](https://ai-ml.club/events/seminar-meeting-minutes-2-1) |  [@cgpeter96](https://github.com/cgpeter96) | [Learning Semantic Concepts and Order for Image and Sentence Matching, Huang et. al, 2018](https://arxiv.org/abs/1712.02036) |
 
-## Session 1 (Episode 1 - 23)
+## Season 1 (Episode 1 - 23)
 
-### Orals (Session 1)
+### Orals (Season 1)
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
@@ -115,7 +117,7 @@ We add paper to this list if we want to presente it later, or want to ask other 
 | [S1E06](https://github.com/BUPT/ai-ml.club/issues/13) |  [@initc](https://github.com/initc)  | [MACHINE COMPREHENSION USING MATCH-LSTM AND ANSWER POINTER, Shuohang et. al, 2016](https://arxiv.org/pdf/1608.07905.pdf) |
 | [S1E05](https://github.com/BUPT/ai-ml.club/issues/10) |  [@824zzy](https://github.com/824zzy)  | [Link Prediction using Embedded Knowledge Graphs, Yelong et. al, 2016-11-14](https://arxiv.org/abs/1611.04642) |
 
-### Posters (Session 1)
+### Posters (Season 1)
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
