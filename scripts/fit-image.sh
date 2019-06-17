@@ -10,18 +10,23 @@ function resize () {
     ${FILE}
 }
 
-DSTDIR=${1:-.}
-echo "${DSTDIR}"
+DST=${1:-.}
 
-pushd ${DSTDIR}
+if [ -f "$DST" ]; then
+  echo "fit-image: $DST is file"
+  resize "$DST"
+  exit 0
+fi
+
+echo "fit-image: $DST is directory"
+pushd ${DST}
 
 # FILES=$(git ls-files --exclude-standard --others *.jpg)
-FILE_LIST=($(find . -type f -name *.jpg -o -name *.png -o -name *.gif))
+FILE_LIST=($(find . -type f -name '*.jpg' -o -name '*.png' -o -name '*.gif'))
 
 for FILE in "${FILE_LIST[@]}"; do
   WIDTH=$(identify -ping -format '%w' "$FILE")
   if [ $WIDTH -gt 1920 ]; then
-    echo "$FILE $WIDTH"
     resize $FILE
   fi
 done

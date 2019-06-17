@@ -31,11 +31,10 @@ test('pull request title', async t => {
 })
 
 test('image size should not more than 1MB', async t => {
-  const MAX_WIDTH = 1920    // HD
-  const MAX_SIZE = 1024 * 1024 * 1024   // 1MB
+  const MAX_WIDTH = 1920         // HD
+  const MAX_SIZE  = 1024 * 1024  // 1MB
 
   const fileList = await glob('docs/assets/**/*.{jpg,png,gif}')
-
   t.true(fileList.length > 0, 'should get image file list')
 
   for (const file of fileList) {
@@ -43,7 +42,7 @@ test('image size should not more than 1MB', async t => {
     const size = fs.statSync(file)['size']
 
     if (dim.width > MAX_WIDTH || size > MAX_SIZE) {
-      t.fail(`${file} exceed the max limit: width: ${dim.width}, size: ${size}`)
+      t.fail(`${file} exceed the max limit: width: ${dim.width}, size: ${size}. use ./scripts/fit-image.sh to adjust it fit.`)
     }
   }
 })

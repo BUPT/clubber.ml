@@ -7,7 +7,7 @@
     "doc": "docs"
   },
   "scripts": {
-    "fit-image": "./scripts/fit-image.sh docs/assets/",
+    "fit-image": "./scripts/fit-image.sh",
     "lint": "npm run lint:fn",
     "lint:fn": "file-name-linter file-name-linter.json",
     "test": "npm run lint && npm run test:unit",
