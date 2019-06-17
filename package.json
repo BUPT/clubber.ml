@@ -7,8 +7,8 @@
     "doc": "docs"
   },
   "scripts": {
-    "lint": "npm run lint:fs",
-    "lint:fs": "file-name-linter file-name-linter.json",
+    "lint": "npm run lint:fn",
+    "lint:fn": "file-name-linter file-name-linter.json",
     "test": "npm run lint && npm run test:unit",
     "test:unit": "blue-tape -r ts-node/register 'src/**/*.spec.ts' 'tests/**/*.spec.ts'"
   },
@@ -32,8 +32,12 @@
     "@chatie/eslint-config": "^0.6.12",
     "@chatie/tsconfig": "^0.6.1",
     "@types/glob": "^7.1.1",
+    "@types/image-size": "^0.7.0",
     "file-name-linter": "^1.1.0",
     "glob": "^7.1.4",
+    "image-size": "^0.7.4",
+    "is-pr": "^1.1.0",
+    "probe-image-size": "^4.0.0",
     "tstest": "^0.4.2"
   }
 }
