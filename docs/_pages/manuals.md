@@ -16,7 +16,7 @@ toc_label: "Unique Title"
 toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 
-# AI ML Club Manuals
+## AI ML Club Manuals
 
 - [Code of Conduct](/code-of-conduct/)
 - Manual

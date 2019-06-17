@@ -37,4 +37,3 @@ toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 
 > _"Never have a meeting where two pizzas couldn't feed the entire group."_  
 > -- Jeff Bezos, Amazon CEO
-

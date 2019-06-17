@@ -12,9 +12,9 @@ header:
   teaser: /assets/2019/seminar-2-9-group-photo.jpg
 ---
 
-<< 本次沙龙通知: [#95](https://github.com/BUPT/ai-ml.club/issues/95)  << 
+<< 本次沙龙通知: [#95](https://github.com/BUPT/ai-ml.club/issues/95)  <<
 
-# 第二季第九次CAIC沙龙活动纪要
+## 第二季第九次CAIC沙龙活动纪要
 
 - 日期：2019-05-05 19:00-22:00
 - 地点：北邮科研楼821会议室
@@ -22,8 +22,7 @@ header:
 - 轮值副主席：李卓桓
 - 会员：刘云
 
-
-## 沙龙内容
+### 沙龙内容
 
 1. 朱正源 @824zzy 分享 [第二代神经图灵机：动态神经计算机（Dynamic neural computer）](https://www.nature.com/articles/nature20101): 第二代神经图灵机主要针对内存寻址进行了较大改动，并且添加了时序记忆的模块。
 
@@ -33,14 +32,13 @@ header:
 
 ![段嘉铭]({{ '/assets/2019/seminar-2-9-duanjm-hog.jpg' | relative_url }})
 
-3. 刘云 @fuyunfuyun666 分享 [Region-of-Interest(RoI) Pooling](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf): 在计算机视觉领域中的一个常用池化技术，把不同大小的图片映射到相同大小的向量然后进行分类。
+1. 刘云 @fuyunfuyun666 分享 [Region-of-Interest(RoI) Pooling](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf): 在计算机视觉领域中的一个常用池化技术，把不同大小的图片映射到相同大小的向量然后进行分类。
 
 ![刘云]({{ '/assets/2019/seminar-2-9-liuyun-roipooling.jpg' | relative_url }})
 
 ## 授蛋仪式
 
 ![EGG]({{ '/assets/2019/seminar-2-9-group-egg.jpg' | relative_url }})
-
 
 ## 集体合照
 
@@ -56,7 +54,6 @@ header:
 6. 参会会员可以分享自己的研究领域的研究发现和自己科研心得体会。
 7. 确定下一次活动的轮值副主席为段嘉铭。
 
-
 ## RSVP
 
 注：“回复”操作，指的是回复本ISSUE留言
@@ -66,4 +63,3 @@ header:
 3. 如果计划邀请新朋友参加下次沙龙活动，请让新朋友回复一句话的自我介绍
 
 ## 特别鸣谢CAD中心提供活动场地，以及宋美娜老师和实验室全体人员对本沙龙的支持与帮助~
-
