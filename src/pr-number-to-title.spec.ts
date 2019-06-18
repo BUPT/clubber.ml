@@ -10,8 +10,6 @@ test('pr number to title', async t => {
   const PR = 141
   const EXPECTED_TITLE = 'fix S2E13'
 
-  for (let n = 0; n < 100; n++) {
-    const title = await prNumberToTitle(ORG, REPO, PR)
-    t.equal(title, EXPECTED_TITLE, 'should get the right pr title #' + n)
-  }
+  const title = await prNumberToTitle(ORG, REPO, PR)
+  t.equal(title, EXPECTED_TITLE, 'should get the right pr title')
 })
