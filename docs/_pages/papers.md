@@ -30,7 +30,12 @@ We add paper to this list if we want to presente it later, or want to ask other 
 | @huan | [Oriol Vinyals, Quoc V. Le - A Neural Conversational Model, 2015](https://arxiv.org/pdf/1506.05869.pdf) |
 | @huan | [Google’s Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](https://arxiv.org/pdf/1611.04558.pdf) |
 
-## Season 2 (Episode 1 - 24EST)
+## AMC Season 2
+
+| Season  | 2         |
+| ------- | --------- |
+| Episode | 1 - 24EST |
+| Date    | 3 March 2019 - ? ? 2019|
 
 ### Orals (Season 2)
 
@@ -91,7 +96,12 @@ We add paper to this list if we want to presente it later, or want to ask other 
 | [S2E02](https://ai-ml.club/events/seminar-meeting-minutes-2-2) |  [@cgpeter96](https://github.com/cgpeter96)  | [图神经网络工具DGL介绍](https://docs.dgl.ai/#get-started) |
 | [S2E01](https://ai-ml.club/events/seminar-meeting-minutes-2-1) |  [@cgpeter96](https://github.com/cgpeter96) | [Learning Semantic Concepts and Order for Image and Sentence Matching, Huang et. al, 2018](https://arxiv.org/abs/1712.02036) |
 
-## Season 1 (Episode 1 - 23)
+## AMC Season 1
+
+| Season  | 1      |
+| ------- | ------ |
+| Episode | 1 - 23 |
+| Date    | 8 August 2018 - 13 January 2019 |
 
 ### Orals (Season 1)
 
