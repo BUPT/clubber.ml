@@ -67,3 +67,4 @@ tmp/
 
 package-lock.json
 *.bak
+t.*
