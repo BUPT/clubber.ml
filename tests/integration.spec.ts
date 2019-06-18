@@ -6,11 +6,12 @@ import fs from 'fs'
 import util from 'util'
 
 import probeImageSize from 'probe-image-size'
-
 import globCB from 'glob'
 const glob = util.promisify(globCB)
 
 const isPR = require('is-pr')
+
+import { prNumberToTitle } from '../src/pr-number-to-title'
 
 test('integration testing', async t => {
   t.pass('ok')
@@ -18,7 +19,9 @@ test('integration testing', async t => {
 
 test('pull request title', async t => {
   if (isPR) {
-    const prTitle = process.env['TRAVIS_PULL_REQUEST_TITLE'] as string
+    const prNum = parseInt(process.env['TRAVIS_PULL_REQUEST'] as string)
+    const prTitle = await prNumberToTitle('bupt', 'ai-ml.club', prNum)
+
     if (prTitle.match(/(oral|poster)/i)) {
       // > 🗣Oral | 📰Poster - Paper Title
       t.true(prTitle.match(/^(🗣|📰)/), 'Oral or Poster should be started from 🗣 or 📰')

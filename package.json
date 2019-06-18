@@ -35,6 +35,7 @@
     "@chatie/tsconfig": "^0.6.1",
     "@types/glob": "^7.1.1",
     "@types/image-size": "^0.7.0",
+    "file-box": "^0.8.27",
     "file-name-linter": "^1.1.0",
     "glob": "^7.1.4",
     "image-size": "^0.7.4",
