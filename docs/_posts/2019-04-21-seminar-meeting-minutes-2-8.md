@@ -9,12 +9,12 @@ categories:
 tags:
   - 
 header:
-  teaser: /assets/2019/seminar-2-8-group-photo.jpeg
+  teaser: /assets/2019/seminar-2-8-group-photo.jpg
 ---
 
-<< 本次沙龙通知: [#89](https://github.com/BUPT/ai-ml.club/issues/89)  << 
+<< 本次沙龙通知: [#89](https://github.com/BUPT/ai-ml.club/issues/89)  <<
 
-# 第二季第八次CAIC沙龙活动纪要
+## 第二季第八次CAIC沙龙活动纪要
 
 - 日期：2019-04-21 19:00-22:00
 - 地点：北邮科研楼821会议室
@@ -23,31 +23,27 @@ header:
 - 会员：李卓桓、陈光、刘云
 - 新人：曹志航
 
-
-
 ## 沙龙内容
 
 1. 朱正源 @824zzy 分享 [初代神经图灵机原理与代码](https://bupt.github.io/conversational-ai-club/#/papers/neural-turing-machines-2014)
 
  ![朱正源]({{ '/assets/2019/seminar-2-8-zzy.jpg' | relative_url }})
 
-2. 廖豪劲 @YapheeetS 分享 [针对段落的层次自编码器](https://bupt.github.io/conversational-ai-club/#/papers/a-hierarchical-neural-autoencoder-for-paragraphs-and-documents-2015)
+1. 廖豪劲 @YapheeetS 分享 [针对段落的层次自编码器](https://bupt.github.io/conversational-ai-club/#/papers/a-hierarchical-neural-autoencoder-for-paragraphs-and-documents-2015)
 
  ![廖豪劲]({{ '/assets/2019/seminar-2-8-lhj.jpg' | relative_url }})
 
-3. 刘云 @fuyunfuyun666 分享 [基于Incetion-text的场景文字识别](https://bupt.github.io/conversational-ai-club/#/papers/inceptext-a-new-inception-text-module-with-deformable-psroi-pooling-for-multi-oriented-scene-text-detection-2018)
+1. 刘云 @fuyunfuyun666 分享 [基于Incetion-text的场景文字识别](https://bupt.github.io/conversational-ai-club/#/papers/inceptext-a-new-inception-text-module-with-deformable-psroi-pooling-for-multi-oriented-scene-text-detection-2018)
 
  ![刘云]({{ '/assets/2019/seminar-2-8-ly.jpg' | relative_url }})
 
-4. 陈光 @cgpeter96 分享 图神经网络的基本概念
-
+1. 陈光 @cgpeter96 分享 图神经网络的基本概念
 
  ![刘云]({{ '/assets/2019/seminar-2-8-cg.jpg' | relative_url }})
 
 ## 授蛋仪式
 
  ![egg]({{ '/assets/2019/seminar-2-8-group-egg.jpg' | relative_url }})
-
 
 ## 集体合照
 
@@ -63,7 +59,6 @@ header:
 6. 参会会员可以分享自己的研究领域的研究发现和自己科研心得体会。
 7. 下次沙龙活动时间因五一劳动节顺延到5月5日~
 
-
 ## RSVP
 
 注：“回复”操作，指的是回复本ISSUE留言
@@ -73,4 +68,3 @@ header:
 3. 如果计划邀请新朋友参加下次沙龙活动，请让新朋友回复一句话的自我介绍
 
 ## 特别鸣谢CAD中心提供活动场地，以及宋美娜老师和实验室全体人员对本沙龙的支持与帮助~
-

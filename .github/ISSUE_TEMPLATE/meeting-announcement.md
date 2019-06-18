@@ -2,40 +2,68 @@
 name: Meeting Announcement
 about: The announcement should be published at least 48 hours before the meeting, and the minutes should be published no more than 48 hours after the meeting.
 ---
+
 > TITLE TEMPLATE:  
 > S2E12 AMC Meeting Announcement  
 > DELETE THIS PART AFTER FINISHED COPY/PASTE
 
-<< _Previous AMC meeting minutes: [S2E11](https://ai-ml.club/events/seminar-meeting-minutes-2-11/)_ <<
+# AMC Meeting Announcement
 
-# AMC meeting announcement
+|         S2E12 | Season 2 Episodes 12 |
+| ------------: | :-------------------- |
+|          Date | 7-10 pm, Sunday        |
+|      Location | 821, 8th floor, BUPT Research Building |
+|      Chairman | @824zzy               |
+| Vice Chairman | @huan                 |
 
-## Session 2 Episodes 12 (S2E12)
+## Previous Meeting
 
-- Date/Time: 7-9 pm, Sunday
-- Location: 821, 8th floor, BUPT Research Building
-- Rotating Chairman：Zhengyuan ZHU
-  - Vice Chairman：Huan LI
+| Minutes | Link                        |
+| ------- | --------------------------- |
+| Blog    | [SsEe (Season s Episodes e)](https://ai-ml.club/events/seminar-meeting-minutes-s-e/) |
+| Issue   | #num                        |
 
-## Oral Presentation
+## Agenda
 
-> Oral should be prepared for **15 - 30** minutes, and no more than _45_ minutes, including Q/A.
+### 1. Oral
 
-| Oral Presenter | Paper |
-| -------------- | ----- |
-| Zhengyuan ZHU @824zzy | [PAPER NAME](https://arxiv.org/PAPER_URL) |
+> Oral should be prepared for _15 - 30_ minutes, and no more than **45** minutes, including Q/A.
 
-## Poster Presentations
+| Presenter | Paper                                     |
+| --------- | ----------------------------------------- |
+| @824zzy   | [PAPER NAME](https://arxiv.org/PAPER_URL) |
 
-> Posters should be prepared for **5 - 10** minutes, and no more than _15_ minutes, including Q/A.
+### 2. Poster
 
-| Poster Presenter | Paper |
-| ---------------- | ----- |
-| Huan LI @huan | [PAPER NAME](https://arxiv.org/PAPER_URL) |
-| NAME @GITHUB_USERNAME | [PAPER NAME](https://arxiv.org/PAPER_URL) |
+> 1. Posters should be prepared for _5 - 10_ minutes, and no more than **15** minutes, including Q/A.
+> 1. No more than **4** posters per seminar. If there's more than 4 posters purposals(PRs), the chairman should pick at most 4, and leave the others in the PR queue.
 
-## New Comers
+| Presenter | Paper                                     |
+| --------- | ----------------------------------------- |
+| @huan     | [PAPER NAME](https://arxiv.org/PAPER_URL) |
+| @GITHUB_USERNAME | [PAPER NAME](https://arxiv.org/PAPER_URL) |
 
-| Referrer | Newcomer | GitHub | Bio |
-| -------- | -------- | ------ | --- |
-| @huan | NAME | @GITHUB_USERNAME | ONE SENTENCE BIOGRAPHY |
+### 3. After Party
+
+Everyone will be welcome. You can join or not join as you want (not required by the AMC), and change your mind at anytime.
+
+1. After Party will be started right after all the meeting agenda had been fulfilled.
+1. We will find a bar and drink beers and talk whatever we want. (we can expect that it will be related to meeting topics of the day)
+1. The bill will be paid AA
+
+#### Party Animals
+
+> List all members here except those who confirmed not coming. Put a * at the end of the members' name if they said _maybe_
+
+1. 🍻 @huan
+1. 🍺 @824zzy *
+
+## Newcomers
+
+> Please remove the following table and set the number to 0 if there's no newcomers.
+
+Newcomers number: 1
+
+| Referrer | Newcomer  | Bio |
+| -------- | --------- | --- |
+| @huan    | @NEWCOMER | ONE_SENTENCE_BIOGRAPHY |

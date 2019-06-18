@@ -8,4 +8,4 @@ categories:
 tags:
   - vae
 ---
-Link: http://papers.nips.cc/paper/7291-introvae-introspective-variational-autoencoders-for-photographic-image-synthesis
+Link: <http://papers.nips.cc/paper/7291-introvae-introspective-variational-autoencoders-for-photographic-image-synthesis>
