@@ -14,6 +14,7 @@ header:
 ---
 
 ## Hand-writing image version
-![](https://ws1.sinaimg.cn/large/ca26ff18gy1g1u7a6lduaj20zf19u1d4.jpg)
-![](https://ws1.sinaimg.cn/large/ca26ff18gy1g1u7aj7ktxj20zf19uk31.jpg)
-![](https://ws1.sinaimg.cn/large/ca26ff18gy1g1u7as81fnj20zf19utfw.jpg)
+
+![img](https://ws1.sinaimg.cn/large/ca26ff18gy1g1u7a6lduaj20zf19u1d4.jpg)
+![img](https://ws1.sinaimg.cn/large/ca26ff18gy1g1u7aj7ktxj20zf19uk31.jpg)
+![img](https://ws1.sinaimg.cn/large/ca26ff18gy1g1u7as81fnj20zf19utfw.jpg)
