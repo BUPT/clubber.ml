@@ -12,9 +12,9 @@ header:
   teaser: /assets/2019/seminar-2-12-beer.jpg
 ---
 
-<< 本次沙龙通知: #{n} << 
+<< 本次沙龙通知: #ISSUE_NUMBER <<
 
-# 第 {N} 次CAIC沙龙活动纪要
+## 第SEASON季EPISODE场 AI ML Club 活动纪要
 
 - 日期：{2018-08-26 19:00-22:00}
 - 地点：北邮科研楼821会议室
@@ -27,15 +27,14 @@ header:
 
 授蛋仪式照片：
 
+### 沙龙内容
 
-## 沙龙内容
-
 1. {name1} 分享 {paper name1}
 1. {name1} 分享 {paper name1}
 1. {name1} 分享 {paper name1}
 1. {name1} 分享 {paper name1}
 
-## 沙龙结论
+### 沙龙结论
 
 1. 第 {N+1} 次CAIC沙龙活动时间：{9月2日（周日）19-22点}
 1. 第 {N+1} 次CAIC沙龙活动
@@ -43,8 +42,7 @@ header:
     1. 轮值副主席：{name} @{github name}
 1. 学术主席(Chief Academic Counselor)点评
 
-
-## RSVP
+### RSVP
 
 注：“回复”操作，指的是回复本ISSUE留言
 
