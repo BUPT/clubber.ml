@@ -16,22 +16,20 @@ header:
 
 - 日期：2019-04-07 19:00-21:30
 - 地点：北邮科研楼817会议室
-- 轮值主席： 刘云 
+- 轮值主席： 刘云
 - 轮值副主席：段嘉铭
 - 会员：张崇宇、朱正源、廖豪劲、马晓奇
 - 新人：王琦、魏秋实
 
-
 ## 沙龙内容
 
-
-- 朱正源  @824zzy 
-> 主题感知和混合专家知识来进行零样本视频摘要——Learning to Compose Topic-Aware Mixture of Experts for Zero-shot Video Captioning
+- 朱正源  @824zzy
+    > 主题感知和混合专家知识来进行零样本视频摘要——Learning to Compose Topic-Aware Mixture of Experts for Zero-shot Video Captioning
 
 ![微信图片_20190331234555]({{ '/assets/2019/seminar-2-6-oral-zzy.jpg' | relative_url }})
 
-- 刘云 @fuyunfuyun666 
-> 基于字符注意力全卷积网络(CA-FCN)的自然场景文本识别
+- 刘云 @fuyunfuyun666
+    > 基于字符注意力全卷积网络(CA-FCN)的自然场景文本识别
 
 ![微信图片_20190331234533]({{ '/assets/2019/seminar-2-6-poster-liuyun.jpg' | relative_url }})
 
@@ -43,8 +41,8 @@ header:
 集体合照
 ![微信图片_20190331234729]({{ '/assets/2019/seminar-2-6-group-photo.jpg' | relative_url }})
 
-
 ## 沙龙结论
+
 1. 活动通知提前48小时发出，可以先发然后再接着修改
 2. 论文内容可以更丰富，不局限于现在的主题
 3. 发挥副主席提醒作用(主席因事无法正常发布应求助副主席)
@@ -59,6 +57,3 @@ header:
 1. 如果对活动纪要有修订意见，请回复对本次沙龙纪补充
 2. 如果参加下次沙龙活动，请回复下次自己的分享是 Oral（30-45分钟) 还是Poster（5-15分钟)
 3. 如果计划邀请新朋友参加下次沙龙活动，请让新朋友回复一句话的自我介绍
-
-
-

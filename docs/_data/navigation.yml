@@ -4,7 +4,7 @@ main:
   - title: "Events"
     url: /categories/#events
   - title: "Manuals"
-    url: "https://github.com/BUPT/ai-ml.club/wiki"
+    url: "/manuals/"
   # - title: "Posts"
   #   url: /year-archive/
   - title: "Categories"

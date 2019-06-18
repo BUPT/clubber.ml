@@ -15,7 +15,6 @@ tags:
 
 Link: <https://docs.google.com/presentation/d/1iodAZkOX0YMnUwohgQqNsbEkhR0zAnO-jncK9SkJ69o/edit?usp=sharing>
 
-
 ### TensorFlow Keras TPUs
 
 Link: <https://docs.google.com/presentation/d/12gKSBBg-nmpxvioLwwnZQCalv4frfxYq25ClvT1ZdqE/edit?usp=sharing>
