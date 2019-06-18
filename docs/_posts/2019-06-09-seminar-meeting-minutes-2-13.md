@@ -1,6 +1,6 @@
 ---
 title: 第二季第13场 AI ML Club 活动纪要
-author: fuyunfuyun666
+author: cgpeter96
 date: 2019-06-09 19:00 +0800
 comments: true
 mathjax: true
@@ -9,7 +9,7 @@ categories:
 tags:
   - 
 header:
-  teaser: /assets/2019/seminar-2-12-beer.jpg
+  teaser: /assets/2019/seminar-2-13/after-party.jpg
 ---
 
 << 本次沙龙通知: [#123](https://github.com/BUPT/ai-ml.club/issues/123)  <<

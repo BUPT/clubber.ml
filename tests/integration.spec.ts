@@ -17,7 +17,7 @@ test('integration testing', async t => {
   t.pass('ok')
 })
 
-test('pull request title', async t => {
+test.skip('pull request title', async t => {
   if (isPR) {
     const prNum = parseInt(process.env['TRAVIS_PULL_REQUEST'] as string)
     const prTitle = await prNumberToTitle('bupt', 'ai-ml.club', prNum)
