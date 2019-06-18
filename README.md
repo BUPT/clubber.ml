@@ -10,6 +10,7 @@ Here are all of friends for Code, Paper, and Beers! 🍻
 
 - Paper Index: <https://ai-ml.club/papers>
 - Meetup Announcements & Minutes: <https://ai-ml.club/categories/#events>
+- Newcomer Manual: <https://ai-ml.club/manuals/newcomer/>
 
 ## JOIN US 💖
 
