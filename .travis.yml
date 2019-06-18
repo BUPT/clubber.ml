@@ -10,4 +10,5 @@ cache:
     - node_modules
 
 script:
+  - env
   - npm test
