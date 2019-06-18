@@ -48,8 +48,8 @@ TuringLee:
   bio         : "明明可以靠脸，偏偏要靠才华，因为我不是明明"
   avatar      : "https://avatars0.githubusercontent.com/u/17496872?s=460&v=4"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
       url: "https://github.com/TuringLee"
 
 
@@ -58,8 +58,8 @@ cgpeter96:
   bio         : "Beiguo Man"
   avatar      : "https://avatars2.githubusercontent.com/u/18066295?s=96&v=4"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
       url: "https://github.com/cgpeter96"
 
 VDeamoV:
@@ -76,6 +76,6 @@ fuyunfuyun666:
   bio         : "真的很不错哦"
   avatar      : "https://avatars1.githubusercontent.com/u/42915208?s=400&u=c1ad7ea34603b95207f3f59391db4402c2d57d6d&v=4"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
       url: "https://github.com/fuyunfuyun666"
