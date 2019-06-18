@@ -53,6 +53,7 @@ We add paper to this list if we want to presente it later, or want to ask other 
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
+| [S2E14](https://ai-ml.club/events/seminar-meeting-minutes-2-14/) | [@Jarvisgivemeasuit](https://github.com/Jarvisgivemeasuit) | [Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks, Zhang et al., IEEE Signal Processing Letters 2016](https://arxiv.org/abs/1604.02878) |
 | [S2E14](https://ai-ml.club/events/seminar-meeting-minutes-2-14/) | [@fuyunfuyun666](https://github.com/fuyunfuyun666) | [Character Region Awareness for Text Detection, Youngmin Baek et. al., CVPR2019](https://arxiv.org/abs/1904.01941) |
 | [S2E14](https://ai-ml.club/events/seminar-meeting-minutes-2-14/) | [@huan](https://github.com/huan) | [A Dual Reinforcement Learning Framework for Unsupervised Text Style Transfer, Fuli Luo et. al., ACL2019](https://github.com/luofuli/DualRL) |
 | [S2E13](https://ai-ml.club/events/seminar-meeting-minutes-2-13/) | [@chen-dixi](https://github.com/chen-dixi) | [Almost Unsupervised Text to Speech and Automatic Speech Recognition, Yi Ren, et. al., ICML2019](https://speechresearch.github.io/unsuper/) |
@@ -62,6 +63,7 @@ We add paper to this list if we want to presente it later, or want to ask other 
 | [S2E12](https://ai-ml.club/events/seminar-meeting-minutes-2-12/) | [@huan](https://github.com/huan) | [Speech2Face: Learning the Face Behind a Voice, Tae-Hyun et. al., 2019](https://arxiv.org/pdf/1905.09773.pdf) |
 | [S2E12](https://ai-ml.club/events/seminar-meeting-minutes-2-12/) | [@linbo0518](https://github.com/linbo0518) | [Bag of Tricks for Image Classification with Convolutional Neural Networks, He et al., 2018](https://arxiv.org/abs/1812.01187) |
 | [S2E12](https://ai-ml.club/events/seminar-meeting-minutes-2-12/) | [@Yapheeets](https://github.com/YapheeetS) | [ORDERED NEURONS: INTEGRATING TREE STRUCTURES INTO RECURRENT NEURAL NETWORKS, Shen et al., ICLR2019](https://arxiv.org/abs/1810.09536) |
+| [S2E12](https://ai-ml.club/events/seminar-meeting-minutes-2-11/) | [@houzhenggangGit](https://github.com/houzhenggangGit) | [Convolutional Pose Machines](https://arxiv.org/abs/1602.00134) |
 | [S2E11](https://ai-ml.club/events/seminar-meeting-minutes-2-11/) | [@muzi-8](https://github.com/muzi-8) | [Visualization of FCN and Unet](https://docs.google.com/presentation/d/1ZYIQbvSKMdqNXp6ZvNuvTPlryiUA5QXWhBD2v-bILO4/edit#slide=id.g5a9ae80013_0_33) |
 | [S2E11](https://ai-ml.club/events/seminar-meeting-minutes-2-11/) | [@linbo0518](https://github.com/linbo0518) | [3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation, Cicek et al., 2016](https://arxiv.org/pdf/1606.06650.pdf) |
 | [S2E11](https://ai-ml.club/events/seminar-meeting-minutes-2-11/) | [@huan](https://github.com/huan) | [Secondary Structure Elements 3D Segmentation for Protein, Li et. al., 2019[Coming Soon]](None) |

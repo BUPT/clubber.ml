@@ -29,38 +29,32 @@ header:
 
 ## 沙龙内容
 
-1. 李童俊 @TuringLee 分享 https://bupt.github.io/conversational-ai-club/#/papers/the-design-and-implementation-of-xiaoice-an-empathetic-social-chatbot
+1. 李童俊 @TuringLee 分享 <https://bupt.github.io/conversational-ai-club/#/papers/the-design-and-implementation-of-xiaoice-an-empathetic-social-chatbot>
 Poster
 
 ![李童俊]({{ 'assets/2019/seminar-21-talk-litongjun.jpg' | relative_url }})
 
-
-2. 段清华 @qhduan 分享 https://bupt.github.io/conversational-ai-club/#/papers/recurrent-attention-network-on-memory-for-aspect-sentiment-analysis-2017
+1. 段清华 @qhduan 分享 <https://bupt.github.io/conversational-ai-club/#/papers/recurrent-attention-network-on-memory-for-aspect-sentiment-analysis-2017>
 
 ![段清华]({{ 'assets/2019/seminar-21-talk-duanqinghua.jpg' | relative_url }})
 
-
-3. 王诗蕊 @wangshirui33 分享 https://bupt.github.io/conversational-ai-club/#/papers/cw2vec-learning-chinese-word-embeddings-with-stroke-n-gram-information-2018agnostic-word-representation-2018.md
-
+1. 王诗蕊 @wangshirui33 分享 <https://bupt.github.io/conversational-ai-club/#/papers/cw2vec-learning-chinese-word-embeddings-with-stroke-n-gram-information-2018agnostic-word-representation-2018.md>
 
 ![王诗蕊]({{ 'assets/2019/seminar-21-talk-wangshirui.jpg' | relative_url }})
 
-
-4. 张如如 @zhangruru1 分享 IntroVAE: Introspective Variational Autoencoders for Photographic Image Synthesis
+1. 张如如 @zhangruru1 分享 IntroVAE: Introspective Variational Autoencoders for Photographic Image Synthesis
 
 ![张如如]({{ 'assets/2019/seminar-21-talk-zhangruru.jpg' | relative_url }})
 
-
-5. 许明英 分享 NASH: Toward End-to-End Neural Architexcture for Generative Semantic Hashing
+1. 许明英 分享 NASH: Toward End-to-End Neural Architexcture for Generative Semantic Hashing
 
 ![许明英]({{ 'assets/2019/seminar-21-talk-xumingying.jpg' | relative_url }})
 
-6. 李睿 分享 @lirui123456789 FRAGE: Frequency-Agnostic Word Representation
+1. 李睿 分享 @lirui123456789 FRAGE: Frequency-Agnostic Word Representation
 
 ![李睿]({{ 'assets/2019/seminar-21-talk-lirui.jpg' | relative_url }})
 
-
-7. 李卓桓 分享 @huan https://bupt.github.io/conversational-ai-club/#/papers/beta-vae-learning-basic-visual-concepts-with-a-constrained-variational-framework
+1. 李卓桓 分享 @huan <https://bupt.github.io/conversational-ai-club/#/papers/beta-vae-learning-basic-visual-concepts-with-a-constrained-variational-framework>
 
 ![李卓桓]({{ 'assets/2019/seminar-21-talk-huan.jpg' | relative_url }})
 
@@ -71,7 +65,6 @@ Poster
     1. 轮值主席：李童俊 @TuringLee
     2. 轮值副主席：王诗蕊 @wangshirui33
 1. 学术主席(Chief Academic Counselor)点评 李童俊 @TuringLee
-
 
 ![CAIC合影]({{ 'assets/2019/seminar-21-group-photo.jpg' | relative_url }})
 

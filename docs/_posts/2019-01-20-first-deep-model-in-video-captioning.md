@@ -14,19 +14,21 @@ header:
 ---
 
 ## 论文基本信息
+
 1. 论文名：Translating Videos to Natural Language Using Deep Recurrent Neural Networks
 
-2. 论文链接：https://www.cs.utexas.edu/users/ml/papers/venugopalan.naacl15.pdf
+2. 论文链接：<https://www.cs.utexas.edu/users/ml/papers/venugopalan.naacl15.pdf>
 
 3. 论文源码：
-    - [https://github.com/vsubhashini/caffe/tree/recurrent/examples/youtube ](https://github.com/vsubhashini/caffe/tree/recurrent/examples/youtube )
-    
+    - [https://github.com/vsubhashini/caffe/tree/recurrent/examples/youtube](https://github.com/vsubhashini/caffe/tree/recurrent/examples/youtube )
+
 4. 关于笔记作者：
     - 朱正源,北京邮电大学研究生，研究方向为多模态与认知计算。  
 
 ---
 
 ## 论文推荐理由
+
 假设我们在未来已经实现了通用人工智能，当我们回首向过去看，到底哪个时代会被投票选为最重要的“Aha Moment”呢？
 
 作为没有预知未来能力的普通人。为了回答这个问题，首先需要明确的一点就是：我们现在究竟处在实现通用人工智能之前的哪个位置？
@@ -51,14 +53,16 @@ header:
 
 ## Translating Videos to Natural Language Using Deep Recurrent Neural Networks
 
-### 视频描述任务介绍：
+### 视频描述任务介绍
+
 根据视频生成单句的描述，一例胜千言：
 
-![](http://ww1.sinaimg.cn/mw690/ca26ff18ly1fzcxfmvyxuj20si0hqqfg.jpg)
+![img](http://ww1.sinaimg.cn/mw690/ca26ff18ly1fzcxfmvyxuj20si0hqqfg.jpg)
 
 　　A monkey pulls a dog’s tail and is chased by the dog.
 
-### 视频描述的前世：
+### 视频描述的前世
+
 管道方法（PipeLine Approach）
 
 1. 从视频中识别出`主语`、`动作`、`宾语`、`场景`
@@ -67,31 +71,31 @@ header:
 
 　在神经模型风靡之前，传统方法集中使用**隐马尔科夫模型识别实体**和**条件随机场生成句子**
 
-### 神经模型的第一次尝试：
+### 神经模型的第一次尝试
+
 ![LSTM-YT模型](http://ww1.sinaimg.cn/mw690/ca26ff18ly1fzcwjf53bsj214x0ksajx.jpg)
 
 - 从视频中，每十帧取出一帧进行分析
 
-　![](http://ww1.sinaimg.cn/mw690/ca26ff18ly1fzczmke1dbj20vg0astdq.jpg)
+　![img](http://ww1.sinaimg.cn/mw690/ca26ff18ly1fzczmke1dbj20vg0astdq.jpg)
 　人类眼睛的帧数是每秒24帧，从仿生学的观点出发，模型也不需要处理视频中所有的帧。再对视频帧进行缩放以便计算机进行处理。
 
 - 使用CNN提取特征并进行平均池化（Mean Pooling）
 
-　![](http://ww1.sinaimg.cn/mw690/ca26ff18ly1fzczv0iwy6j20x40mktg0.jpg)
+　![img](http://ww1.sinaimg.cn/mw690/ca26ff18ly1fzczv0iwy6j20x40mktg0.jpg)
 
-  - 预训练的Alexnet[2012]:在120万张图片上进行预训练[ImageNet LSVRC-2012]，提取最后一层（第七层全连接层）的特征（4096维）。注意：提取的向量不是最后进行分类的1000维特征向量。
+- 预训练的Alexnet[2012]:在120万张图片上进行预训练[ImageNet LSVRC-2012]，提取最后一层（第七层全连接层）的特征（4096维）。注意：提取的向量不是最后进行分类的1000维特征向量。
   
   ![Alexnet](http://ww1.sinaimg.cn/mw690/ca26ff18ly1fzd0iak8vhj216o0eqacn.jpg)
 
-  - 对所有的视频帧进行池化
-
+- 对所有的视频帧进行池化
 
 - 句子生成
 
 　![RNN生成句子](http://ww1.sinaimg.cn/mw690/ca26ff18ly1fzd06rquyyj20qk0nwgo6.jpg)
 
-
 ### 迁移学习和微调模型
+
 - 在图片描述任务进行预训练
 
 　![transfer-learning from image captioning](http://ww1.sinaimg.cn/mw690/ca26ff18ly1fzd0skao7sj216c0jm0zn.jpg)
@@ -102,9 +106,10 @@ header:
   - 添加了平均池化特征这个技巧；
   - 模型进行训练的时候使用了更低的学习率
 
-
 ### 实验细节
+
 #### 数据集
+
 - [Microsoft Research Video Description dataset](http://www.cs.utexas.edu/users/ml/clamp/videoDescription/)
 
 > 1970条Youtobe视频片段：每条大约10到30秒，并且只包含了一个活动，其中没有对话。1200条用作训练，100条用作验证，670条用作测试。
@@ -115,12 +120,14 @@ header:
 - [Flickr30k数据集下载](https://blog.csdn.net/gaoyueace/article/details/80564642)
 
 #### 评估指标
+
 - SVO(Subject, Verb, Object accuracy)
 - BLEU
 - METEOR
 - Human evaluation
 
 #### 实验结果
+
 - SVO正确率：
 
 　![result on SVO](https://ws1.sinaimg.cn/mw690/ca26ff18ly1fzd5gnjzg6j20p20f8n0d.jpg)
@@ -129,12 +136,12 @@ header:
 
 　![result on BLEU and METEOR](https://ws1.sinaimg.cn/mw690/ca26ff18ly1fzd5p0xo78j20nm0aotak.jpg)
 
-
-
 ### 站在2019年回看2015年的论文
+
 以19年的后见之明来考察这篇论文，虽然论文没有Attention和强化学习加持的，但是也开辟了用神经模型完成视频描述任务的先河。
 
 回顾一下以前提出的问题，如何才能实现：
+
   1. 常识推理。
   2. 空间位置。
   3. 根据不同粒度回复问题。
@@ -144,6 +151,7 @@ header:
 以大脑皮质作为启发，最少我们也需要让人工大脑皮质也“生存”在一个类似于现实世界中的环境当中。因此视频是一个很好的起点，但也仅仅是个起点。
 
 ### 引用与参考
+
 - [Neuralink and the Brain’s Magical Future](https://waitbutwhy.com/2017/04/neuralink.html)
 - [Translating Videos to Natural Language Using Deep Recurrent Neural Networks -- Slides](https://www.cs.utexas.edu/~vsub/pdf/Translating_Videos_slides.pdf)
 - [A Walk-through of AlexNet](https://medium.com/@smallfishbigsea/a-walk-through-of-alexnet-6cbd137a5637)
