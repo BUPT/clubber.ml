@@ -62,7 +62,7 @@ Please fill the following table for the new friend sign up(if any), or delete it
 <sub>
 <i>
 
-Artificial Intelligence & Machine Learning CLUB, 2018 - 2019 <a href="https://ai-ml.club">AI ML Club - AMC</a> <a href="https://github.com/BUPT/ai-ml.club/wiki/Member-Manual">Member Manual</a>
+Artificial Intelligence & Machine Learning CLUB, 2018 - 2019 <a href="https://ai-ml.club">AI ML Club - AMC</a> <a href="https://ai-ml.club/manuals/member/">Member Manual</a>
 
 </i>
 </sub>
