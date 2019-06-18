@@ -7,11 +7,12 @@ import util from 'util'
 
 import probeImageSize from 'probe-image-size'
 import globCB from 'glob'
+
+import { prNumberToTitle } from '../src/pr-number-to-title'
+
 const glob = util.promisify(globCB)
 
 const isPR = require('is-pr')
-
-import { prNumberToTitle } from '../src/pr-number-to-title'
 
 test('integration testing', async t => {
   t.pass('ok')

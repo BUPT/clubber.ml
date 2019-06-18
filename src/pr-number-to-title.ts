@@ -37,7 +37,5 @@ export async function prNumberToTitle (
     throw new Error('no matches for pr title')
   }
   const prTitle = matches[1]
-  console.log(prTitle)
   return prTitle
 }
-
