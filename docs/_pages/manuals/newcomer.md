@@ -16,11 +16,11 @@ toc_label: "Unique Title"
 toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 
-# Newcomer Manual
+## Newcomer Manual
 
 A To-do list for newcomers.
 
-## Newcomers Check List
+### Newcomers Check List
 
 AI ML Club，简称 AMC ，是一个半开放的人工智能、机器学习和聊天机器人爱好者学术研究组织。
 
@@ -31,7 +31,7 @@ AMC 随时欢迎新朋友加入，前提是需要你：
 
 如果你自认为符合上述两个条件，那么欢迎你做为 AMC 俱乐部的新人申请加入。
 
-### 新人加入方法
+#### 新人加入方法
 
 回复最后一次[沙龙活动纪要](https://ai-ml.club/categories/#events)，进行报名即可。
 
@@ -41,7 +41,7 @@ AMC 随时欢迎新朋友加入，前提是需要你：
 1. 推荐人
 1. 分享内容（如果有）
 
-### 新人加入要求
+#### 新人加入要求
 
 1. 通过一位 AMC 俱乐部的正式会员推荐。在未来推荐人将作为新人的 Mentor
 1. `watch` & `follow` 沙龙活动组织的 Repository: <https://github.com/BUPT/ai-ml.club>
@@ -52,7 +52,7 @@ AMC 随时欢迎新朋友加入，前提是需要你：
 1. 连续参加三次沙龙活动，可以转正为正式会员。
 1. 如果沙龙活动人数过多，主席有权限将总人数限制在主席认为的合理范围之内。新人有可能会被拒绝参加活动。
 
-### AMC 资源
+#### AMC 资源
 
 1. 北邮科研大楼821会议室
     1. Wifi
