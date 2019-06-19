@@ -8,6 +8,7 @@ categories:
   - blog
 tags:
   - nlp
+  - huan
 header:
   teaser: /assets/images/teaser-500x300.png
 ---
