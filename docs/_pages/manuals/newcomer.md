@@ -44,10 +44,10 @@ AMC 随时欢迎新朋友加入，前提是需要你：
 #### 新人加入要求
 
 1. 通过一位 AMC 俱乐部的正式会员推荐。在未来推荐人将作为新人的 Mentor
-1. `watch` & `follow` 沙龙活动组织的 Repository: <https://github.com/BUPT/ai-ml.club>
+1. **watch** & **star** 沙龙活动组织的 Repository: <https://github.com/BUPT/ai-ml.club>
 1. 新人第一次加入之前，需要学习 AI ML Club 的活动规则、目标、规则和背景：
-    1. （必读）阅读[沙龙活动纪要](https://ai-ml.club/categories/#events)
-    1. （可选）阅读[沙龙活动手册](https://github.com/BUPT/ai-ml.club/wiki)
+    1. （必读）阅读最后一场[沙龙活动纪要](https://ai-ml.club/categories/#events)
+    1. （可选）阅读[沙龙活动手册](https://ai-ml.club/manuals/)
 1. 新人第一次参加前推荐提交 Pull Request 参会；如果第二次还想参加活动，则需要按会员要求必须提交 PR 后，方可作为见习会员加入。
 1. 连续参加三次沙龙活动，可以转正为正式会员。
 1. 如果沙龙活动人数过多，主席有权限将总人数限制在主席认为的合理范围之内。新人有可能会被拒绝参加活动。
