@@ -148,7 +148,7 @@ We add paper to this list if we want to presente it later, or want to ask other 
 | [S1E21](https://github.com/BUPT/ai-ml.club/issues/51) |  [@lirui123456789](https://github.com/lirui123456789)  | [FRAGE: Frequency-Agnostic Word Representation, Gong et. al, 2018](https://arxiv.org/abs/1809.06858.pdf) |
 | [S1E20](https://github.com/BUPT/ai-ml.club/issues/48) |  [@huan](https://github.com/huan)  | [Attention and Augmented Recurrent Neural Networks, Olah et. al, 2016](https://distill.pub/2016/augmented-rnns/) |
 | [S1E19](https://github.com/BUPT/ai-ml.club/issues/47) |  [@CyFeng16](https://github.com/CyFeng16)  | 如何免费获取108块TPU |
-| [S1E19](https://github.com/BUPT/ai-ml.club/issues/47) |  [@lijiarui](https://github.com/lijiarui)  | 使用luis构建一个对话系统 |
+| [S1E19](https://github.com/BUPT/ai-ml.club/issues/47) |  [@lijiarui](https://github.com/lijiarui)  | [使用luis构建一个对话系统](https://docs.google.com/presentation/d/1NUHIyrYyhYuUrfNm2E7D7GtMjfX2Y6EoiNwXhE33iPU/edit?usp=sharing) |
 | [S1E19](https://github.com/BUPT/ai-ml.club/issues/47) |  [@windmemory](https://github.com/windmemory)  | 对话系统在微信中的应用 |
 | [S1E19](https://github.com/BUPT/ai-ml.club/issues/47) |  [@bitwater](https://github.com/bitwater)  | 彩云科技的翻译机器人 |
 | [S1E19](https://github.com/BUPT/ai-ml.club/issues/47) |  @jfHao  | 对话机器人的企业级应用 |
