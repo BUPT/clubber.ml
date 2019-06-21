@@ -58,6 +58,7 @@ We add paper to this list if we want to presente it later, or want to ask other 
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
+| [S2E15](https://ai-ml.club/events/seminar-meeting-minutes-2-15/) | [@824zzy](https://github.com/824zzy) | [XLNet: Generalized Autoregressive Pretraining for Language Understanding, Yang et. al](https://arxiv.org/pdf/1906.08237.pdf) |
 | [S2E15](https://ai-ml.club/events/seminar-meeting-minutes-2-15/) | [@huan](https://github.com/huan) | [Dear Sir or Madam, May I Introduce the GYAFC Dataset: Corpus, Benchmarks and Metrics for Formality Style Transfer, Sudha Rao and Joel Tetreault, NAACL-HLT 2018](https://arxiv.org/pdf/1803.06535.pdf) |
 | [S2E14](https://ai-ml.club/events/seminar-meeting-minutes-2-14/) | [@Jarvisgivemeasuit](https://github.com/Jarvisgivemeasuit) | [Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks, Zhang et al., IEEE Signal Processing Letters 2016](https://arxiv.org/abs/1604.02878) |
 | [S2E14](https://ai-ml.club/events/seminar-meeting-minutes-2-14/) | [@fuyunfuyun666](https://github.com/fuyunfuyun666) | [Character Region Awareness for Text Detection, Youngmin Baek et. al., CVPR2019](https://arxiv.org/abs/1904.01941) |
