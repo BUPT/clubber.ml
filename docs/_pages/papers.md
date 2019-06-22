@@ -41,6 +41,7 @@ We add paper to this list if we want to presente it later, or want to ask other 
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
+| [S2E15](https://ai-ml.club/events/seminar-meeting-minutes-2-15/) | [@linbo0518](https://github.com/linbo0518) | [Dive into NN: Theory, Architecture and Initialization](https://github.com/linbo0518/Dive-into-NN) |
 | [S2E14](https://ai-ml.club/events/seminar-meeting-minutes-2-14/) | [@824zzy](https://github.com/824zzy) | [Weight Agnostic Neural Networks, David Ha, 2019](https://arxiv.org/abs/1906.04358) |
 | [S2E13](https://ai-ml.club/events/seminar-meeting-minutes-2-13/) | [@824zzy](https://github.com/824zzy) | [面向深度学习系统的突变软件测试, Zhu et al., 2019](https://www.overleaf.com/read/ghxjcsvkhtpz) |
 | [S2E12](https://ai-ml.club/events/seminar-meeting-minutes-2-12/) | [@824zzy](https://github.com/824zzy) | [Unsupervised Latent Tree Induction with Deep Inside-Outside Recursive Autoencoders, Drozdov et al., NAACL2019](https://arxiv.org/pdf/1904.02142.pdf) |
