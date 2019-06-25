@@ -83,7 +83,6 @@ linbo0518:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:linbo0518@gmail.com"
 
-
 fuyunfuyun666:
   name        : "刘云"
   bio         : "真的很不错哦"
@@ -92,3 +91,16 @@ fuyunfuyun666:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/fuyunfuyun666"
+
+Chen-Dixi:
+  name        : "陈帝羲"
+  bio         : "低调低调"
+  avatar      : "https://avatars1.githubusercontent.com/u/13377302?s=460&v=4"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/chen-dixi"
+    - lable: "Website"
+      icon: "fas fa-fw fa-link"
+      url:  "https://chen-dixi.github.io"
+
