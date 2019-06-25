@@ -32,7 +32,6 @@ header:
 - 林博 @linbo0518
     > 分享了[Dive into NN: Theory, Architecture and Initialization](https://github.com/linbo0518/Dive-into-NN) 探讨神经网络的奥秘，寻找整个网络的lucky node
 
-
 ![林博]({{ '/assets/2019/seminar-2-15/oral-linbo.jpg'| relative_url }})
 
 ### Poster
@@ -59,7 +58,6 @@ Permutation Language Modeling：引入自回归语言模型以及自编码语言
 为`text style transfer`任务构建的数据集
 
 ![李卓桓]({{ '/assets/2019/seminar-2-15/poster-lizhuohuan.jpg' | relative_url }})
-
 
 ## 授蛋仪式
 
