@@ -57,5 +57,7 @@ I confirm that the Chairperson had followed(or not followed) the following steps
 - [ ] Members followed all the [Member Manual]({{ '/manuals/member/' | relative_url }}) requirements
 - [ ] Newcomers followed all the [Newcomer Manual]({{ '/manuals/newcomer/' | relative_url }}) requirements
 
-> Notes: put additional information here.
+Additional Notes: put additional information here (if any).
+
+### SIGN_YOUR_FULL_NAME_AT_HERE
 ```
