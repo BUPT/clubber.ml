@@ -44,7 +44,6 @@ A check-list for vice chairperson.
 ### Supervisor Report Template
 
 ```markdown
-
 > The following can be copy/paste as the report of the supervisor.
 > Put a check mark to confirm that all the manual rules were followed,
 > and note the violation if there any.
@@ -61,5 +60,4 @@ I confirm that the Chairperson had followed(or not followed) the following steps
 - [ ] Newcomers followed all the [Newcomer Manual]({{ '/manuals/newcomer/' | relative_url }}) requirements
 
 > Notes: put additional information here.
-
 ```
