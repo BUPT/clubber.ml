@@ -43,7 +43,7 @@ A check-list for vice chairperson.
 
 ### Supervisor Report Template
 
-The following can be copy/paste as the report of the supervisor. Put a check mark to confirm that all the manual rules were followed, and note the violation if there any.
+The following markdown can be copy/paste as the template for the report from supervisor. Put a check mark to confirm that all the manual rules were followed, and note the violation if there any.
 
 ```markdown
 I, FULL_NAME, is the Supervisor of AMC seminar S_SESSION_E_SPISODE.
