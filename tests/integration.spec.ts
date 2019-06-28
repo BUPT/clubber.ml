@@ -46,7 +46,7 @@ test('image size should not more than 1MB', async t => {
     const size = fs.statSync(file)['size']
 
     if (dim.width > MAX_WIDTH || size > MAX_SIZE) {
-      t.fail(`${file} exceed the max limit: width: ${dim.width}, size: ${size}. use ./scripts/fit-image.sh to adjust it fit.`)
+      t.fail(`${file} exceed the max limit: width: ${dim.width}, size: ${size}. use "./scripts/fit-image.sh <FILE>" to adjust it fit.`)
     }
   }
 })

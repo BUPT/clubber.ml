@@ -1,6 +1,6 @@
 {
   "name": "ai-ml.club",
-  "version": "0.0.1",
+  "version": "0.0.17",
   "description": "AI ML Club",
   "main": "index.js",
   "directories": {
@@ -33,16 +33,21 @@
   },
   "homepage": "https://github.com/BUPT/ai-ml.club#readme",
   "devDependencies": {
-    "@chatie/eslint-config": "^0.6.12",
+    "@chatie/eslint-config": "^0.6.13",
+    "@chatie/git-scripts": "^0.2.5",
     "@chatie/tsconfig": "^0.6.1",
     "@types/glob": "^7.1.1",
     "@types/image-size": "^0.7.0",
     "file-box": "^0.8.27",
-    "file-name-linter": "^1.1.0",
     "glob": "^7.1.4",
     "image-size": "^0.7.4",
     "is-pr": "^1.1.0",
     "probe-image-size": "^4.0.0",
     "tstest": "^0.4.2"
+  },
+  "git": {
+    "scripts": {
+      "pre-push": "npx git-scripts-pre-push"
+    }
   }
 }
