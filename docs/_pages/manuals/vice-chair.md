@@ -18,15 +18,15 @@ toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 
 ## Vice Chair Manual
 
-A To-do list for vice chairperson.
+A check-list for vice chairperson.
 
-### Vice Chairperson Duty List
+## Vice Chairperson Duty List
 
 1. 兼任监事(Supervisor)角色，承担监事职责
 1. 辅助主席开展工作
 1. 在主席无法行使职能的时候，代替主席，肩负主席职责，开展相关工作
 
-### Supervisor: 观察员，监事
+## Supervisor: 观察员，监事
 
 参加活动，对照Manual，对每次活动进行评估，并逐项给出“是（完成）”或“否（未完成）”的正式反馈。
 
@@ -41,11 +41,12 @@ A To-do list for vice chairperson.
 
 监事报告，在活动总结发布之后24小时内，以回复issue的形式进行正式发布
 
-#### Supervisor Report Template
+### Supervisor Report Template
 
-> The following can be copy/paste as the report of the supervisor. Put a check mark to confirm that all the manual rules were followed, or note the violation if there any.
+The following markdown can be copy/paste as the template for the report from supervisor. Put a check mark to confirm that all the manual rules were followed, and note the violation if there any.
 
-I, SUPERVISOR_NAME, is the Supervisor of AMC seminar S_SESSION_E_SPISODE.
+```markdown
+I, FULL_NAME, is the Supervisor of AMC seminar S_SESSION_E_SPISODE.
 
 I confirm that the Chairperson had followed(or not followed) the following steps in this seminar:
 
@@ -56,4 +57,7 @@ I confirm that the Chairperson had followed(or not followed) the following steps
 - [ ] Members followed all the [Member Manual]({{ '/manuals/member/' | relative_url }}) requirements
 - [ ] Newcomers followed all the [Newcomer Manual]({{ '/manuals/newcomer/' | relative_url }}) requirements
 
-> Notes: put additional information here.
+Additional Notes: put additional information here (if any).
+
+### SIGN_YOUR_FULL_NAME_AT_HERE
+```
