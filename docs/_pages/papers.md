@@ -59,6 +59,7 @@ We add paper to this list if we want to presente it later, or want to ask other 
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
+| [S2E16](https://ai-ml.club/events/seminar-meeting-minutes-2-16/) | [@newip](https://github.com/newip) | [Idea: Is it possible to put human being's characters model into NLP?](https://padlet.com/xin_he1/zbr80kchkcn0) |
 | [S2E16](https://ai-ml.club/events/seminar-meeting-minutes-2-16/) | [@huan](https://github.com/huan) | [苏现林的2019语言与智能技术竞赛“三元组”信息抽取任务模型](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247497957&idx=1&sn=cddcc805514a71a5d5e4cd95139900f5) |
 | [S2E15](https://ai-ml.club/events/seminar-meeting-minutes-2-15/) | [@824zzy](https://github.com/824zzy) | [XLNet: Generalized Autoregressive Pretraining for Language Understanding, Yang et. al](https://arxiv.org/pdf/1906.08237.pdf) |
 | [S2E15](https://ai-ml.club/events/seminar-meeting-minutes-2-15/) | [@chen-dixi](https://github.com/chen-dixi) | [Taking A Closer Look at Domain Shift: Category-level Adversaries for Semantics Consistent Domain Adaptation, Yawei Luo, et. al., CVPR2019](https://arxiv.org/abs/1809.09478) |
