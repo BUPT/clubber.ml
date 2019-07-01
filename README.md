@@ -159,14 +159,14 @@ Learn more from <https://github.com/DavidAnson/vscode-markdownlint>
 Chairman or Chairwoman are senior members who volunteered to help the club for managing the AMC seminar.
 
 - AI ML Club Chairperson List: <https://github.com/orgs/BUPT/teams/chairs>
-- Chairpersonal Manual: <https://github.com/BUPT/ai-ml.club/wiki/Chairman-Manual>
+- Chairpersonal Manual: <https://ai-ml.club/manuals/chair/>
 
 Require any chairperson for helping to add yourself to the chairs team on GitHub if you are a confirmed chairperson. (at least managed one AMC seminar as a rotating chairperson)
 
 ### Members
 
 - AI ML Club Member List: <https://github.com/orgs/BUPT/teams/members>
-- Member Manual: <https://github.com/BUPT/ai-ml.club/wiki/Member-Manual>
+- Member Manual: <https://ai-ml.club/manuals/member/>
 
 Require any members for helping to add yourself to the member team on GitHub if you are a confirmed member. (at least presented one time at the AMC seminar)
 
