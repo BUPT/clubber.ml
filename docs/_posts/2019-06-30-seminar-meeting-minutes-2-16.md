@@ -32,7 +32,7 @@ header:
 - 侯正罡 @ArronHZG
     > 分享了[语义分割综述（上）](https://blog.csdn.net/Arron_hou/article/details/94134049), 介绍了从16年到18年语义分割的发展历程。
 
-![侯正罡]({{ '/assets/2019/seminar-2-16/oral-ArronHZG.jpg'| relative_url }})
+![侯正罡]({{ '/assets/2019/seminar-2-16/oral-arron.jpg'| relative_url }})
 
 ### Poster
 
@@ -72,9 +72,9 @@ header:
 
 AfterParty 第六次活动顺利结束！
 
-![AfterParty]({{ '/assets/2019/seminar-2-16/after-party_1.jpg' | relative_url }})
+![AfterParty]({{ '/assets/2019/seminar-2-16/after-party-1.jpg' | relative_url }})
 
-![AfterParty]({{ '/assets/2019/seminar-2-16/after-party_2.jpg' | relative_url }})
+![AfterParty]({{ '/assets/2019/seminar-2-16/after-party-2.jpg' | relative_url }})
 
 ## 沙龙结论
 
