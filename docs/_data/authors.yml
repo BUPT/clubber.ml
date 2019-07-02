@@ -104,3 +104,16 @@ Chen-Dixi:
       icon: "fas fa-fw fa-link"
       url:  "https://chen-dixi.github.io"
 
+
+ArronHZG:
+  name        : "侯正罡"
+  bio         : "Stay hungry,Stay foolish"
+  avatar      : "https://avatars2.githubusercontent.com/u/24294073?s=460&v=4"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ArronHZG"
+    - lable: "Website"
+      icon: "fas fa-fw fa-link"
+      url:  "https://blog.csdn.net/Arron_hou"
+
