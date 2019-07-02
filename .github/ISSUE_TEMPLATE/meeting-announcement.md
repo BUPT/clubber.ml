@@ -67,3 +67,14 @@ Newcomers number: 1
 | Referrer | Newcomer  | Bio |
 | -------- | --------- | --- |
 | @huan    | @NEWCOMER | ONE_SENTENCE_BIOGRAPHY |
+
+
+## People Attended
+People Attended number: 4
+
+| People |Remark |
+| --------- | --- |
+| @huan|oral|
+| @ArronHZG|poster|
+| @Jarvisgivemeasuit | refer to @ArronHZG|
+| @yyllyy0813|newcomer|
