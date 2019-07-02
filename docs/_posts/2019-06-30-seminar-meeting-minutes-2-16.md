@@ -1,7 +1,7 @@
 ---
 title: 第二季16场 AI ML Club 活动纪要
-author: Chen-Dixi
-date: 2019-06-23 19:00 +0800
+author: ArronHZG
+date: 2019-06-30 19:00 +0800
 comments: true
 mathjax: true
 categories: 
@@ -9,7 +9,7 @@ categories:
 tags:
   - 
 header:
-  teaser: /assets/2019/seminar-2-15/after-party.jpg
+  teaser: /assets/2019/seminar-2-16/after-party_1.jpg
 ---
 
 << 本次沙龙通知: [#151](https://github.com/BUPT/ai-ml.club/issues/151)  <<
