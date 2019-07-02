@@ -12,7 +12,7 @@ header:
   teaser: /assets/2019/seminar-2-16/after-party_1.jpg
 ---
 
-<< 本次沙龙通知: [#151](https://github.com/BUPT/ai-ml.club/issues/151)  <<
+<< 本次沙龙通知: [#156](https://github.com/BUPT/ai-ml.club/issues/156)  <<
 
 ## 第二季16场 AMC 沙龙活动纪要
 
