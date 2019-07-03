@@ -60,6 +60,7 @@ We add paper to this list if we want to presente it later, or want to ask other 
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
+| [S2E17](https://ai-ml.club/events/seminar-meeting-minutes-2-17/) | [@newip](https://github.com/newip) | [Real-Time Monocular Pose Estimation of 3D Objects using Temporally Consistent Local Color Histograms](https://www.researchgate.net/publication/320805072_Real-Time_Monocular_Pose_Estimation_of_3D_Objects_Using_Temporally_Consistent_Local_Color_Histograms) |
 | [S2E17](https://ai-ml.club/events/seminar-meeting-minutes-2-17/) | [@cgpeter](https://github.com/cgpeter) | [Multi-Label Image Recognition with Graph Convolutional Networks](https://arxiv.org/abs/1904.03582) |
 | [S2E16](https://ai-ml.club/events/seminar-meeting-minutes-2-16/) | [@824zzy](https://github.com/824zzy) | [Colab&TPU&Pytorch&Hub](https://pytorch.org/blog/towards-reproducible-research-with-pytorch-hub/) |
 | [S2E16](https://ai-ml.club/events/seminar-meeting-minutes-2-16/) | [@newip](https://github.com/newip) | [Idea: Is it possible to put human being's characters model into NLP?](https://padlet.com/xin_he1/zbr80kchkcn0) |
