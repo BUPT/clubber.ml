@@ -21,7 +21,7 @@ about: The announcement should be published at least 48 hours before the meeting
 | Minutes | Link                        |
 | ------- | --------------------------- |
 | Blog    | [SsEe (Season s Episodes e)](https://ai-ml.club/events/seminar-meeting-minutes-s-e/) |
-| Issue   | #num                        |
+| Issue   | #NUM                        |
 
 ## Agenda
 
