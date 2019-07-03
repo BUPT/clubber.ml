@@ -75,7 +75,7 @@ Total number: TOTAL_NUMBER
 
 > The member that do not give a talk should be quoted after a member that who give a talk.   
 > Example: Alice will give a talk but Bob do not, and Bob want to go with Alice:  
-> __@Alice (@Bob)__
+> _@Alice (@Bob)_
 
 | Role          | People List            |
 | ------------- | ---------------------- |
