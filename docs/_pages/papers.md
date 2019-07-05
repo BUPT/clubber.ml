@@ -60,6 +60,8 @@ We add paper to this list if we want to presente it later, or want to ask other 
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
+| [S2E17](https://ai-ml.club/events/seminar-meeting-minutes-2-17/) | [@henryjz](https://github.com/henryjz) | [Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860) |
+|
 | [S2E17](https://ai-ml.club/events/seminar-meeting-minutes-2-17/) | [@cgpeter](https://github.com/cgpeter) | [Multi-Label Image Recognition with Graph Convolutional Networks](https://arxiv.org/abs/1904.03582) |
 | [S2E16](https://ai-ml.club/events/seminar-meeting-minutes-2-16/) | [@824zzy](https://github.com/824zzy) | [Colab&TPU&Pytorch&Hub](https://pytorch.org/blog/towards-reproducible-research-with-pytorch-hub/) |
 | [S2E16](https://ai-ml.club/events/seminar-meeting-minutes-2-16/) | [@newip](https://github.com/newip) | [Idea: Is it possible to put human being's characters model into NLP?](https://padlet.com/xin_he1/zbr80kchkcn0) |
