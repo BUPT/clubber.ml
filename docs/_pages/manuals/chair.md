@@ -5,11 +5,11 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/conversational-ai.jpg
+  overlay_image: /assets/images/AMC-banner.jpg
 #   actions:
 #     - label: "Download"
 #       url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: [**boost.ai**](https://www.boost.ai/articles/2018/10/17/six-ways-conversational-ai-will-enhance-your-company)"
+  caption: "Photo credit: [**buguroo**](https://www.buguroo.com/en/blog/topic/ai)"
 excerpt: "AI ML Club"
 toc: true
 toc_label: "Unique Title"
@@ -23,11 +23,11 @@ The check-list for chairperson.
 ## Before
 
 1. 监督上任轮值主席，在上次活动后48小时内，发出上次活动纪要
-1. 在本次活动开始时间48小时之前，根据上次活动纪要，以及纪要的回复（PR）情况，按照 Issue Template ，撰写本次沙龙活动通知，并发布
-1. 按照先自愿 + 主席指定原则，选出本次沙龙的一个 Oral，其他为 Poster
-1. Merge 本次活动相关的 Pull Requests
-1. 如果轮值主席因故无法履行本次轮值主席职责，需要在不晚于活动开始前48小时，授权轮值副主席为本次轮值主席，行使本次活动职责
-1. 如果有新会员申请Colab权限，需要将其Google账号添加到[Colab Jupter Notebook](https://colab.research.google.com/drive/1AO3bwIgzfy63ty8OSSgUPRG1PIii3oo_)的SHARE列表中，并授予EDIT权限。
+2. 在本次活动开始时间48小时之前，根据上次活动纪要，以及纪要的回复（PR）情况，按照 Issue Template ，撰写本次沙龙活动通知，并发布
+3. 按照先自愿 + 主席指定原则，选出本次沙龙的一个 Oral，其他为 Poster
+4. Merge 本次活动相关的 Pull Requests
+5. 如果轮值主席因故无法履行本次轮值主席职责，需要在不晚于活动开始前48小时，授权轮值副主席为本次轮值主席，行使本次活动职责
+6. 如果有新会员申请Colab权限，需要将其Google账号添加到[Colab Jupter Notebook](https://colab.research.google.com/drive/1AO3bwIgzfy63ty8OSSgUPRG1PIii3oo_)的SHARE列表中，并授予EDIT权限。
 
 ## Middle
 

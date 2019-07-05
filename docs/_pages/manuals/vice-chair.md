@@ -5,11 +5,11 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/conversational-ai.jpg
+  overlay_image: /assets/images/AMC-banner.jpg
 #   actions:
 #     - label: "Download"
 #       url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: [**boost.ai**](https://www.boost.ai/articles/2018/10/17/six-ways-conversational-ai-will-enhance-your-company)"
+  caption: "Photo credit: [**buguroo**](https://www.buguroo.com/en/blog/topic/ai)"
 excerpt: "AI ML Club"
 toc: true
 toc_label: "Unique Title"
@@ -23,8 +23,8 @@ A check-list for vice chairperson.
 ## Vice Chairperson Duty List
 
 1. 兼任监事(Supervisor)角色，承担监事职责
-1. 辅助主席开展工作
-1. 在主席无法行使职能的时候，代替主席，肩负主席职责，开展相关工作
+2. 辅助主席开展工作
+3. 在主席无法行使职能的时候，代替主席，肩负主席职责，开展相关工作
 
 ## Supervisor: 观察员，监事
 
