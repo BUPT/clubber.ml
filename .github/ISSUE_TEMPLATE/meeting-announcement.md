@@ -21,7 +21,7 @@ about: The announcement should be published at least 48 hours before the meeting
 | Minutes | Link                        |
 | ------- | --------------------------- |
 | Blog    | [SsEe (Season s Episodes e)](https://ai-ml.club/events/seminar-meeting-minutes-s-e/) |
-| Issue   | #num                        |
+| Issue   | #NUM                        |
 
 ## Agenda
 
@@ -53,10 +53,10 @@ Everyone will be welcome. You can join or not join as you want (not required by 
 
 #### Party Animals
 
-> List all members here except those who confirmed not coming. Put a * at the end of the members' name if they said _maybe_
+> List all members here except those who confirmed not coming. Put 🍺 instead of 🍻 in front of the members' name if they said _"maybe"_. Do not list them who said _"not this time"_.
 
 1. 🍻 @huan
-1. 🍺 @824zzy *
+1. 🍺 @824zzy
 
 ## Newcomers
 
@@ -67,3 +67,20 @@ Newcomers number: 1
 | Referrer | Newcomer  | Bio |
 | -------- | --------- | --- |
 | @huan    | @NEWCOMER | ONE_SENTENCE_BIOGRAPHY |
+
+
+## Confirmed Attendedees
+
+Total number: TOTAL_NUMBER
+
+> The member that do not give a talk should be quoted after a member that who give a talk.   
+> Example: Alice will give a talk but Bob do not, and Bob want to go with Alice:  
+> _@Alice (@Bob)_
+
+| Role          | People List            |
+| ------------- | ---------------------- |
+| 🧓 Chair      | @CHAIR_GITHUB_USERNAME |
+| 🧑 Vice Chair | @VICE_CHAIR_GITHUB_USERNAME |
+| 🗣 Oral       | @ORAL_MEMBER_GITHUB_USERNAME |
+| 📰 Posters    | @POSTER_MEMBER_GITHUB_USERNAME |
+| 👶 Newcomers  | @NEWCOMER_GITHUB_USERNAME |
