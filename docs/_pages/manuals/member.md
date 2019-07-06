@@ -1,7 +1,6 @@
 ---
 title: "Member Manual"
 permalink: /manuals/member/
-layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -10,17 +9,14 @@ header:
 #     - label: "Download"
 #       url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Photo credit: [**boost.ai**](https://www.boost.ai/articles/2018/10/17/six-ways-conversational-ai-will-enhance-your-company)"
-excerpt: "AI ML Club"
+excerpt: "For all AMC Members to Follow"
+excerpt_separator: "<!--more-->"
 toc: true
-toc_label: "Unique Title"
-toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
+toc_label: "Member Manual"
+toc_icon: "tasks"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 
-## Member Manual
-
-A To-do list for members
-
-### Member To-do List
+## Member Todo List
 
 1. 每次参加活动之前，在 <https://github.com/BUPT/ai-ml.club/blob/master/docs/_pages/papers.md> 中，以 Pull Request 的形式，将自己想讲解的论文进行添加，并引用上次活动纪要的 Issue 方便关联查看。
 1. 论文笔记可以参考模板 TBW，以方便整理发布到本沙龙博客。
@@ -32,7 +28,7 @@ A To-do list for members
     1. 守时：**严格控制**论文介绍时间
 1. 如果有代码需要演示，尽量将代码添加到Colab方便大家查阅和运行。AMC 成员共享的 Colab Jupter Notebook 地址： <https://colab.research.google.com/drive/1AO3bwIgzfy63ty8OSSgUPRG1PIii3oo_> （访问前请提供自己的Google账号给轮值主席申请权限）
 
-### 相关链接
+## 相关链接
 
 - AMC Repo <https://github.com/BUPT/ai-ml.club>
 - Paper List <https://ai-ml.club/papers/>
