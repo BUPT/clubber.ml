@@ -11,7 +11,7 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -106,13 +106,13 @@ analytics:
 author:
   name             : "AI ML Club"
   avatar           : "/assets/images/teaser-500x300.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "We are learning to build a AI that can learning language"
+  bio              : "Artificial Intelligence & Machine Learning CLUB"
   location         : "Beijing, China"
   email            : "huan@bupt.edu.cn"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://bupt.github.io/conversational-ai-club"
+      url: "https://github.com/bupt/ai-ml.club"
 
 # Site Footer
 footer:
@@ -243,7 +243,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-  
+
 # jekyll-archives:
 #   enabled:
 #     - categories
@@ -276,9 +276,9 @@ defaults:
       comments: true
       share: true
       related: true
-  # - scope:
-  #     path: ""
-  #     type: pages
-  #   values:
-  #     layout: single
-  #     author_profile: true
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
