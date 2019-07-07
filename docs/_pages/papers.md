@@ -60,6 +60,7 @@ We add paper to this list if we want to presente it later, or want to ask other 
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
+| [S2E17](https://ai-ml.club/events/seminar-meeting-minutes-2-17/) | [@linbo0518](https://github.com/linbo0518) | [Devil is in the Edges: Learning Semantic Boundaries from Noisy Annotations](https://arxiv.org/abs/1904.07934) |
 | [S2E17](https://ai-ml.club/events/seminar-meeting-minutes-2-17/) | [@newip](https://github.com/newip) | [Real-Time Monocular Pose Estimation of 3D Objects using Temporally Consistent Local Color Histograms](https://www.researchgate.net/publication/320805072_Real-Time_Monocular_Pose_Estimation_of_3D_Objects_Using_Temporally_Consistent_Local_Color_Histograms) |
 | [S2E17](https://ai-ml.club/events/seminar-meeting-minutes-2-17/) | [@Jarvisgivemeasuit](https://github.com/Jarvisgivemeasuit) | [CornerNet: Detecting Objects as Paired Keypoints](https://arxiv.org/abs/1808.01244) |
 | [S2E17](https://ai-ml.club/events/seminar-meeting-minutes-2-17/) | [@WdBlink](https://github.com/WdBlink) | [3D MRI brain tumor segmentation using autoencoder regularization](https://arxiv.org/abs/1810.11654) |
