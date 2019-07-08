@@ -117,3 +117,12 @@ ArronHZG:
       icon: "fas fa-fw fa-link"
       url:  "https://blog.csdn.net/Arron_hou"
 
+Jarvisgivemeasuit:
+  name        : "李京伦"
+  bio         : "Only the brave"
+  avatar      : "https://avatars3.githubusercontent.com/u/43956751?s=400&u=ebe7b4377123ab3e41159b8c5b95a7ae18c90d80&v=4"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Jarvisgivemeasuit"
+
