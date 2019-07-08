@@ -26,6 +26,7 @@
 | --- | --- |
 | Name | PAPER_NAME |
 | Recommendation | ONE_LINE_RECOMMENDATION |
+| Prior Knowledge| KEYWORDS |
 | Year | PUBLISH_YEAR |
 | Publish | CONFERENCE_OR_JOURNAL_NAME |
 | Author | AUTHOR1, et. al. |
