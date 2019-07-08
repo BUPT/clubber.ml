@@ -38,7 +38,7 @@ header:
 - 陈光 @cgpeter96
     > [Multi-Label Image Recognition with Graph Convolutional Networks](https://arxiv.org/abs/1904.03582)通过 GCN 进行图像多标签识别，通过发现标签内的依赖关系，同时引入标签依赖关系的强弱。分享之余diss了一波论文
 
-![陈光]({{ '/assets/2019/seminar-2-16/guangchen-poster.jpg' | relative_url }})
+![陈光]({{ '/assets/2019/seminar-2-17/guangchen-poster.jpg' | relative_url }})
 
 - 贺新 @newip
     > [Real-Time Monocular Pose Estimation of 3D Objects using Temporally Consistent Local Color Histograms](http://openaccess.thecvf.com/content_iccv_2017/html/Tjaden_Real-Time_Monocular_Pose_ICCV_2017_paper.html)  分享了一篇 ICCV 2017 的文章，介绍了如何利用单目摄像头进行3D建模，同时进行跟踪，并且可以做到实时
