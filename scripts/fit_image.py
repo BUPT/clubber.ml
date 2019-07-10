@@ -2,9 +2,12 @@
 A python tool to resize images 
 Usage:
     python fit_image.py --images xxxx 
-if you wanna set image resolution please use this command :
-    python fit_image.py --images xxxx --width 1920 --height 1080 
-
+if you wanna set image resolution ,please use this command :
+    python fit_image.py --images xxxx --width 1920 --height 1080  or
+    python fit_image.py --images xxxx --width 1920 or 
+    python fit_image.py --images xxxx  --height 1080 
+if you wanna set image resolution by ratio ,please use this command:
+    python fit_image.py --images xxx --ratio 0.5
 
 """
 
