@@ -46,7 +46,7 @@ if __name__ == '__main__':
     parser.add_argument("--images", type=str, default="",
                         help="the location of image folder")
     parser.add_argument('--image', type=str, default="", help="a image")
-    parser.add_argument('--width', type=int, default=1920,
+    parser.add_argument('--width', type=int, default=0,
                         help="the target image width")
     parser.add_argument('--height', type=int, default=0,
                         help="the target image hegiht")
