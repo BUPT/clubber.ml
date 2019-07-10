@@ -1,9 +1,10 @@
 source "https://rubygems.org"
 
 gem "github-pages", group: :jekyll_plugins
-gem "jekyll", "~> 3.6"
-gem "minimal-mistakes-jekyll"
+
+gem "jekyll", "~> 3.7.4"
 
 group :jekyll_plugins do
-    gem "jekyll-archives"
-  end
+  gem "jekyll-archives"
+  gem "jekyll-include-cache"
+end
