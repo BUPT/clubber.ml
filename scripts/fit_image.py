@@ -24,13 +24,13 @@ def resize_image(image_path, args):
         w_hat = int(w * args.ratio)
         h_hat = int(h * args.ratio)
     else:
-        if args.width > 0 and args.height > 0:
+        if w > args.width > 0 and h > args.height > 0:
             w_hat = args.width
             h_hat = args.height
-        elif args.width > 0 and args.height == 0:
+        elif w > args.width > 0 and args.height == 0:
             w_hat = args.width
             h_hat = int(w_hat / w * h)
-        elif args.width == 0 and args.height > 0:
+        elif args.width == 0 and h > args.height > 0:
             h_hat = args.height
             w_hat = int(h_hat / h * w)
         else:
