@@ -60,7 +60,12 @@ We add paper to this list if we want to presente it later, or want to ask other 
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
-| [S2E17](https://ai-ml.club/events/seminar-meeting-minutes-2-17/) | [@VDeamoV](https://github.com/VDeamoV) | [Pytorch TPU 使用初体验](https://github.com/pytorch/xla/blob/master/README.md) |
+| [S2E18](https://ai-ml.club/events/seminar-meeting-minutes-2-18/) | [@VDeamoV](https://github.com/VDeamoV) | [Pytorch TPU 使用初体验](https://github.com/pytorch/xla/blob/master/README.md) |
+| [S2E17](https://ai-ml.club/events/seminar-meeting-minutes-2-17/) | [@linbo0518](https://github.com/linbo0518) | [Devil is in the Edges: Learning Semantic Boundaries from Noisy Annotations](https://arxiv.org/abs/1904.07934) |
+| [S2E17](https://ai-ml.club/events/seminar-meeting-minutes-2-17/) | [@newip](https://github.com/newip) | [Real-Time Monocular Pose Estimation of 3D Objects using Temporally Consistent Local Color Histograms](https://www.researchgate.net/publication/320805072_Real-Time_Monocular_Pose_Estimation_of_3D_Objects_Using_Temporally_Consistent_Local_Color_Histograms) |
+| [S2E17](https://ai-ml.club/events/seminar-meeting-minutes-2-17/) | [@Jarvisgivemeasuit](https://github.com/Jarvisgivemeasuit) | [CornerNet: Detecting Objects as Paired Keypoints](https://arxiv.org/abs/1808.01244) |
+| [S2E17](https://ai-ml.club/events/seminar-meeting-minutes-2-17/) | [@WdBlink](https://github.com/WdBlink) | [3D MRI brain tumor segmentation using autoencoder regularization](https://arxiv.org/abs/1810.11654) |
+| [S2E17](https://ai-ml.club/events/seminar-meeting-minutes-2-17/) | [@henryjz](https://github.com/henryjz) | [Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860) |
 | [S2E17](https://ai-ml.club/events/seminar-meeting-minutes-2-17/) | [@cgpeter](https://github.com/cgpeter) | [Multi-Label Image Recognition with Graph Convolutional Networks](https://arxiv.org/abs/1904.03582) |
 | [S2E16](https://ai-ml.club/events/seminar-meeting-minutes-2-16/) | [@824zzy](https://github.com/824zzy) | [Colab&TPU&Pytorch&Hub](https://pytorch.org/blog/towards-reproducible-research-with-pytorch-hub/) |
 | [S2E16](https://ai-ml.club/events/seminar-meeting-minutes-2-16/) | [@newip](https://github.com/newip) | [Idea: Is it possible to put human being's characters model into NLP?](https://padlet.com/xin_he1/zbr80kchkcn0) |
