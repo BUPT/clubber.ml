@@ -1,7 +1,7 @@
 """
 A python tool to resize images 
 Usage:
-    python fit_image.py --images xxxx 
+    python fit_image.py --images (image_dir|one image)
 if you wanna set image resolution ,please use this command :
     python fit_image.py --images xxxx --width 1920 --height 1080  or
     python fit_image.py --images xxxx --width 1920 or 
@@ -66,7 +66,6 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument("--images", type=str, default="",
                         help="the location of image folder")
-    parser.add_argument('--image', type=str, default="", help="a image")
     parser.add_argument('--width', type=int, default=0,
                         help="the target image width (recommend 1920)")
     parser.add_argument('--height', type=int, default=0,
@@ -74,19 +73,19 @@ if __name__ == '__main__':
     parser.add_argument('--ratio', type=float, default=0,
                         help="the ratio to resize image (recommend 0.7)")
     args = parser.parse_args()
-    print(args)
-    if args.images:
+    if os.path.isdir(args.images):
         for root, dirs, files in os.walk(args.images):
             for idx, file in enumerate(files):
-
                 if file.endswith('.jpg') or file.endswith('.png') or file.endswith('.gif'):
                     print('Resize {} image'.format(idx + 1))
                     resize_image(os.path.join(root, file), args)
-        print('Finish resize')
+        print('Finish resize images')
 
-    elif args.image:
-        print('Resize image:', args.image)
-        resize_image(args.image, args)
-        print('Finish resize')
+    elif os.path.isfile(args.images):
+        is_img = args.images.endswith('.jpg') or args.images.endswith(
+            '.png') or args.images.endswith('.gif')
+        print('Resize one image:', args.images)
+        resize_image(args.images, args)
+        print('Finish resize image')
     else:
         print("Please check the path of images")
