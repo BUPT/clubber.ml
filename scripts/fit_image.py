@@ -65,7 +65,7 @@ def resize_image(image_path, args):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument("--images", type=str, default="",
-                        help="the location of image folder")
+                        help="the location of image folder or image")
     parser.add_argument('--width', type=int, default=0,
                         help="the target image width (recommend 1920)")
     parser.add_argument('--height', type=int, default=0,
