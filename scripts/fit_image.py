@@ -17,27 +17,48 @@ import argparse
 import re
 
 
-def resize_image(image_path, args):
-    img = Image.open(image_path)
-    w, h = img.size
+def chose_proper_resolution(args, old_width, old_hegiht):
+    """
+    according the ratio or weight and hegiht to chose a proper resolution
+
+    return the proper resolution
+
+    """
+    # use ratio to resize
     if args.ratio > 0:
-        w_hat = int(w * args.ratio)
-        h_hat = int(h * args.ratio)
+        target_width = int(old_width * args.ratio)
+        target_height = int(old_height * args.ratio)
     else:
-        if w > args.width > 0 and h > args.height > 0:
-            w_hat = args.width
-            h_hat = args.height
-        elif w > args.width > 0 and args.height == 0:
-            w_hat = args.width
-            h_hat = int(w_hat / w * h)
-        elif args.width == 0 and h > args.height > 0:
-            h_hat = args.height
-            w_hat = int(h_hat / h * w)
+        # use width or height to resize
+        if old_width > args.width > 0 and old_height > args.height > 0:
+            # when width and height both are set
+            target_width = args.width
+            target_height = args.height
+        elif old_width > args.width > 0 and args.height == 0:
+            # when only width is set
+            target_width = args.width
+            target_height = int(args.width / old_width * old_height)
+        elif args.width and old_height > args.height > 0:
+            # when olny height is set
+            target_width = int(args.height / old_height * old_width)
+            target_height = args.height
         else:
-            print('please check options')
-            w_hat = w
-            h_hat = h
-    img = img.resize([w_hat, h_hat], Image.BILINEAR)
+            # other cases, don't modify images
+            target_width = old_width
+            target_height = old_height
+
+    return target_width, target_height
+
+
+def resize_image(image_path, args):
+    """
+    According ratio or resolution to resize image and relpace source image
+    """
+    img = Image.open(image_path)
+    old_width, old_height = img.size
+    target_width, target_height = chose_proper_resolution(
+        args, old_width, old_hegiht)
+    img = img.resize([target_width, target_height], Image.BILINEAR)
     img.save(image_path)
 
 
@@ -47,11 +68,11 @@ if __name__ == '__main__':
                         help="the location of image folder")
     parser.add_argument('--image', type=str, default="", help="a image")
     parser.add_argument('--width', type=int, default=0,
-                        help="the target image width")
+                        help="the target image width (recommend 1920)")
     parser.add_argument('--height', type=int, default=0,
-                        help="the target image hegiht")
+                        help="the target image hegiht(recommend 1080)")
     parser.add_argument('--ratio', type=float, default=0,
-                        help="the ratio to resize image")
+                        help="the ratio to resize image (recommend 0.7)")
     args = parser.parse_args()
     print(args)
     if args.images:
