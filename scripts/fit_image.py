@@ -17,7 +17,7 @@ import argparse
 import re
 
 
-def chose_proper_resolution(args, old_width, old_hegiht):
+def chose_proper_resolution(args, old_width, old_height):
     """
     according the ratio or weight and hegiht to chose a proper resolution
 
@@ -57,7 +57,7 @@ def resize_image(image_path, args):
     img = Image.open(image_path)
     old_width, old_height = img.size
     target_width, target_height = chose_proper_resolution(
-        args, old_width, old_hegiht)
+        args, old_width, old_height)
     img = img.resize([target_width, target_height], Image.BILINEAR)
     img.save(image_path)
 
