@@ -1,13 +1,18 @@
 """
 A python tool to resize images 
+
 Usage:
-    python fit_image.py --images (image_dir|one image)
-if you wanna set image resolution ,please use this command :
-    python fit_image.py --images xxxx --width 1920 --height 1080  or
-    python fit_image.py --images xxxx --width 1920 or 
-    python fit_image.py --images xxxx  --height 1080 
-if you wanna set image resolution by ratio ,please use this command:
-    python fit_image.py --images xxx --ratio 0.5
+    python fit_image.py --images (image_dir|one image) --width 1920
+
+    if you wanna resize image by setting resolution
+    please use this command :
+        - python fit_image.py --images xxxx --width 1920 (recommend)
+        - python fit_image.py --images xxxx  --height 1080 
+        - python fit_image.py --images xxxx --width 1920 --height 1080  
+
+    if you wanna resize image resolution by setting ratio ,
+    please use this command(not recommend):
+        - python fit_image.py --images xxx --ratio 0.5
 
 """
 
@@ -15,6 +20,7 @@ import os
 from PIL import Image
 import argparse
 import re
+import sys
 
 
 def chose_proper_resolution(args, old_width, old_height):
@@ -24,10 +30,22 @@ def chose_proper_resolution(args, old_width, old_height):
     return the proper resolution
 
     """
-    # use ratio to resize
+
     if args.ratio > 0:
-        target_width = int(old_width * args.ratio)
-        target_height = int(old_height * args.ratio)
+        """
+        use ratio to resize (0,1) .
+        It's very dangerous action which will modify all image ,
+        so you need to make sure you wamma do this
+        """
+        print('Please check use ratio {} to resize all images!\
+            \n If you sure,please input yes/y to argee'.format(args.ratio))
+        input_str = sys.stdin.readline().strip().lower()
+        if 'yes' == input_str or 'y' == input_str:
+            target_width = int(old_width * args.ratio)
+            target_height = int(old_height * args.ratio)
+        else:
+            print('You need to think about this operation')
+            exit(1)
     else:
         # use width or height to resize
         if old_width > args.width > 0 and old_height > args.height > 0:
@@ -77,7 +95,7 @@ if __name__ == '__main__':
         for root, dirs, files in os.walk(args.images):
             for idx, file in enumerate(files):
                 if file.endswith('.jpg') or file.endswith('.png') or file.endswith('.gif'):
-                    print('Resize {} image'.format(idx + 1))
+                    print('Resize {} image:[{}]'.format(idx + 1, file))
                     resize_image(os.path.join(root, file), args)
         print('Finish resize images')
 
