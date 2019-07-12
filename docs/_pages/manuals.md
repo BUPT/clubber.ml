@@ -18,12 +18,12 @@ toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 
 ## AI ML Club Manuals
 
-[Code of Conduct](/manuals/code-of-conduct/)
-
+- [Code of Conduct](/code-of-conduct/)
 - Manuals
   - [Newcomer Manual](/manuals/newcomer/)
   - [Member Manual](/manuals/member/)
   - [Chair Manual](/manuals/chair/)
+  - [Vice Chair Manual](/manuals/vice-chair/)
   - [Pull Request Manual](/manuals/pull-request/)
   - [Blog Manual](/manuals/blog/)
   - [Code Manual](/manuals/code/)
