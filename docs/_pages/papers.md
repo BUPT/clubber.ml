@@ -60,7 +60,7 @@ We add paper to this list if we want to presente it later, or want to ask other 
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
-| [S2E18](https://ai-ml.club/events/seminar-meeting-minutes-2-18/) | [@gaojiuy](https://github.com/gaojiuy) |  [On PixelWise Explanations for NonLinear Classifier Decisions by Layer-Wise Relevance Propagation](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130140) |
+| [S2E18](https://ai-ml.club/events/seminar-meeting-minutes-2-18/) | [@gaojiuy](https://github.com/gaojiuy) | [On PixelWise Explanations for NonLinear Classifier Decisions by Layer-Wise Relevance Propagation](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130140) |
 | [S2E18](https://ai-ml.club/events/seminar-meeting-minutes-2-18/) | [@VDeamoV](https://github.com/VDeamoV) | [Pytorch TPU 使用初体验](https://github.com/pytorch/xla/blob/master/README.md) |
 | [S2E17](https://ai-ml.club/events/seminar-meeting-minutes-2-17/) | [@linbo0518](https://github.com/linbo0518) | [Devil is in the Edges: Learning Semantic Boundaries from Noisy Annotations](https://arxiv.org/abs/1904.07934) |
 | [S2E17](https://ai-ml.club/events/seminar-meeting-minutes-2-17/) | [@newip](https://github.com/newip) | [Real-Time Monocular Pose Estimation of 3D Objects using Temporally Consistent Local Color Histograms](https://www.researchgate.net/publication/320805072_Real-Time_Monocular_Pose_Estimation_of_3D_Objects_Using_Temporally_Consistent_Local_Color_Histograms) |
