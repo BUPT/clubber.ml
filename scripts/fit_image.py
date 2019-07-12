@@ -37,14 +37,18 @@ def chose_proper_resolution(args, old_width, old_height):
         It's very dangerous action which will modify all image ,
         so you need to make sure you wamma do this
         """
-        print('Please check use ratio {} to resize all images!\
+        if args.ratio > 1:
+            print("make sure ratio between 0 and 1")
+            exit()
+
+        print('-->Please check use ratio {} to resize all images!\
             \n If you sure,please input yes/y to argee'.format(args.ratio))
         input_str = sys.stdin.readline().strip().lower()
         if 'yes' == input_str or 'y' == input_str:
             target_width = int(old_width * args.ratio)
             target_height = int(old_height * args.ratio)
         else:
-            print('You need to think about this operation')
+            print('\n-->You need to think about this operation')
             exit(1)
     else:
         # use width or height to resize
@@ -76,6 +80,10 @@ def resize_image(image_path, args):
     old_width, old_height = img.size
     target_width, target_height = chose_proper_resolution(
         args, old_width, old_height)
+    if old_height == target_height and old_width == target_width:
+        print(
+            '-->The resolution has not changed, so this image is not modified:[{}]'.format(image_path))
+        return None
     img = img.resize([target_width, target_height], Image.BILINEAR)
     img.save(image_path)
 
