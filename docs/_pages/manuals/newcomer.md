@@ -4,12 +4,12 @@ permalink: /manuals/newcomer/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/conversational-ai.jpg
+  overlay_image: /assets/images/amc-banner.jpg
 #   actions:
 #     - label: "Download"
 #       url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: [**boost.ai**](https://www.boost.ai/articles/2018/10/17/six-ways-conversational-ai-will-enhance-your-company)"
-excerpt: "<!--excerpt-->"
+  caption: "Photo credit: [**buguroo**](https://www.buguroo.com/en/blog/topic/ai)"
+excerpt: "How to enhance your attendance experience"
 toc: true
 toc_label: "Newcomer Manual"
 toc_icon: "tasks"  # corresponding Font Awesome icon name (without fa prefix)
@@ -20,7 +20,7 @@ AI ML Club，简称 AMC ，是一个半开放的人工智能、机器学习和�
 AMC 随时欢迎新朋友加入，前提是需要你：
 
 1. 对AI/ML研究方向有激情
-1. 有强烈论文学习和研讨意愿
+2. 有强烈论文学习和研讨意愿
 
 如果你自认为符合上述两个条件，那么欢迎你做为 AMC 俱乐部的新人申请加入。
 
