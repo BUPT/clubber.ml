@@ -1,8 +1,7 @@
 {
-  "extends": "./node_modules/typescript-config-foo/index.json",
+  "extends": "@chatie/tsconfig",
   "compilerOptions": {
     "outDir": "dist",
-    "lib": ["es2018", "dom"]
   },
   "exclude": [
     "node_modules/",
