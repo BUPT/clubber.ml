@@ -1,7 +1,6 @@
 ---
 title: "Blog Manual"
 permalink: /manuals/blog/
-layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -10,27 +9,24 @@ header:
 #     - label: "Download"
 #       url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Photo credit: [**buguroo**](https://www.buguroo.com/en/blog/topic/ai)"
-excerpt: "AI ML Club"
+excerpt: "How to Post a Blog"
 toc: true
-toc_label: "Unique Title"
-toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
+toc_sticky: true
+toc_label: "Blog Manual"
+toc_icon: "tasks"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 
-## Blog Manual
-
-A check list for publish the blog.
-
-### 沙龙博客
+## 沙龙博客
 
 地址：<https://ai-ml.club>
 
 大家所做沙龙分享内容，可以通过如下方式上传到我们的博客。
 
-#### 上传地址
+## 上传地址
 
 <https://github.com/BUPT/ai-ml.club/tree/master/docs/_posts>
 
-#### 添加作者信息
+## 添加作者信息
 
 所有作者的基本资料，都保存在这个文件中：<https://github.com/BUPT/ai-ml.club/blob/master/docs/_data/authors.yml>
 
@@ -51,7 +47,7 @@ qhduan:
 
 其他内容格式可以参考文件中其他部分。
 
-#### 上传格式
+## 上传格式
 
 1. 选择论文笔记所属分类（Category），可以参考之前的[分类列表](https://bupt.github.io/ai-ml.club/categories/)
 2. 选择论文笔记所带标签（Tag），可以参考之前的[分类列表](https://bupt.github.io/ai-ml.club/tags/)
@@ -67,7 +63,7 @@ qhduan:
     3. 其他文件，尽量文件名和Blog Post的文件名一致，便于后续维护工作识别
 7. 在添加图片到git之前，运行`make fit-image`将图片尺寸进行调整。
 
-#### Blog Post 文件模板
+## Blog Post 文件模板
 
 最好的模板，就是在目录中寻找之前的博客文章 Markdown 源文件，然后拷贝之后做适合自己的修改。
 
@@ -104,7 +100,7 @@ tags:
 ---
 ```
 
-#### 发布
+## 发布
 
 对博客的添加修改，可以通过Pull Request的方式提交。Pull Request被Merge之后，在线网站会在几分钟内自动更新。
 

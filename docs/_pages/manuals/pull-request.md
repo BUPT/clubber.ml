@@ -1,7 +1,6 @@
 ---
-title: "Newcomer Manual"
+title: "Pull Request Manual"
 permalink: /manuals/pull-request/
-layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -10,19 +9,15 @@ header:
 #     - label: "Download"
 #       url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Photo credit: [**buguroo**](https://www.buguroo.com/en/blog/topic/ai)"
-excerpt: "AI ML Club"
+excerpt: "How to send Pull Request"
 toc: true
-toc_label: "Unique Title"
-toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
+toc_label: "Pull Request Manual"
+toc_icon: "tasks"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 
-## Pull Request Manual
+## Pull Request Check List
 
-A check list for create the pull request.
-
-### Pull Request Check List
-
-**参加 AMC 沙龙需要提交 Pull Request。**
+参加 AMC 沙龙需要提交 Pull Request。
 
 在 <https://github.com/BUPT/ai-ml.club/blob/master/docs/_pages/papers.md> 项目中，以 Pull Request 的形式，将自己想讲解的论文进行修订。
 
@@ -30,7 +25,7 @@ A check list for create the pull request.
 
 轮值主席在收到大家的PR后，在会议通知发送之前进行Merge。
 
-**注意**：
+注意：
 
 1. 在各自的 Pull Request 的描述中，**引用本会议纪要的 issue URL**，以便于会议纪要进行追踪。
 2. 在 Pull Request 中，说明自己是属于 Oral 还是 Poster.
@@ -40,9 +35,9 @@ A check list for create the pull request.
 6. CI 对图片的要求：尺寸不能超过1MB；同时如果宽度超过了 1920 ，那么需要用 `./scripts/fit-image.sh` 处理一下，压缩到 1920 宽度的分辨率，以加快网页加载速度
 7. Pull Request 如果是 Oral 或者 Poster 的报名，那么必需要以 `/^(🗣|📰)/` 开头，请大家注意标题要符合模板
 
-有任何问题，大家随时在群里面提出哈。
+有任何问题，大家可以随时在群里面提出讨论。
 
-### Contributing
+## Contributing
 
 1. Fork it
 1. Create your paper branch (git checkout -b my-new-paper)

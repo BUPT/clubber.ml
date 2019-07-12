@@ -8,6 +8,10 @@ categories:
   - events
 tags:
   - 
+toc: true
+toc_sticky: true
+toc_label: "Meeting Minutes"
+toc_icon: "tasks"  # corresponding Font Awesome icon name (without fa prefix)
 header:
   teaser: /assets/2019/seminar-2-15/after-party.jpg
 ---
@@ -94,4 +98,8 @@ AfterParty 第六次活动顺利结束！
 2. 如果参加下次沙龙活动，请回复下次自己的分享是 Oral（30分钟）还是Poster（5分钟）
 3. 如果计划邀请新朋友参加下次沙龙活动，请让新朋友回复一句话的自我介绍
 
-## 特别鸣谢CAD中心提供活动场地，以及宋美娜老师和实验室全体人员对本沙龙的支持与帮助~
+---
+
+**特别鸣谢** CAD中心提供活动场地，以及宋美娜老师和实验室全体人员对本沙龙的支持与帮助~
+
+---

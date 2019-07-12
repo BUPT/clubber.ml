@@ -10,7 +10,7 @@ header:
 #     - label: "Download"
 #       url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Photo credit: [**buguroo**](https://www.buguroo.com/en/blog/topic/ai)"
-excerpt: "AI ML Club"
+excerpt: "For all AMC Vice Chairs to Follow"
 toc: true
 toc_label: "Unique Title"
 toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)

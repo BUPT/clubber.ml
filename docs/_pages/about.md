@@ -1,7 +1,6 @@
 ---
 title: "About"
 permalink: /about/
-layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -11,9 +10,6 @@ header:
 #       url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Photo credit: [**buguroo**](https://www.buguroo.com/en/blog/topic/ai)"
 excerpt: "Conversational AI Club"
-toc: true
-toc_label: "Unique Title"
-toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 
 ## Artificial Intelligence & Machine Learning Club
