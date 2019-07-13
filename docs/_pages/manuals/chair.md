@@ -4,11 +4,11 @@ permalink: /manuals/chair/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/conversational-ai.jpg
+  overlay_image: /assets/images/amc-banner.jpg
 #   actions:
 #     - label: "Download"
 #       url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: [**boost.ai**](https://www.boost.ai/articles/2018/10/17/six-ways-conversational-ai-will-enhance-your-company)"
+  caption: "Photo credit: [**buguroo**](https://www.buguroo.com/en/blog/topic/ai)"
 excerpt: "For all AMC Chairs to Follow"
 toc: true
 toc_sticky: true
@@ -21,11 +21,11 @@ toc_icon: "tasks"  # corresponding Font Awesome icon name (without fa prefix)
 ### Vice Chairperson Duty List
 
 1. 辅助主席开展工作
-1. 在主席无法行使职能的时候，代替主席，肩负主席职责，开展相关工作
-1. 监督并提醒主席在活动前48小时，发出正式的活动通知
-1. 监督并提醒主席将相关的 Pull Request 在活动通知发出之前，完成 Review/Merge 操作
-1. 监督并提醒主席在活动后48小时之内，发布活动纪要
-1. 在主席发布活动纪要后48小时之内，完成 Vice Chair Report(副主席报告)，回复在活动通知的留言区中
+2. 在主席无法行使职能的时候，代替主席，肩负主席职责，开展相关工作
+3. 监督并提醒主席在活动前48小时，发出正式的活动通知
+4. 监督并提醒主席将相关的 Pull Request 在活动通知发出之前，完成 Review/Merge 操作
+5. 监督并提醒主席在活动后48小时之内，发布活动纪要
+6. 在主席发布活动纪要后48小时之内，完成 Vice Chair Report(副主席报告)，回复在活动通知的留言区中
 
 ### Vice Chair Report (副主席报告）
 
@@ -71,11 +71,11 @@ Additional Notes: put additional information here (if any).
 ### Before
 
 1. 监督上任轮值主席，在上次活动后48小时内，发出上次活动纪要
-1. 在本次活动开始时间48小时之前，根据上次活动纪要，以及纪要的回复（PR）情况，按照 Issue Template ，撰写本次沙龙活动通知，并发布
-1. 按照先自愿 + 主席指定原则，选出本次沙龙的一个 Oral，其他为 Poster
-1. Merge 本次活动相关的 Pull Requests
-1. 如果轮值主席因故无法履行本次轮值主席职责，需要在不晚于活动开始前48小时，授权轮值副主席为本次轮值主席，行使本次活动职责
-1. 如果有新会员申请Colab权限，需要将其Google账号添加到[Colab Jupter Notebook](https://colab.research.google.com/drive/1AO3bwIgzfy63ty8OSSgUPRG1PIii3oo_)的SHARE列表中，并授予EDIT权限。
+2. 在本次活动开始时间48小时之前，根据上次活动纪要，以及纪要的回复（PR）情况，按照 Issue Template ，撰写本次沙龙活动通知，并发布
+3. 按照先自愿 + 主席指定原则，选出本次沙龙的一个 Oral，其他为 Poster
+4. Merge 本次活动相关的 Pull Requests, **注：PR可能会存在多条commit，所以在合并PR的时候，尽可能的选择`Squash and merge`**
+5. 如果轮值主席因故无法履行本次轮值主席职责，需要在不晚于活动开始前48小时，授权轮值副主席为本次轮值主席，行使本次活动职责
+6. 如果有新会员申请Colab权限，需要将其Google账号添加到[Colab Jupter Notebook](https://colab.research.google.com/drive/1AO3bwIgzfy63ty8OSSgUPRG1PIii3oo_)的SHARE列表中，并授予EDIT权限。
 
 ### Middle
 
