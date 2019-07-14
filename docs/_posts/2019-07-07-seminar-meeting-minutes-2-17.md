@@ -56,7 +56,7 @@ header:
 ![周家鑫]({{ '/assets/2019/seminar-2-17/jiaxinzhou-poster.jpg' | relative_url }})
 
 - 林博 @linbo0518
-    > [Devil is in the Edges: Learning Semantic Boundaries from Noisy Annotations](https://arxiv.org/abs/1904.07934)分享了一篇CVPR2109的Oral paper，提出了一种针对标注噪声的解决方法，使得模型可以针对噪声学到更好的效果
+    > [Devil is in the Edges: Learning Semantic Boundaries from Noisy Annotations](https://arxiv.org/abs/1904.07934)分享了一篇CVPR2019的Oral paper，提出了一种针对标注噪声的解决方法，使得模型可以针对噪声学到更好的效果
 
 ![林博]({{ '/assets/2019/seminar-2-17/bolin-poster.jpg' | relative_url }})
 
