@@ -129,12 +129,12 @@ npm test
 
 ```sh
 # Mac
-brew install magicmagick
+brew install imagemagick
 
 # Linux
-apt install magicmagick
+apt install imagemagick
 
-./script/fit-image.sh
+./scripts/fit-image.sh
 ```
 
 ### VsCode Markdown Linting
