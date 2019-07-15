@@ -116,6 +116,15 @@ npm install
 make serve
 ```
 
+### Local Test
+
+```sh
+npm test
+# If ERROR occurs please check out
+# 1. node version >= 10
+# 2. you have installed the lastest typescript
+```
+
 ### Image Resizing
 
 ```sh
