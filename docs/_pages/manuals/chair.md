@@ -40,7 +40,7 @@ toc_icon: "tasks"  # corresponding Font Awesome icon name (without fa prefix)
 1. 参会会员是否符合[Member Manual]({{ '/manuals/member/' | relative_url }})的要求（逐项检查）
 1. 新人是否符合[Newcomer Manual]({{ '/manuals/newcomer/' | relative_url }})的要求（逐项检查）
 
-副主席包告，在活动总结发布之后24小时内，以回复本次活动纪要博客留言的形式进行正式发布。
+副主席报告，在活动总结发布之后24小时内，以回复本次活动纪要博客留言的形式进行正式发布。
 
 #### Vice Chair Report Template
 
