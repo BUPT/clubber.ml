@@ -49,5 +49,8 @@
     "scripts": {
       "pre-push": "npx git-scripts-pre-push"
     }
+  },
+  "dependencies": {
+    "typescript": "^3.5.3"
   }
 }
