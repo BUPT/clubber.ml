@@ -80,7 +80,7 @@ def resize_image(image_path, args):
     old_width, old_height = img.size
     target_width, target_height = chose_proper_resolution(
         args, old_width, old_height)
-    if old_height == target_height and old_width == target_width:
+    if old_height <= target_height and old_width <= target_width:
         print(
             '-->The resolution has not changed, so this image is not modified:[{}]'.format(image_path))
         return None
