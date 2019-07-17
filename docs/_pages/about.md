@@ -20,6 +20,12 @@ excerpt: "Conversational AI Club"
 
 Welcome to the Artificial Intelligence & Machine Learning Club, we are a group of researchers have a paper studying seminar at 7-10pm every sunday!
 
+<!-- markdownlint-disable MD033 -->
+<video id="video" controls="" preload="none" poster="https://raw.githubusercontent.com/824zzy/blogResources/master/picResources/amc-advertise-avatar.jpg" height="500" width="650">
+  <source id="mp4" src="https://raw.githubusercontent.com/824zzy/blogResources/master/vidResources/AMC-CLUB-propaganda.mp4" type='video/mp4'>
+  <p>Your user agent does not support the HTML5 Video element.</p>
+</video>
+
 ### JOIN US 💖
 
 We have weekly offline meetups, you will be welcome to join if you are interested.
