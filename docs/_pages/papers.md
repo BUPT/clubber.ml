@@ -61,7 +61,7 @@ We add paper to this list if we want to presente it later, or want to ask other 
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
-| [S2E19](https://ai-ml.club/events/seminar-meeting-minutes-2-18/) | [@secortot](https://github.com/secortot) | [guided anchor](https://arxiv.org/abs/1901.03278) |
+| [S2E19](https://ai-ml.club/events/seminar-meeting-minutes-2-19/) | [@secortot](https://github.com/secortot) | [guided anchor](https://arxiv.org/abs/1901.03278) |
 | [S2E18](https://ai-ml.club/events/seminar-meeting-minutes-2-18/) | [@newip](https://github.com/newip) | [Magic Mirror Project Introducton and Kick Off Notification](https://github.com/BUPT/magic-mirror/projects) |
 | [S2E18](https://ai-ml.club/events/seminar-meeting-minutes-2-18/) | [@secortot](https://github.com/secortot) | [Simple Baselines for Human Pose Estimation and Tracking](https://arxiv.org/abs/1804.06208) |
 | [S2E18](https://ai-ml.club/events/seminar-meeting-minutes-2-18/) | [@gaojiuy](https://github.com/gaojiuy) | [On PixelWise Explanations for NonLinear Classifier Decisions by Layer-Wise Relevance Propagation](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130140) |
