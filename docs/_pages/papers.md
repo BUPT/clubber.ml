@@ -61,6 +61,7 @@ We add paper to this list if we want to presente it later, or want to ask other 
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
+| [S2E19](https://ai-ml.club/events/seminar-meeting-minutes-2-19/) | [@VDeamoV](https://github.com/VDeamoV) | [Finding Task-Relevant Features for Few-Shot Learning by Category Traversal](https://arxiv.org/pdf/1905.11116.pdf) |
 | [S2E19](https://ai-ml.club/events/seminar-meeting-minutes-2-19/) | [@gaojiuy](https://github.com/gaojiuy) | [Learning Deep Features for Discriminative Localization](https://arxiv.org/pdf/1512.04150.pdf) |
 | [S2E18](https://ai-ml.club/events/seminar-meeting-minutes-2-18/) | [@newip](https://github.com/newip) | [Magic Mirror Project Introducton and Kick Off Notification](https://github.com/BUPT/magic-mirror/projects) |
 | [S2E18](https://ai-ml.club/events/seminar-meeting-minutes-2-18/) | [@secortot](https://github.com/secortot) | [Simple Baselines for Human Pose Estimation and Tracking](https://arxiv.org/abs/1804.06208) |
