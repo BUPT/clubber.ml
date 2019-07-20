@@ -20,16 +20,6 @@ toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 
 We only add paper to this list before we decide to oral/poster it at our AMC seminar.
 
-### Wishlist
-
-We add paper to this list if we want to presente it later, or want to ask other members to present it, at our seminar.
-
-| Applicant | Paper |
-| --------- | ----- |
-| @huan | [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366) |
-| @huan | [Oriol Vinyals, Quoc V. Le - A Neural Conversational Model, 2015](https://arxiv.org/pdf/1506.05869.pdf) |
-| @huan | [Google’s Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](https://arxiv.org/pdf/1611.04558.pdf) |
-
 ## AMC Season 2
 
 | Season  | 2         |
