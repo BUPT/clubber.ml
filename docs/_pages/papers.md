@@ -51,6 +51,8 @@ We only add paper to this list before we decide to oral/poster it at our AMC sem
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
+| [S2E19](https://ai-ml.club/events/seminar-meeting-minutes-2-19/) | [@WdBlink](https://github.com/wdblink) | [High-Resolution Representations for Labeling Pixels and Regions](https://arxiv.org/abs/1904.04514) |
+| [S2E19](https://ai-ml.club/events/seminar-meeting-minutes-2-19/) | [@secortot](https://github.com/secortot) | [guided anchor](https://arxiv.org/abs/1901.03278) |
 | [S2E19](https://ai-ml.club/events/seminar-meeting-minutes-2-19/) | [@VDeamoV](https://github.com/VDeamoV) | [Finding Task-Relevant Features for Few-Shot Learning by Category Traversal](https://arxiv.org/pdf/1905.11116.pdf) |
 | [S2E19](https://ai-ml.club/events/seminar-meeting-minutes-2-19/) | [@gaojiuy](https://github.com/gaojiuy) | [Learning Deep Features for Discriminative Localization](https://arxiv.org/pdf/1512.04150.pdf) |
 | [S2E18](https://ai-ml.club/events/seminar-meeting-minutes-2-18/) | [@newip](https://github.com/newip) | [Magic Mirror Project Introducton and Kick Off Notification](https://github.com/BUPT/magic-mirror/projects) |
