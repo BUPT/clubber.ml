@@ -20,16 +20,6 @@ toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 
 We only add paper to this list before we decide to oral/poster it at our AMC seminar.
 
-### Wishlist
-
-We add paper to this list if we want to presente it later, or want to ask other members to present it, at our seminar.
-
-| Applicant | Paper |
-| --------- | ----- |
-| @huan | [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366) |
-| @huan | [Oriol Vinyals, Quoc V. Le - A Neural Conversational Model, 2015](https://arxiv.org/pdf/1506.05869.pdf) |
-| @huan | [Google’s Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](https://arxiv.org/pdf/1611.04558.pdf) |
-
 ## AMC Season 2
 
 | Season  | 2         |
@@ -61,6 +51,11 @@ We add paper to this list if we want to presente it later, or want to ask other 
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
+| [S2E19](https://ai-ml.club/events/seminar-meeting-minutes-2-19/) | [@ArronHZG](https://github.com/ArronHZG) | [Attention in computer version](https://blog.csdn.net/Arron_hou/article/details/95676716) |
+| [S2E19](https://ai-ml.club/events/seminar-meeting-minutes-2-19/) | [@WdBlink](https://github.com/wdblink) | [High-Resolution Representations for Labeling Pixels and Regions](https://arxiv.org/abs/1904.04514) |
+| [S2E19](https://ai-ml.club/events/seminar-meeting-minutes-2-19/) | [@secortot](https://github.com/secortot) | [guided anchor](https://arxiv.org/abs/1901.03278) |
+| [S2E19](https://ai-ml.club/events/seminar-meeting-minutes-2-19/) | [@VDeamoV](https://github.com/VDeamoV) | [Finding Task-Relevant Features for Few-Shot Learning by Category Traversal](https://arxiv.org/pdf/1905.11116.pdf) |
+| [S2E19](https://ai-ml.club/events/seminar-meeting-minutes-2-19/) | [@gaojiuy](https://github.com/gaojiuy) | [Learning Deep Features for Discriminative Localization](https://arxiv.org/pdf/1512.04150.pdf) |
 | [S2E18](https://ai-ml.club/events/seminar-meeting-minutes-2-18/) | [@newip](https://github.com/newip) | [Magic Mirror Project Introducton and Kick Off Notification](https://github.com/BUPT/magic-mirror/projects) |
 | [S2E18](https://ai-ml.club/events/seminar-meeting-minutes-2-18/) | [@secortot](https://github.com/secortot) | [Simple Baselines for Human Pose Estimation and Tracking](https://arxiv.org/abs/1804.06208) |
 | [S2E18](https://ai-ml.club/events/seminar-meeting-minutes-2-18/) | [@gaojiuy](https://github.com/gaojiuy) | [On PixelWise Explanations for NonLinear Classifier Decisions by Layer-Wise Relevance Propagation](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130140) |
