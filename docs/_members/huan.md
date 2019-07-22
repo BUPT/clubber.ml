@@ -14,10 +14,10 @@ author: huan
 
 Huan is a second year CS Ph.D. student at BUPT, a Conversational AI fan, and a Tensorflow developer.
 
-## Publications
+## Paper
 
 - TBD1 -_-b
-- TBD2 -_-||
+- TBD2 -_-\|\|
 
 ## Open Source Projects
 
@@ -43,7 +43,20 @@ Huan is a second year CS Ph.D. student at BUPT, a Conversational AI fan, and a T
 - [听道演讲 - 李卓桓：和我一起来飞翔](https://mp.weixin.qq.com/s?__biz=MjM5MDQxOTIyMw==&mid=10000009&idx=1&sn=4d4adea2700d99f5fb9e90da7ddd812d), August, 2012 (video)
 - [跟我一起飞](https://docs.google.com/presentation/d/1oV8me-DsH_TVgFhFeQQ3axvDID6R1n4Tya64NbClhaQ/edit?usp=sharing), March, 2010
 
+## Publications
+
+- [智能问答与深度学习](https://item.jd.com/12479014.html), 电子工业出版社(ISBN: 9787121349218), 1 Jan, 2019
+- [反垃圾邮件完全手册](https://books.google.com/books?id=ng3JODtYRVMC), 清华大学出版社(ISBN: 9787302140214), 1 Dec, 2006
+- [Linux网络编程](https://book.douban.com/subject/1021619/), 机械工业出版社(ISBN: 9787111076773), Jan 2001
+
+## Awards & Honors
+
+- [Microsoft AI MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003061) (Most Valuable AI Professional)
+- [Google ML GDE](https://developers.google.com/community/experts/directory/) (Google Machine Learning Developers Experts)
+- [Google Cloud Professional Data Engineer](https://www.credential.net/x609tcmm)
+
 ## Contact
 
+- Linkedin: <https://linkedin.com/in/zixia>
 - Email: <huan@bupt.edu.cn>
 - Wechat: 918999
