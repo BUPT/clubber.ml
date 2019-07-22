@@ -76,6 +76,7 @@ Additional Notes: put additional information here (if any).
 4. Merge 本次活动相关的 Pull Requests, **注：PR可能会存在多条commit，所以在合并PR的时候，尽可能的选择`Squash and merge`**
 5. 如果轮值主席因故无法履行本次轮值主席职责，需要在不晚于活动开始前48小时，授权轮值副主席为本次轮值主席，行使本次活动职责
 6. 如果有新会员申请Colab权限，需要将其Google账号添加到[Colab Jupter Notebook](https://colab.research.google.com/drive/1AO3bwIgzfy63ty8OSSgUPRG1PIii3oo_)的SHARE列表中，并授予EDIT权限。
+7. 提前到场准备好金蛋银蛋（小屋内），并按照小屋内的流程启动会议相关设备
 
 ### Middle
 
