@@ -18,10 +18,9 @@ huan:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:huan@bupt.edu.cn"
-    # - label: "Website"
-    #   icon: "fas fa-fw fa-link"
-    #   url: "https://www.zixia.net"
-
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://ai-ml.club/members/huan/"
 
 824zzy:
   name       : "朱正源"
