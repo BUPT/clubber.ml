@@ -12,6 +12,7 @@
     ]
   },
   "ignore": [
-    "tests/fixtures/"
+    "docs/assets/js/viewer-js",
+    "tests/fixtures"
   ]
 }
