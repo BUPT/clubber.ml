@@ -9,7 +9,7 @@ header:
 #     - label: "Download"
 #       url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Photo credit: [**buguroo**](https://www.buguroo.com/en/blog/topic/ai)"
-excerpt: "Conversational AI Club"
+excerpt: "AI ML Club"
 ---
 
 ## Artificial Intelligence & Machine Learning Club
