@@ -18,8 +18,8 @@ toc_icon: "tasks"  # corresponding Font Awesome icon name (without fa prefix)
 
 ## Newbie
 
-1. Add yourself to `docs/_authors.yml`, use your Github username, and set `membership` to `member`
-1. Create your member profile page in `docs/_members/${GITHUB_USERNAME}.md`
+1. Add yourself to `docs/_authors.yml`, use your `github_username` in lowercase, and set `membership` to `member`
+1. Create your member profile page in `docs/_members/${github_username}.md`
 
 ## Todo List
 
