@@ -34,8 +34,8 @@ Huan is a second year CS Ph.D. student at BUPT, a Conversational AI fan, and a T
 - [Machine Learning in TypeScript](https://docs.google.com/presentation/d/10u2hKAz4VjryCYr-oHxcxX4HzFeKOir7lq79ASV6TIA/edit?usp=sharing), 2018
 - [Build Chatbot From 0 to 1](https://docs.google.com/presentation/d/1NUHIyrYyhYuUrfNm2E7D7GtMjfX2Y6EoiNwXhE33iPU/edit?usp=sharing), 2018
 - [A Concise Codelab of TensorFlow 2.0](https://docs.google.com/presentation/d/1fOcbvo8fcfMj-YGt2YSDqSlv-vH4NJ_EZOb9ZLd-0iI/edit?usp=sharing), 2018
-- [“只投十万”的天使投资人李卓桓，不跟年轻人讲道理](https://mp.weixin.qq.com/s?__biz=MjM5MDQxOTIyMw==&mid=502834304&idx=1&sn=33ca3a355e446fb63b72df5d1b6b2127), 7 Jan, 2018 (video)
-- [创业者如何拥抱人工智能 - 挑战60分钟入门深度神经网络](https://blog.zixia.net/2017/12/15/entrepreneur-meet-ai-get-started-with-neural-networks-in-60-minutes.html), 15 Dec 2017 (video)
+- [“只投十万”的天使投资人李卓桓，不跟年轻人讲道理](https://mp.weixin.qq.com/s?__biz=MjM5MDQxOTIyMw==&mid=502834304&idx=1&sn=33ca3a355e446fb63b72df5d1b6b2127), Jan, 2018 (video)
+- [创业者如何拥抱人工智能 - 挑战60分钟入门深度神经网络](https://blog.zixia.net/2017/12/15/entrepreneur-meet-ai-get-started-with-neural-networks-in-60-minutes.html), Dec 2017 (video)
 - [ROAD TO SUCCESS - TO BECAME A FULL STACK DEV](https://docs.google.com/presentation/d/15ZrF5rrqN9ax4LOIEYLHQLitqDBpSIC52Sz5c195K9k/edit?usp=sharing), [GitHub Repository](https://github.com/bupt/wora-app), June 2017
 - [30秒打动投资人：电梯演讲篇](https://mp.weixin.qq.com/s?__biz=MjM5MDQxOTIyMw==&mid=502834289&idx=1&sn=f357a3ef14b31d6e2624492120338dbf), June, 2017 (video)
 - [3分钟打动投资人：商业计划书篇](https://mp.weixin.qq.com/s?__biz=MjM5MDQxOTIyMw==&mid=502834290&idx=1&sn=6ce3f9a22e1b82f51804f8306a95b512), Dec 2017
