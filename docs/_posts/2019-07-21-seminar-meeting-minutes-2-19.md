@@ -33,29 +33,6 @@ header:
     > 分享了[Guided Anchor](https://arxiv.org/abs/1901.03278), 分享了一种 anchor free 的目标检测方法
 
 ![董青]({{ '/assets/2019/seminar-2-19/dq-poster.jpg'| relative_url }})
-<div class="zoom-container" style="
-    position: relative;
-    padding-bottom:56.25%;
-    padding-top:30px;
-    height:0;
-    overflow:hidden;
-">
-  <iframe
-    src='{{ '/assets/js/viewer-js/#/assets/2019/seminar-2-19/dq-slide.pdf' | relative_url }}'
-    width='560'
-    height='315'
-    allowfullscreen
-    webkitallowfullscreen
-    frameborder="0"
-    style="
-      position: absolute;
-      top:0;
-      left:0;
-      width:100%;
-      height:100%;
-    "
-  ></iframe>
-</div>
 
 - 段嘉铭 @VDeamoV
     > 分享了[Finding Task-Relevant Features for Few-Shot Learning by Category Traversal](https://arxiv.org/pdf/1905.11116.pdf), 一种通过先纵览当前 Task 之后生成 Mask 来过滤无关特征的方法来达到更好的模型学习效果
@@ -89,29 +66,6 @@ header:
 
 ![高久怡]({{ '/assets/2019/seminar-2-19/gjy-poster.jpg' | relative_url }})
 
-<div class="zoom-container" style="
-    position: relative;
-    padding-bottom:56.25%;
-    padding-top:30px;
-    height:0;
-    overflow:hidden;
-">
-  <iframe
-    src='{{ '/assets/js/viewer-js/#/assets/2019/seminar-2-19/gjy-slide.pdf' | relative_url }}'
-    width='560'
-    height='315'
-    allowfullscreen
-    webkitallowfullscreen
-    frameborder="0"
-    style="
-      position: absolute;
-      top:0;
-      left:0;
-      width:100%;
-      height:100%;
-    "
-  ></iframe>
-</div>
 
 - 尹鹏宇 @WdBlink
     > [High-Resolution Representations for Labeling Pixels and Regions](https://arxiv.org/abs/1904.04514)，介绍了一篇来自 MSRA 的论文，采用多层并行的结构保留高分辨率信息，并在各大 CV 任务获得了不错的成绩
