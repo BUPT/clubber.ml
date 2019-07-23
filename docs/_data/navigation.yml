@@ -1,8 +1,8 @@
 main:
   - title: "About"
     url: "/about/"
-  - title: Members
-    url: /members/
+  - title: People
+    url: /people/
   - title: "Manuals"
     url: "/manuals/"
   # - title: "Posts"
