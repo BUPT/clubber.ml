@@ -45,9 +45,9 @@ Huan is a second year CS Ph.D. student at BUPT, major in Conversational AI. Tens
 
 ## Publications
 
-- [智能问答与深度学习](https://item.jd.com/12479014.html), 电子工业出版社(ISBN: 9787121349218), 1 Jan, 2019
-- [反垃圾邮件完全手册](https://books.google.com/books?id=ng3JODtYRVMC), 清华大学出版社(ISBN: 9787302140214), 1 Dec, 2006
-- [Linux网络编程](https://book.douban.com/subject/1021619/), 机械工业出版社(ISBN: 9787111076773), Jan 2001
+- [智能问答与深度学习](https://item.jd.com/12479014.html), 电子工业出版社, ISBN 9787121349218, 1 Jan, 2019
+- [反垃圾邮件完全手册](https://books.google.com/books?id=ng3JODtYRVMC), 清华大学出版社, ISBN 9787302140214, 1 Dec, 2006
+- [Linux网络编程](https://book.douban.com/subject/1021619/), 机械工业出版社, ISBN 9787111076773, Jan 2001
 
 ## Awards & Honors
 
@@ -59,4 +59,4 @@ Huan is a second year CS Ph.D. student at BUPT, major in Conversational AI. Tens
 
 - Linkedin: <https://linkedin.com/in/zixia>
 - Email: <huan@bupt.edu.cn>
-- Wechat: [918999]({{ '/assets/members/huan/huan-wechat-qrcode.jpg' | relative_url }})
+- Wechat: [918999]({{ '/assets/people/huan/huan-wechat-qrcode.jpg' | relative_url }})
