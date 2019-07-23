@@ -174,7 +174,6 @@ header:
   ></iframe>
 </div>
 
-
 ## 授蛋仪式
 
 ![授蛋]({{ '/assets/2019/seminar-2-19/egg.jpg' | relative_url }})
