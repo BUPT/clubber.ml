@@ -282,3 +282,14 @@ defaults:
     values:
       layout: single
       author_profile: true
+  - scope:
+      path: ""
+      type: members
+    values:
+      layout: single
+      author_profile: true
+
+collections:
+  members:
+    output: true
+    permalink: /:collection/:path/

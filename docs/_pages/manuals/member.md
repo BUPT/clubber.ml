@@ -16,7 +16,12 @@ toc_label: "Member Manual"
 toc_icon: "tasks"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 
-## Member Todo List
+## Newbie
+
+1. Add yourself to `docs/_authors.yml`, use your `github_username` in lowercase, and set `membership` to `member`
+1. Create your member profile page in `docs/_members/${github_username}.md`
+
+## Todo List
 
 1. 每次参加活动之前，在 <https://github.com/BUPT/ai-ml.club/blob/master/docs/_pages/papers.md> 中，以 Pull Request 的形式，将自己想讲解的论文进行添加，并引用上次活动纪要的 Issue 方便关联查看。
 2. 论文笔记可以参考模板 TBW，以方便整理发布到本沙龙博客。
