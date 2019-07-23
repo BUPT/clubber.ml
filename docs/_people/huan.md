@@ -3,11 +3,8 @@ title: "Huan LI (李卓桓)"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/amc-banner.jpg
-#   actions:
-#     - label: "Download"
-#       url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: [**buguroo**](https://www.buguroo.com/en/blog/topic/ai)"
+  overlay_image: /assets/people/huan/huan-paragliding.jpg
+  caption: "Paragliding"
 excerpt: "Conversational AI "
 author: huan
 ---
