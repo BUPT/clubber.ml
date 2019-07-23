@@ -1,0 +1,21 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Image	../scripts/fit_image.py	/^from PIL import Image$/;"	kind:namespace	line:20
+argparse	../scripts/fit_image.py	/^import argparse$/;"	kind:namespace	line:21
+args	../scripts/fit_image.py	/^    args = parser.parse_args()$/;"	kind:variable	line:101
+chose_proper_resolution	../scripts/fit_image.py	/^def chose_proper_resolution(args, old_width, old_height):$/;"	kind:function	line:26
+fit_image.py	../scripts/fit_image.py	1;"	kind:file	line:1
+help	../scripts/fit_image.py	/^                        help="the location of image folder or image")$/;"	kind:variable	line:94
+help	../scripts/fit_image.py	/^                        help="the ratio to resize image (recommend 0.7)")$/;"	kind:variable	line:100
+help	../scripts/fit_image.py	/^                        help="the target image hegiht(recommend 1080)")$/;"	kind:variable	line:98
+help	../scripts/fit_image.py	/^                        help="the target image width (recommend 1920)")$/;"	kind:variable	line:96
+is_img	../scripts/fit_image.py	/^        is_img = args.images.endswith('.jpg') or args.images.endswith($/;"	kind:variable	line:111
+os	../scripts/fit_image.py	/^import os$/;"	kind:namespace	line:19
+parser	../scripts/fit_image.py	/^    parser = argparse.ArgumentParser()$/;"	kind:variable	line:92
+re	../scripts/fit_image.py	/^import re$/;"	kind:namespace	line:22
+resize_image	../scripts/fit_image.py	/^def resize_image(image_path, args):$/;"	kind:function	line:75
+sys	../scripts/fit_image.py	/^import sys$/;"	kind:namespace	line:23
