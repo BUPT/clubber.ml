@@ -12,7 +12,7 @@ excerpt: "Conversational AI "
 author: huan
 ---
 
-Huan is a second year CS Ph.D. student at BUPT, a Conversational AI fan, and a Tensorflow developer.
+Huan is a second year CS Ph.D. student at BUPT, major in Conversational AI. Tensorflow contributor.
 
 ## Paper
 
@@ -36,7 +36,7 @@ Huan is a second year CS Ph.D. student at BUPT, a Conversational AI fan, and a T
 - [A Concise Codelab of TensorFlow 2.0](https://docs.google.com/presentation/d/1fOcbvo8fcfMj-YGt2YSDqSlv-vH4NJ_EZOb9ZLd-0iI/edit?usp=sharing), 2018
 - [“只投十万”的天使投资人李卓桓，不跟年轻人讲道理](https://mp.weixin.qq.com/s?__biz=MjM5MDQxOTIyMw==&mid=502834304&idx=1&sn=33ca3a355e446fb63b72df5d1b6b2127), Jan, 2018 (video)
 - [创业者如何拥抱人工智能 - 挑战60分钟入门深度神经网络](https://blog.zixia.net/2017/12/15/entrepreneur-meet-ai-get-started-with-neural-networks-in-60-minutes.html), Dec 2017 (video)
-- [ROAD TO SUCCESS - TO BECAME A FULL STACK DEV](https://docs.google.com/presentation/d/15ZrF5rrqN9ax4LOIEYLHQLitqDBpSIC52Sz5c195K9k/edit?usp=sharing), [GitHub Repository](https://github.com/bupt/wora-app), June 2017
+- [ROAD TO SUCCESS - TO BECAME A FULL STACK DEV](https://docs.google.com/presentation/d/15ZrF5rrqN9ax4LOIEYLHQLitqDBpSIC52Sz5c195K9k/edit?usp=sharing), June 2017 ([repo](https://github.com/bupt/wora-app))
 - [30秒打动投资人：电梯演讲篇](https://mp.weixin.qq.com/s?__biz=MjM5MDQxOTIyMw==&mid=502834289&idx=1&sn=f357a3ef14b31d6e2624492120338dbf), June, 2017 (video)
 - [3分钟打动投资人：商业计划书篇](https://mp.weixin.qq.com/s?__biz=MjM5MDQxOTIyMw==&mid=502834290&idx=1&sn=6ce3f9a22e1b82f51804f8306a95b512), Dec 2017
 - [Wechaty 101: from v0.0 to v0.7](https://blog.chatie.io/wechaty-101-presentation/), 18 Dec, 2016 (video)
@@ -45,9 +45,9 @@ Huan is a second year CS Ph.D. student at BUPT, a Conversational AI fan, and a T
 
 ## Publications
 
-- [智能问答与深度学习](https://item.jd.com/12479014.html), 电子工业出版社(ISBN: 9787121349218), 1 Jan, 2019
-- [反垃圾邮件完全手册](https://books.google.com/books?id=ng3JODtYRVMC), 清华大学出版社(ISBN: 9787302140214), 1 Dec, 2006
-- [Linux网络编程](https://book.douban.com/subject/1021619/), 机械工业出版社(ISBN: 9787111076773), Jan 2001
+- [智能问答与深度学习](https://item.jd.com/12479014.html), 电子工业出版社, ISBN 9787121349218, 1 Jan, 2019
+- [反垃圾邮件完全手册](https://books.google.com/books?id=ng3JODtYRVMC), 清华大学出版社, ISBN 9787302140214, 1 Dec, 2006
+- [Linux网络编程](https://book.douban.com/subject/1021619/), 机械工业出版社, ISBN 9787111076773, Jan 2001
 
 ## Awards & Honors
 
@@ -59,4 +59,4 @@ Huan is a second year CS Ph.D. student at BUPT, a Conversational AI fan, and a T
 
 - Linkedin: <https://linkedin.com/in/zixia>
 - Email: <huan@bupt.edu.cn>
-- Wechat: [918999]({{ '/assets/members/huan/huan-wechat-qrcode.jpg' | relative_url }})
+- Wechat: [918999]({{ '/assets/people/huan/huan-wechat-qrcode.jpg' | relative_url }})
