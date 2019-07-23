@@ -59,4 +59,4 @@ Huan is a second year CS Ph.D. student at BUPT, a Conversational AI fan, and a T
 
 - Linkedin: <https://linkedin.com/in/zixia>
 - Email: <huan@bupt.edu.cn>
-- Wechat: 918999
+- Wechat: [918999]({{ '/assets/members/huan/huan-wechat-qrcode.jpg' | relative_url }})
