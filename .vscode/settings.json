@@ -65,7 +65,7 @@
     }
   },
   "editor.formatOnSave": false,
-  "python.pythonPath": "/Users/zzy824/anaconda2/envs/st/bin/python",
+  "python.pythonPath": "python3",
   "eslint.validate": [
     "javascript",
     "typescript",
