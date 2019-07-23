@@ -28,17 +28,17 @@ Huan is a second year CS Ph.D. student at BUPT, major in Conversational AI. Tens
 ## Talks
 
 - [Operator in Variational Auto-Encoder (VAE)](https://docs.google.com/presentation/d/17w7gtD26MU2Ay38WXMDY9Ok37S6Mwd4JJ0EMpoq9M0I/edit?usp=sharing), Jan 2019
-- [Machine Learning in TypeScript](https://docs.google.com/presentation/d/10u2hKAz4VjryCYr-oHxcxX4HzFeKOir7lq79ASV6TIA/edit?usp=sharing), 2018
-- [Build Chatbot From 0 to 1](https://docs.google.com/presentation/d/1NUHIyrYyhYuUrfNm2E7D7GtMjfX2Y6EoiNwXhE33iPU/edit?usp=sharing), 2018
-- [A Concise Codelab of TensorFlow 2.0](https://docs.google.com/presentation/d/1fOcbvo8fcfMj-YGt2YSDqSlv-vH4NJ_EZOb9ZLd-0iI/edit?usp=sharing), 2018
+- [Build Chatbot From 0 to 1](https://docs.google.com/presentation/d/1NUHIyrYyhYuUrfNm2E7D7GtMjfX2Y6EoiNwXhE33iPU/edit?usp=sharing), Dec, 2018
+- [Machine Learning in TypeScript](https://docs.google.com/presentation/d/10u2hKAz4VjryCYr-oHxcxX4HzFeKOir7lq79ASV6TIA/edit?usp=sharing), Nov, 2018
+- [A Concise Codelab of TensorFlow 2.0](https://docs.google.com/presentation/d/1fOcbvo8fcfMj-YGt2YSDqSlv-vH4NJ_EZOb9ZLd-0iI/edit?usp=sharing), Oct, 2018
 - [“只投十万”的天使投资人李卓桓，不跟年轻人讲道理](https://mp.weixin.qq.com/s?__biz=MjM5MDQxOTIyMw==&mid=502834304&idx=1&sn=33ca3a355e446fb63b72df5d1b6b2127), Jan, 2018 (video)
 - [创业者如何拥抱人工智能 - 挑战60分钟入门深度神经网络](https://blog.zixia.net/2017/12/15/entrepreneur-meet-ai-get-started-with-neural-networks-in-60-minutes.html), Dec 2017 (video)
-- [ROAD TO SUCCESS - TO BECAME A FULL STACK DEV](https://docs.google.com/presentation/d/15ZrF5rrqN9ax4LOIEYLHQLitqDBpSIC52Sz5c195K9k/edit?usp=sharing), June 2017 ([repo](https://github.com/bupt/wora-app))
+- [Road to Success - To Became a Real Full Stack Developer](https://docs.google.com/presentation/d/15ZrF5rrqN9ax4LOIEYLHQLitqDBpSIC52Sz5c195K9k/edit?usp=sharing), June 2017 ([repo](https://github.com/bupt/wora-app))
 - [30秒打动投资人：电梯演讲篇](https://mp.weixin.qq.com/s?__biz=MjM5MDQxOTIyMw==&mid=502834289&idx=1&sn=f357a3ef14b31d6e2624492120338dbf), June, 2017 (video)
 - [3分钟打动投资人：商业计划书篇](https://mp.weixin.qq.com/s?__biz=MjM5MDQxOTIyMw==&mid=502834290&idx=1&sn=6ce3f9a22e1b82f51804f8306a95b512), Dec 2017
 - [Wechaty 101: from v0.0 to v0.7](https://blog.chatie.io/wechaty-101-presentation/), 18 Dec, 2016 (video)
-- [听道演讲 - 李卓桓：和我一起来飞翔](https://mp.weixin.qq.com/s?__biz=MjM5MDQxOTIyMw==&mid=10000009&idx=1&sn=4d4adea2700d99f5fb9e90da7ddd812d), August, 2012 (video)
-- [跟我一起飞](https://docs.google.com/presentation/d/1oV8me-DsH_TVgFhFeQQ3axvDID6R1n4Tya64NbClhaQ/edit?usp=sharing), March, 2010
+- [听道演讲 - 李卓桓：和我一起来飞翔](https://mp.weixin.qq.com/s?__biz=MjM5MDQxOTIyMw==&mid=10000009&idx=1&sn=4d4adea2700d99f5fb9e90da7ddd812d), Aug, 2012 (video)
+- [跟我一起飞](https://docs.google.com/presentation/d/1oV8me-DsH_TVgFhFeQQ3axvDID6R1n4Tya64NbClhaQ/edit?usp=sharing), Mar, 2010
 
 ## Publications
 
