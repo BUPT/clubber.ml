@@ -43,14 +43,14 @@ qhduan:
       url: "http://qhduan.com"
 ```
 
-其中，最核心的就是第一行的 `qhduan:` 中的 **qhduan** ，这个是你的作者id，在博客中的 `author: qhduan` 中需要引用。
+其中，最核心的就是第一行的 `qhduan:` 中的 **qhduan** ，这个是你的作者id，建议与 Github username 保持一致，便于在博客中的 `author: qhduan` 中需要引用。
 
 其他内容格式可以参考文件中其他部分。
 
 ## 上传格式
 
-1. 选择论文笔记所属分类（Category），可以参考之前的[分类列表](https://bupt.github.io/ai-ml.club/categories/)
-2. 选择论文笔记所带标签（Tag），可以参考之前的[分类列表](https://bupt.github.io/ai-ml.club/tags/)
+1. 选择论文笔记所属分类（Category），可以参考之前的[分类列表](https://ai-ml.club/categories/)
+2. 选择论文笔记所带标签（Tags），可以参考之前的[分类列表](https://ai-ml.club/tags/)
 3. 沙龙活动会议纪要命名格式为：`XXXX-XX-XX-seminar-meeting-minutes-${season}-${episode}.md`。其中`${season}`是沙龙活动第几季；`${episode}`是沙龙活动在本季的活动编号，顺序递增。
 4. 论文笔记命名格式为： XXXX-XX-XX-paper-title-in-lower-case.md。"XXXX-XX-XX"为年月日；为了统一规范论文名一律小写。
 5. 上传博客文章所需文件（如图片、PDF等），所有文件都必须存放在`docs/assets/${year}/`目录下（${year}是四位数字年份）
@@ -99,6 +99,54 @@ tags:
   - capsule
 ---
 ```
+
+## 嵌入媒体文件
+
+为了让媒体文件的播放器可以自适应浏览器尺寸，并且自动在电脑桌面和手机上都得到良好的限时体验，需要使用如下的 HTML 代码，进行加载。
+
+```html
+<div style="
+    position: relative;
+    padding-bottom:56.25%;
+    padding-top:30px;
+    height:0;
+    overflow:hidden;
+">
+  <TAG
+    width='560'
+    height='315'
+    allowfullscreen
+    webkitallowfullscreen
+    frameborder="0"
+    style="
+      position: absolute;
+      top:0;
+      left:0;
+      width:100%;
+      height:100%;
+    "
+  ></iframe>
+</div>
+```
+
+其中，上面代码中的 TAG 可以是：
+
+1. `embed` - 如 YouTube 视频嵌入代码
+1. `iframe` - 如 PDF viewer-js 嵌入代码
+1. `video` - HTML video 代码
+1. etc.
+
+### 1. 嵌入 PDF Slides
+
+使用 `iframe` 作为 TAG ，然后配合上如下 `src`:
+
+```diff
+-  <TAG
++  <TAG
++    src='{{ '/assets/js/viewer-js/#/assets/2019/slides.pdf' | relative_url }}`
+```
+
+其中 `/assets/2019/slides.pdf` 是需要加载的 PDF slides 文件。
 
 ## 发布
 
