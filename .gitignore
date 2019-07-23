@@ -68,3 +68,6 @@ tmp/
 package-lock.json
 *.bak
 t.*
+
+# Vscoded setting
+.vscode
