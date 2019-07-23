@@ -48,3 +48,19 @@ excerpt: "AI ML Club Members"
 | {{ author[1].name }} | {{ author[1].bio }} |
 {%- endfor %}
 |        |      |     |
+
+## Nobody
+
+| Name |
+| ---- |
+{%- assign authors = site.posts | map: 'author' | uniq %}
+{%- for author in authors %}
+  {%- if author == nil %}
+    {%- continue %}
+  {%- endif %}
+  {%- if site.data.authors[author] %}
+    {%- continue %}
+  {%- endif %}
+| {{ author }} |
+{%- endfor %}
+| |
