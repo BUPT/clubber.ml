@@ -1,8 +1,6 @@
 ---
 title: "Huan LI (李卓桓)"
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
   overlay_image: /assets/people/huan/huan-paragliding.jpg
   caption: "Paragliding"
 excerpt: "Conversational AI "
@@ -11,10 +9,12 @@ author: huan
 
 Huan is a second year CS Ph.D. student at BUPT, major in Conversational AI. Tensorflow contributor.
 
-## Paper
+## Research Interests
 
-- TBD1 -_-b
-- TBD2 -_-\|\|
+1. Conversational AI
+1. BotFramework / BotBuilder
+1. Tensorflow(JavaScript/TypeScript, Switft, TPU)
+1. Entrepreneurship
 
 ## Open Source Projects
 
@@ -51,6 +51,11 @@ Huan is a second year CS Ph.D. student at BUPT, major in Conversational AI. Tens
 - [Microsoft AI MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003061) (Most Valuable Artificial Intelligence Professional)
 - [Google ML GDE](https://developers.google.com/community/experts/directory/) (Google Machine Learning Developer Expert)
 - [Google Cloud Professional Data Engineer](https://www.credential.net/x609tcmm)
+
+## Paper
+
+- TBD1 -_-b
+- TBD2 -_-\|\|
 
 ## Contact
 
