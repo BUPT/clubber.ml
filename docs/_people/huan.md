@@ -1,9 +1,7 @@
 ---
 title: "Huan LI (李卓桓)"
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/people/huan/huan-paragliding.jpg
+  image: /assets/people/huan/huan-paragliding.jpg
   caption: "Paragliding"
 excerpt: "Conversational AI "
 author: huan
