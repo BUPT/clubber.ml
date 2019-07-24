@@ -39,6 +39,8 @@ excerpt: "AI ML Club Members"
 
 ## Newbies
 
+> Please set `membership` attribute in `_data/author.yml` to level up from _Newbies_.
+
 | Name | Bio |
 | ---- | --- |
 {%- for author in site.data.authors %}
@@ -50,6 +52,8 @@ excerpt: "AI ML Club Members"
 |        |      |     |
 
 ## Nobody
+
+> There's no such name in `_data/author.yml`, please feel free to help yourself adding it.
 
 | Name |
 | ---- |
