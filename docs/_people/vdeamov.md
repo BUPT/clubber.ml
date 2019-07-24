@@ -10,7 +10,7 @@ header:
 #       url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Photo credit: [**buguroo**](https://www.buguroo.com/en/blog/topic/ai)"
 excerpt: "Computer Vision"
-author: vdeamov
+author: VDeamoV
 ---
 
 Duan is a first year Master student at BUPT, major in Computer Vision, Few Shot Learning, GAN
