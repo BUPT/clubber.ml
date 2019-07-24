@@ -48,7 +48,7 @@ mock:
 
 ## AMC Logo
 
-![AMC - AI ML Club Logo]({{ '/assets/images/amc-logo.png' | absolute_url }})
+[![AMC - AI ML Club Logo]({{ '/assets/images/amc-logo.png' | absolute_url }})]({{ '/assets/images/amc-logo.png' | relative_url }})
 
 ### Markdown
 
