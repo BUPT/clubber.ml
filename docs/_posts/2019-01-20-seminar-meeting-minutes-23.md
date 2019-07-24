@@ -9,7 +9,7 @@ categories:
 tags:
   - 
 header:
-  teaser: /assets/2019/seminar-22-group-photo.jpeg
+  teaser: /assets/2019/seminar-23-group-photo.jpeg
 ---
 
 << 本次沙龙通知: [#66](https://github.com/BUPT/ai-ml.club/issues/66)
@@ -23,7 +23,7 @@ header:
 
 ## 沙龙内容
 
-![20190120235034](https://user-images.githubusercontent.com/18066295/51465742-80d79e80-1da3-11e9-89af-90e373a5c43c.jpg)
+![20190120235034]({{ '/assets/2019/seminar-23-group-photo.jpeg' | relative_url }})
 
 ## 授蛋仪式
 
