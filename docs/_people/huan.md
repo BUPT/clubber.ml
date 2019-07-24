@@ -48,7 +48,7 @@ Huan is a second year CS Ph.D. student at BUPT, major in Conversational AI. Tens
 
 ## Awards & Honors
 
-- [Microsoft AI MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003061) (Most Valuable AI Professional)
+- [Microsoft AI MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003061) (Most Valuable Artificial Intelligence Professional)
 - [Google ML GDE](https://developers.google.com/community/experts/directory/) (Google Machine Learning Developer Expert)
 - [Google Cloud Professional Data Engineer](https://www.credential.net/x609tcmm)
 
