@@ -284,12 +284,12 @@ defaults:
       author_profile: true
   - scope:
       path: ""
-      type: members
+      type: people
     values:
       layout: single
       author_profile: true
 
 collections:
-  members:
+  people:
     output: true
     permalink: /:collection/:path/
