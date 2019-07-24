@@ -24,6 +24,10 @@ mock:
     image_path: /assets/images/marketing/logo-mock-bag.jpg
     alt: "Bag"
     title: "Bag"
+  - url: /assets/images/marketing/logo-mock-card4.jpg
+    image_path: /assets/images/marketing/logo-mock-card4.jpg
+    alt: "Cards"
+    title: "Cards"
   - url: /assets/images/marketing/logo-mock-card.jpg
     image_path: /assets/images/marketing/logo-mock-card.jpg
     alt: "Card"
@@ -32,18 +36,14 @@ mock:
     image_path: /assets/images/marketing/logo-mock-desktop.jpg
     alt: "Desktop"
     title: "Desktop"
-  - url: /assets/images/marketing/logo-mock-protector.jpg
-    image_path: /assets/images/marketing/logo-mock-protector.jpg
-    alt: "Protector"
-    title: "Protector"
-  - url: /assets/images/marketing/logo-mock-card4.jpg
-    image_path: /assets/images/marketing/logo-mock-card4.jpg
-    alt: "Cards"
-    title: "Cards"
   - url: /assets/images/marketing/logo-mock-tshirt.jpg
     image_path: /assets/images/marketing/logo-mock-tshirt.jpg
     alt: "Tshirt"
     title: "Tshirt"
+  - url: /assets/images/marketing/logo-mock-protector.jpg
+    image_path: /assets/images/marketing/logo-mock-protector.jpg
+    alt: "Protector"
+    title: "Protector"
 ---
 
 ## AMC Logo
