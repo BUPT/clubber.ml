@@ -23,7 +23,7 @@ header:
 
 ## 沙龙内容
 
-![wechatimg77](https://user-images.githubusercontent.com/17496872/51104082-085f6380-1820-11e9-8247-270622154018.jpeg)
+![wechatimg77]({{ '/assets/2019/seminar-22-group-photo.jpeg' | relative_url }})
 
 ## 授蛋仪式
 

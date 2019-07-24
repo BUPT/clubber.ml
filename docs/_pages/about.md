@@ -17,6 +17,8 @@ excerpt: "AI ML Club"
 - Full Name: Artificial Intelligence & Machine Learning Club
 - Short Name: AI ML Club
 - Abbr: AMC
+- Website: <https://ai-ml.club>
+- Common Name: AI ML Club (AMC)
 
 Welcome to the Artificial Intelligence & Machine Learning Club, we are a group of researchers have a paper studying seminar at 7-10pm every sunday!
 
@@ -50,3 +52,7 @@ Then you are set. we are looking forward to see you in the next meetup!
 
 ![group photo - laker beer]({{ '/assets/2019/seminar-2-10-group-photo-beer.jpg' | relative_url }})
 > [第二季第10次俱乐部 After Party: Beers at Lakers Bar](https://ai-ml.club/events/seminar-meeting-minutes-2-10/)
+
+### Marketing
+
+[Logo & Swags]({{ '/marketing' | relative_url }})
