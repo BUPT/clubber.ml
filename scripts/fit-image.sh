@@ -22,7 +22,7 @@ echo "fit-image: $DST is directory"
 pushd ${DST}
 
 # FILES=$(git ls-files --exclude-standard --others *.jpg)
-FILE_LIST=($(find . -type f -name '*.jpg' -o -name '*.png' -o -name '*.gif'))
+FILE_LIST=($(find . -type f -name '*.jpg' -o -name '*.jpeg' -o -name '*.png' -o -name '*.gif'))
 
 for FILE in "${FILE_LIST[@]}"; do
   WIDTH=$(identify -ping -format '%w' "$FILE")
