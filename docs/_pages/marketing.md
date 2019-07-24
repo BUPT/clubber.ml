@@ -48,20 +48,20 @@ mock:
 
 ## AMC Logo
 
-[![AMC - AI ML Club Logo]({{ '/assets/images/amc-logo.png' | absolute_url }})]({{ '/assets/images/amc-logo.png' | relative_url }})
+[![Logo - AI ML Club (AMC)]({{ '/assets/images/amc-logo.png' | absolute_url }})]({{ '/assets/images/amc-logo.png' | relative_url }})
 
 ### Markdown
 
 ```markdown
-![AMC - AI ML Club Logo]({{ '/assets/images/amc-logo.png' | absolute_url }})
+![Logo - AI ML Club (AMC)]({{ '/assets/images/amc-logo.png' | absolute_url }})
 ```
 
 ### Html
 
 ```html
-<image src='https://ai-ml.club/assets/images/amc-logo.png' alt='AI ML Club (AMC) Logo' />
+<image src='https://ai-ml.club/assets/images/amc-logo.png' alt='Logo - AI ML Club (AMC)' />
 ```
 
 ## Real World Gallery
 
-{% include gallery id="mock" caption="AI ML Club Swags" %}
+{% include gallery id="mock" caption="AI ML Club (AMC) Swags" %}
