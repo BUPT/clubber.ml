@@ -68,6 +68,7 @@ VDeamoV:
   name        : "段嘉铭"
   bio         : "Initializing....."
   avatar      : "https://avatars3.githubusercontent.com/u/35023950?v=4"
+  membership  : 'chair'
   links:
     - lable: "Blog"
       icon: "fas fa-fw fa-link"
