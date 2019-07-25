@@ -51,6 +51,7 @@ We only add paper to this list before we decide to oral/poster it at our AMC sem
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
+| [S2E20](https://ai-ml.club/events/seminar-meeting-minutes-2-20/) | [@gaojiuy](https://github.com/gaojiuy) | [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://arxiv.org/pdf/1610.02391.pdf) |
 | [S2E19](https://ai-ml.club/events/seminar-meeting-minutes-2-19/) | [@ArronHZG](https://github.com/ArronHZG) | [Attention in computer version](https://blog.csdn.net/Arron_hou/article/details/95676716) |
 | [S2E19](https://ai-ml.club/events/seminar-meeting-minutes-2-19/) | [@WdBlink](https://github.com/wdblink) | [High-Resolution Representations for Labeling Pixels and Regions](https://arxiv.org/abs/1904.04514) |
 | [S2E19](https://ai-ml.club/events/seminar-meeting-minutes-2-19/) | [@secortot](https://github.com/secortot) | [guided anchor](https://arxiv.org/abs/1901.03278) |
