@@ -18,7 +18,7 @@ Lin is a third year Master student at BUPT, major in Computer Vision, Deep Learn
 
 - [CVBenchmarks](https://github.com/linbo0518/CVBenchmarks) - Benchmarks for popular classification and object detection models on CPUs and GPUs ![Github Star](https://img.shields.io/github/stars/linbo0518/cvbenchmarks.svg?style=social)
 - [BLSeg](https://github.com/linbo0518/BLSeg/) - PyTorch's Semantic Segmentation Toolbox ![Github Star](https://img.shields.io/github/stars/linbo0518/blseg.svg?style=social)
-- BLDet - PyTorch's Object Detection Toolbox (under construction) 
+- BLDet - PyTorch's Object Detection Toolbox (under construction)
 - BLPose - PyTorch's Pose Estimation Toolbox (under construction)
 
 ## Talks
