@@ -5,9 +5,9 @@ author: 824zzy
 comments: true
 mathjax: true
 categories:
-  - VideoCaptioning
+  - video captioning
 tags:
-  - reinforcement_learning
+  - reinforcement learning
 
 header:
   teaser: /assets/2019/seminar-2-2-santabarbla.jpg

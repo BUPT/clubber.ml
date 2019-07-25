@@ -5,9 +5,9 @@ author: 824zzy
 comments: true
 mathjax: true
 categories:
-  - AGI
+  - agi
 tags:
-  - videoCaptioning 
+  - video captioning 
 
 header:
   teaser: /assets/2019/2019-01-20-zzy824.png
