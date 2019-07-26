@@ -9,7 +9,8 @@ tags:
   - Project Doc
 ---
 
-# Magic Mirror Project 综合AI技术（CV+NLP）在会议室场景中的部署与应用智能会议助理项目（暂定名）计划书
+# Magic Mirror Project Kick Off Announcement
+综合AI技术（CV+NLP）在会议室场景中的部署与应用智能会议助理项目（暂定名）计划书
 
 ## 一、智能会议项目研究目标与成果预期
 
