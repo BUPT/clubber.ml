@@ -1,0 +1,35 @@
+---
+layout: single
+---
+
+{{ content }}
+
+<h2 id="posts-by-{{ page.author | slugify | downcase }}">Posts</h2>
+
+{% assign posts = site.posts | where: 'author', page.author %}
+
+<ol>
+
+  {% for post in posts %}
+  <li>
+
+    {% if post.id %}
+      {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+    {% else %}
+      {% assign title = post.title %}
+    {% endif %}
+
+    {% if post.link %}
+      <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+    {% else %}
+      <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
+    {% endif %}
+
+    {{ post.date | date: "%B %d, %Y" }}
+
+  </li>
+  {% endfor %}
+
+</ol>
+
+<a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
