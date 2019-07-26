@@ -1,6 +1,6 @@
 ---
-
 title: "Vincent Duan (段嘉铭)"
+layout: author
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -11,6 +11,10 @@ header:
   caption: "Photo credit: [**buguroo**](https://www.buguroo.com/en/blog/topic/ai)"
 excerpt: "Computer Vision"
 author: VDeamoV
+toc: true
+toc_sticky: true
+toc_label: "Author Profile"
+toc_icon: "address-card"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 
 Duan is a first year Master student at BUPT, major in Computer Vision, Few Shot Learning, GAN
