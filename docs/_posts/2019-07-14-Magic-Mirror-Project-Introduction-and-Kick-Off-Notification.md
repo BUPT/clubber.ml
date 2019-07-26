@@ -1,4 +1,3 @@
-
 ---
 title: Magic Mirror Project Introduction and Kick Off Notification
 date: 2019-07-14 20:00 +0800
@@ -7,7 +6,7 @@ comments: true
 categories:
   - magic mirror
 tags:
-  - ProjectDocument
+  - Project Doc
 ---
 
 # Magic Mirror Project 综合AI技术（CV+NLP）在会议室场景中的部署与应用智能会议助理项目（暂定名）计划书
