@@ -1,5 +1,6 @@
 ---
 title: "Leon Lin (林博)"
+layout: author
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -10,6 +11,10 @@ header:
   caption: "Photo credit: [**buguroo**](https://www.buguroo.com/en/blog/topic/ai)"
 excerpt: "Computer Vision"
 author: linbo0518
+toc: true
+toc_sticky: true
+toc_label: "Author Profile"
+toc_icon: "address-card"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 
 Lin is a third year Master student at BUPT, major in Computer Vision, Deep Learning and Machine Learning

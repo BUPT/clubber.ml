@@ -5,9 +5,12 @@ author: YapheeetS
 comments: true
 mathjax: true
 categories:
-- autoencoder, nlp
+  - classic paper
 tags:
-  - attention, LSTM
+  - attention
+  - lstm
+  - autoencoder
+  - nlp
 
 header:
   teaser: 

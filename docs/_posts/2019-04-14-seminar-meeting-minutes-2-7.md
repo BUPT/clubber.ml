@@ -1,6 +1,6 @@
 ---
 title: 第二季第七次CAIC沙龙活动纪要
-author: VDeamoV
+author: vdeamov
 date: 2019-04-13 19:00 +0800
 comments: true
 mathjax: true
