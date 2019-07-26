@@ -5,7 +5,7 @@ author: 824zzy
 comments: true
 mathjax: true
 categories:
-  - VideoCaptioning
+  - video captioning
 tags:
   - zeroshot
 

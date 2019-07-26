@@ -4,7 +4,7 @@
 
 # AMC Seminar Sign Up
 
-> Link to previous seminar meeting minutes issue:
+> Link to previous seminar meeting minutes comments issue:
 
 #ISSUE_NUMBER
 
