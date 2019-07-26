@@ -10,7 +10,7 @@ tags:
   - nlp
   - huan
 header:
-  teaser: /assets/images/teaser-500x300.png
+  teaser: /assets/images/amc-logo.jpg
 ---
 
 Everyone talks different, even we want to express the same information.
