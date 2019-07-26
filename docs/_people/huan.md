@@ -1,10 +1,15 @@
 ---
+layout: author
 title: "Huan LI (李卓桓)"
 header:
   overlay_image: /assets/people/huan/huan-paragliding.jpg
   caption: "Paragliding"
 excerpt: "Conversational AI "
 author: huan
+toc: true
+toc_sticky: true
+toc_label: "Author Profile"
+toc_icon: "address-card"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 
 Huan is a second year CS Ph.D. student at BUPT, major in Conversational AI. Tensorflow contributor.

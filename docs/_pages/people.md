@@ -21,7 +21,7 @@ excerpt: "AI ML Club Members"
   {%- if author[1].membership != 'chair' %}
     {%- continue %}
   {%- endif %}
-| ![{{ author[1].name }}]({{ author[1].avatar }}){:height="88px" width="88px"} | [{{ author[1].name }}](/people/{{ author[0] }}/) | {{ author[1].bio }} |
+| ![{{ author[1].name }}]({{ author[1].avatar }}){:height="88px" width="88px"} | [{{ author[1].name }}](/people/{{ author[0] | slugify | downcase }}/) | {{ author[1].bio }} |
 {%- endfor %}
 |        |      |     |
 
@@ -33,7 +33,7 @@ excerpt: "AI ML Club Members"
   {%- if author[1].membership != 'member' %}
     {%- continue %}
   {%- endif %}
-| ![{{ author[1].name }}]({{ author[1].avatar }}){:height="88px" width="88px"} | [{{ author[1].name }}](/people/{{ author[0] }}/) | {{ author[1].bio }} |
+| ![{{ author[1].name }}]({{ author[1].avatar }}){:height="88px" width="88px"} | [{{ author[1].name }}](/people/{{ author[0] | slugify | downcase }}/) | {{ author[1].bio }} |
 {%- endfor %}
 |        |      |     |
 
