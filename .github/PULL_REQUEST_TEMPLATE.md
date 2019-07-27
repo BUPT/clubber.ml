@@ -22,17 +22,17 @@
 
 > Please fill the follow table and provide all the information as many as possible, for sharing with others better. (delete the rows that you did not fill)
 
-| Paper | Information |
-| --- | --- |
-| Name | PAPER_NAME |
-| Recommendation | ONE_LINE_RECOMMENDATION |
-| Prior Knowledge| KEYWORDS |
-| Year | PUBLISH_YEAR |
-| Publish | CONFERENCE_OR_JOURNAL_NAME |
-| Author | AUTHOR1, et. al. |
-| GitHub | GITHUB_LINK |
-| Blog | BLOG_LINK |
-| Arxiv | ARXIV_LINK |
+| Paper           | Information                |
+| --------------- | -------------------------- |
+| Name            | PAPER_NAME                 |
+| Recommendation  | ONE_LINE_RECOMMENDATION    |
+| Prior Knowledge | KEYWORDS                   |
+| Year            | PUBLISH_YEAR               |
+| Publish         | CONFERENCE_OR_JOURNAL_NAME |
+| Author          | AUTHOR1, et. al.           |
+| GitHub          | GITHUB_LINK                |
+| Blog            | BLOG_LINK                  |
+| Arxiv           | ARXIV_LINK                 |
 
 ### 3. After Party 🍻
 
@@ -55,8 +55,8 @@
 
 Please fill the following table for the new friend sign up(if any), or delete it.
 
-| Referrer | Newcomer  | Bio |
-| -------- | --------- | --- |
+| Referrer | Newcomer  | Bio                    |
+| -------- | --------- | ---------------------- |
 | @member  | @NEWCOMER | ONE_SENTENCE_BIOGRAPHY |
 
 ----------------
