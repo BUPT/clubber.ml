@@ -4,9 +4,9 @@ author: 824zzy
 comments: true
 mathjax: true
 categories:
-  - vqa
+  - Multi-Modal
 tags:
-  - summarize
+  - visual question answering
 
 ---
 
@@ -37,9 +37,9 @@ tags:
 ## 视觉问答：数据集，算法和未来的挑战
 <!-- Ex: ## 强化学习在对话生成领域的应用 -->
 
-### 引言
+## 引言
 
-#### VQA的研究价值
+### VQA的研究价值
 
 1. 大部分计算机视觉任务不能完整的理解图像
 图像分类、物体检测、动作识别等任务很难获取到物体的**空间位置信息**并且根据它们的属性和关系进行**推理**。
@@ -56,18 +56,18 @@ tags:
     - 基准问题测试
     - 建立评价指标
 
-### VQA的数据集
+## VQA的数据集
 
 ![img](http://ww1.sinaimg.cn/large/ca26ff18ly1fvajh4e1wbj20tz09eacb.jpg)
 
-### VQA的评价标准
+## VQA的评价标准
 
 - Open-ended(OE): 开放式的
 - Multiple Choice(MC): 选择式的
 
 ![img](http://ww1.sinaimg.cn/large/ca26ff18ly1fvb6r1njlkj20kp0dmjuj.jpg)
 
-#### 流行的评价标准
+### 流行的评价标准
 
 选择式任务的评价标准直接使用正确率即可。但是开放式任务的评价标准呢？
 
@@ -83,7 +83,7 @@ tags:
 3. $Accuracy_{VQA}=min(\frac{n}{3}, 1)$
   同样是语义相似度，大致正确就ok: 人为构造一个答案集合，$n$是算法和人类拥有的相同的答案数量。
 
-### VQA的算法
+## VQA的算法
 
 ![img](http://ww1.sinaimg.cn/large/ca26ff18ly1fvbaa7e7d4j20qr098n45.jpg)
 
@@ -93,14 +93,14 @@ tags:
 2. 提取问题特征
 3. 利用特征产生结果的算法
 
-#### Baseline和模型性能
+### Baseline和模型性能
 
 1. 瞎猜最有可能的答案。“yes”/"no"
 2. MLP(multi-layer percepton)
 
 ![img](http://ww1.sinaimg.cn/large/ca26ff18ly1fvbapjz9zkj20ky0lradq.jpg)
 
-#### 模型架构一览
+### 模型架构一览
 
 ![img](http://ww1.sinaimg.cn/large/ca26ff18ly1fvbasmehclj20qg0l278r.jpg)
 
@@ -108,6 +108,8 @@ tags:
 2. 基于注意力机制的模型
 ![img](http://ww1.sinaimg.cn/large/ca26ff18ly1fvbb0ttq7cj20r60dj7bs.jpg)
 3. 非线性池化方法
+
+### 模型架构一览（时序）
 
 - MULTI-WORLD: A multi-world approach to question answering about real- world scenes based on uncertain input, NIPS2014
 - ASK-NEURon: Ask your neurons: A neural-based ap- proach to answering questions about images, ICCV2015
@@ -130,7 +132,7 @@ tags:
 - AMA: Ask me anything: Free-form visual question answering based on knowledge from external sources, CVPR2016
 - MCB-ensemble: Multi-modal compact bilinear pooling for visual question answering and visual grounding, EMNLP2016
 
-### VQA仍然存在很多问题
+## VQA仍然存在很多问题
 
 虽然VQA已经取得了长足的进步，但是现有的算法仍然距离人类有巨大的差距。
 ![img](http://ww1.sinaimg.cn/large/ca26ff18ly1fvbbxjxinej20n10gvmzr.jpg)
@@ -143,11 +145,11 @@ tags:
     1. 通过多全局图片特征（预训练的VGG-19,ResNet-101）也能达到很好的效果。
     2. 注意力机制有时候会误导VQA系统。
 
-### 总结
+## 总结
 
 可以回答任意关于图片的问题的算法将会是人工智能的里程碑。
 
-#### 研究方向潜力股
+### 研究方向潜力股
 
 1. 更**大**更**无偏**更**丰富**的数据集:每个问题权重不应该一样；问题的质量应该更高；答案不应该是二元的；多选题应当被淘汰
 2. 更加巧妙地模型评估方式
@@ -161,8 +163,6 @@ tags:
 > 2. 紫色表示论文叙述内容的重点
 > 3. 绿色表示该论文的解决思路
 > 4. 蓝色表示该论文的公式以及定义 -->
-
-### 引用与参考
 
 <!--
 Ex:

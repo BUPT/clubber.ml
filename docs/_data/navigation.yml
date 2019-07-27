@@ -1,8 +1,8 @@
 main:
   - title: "About"
     url: "/about/"
-  - title: "Events"
-    url: /categories/#events
+  - title: People
+    url: /people/
   - title: "Manuals"
     url: "/manuals/"
   # - title: "Posts"
@@ -18,4 +18,4 @@ main:
   - title: "Papers"
     url: /papers
   - title: "Posts"
-    url: /
+    url: /posts
