@@ -138,3 +138,11 @@ newip:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/newip"
+secortot:
+  name        : "董青"
+  bio         : "keep happy and smile"
+  avatar      : "https://avatars3.githubusercontent.com/u/38239721?s=400&u=9679c746790816da53865c32b820f3c84a075602&v=4"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/secortot"
