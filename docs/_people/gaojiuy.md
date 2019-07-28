@@ -30,7 +30,7 @@ More formally, consider a DNN that takes an **input** x = [$x_1$, ..., $x_N$] �
 where C is the total number of output neurons.  
 
 Given a specific target neuron c, the goal of an attribution method is to determine the **contribution**  
-$R_c$ = [$R_1^c$, ..., $R_N^c$] ∈ $R^N$ of each input feature $x_i$ to the output $S_c$.      
+$R_c$ = [$R_1^c$, ..., $R_N^c$] ∈ $R^N$ of each input feature $x_i$ to the output $S_c$.
 
 For a **classification task**, the target neuron of interest is usually the output neuron associated with the correct class for a given sample. When the attributions of all input features are arranged together to have the same shape of the input sample which are called attribution maps.  
 
