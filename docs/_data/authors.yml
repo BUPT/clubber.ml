@@ -138,6 +138,16 @@ newip:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/newip"
+      
+gaojiuy:
+  name        : "高久怡"
+  bio         : "Actions speak louder than words"
+  avatar      : ""
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: <"https://github.com/gaojiuy">
+      
 secortot:
   name        : "董青"
   bio         : "keep happy and smile"
@@ -146,4 +156,3 @@ secortot:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/secortot"
-
