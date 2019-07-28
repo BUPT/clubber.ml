@@ -2,7 +2,7 @@
 layout: author
 title: "Xin HE (贺新)"
 header:
-  overlay_image: /assets/people/xin.jpg
+  overlay_image: "https://avatars0.githubusercontent.com/u/1592542?v=4"
   caption: "xinwithrobot"
 excerpt: "AI Robotics"
 author: xin_newip
