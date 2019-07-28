@@ -5,7 +5,7 @@ header:
   overlay_image: "https://avatars0.githubusercontent.com/u/1592542?v=4"
   caption: "xinwithrobot"
 excerpt: "AI Robotics"
-author: xin_newip
+author: newip
 toc: true
 toc_sticky: true
 toc_label: "Author Profile"
