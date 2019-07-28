@@ -29,7 +29,7 @@ Gao is a first year Master student at BUPT, major in Management Science and Engi
 
 There are many methods to explain the predictions of DNNs,and I focus on the problem of assigning an *attribution* value, sometimes also called "relevance" or "contribution", to each inputfeature of a network.  
 
-More formally, consider a DNN that takes an **input** x = [$x_1$, ..., $x_N$> ] ∈ $R^N$ and produces an **output** S(x) = [$S_1(x)$, ..., $S_C(x)$],  
+More formally, consider a DNN that takes an **input** x = [x<sub>1</sub>, ..., x<sub>N</sub> ] and produces an **output** S(x) = [$S_1(x)$, ..., $S_C(x)$],  
 where C is the total number of output neurons.  
 
 Given a specific target neuron c, the goal of an attribution method is to determine the **contribution**  
