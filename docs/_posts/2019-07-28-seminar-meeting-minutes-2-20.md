@@ -102,7 +102,6 @@ header:
 3. 针对Paper增加当前方法的优势与局限
 4. 如果可以Oral，尽量不要Poster
 5. 增加AMC曝光度，持续修订Manual
-6. 下一任副主席为石珅达
 
 ## After Party
 
@@ -110,7 +109,21 @@ After Party 第二十次活动顺利结束！
 
 ![AfterParty]({{ '/assets/2019/seminar-2-20/after-party.jpg' | relative_url }})
 
-庆祝第二季的 AI-ML Club 完美收官，期待更加完善和丰富的第三季！😆
+## About Season 2
+
+- 庆祝第二季的 AI-ML Club 完美收官，期待更加完善和丰富的第三季！😆
+
+- AMC 纪念T-Shirt确定！
+
+![T-Shirt Black]({{ '/assets/2019/seminar-2-20/t-shirt-black.jpg' | relative_url }})
+
+![T-Shirt Gray]({{ '/assets/2019/seminar-2-20/t-shirt-gray.jpg' | relative_url }})
+
+![T-Shirt White]({{ '/assets/2019/seminar-2-20/t-shirt-white.jpg' | relative_url }})
+
+- 接下来的两周时间，集中火力搭建Project:MM，希望大家踊跃贡献想法和代码～
+
+- AMC 第三季第一次活动时间暂定为两周后(8月11日)，主席为高久怡，副主席为石珅达
 
 ## RSVP
 
