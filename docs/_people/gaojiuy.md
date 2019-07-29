@@ -1,10 +1,11 @@
-
 ---
 
 layout: author
 title: "Jiuyi Gao"
 header:
-  overlay_image: /assets/images/amc-banner.jpg
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/amc-banner.jpg  
   caption: Photo credit: [**buguroo**](<"https://www.buguroo.com/en/blog/topic/ai">)
 excerpt: "CNN Visualization"
 author: gaojiuy
