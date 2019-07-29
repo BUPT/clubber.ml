@@ -5,6 +5,11 @@
       "/[0-9\\-a-z]+\\.",
       "\\.md$"
     ],
+    "docs/_people": [
+      "^docs/_people/",
+      "/[0-9\\-a-z]+\\.",
+      "\\.md$"
+    ],
     "docs/assets": [
       "^docs/assets/",
       "/[0-9\\-a-z]+\\.",
