@@ -16,7 +16,7 @@ toc_icon: "address-card"  # corresponding Font Awesome icon name (without fa pre
 
 ---
 
-Gao is a first year Master student at BUPT, major in Management Science and Engineering, CNN Visualizaiton  
+Gao is a first year Master student at BUPT, major in Management Science and Engineering, CNN Visualizaiton.
 
 ## Talks
 
