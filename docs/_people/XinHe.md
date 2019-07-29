@@ -1,6 +1,6 @@
 ---
 layout: author
-title: "Xin HE (贺新)"
+title: "Xin He (贺新)"
 header:
   overlay_image: "https://avatars0.githubusercontent.com/u/1592542?v=4"
   caption: "xinwithrobot"
@@ -12,7 +12,7 @@ toc_label: "Author Profile"
 toc_icon: "address-card"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 
-Xin is a startup project owner with AI robotics.  year CS Ph.D. student at BUPT, major in Conversational AI. Tensorflow contributor.
+Xin is a startup project owner with AI robotics. Major member of BUPT entrepreneur association, Tsinghua IEIT technical incubation director. AMC MM Project horizontal leader.
 
 ## Research Interests
 
