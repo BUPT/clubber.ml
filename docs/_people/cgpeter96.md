@@ -4,7 +4,7 @@ layout: author
 title: "Guang Chen (陈光)"
 header:
   overlay_image: /assets/people/cgpeter96/cgpeter96-dunk.jpg
-  caption: "SLAM DUNK!"
+  caption: "Beiguo Man!"
 excerpt: "Multi-modal fusion and alignment"
 author: cgpeter96
 toc: true
