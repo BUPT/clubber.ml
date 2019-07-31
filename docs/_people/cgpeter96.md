@@ -33,4 +33,4 @@ toc_icon: "address-card"  # corresponding Font Awesome icon name (without fa pre
 
 - Github: <https://github.com/cgpeter96>
 - Email: <peter_chen_jaon@foxmail.com>
-- Wechat: [824zzy]({{ '/assets/people/cgpeter96/cgpeter96-wechat-qrcode.jpg' | relative_url }})
+- Wechat: [cgpeter96]({{ '/assets/people/cgpeter96/cgpeter96-wechat-qrcode.jpg' | relative_url }})
