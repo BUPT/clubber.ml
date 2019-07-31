@@ -2,13 +2,8 @@
 title: "Leon Lin (林博)"
 layout: author
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/amc-banner.jpg
-#   actions:
-#     - label: "Download"
-#       url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: [**buguroo**](https://www.buguroo.com/en/blog/topic/ai)"
+  overlay_image: /assets/people/linbo0518/linbo0518-bg.jpg
+  caption: "Poly Lakeside"
 excerpt: "Computer Vision"
 author: linbo0518
 toc: true
