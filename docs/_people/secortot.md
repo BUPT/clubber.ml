@@ -20,6 +20,7 @@ toc_icon: "address-card"  # corresponding Font Awesome icon name (without fa pre
 Dong is a 2nd year Master student at BUPT, major in Computer Vision, Deep Learning and Machine Learning
 
 ## Open Source Projects
+
 ## Talks
 
 | [S2E19](https://ai-ml.club/events/seminar-meeting-minutes-2-19/) | [@secortot](https://github.com/secortot) | [guided anchor](https://arxiv.org/abs/1901.03278) |
