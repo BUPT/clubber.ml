@@ -64,10 +64,11 @@ cgpeter96:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cgpeter96"
 
-VDeamoV:
+vdeamov:
   name        : "段嘉铭"
   bio         : "Initializing....."
   avatar      : "https://avatars3.githubusercontent.com/u/35023950?v=4"
+  membership  : 'chair'
   links:
     - lable: "Blog"
       icon: "fas fa-fw fa-link"
@@ -128,4 +129,31 @@ Jarvisgivemeasuit:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Jarvisgivemeasuit"
+
+newip:
+  name        : "贺新"
+  bio         : "AI Robot helping people living more efficiency. Welcome to the AI Bot world. (XinRobot is me)"
+  avatar      : "https://avatars0.githubusercontent.com/u/1592542?v=4"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/newip"
+
+gaojiuy:
+  name        : "高久怡"
+  bio         : "Actions speak louder than words"
+  avatar      : ""
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: <"https://github.com/gaojiuy">
+
+secortot:
+  name        : "董青"
+  bio         : "keep happy and smile"
+  avatar      : "https://avatars3.githubusercontent.com/u/38239721?s=400&u=9679c746790816da53865c32b820f3c84a075602&v=4"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/secortot"
 

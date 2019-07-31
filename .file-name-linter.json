@@ -5,10 +5,15 @@
       "/[0-9\\-a-z]+\\.",
       "\\.md$"
     ],
+    "docs/_people": [
+      "^docs/_people/",
+      "/[0-9\\-a-z]+\\.",
+      "\\.md$"
+    ],
     "docs/assets": [
       "^docs/assets/",
       "/[0-9\\-a-z]+\\.",
-      "\\.(jpg|jpeg|png|gif|pdf)$"
+      "\\.(jpg|jpeg|png|gif|pdf|ico|xml|webmanifest|svg)$"
     ]
   },
   "ignore": [

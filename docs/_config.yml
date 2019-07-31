@@ -23,7 +23,7 @@ description              : "Here's the future AI/ML makers."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "BUPT/ai-ml.club" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/teaser-500x300.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/amc-logo.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "AI ML Club"
-  avatar           : "/assets/images/teaser-500x300.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/amc-logo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Artificial Intelligence & Machine Learning CLUB"
   location         : "Beijing, China"
   email            : "huan@bupt.edu.cn"
@@ -178,7 +178,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 markdown: kramdown
 highlighter: rouge
 lsi: false
-excerpt_separator: “<!--more-->”
+excerpt_separator: "\n\n"
 incremental: false
 
 
