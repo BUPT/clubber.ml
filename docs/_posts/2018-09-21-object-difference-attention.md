@@ -3,8 +3,9 @@ title: 对象差分注意力机制
 comments: true
 mathjax: true
 categories:
-  - vqa
+  - Multi-Modal
 tags:
+  - visual question answering
   - attention
 
 ---
@@ -41,9 +42,9 @@ tags:
 ## 对象差分注意力机制：视觉问答中一个简单的关系注意力机制
 <!-- Ex: ## 强化学习在对话生成领域的应用 -->
 
-### 引言
+## 引言
 
-#### 本文术语
+### 本文术语
 
 <!-- 针对论文中不常用的术语进行简短的解释，方便读者理解 -->
 1. 序列编码的方式：
@@ -61,10 +62,9 @@ $$Attention(Q,K,V)$$
     2. multi-step linear fusion
     3. bilinear fusion
     4. multi-feature attention
-
 1. Mutan机制
 
-#### 论文写作动机
+### 论文写作动机
 
 <!-- 当前研究领域存在的问题
 Ex:
@@ -78,9 +78,9 @@ Ex:
     如上图，想要回答出问题`图中最高的花是什么？`，我们建立的模型就需要不仅仅关注潜在答案`玫瑰`，也应该关注`兰花`。
 2. 如何合理分配现有问题的注意力？
 
-### 解决问题的方法
+## 解决问题的方法
 
-#### 玫瑰例子
+### 玫瑰例子
 
 对于回答`图中最高的花是什么？`，一共分几步？
 
@@ -89,7 +89,7 @@ Ex:
 
 正确的答案就会在**比较**的过程中产生。若以这个例子作为启发，一种新型的注意力机制的思路便产生了：ODA在问题的指导下，通过将每个图像对象与其他所有对象进行对比，计算出图像中物体的注意注意力分布。
 
-#### 模型细节
+### 模型细节
 
 ![img](http://ww1.sinaimg.cn/large/ca26ff18ly1fvjiq8dptpj20pw0bdgqo.jpg)
 
@@ -117,27 +117,28 @@ $$\hat{V}=softmax([(V_i-V_j)\odot{Q}]_{m\odot{md}}W_f)^{T}V$$
     3. 预测
     $$\hat{a}=\sigma(W_{h}H)$$
 
-#### 扩展：相关性注意力
+### 扩展：相关性注意力
 
 针对模型中$(V_i-V_j)\odot{Q}$部分进行扩展，可以得到不同类型的注意力机制
+
 ![img](http://ww1.sinaimg.cn/large/ca26ff18ly1fvjt8ggw48j20dk06emya.jpg)
 
-### 实验结果分析
+## 实验结果分析
 
-#### 数据集
+### 数据集
 
 - VQA1.0 dataset
 - VQA2.0 dataset
 - COCO-QA dataset
 
-#### 评估指标
+### 评估指标
 
 - 针对VQA1.0和VQA2.0，使用准确率：
 ![img](http://ww1.sinaimg.cn/large/ca26ff18ly1fvjtavlwoxj209701hgli.jpg)
 - 针对COCO_QA使用：
 ![img](http://ww1.sinaimg.cn/large/ca26ff18ly1fvjtbn6b1pj207m00tdfo.jpg)
 
-#### 实验结果评价
+### 实验结果评价
 
 - 在VQA1.0上与最先进的模型对比
 ![img](http://ww1.sinaimg.cn/large/ca26ff18ly1fvjtf0nyn4j20qs0c8wh1.jpg)

@@ -4,11 +4,10 @@ author: 824zzy
 comments: true
 mathjax: true
 categories:
-  - generative model
+  - 
 tags:
+  - generative model
   - vae
-  - vqa
-  - code
 ---
 
 ## 引言
