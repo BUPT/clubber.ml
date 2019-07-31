@@ -31,6 +31,7 @@ We only add paper to this list before we decide to oral/poster it at our AMC sem
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
+| [S2E20](https://ai-ml.club/events/seminar-meeting-minutes-2-20/) | [@initc](https://github.com/initc) | [The Evaluation of Chinese Human-Computer Dialogue Technology,SMP2019-ECDT](http://conference.cipsc.org.cn/smp2019/evaluation.html) |
 | [S2E18](https://ai-ml.club/events/seminar-meeting-minutes-2-18/) | [@824zzy](https://github.com/824zzy) | [The combination of NLP and Quantitative Investment](https://github.com/824zzy/Quantitative_Model_v3.1) |
 | [S2E16](https://ai-ml.club/events/seminar-meeting-minutes-2-16/) | [@ArronHZG](https://github.com/ArronHZG) | [语义分割综述](https://blog.csdn.net/Arron_hou/article/details/94134049) |
 | [S2E15](https://ai-ml.club/events/seminar-meeting-minutes-2-15/) | [@linbo0518](https://github.com/linbo0518) | [Dive into NN: Theory, Architecture and Initialization](https://github.com/linbo0518/Dive-into-NN) |
