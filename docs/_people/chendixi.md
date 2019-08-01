@@ -29,4 +29,3 @@ Chen is a second year Master student at BUPT, major in Computer Vision, Transfer
 - Weibo: <https://weibo.com/u/2626263585>
 - Github: <https://github.com/chen-dixi>
 - Email: <cdxcqu2014@163.com>
- 
