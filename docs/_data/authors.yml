@@ -138,7 +138,7 @@ newip:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/newip"
-      
+
 gaojiuy:
   name        : "高久怡"
   bio         : "Actions speak louder than words"
@@ -147,7 +147,7 @@ gaojiuy:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: <"https://github.com/gaojiuy">
-      
+
 secortot:
   name        : "董青"
   bio         : "keep happy and smile"
@@ -156,7 +156,6 @@ secortot:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/secortot"
-      
 WdBlink:
   name        : "尹鹏宇"
   bio         : "诸恶莫作 自由快乐"
