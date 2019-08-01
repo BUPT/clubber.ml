@@ -5,7 +5,7 @@ header:
   overlay_image: /assets/people/chendixi/chendixi-bg.jpg
   caption: "calmness"
 excerpt: "Computer Vision"
-author: chen-dixi
+author: Chen-Dixi
 toc: true
 toc_sticky: true
 toc_label: "Author Profile"
