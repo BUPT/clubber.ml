@@ -2,7 +2,7 @@
 title: "C.Feng (石珅达)"
 layout: author
 header:
-  overlay_image: /assets/people/cyfeng-pentagram.png
+  overlay_image: /assets/people/cyfeng-pentagram.jpg
   caption: "Art gothique"
 excerpt: "Computer Vision"
 author: cyfeng16
