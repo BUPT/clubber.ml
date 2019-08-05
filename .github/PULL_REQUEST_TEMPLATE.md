@@ -57,7 +57,7 @@ Please fill the following table for the new friend sign up(if any), or delete it
 
 | Referrer | Newcomer  | Bio                    |
 | -------- | --------- | ---------------------- |
-| @member  | @NEWCOMER | ONE_SENTENCE_BIOGRAPHY |
+| @member  | @_NEWCOMER_ | ONE_SENTENCE_BIOGRAPHY |
 
 ----------------
 <sub>
