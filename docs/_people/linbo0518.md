@@ -12,7 +12,9 @@ toc_label: "Author Profile"
 toc_icon: "address-card"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 
-Lin is a third year Master student at BUPT, major in Computer Vision, Deep Learning and Machine Learning
+Leon is currently a third-year master student at Beijing University of Posts and Telecommunications. Before coming to BUPT, he obtained his bachelor degree from Nanjing University of Science and Technology.
+
+Leon's interests are computer vision, deep learning, and machine learning.
 
 ## Open Source Projects
 
