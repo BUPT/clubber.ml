@@ -3,7 +3,7 @@ title: "Bye-bye Season 2, Hello Season 3!"
 layout: slide
 theme: league
 transition: fade
-categories: slide
+categories: slides
 tags:
   - season
 ---
