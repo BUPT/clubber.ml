@@ -3,7 +3,7 @@ layout: author
 title: "Xin He (贺新)"
 header:
   overlay_image: "https://avatars0.githubusercontent.com/u/1592542?v=4"
-  caption: "xinwithrobot"
+  caption: "xin robot"
 excerpt: "AI Robotics"
 author: newip
 toc: true
