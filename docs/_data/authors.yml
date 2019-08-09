@@ -28,6 +28,9 @@ huan:
   avatar     : "https://avatars0.githubusercontent.com/u/13566583?s=460&v=4"
   membership : 'chair'
   links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/qhduan"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:614594368@qq.com"
@@ -37,12 +40,16 @@ huan:
 
 qhduan:
   name       : "段清华"
-  bio        : "人工智障工程师"
+  bio        : "Deamer, NLP, KG"
   avatar     : "https://avatars0.githubusercontent.com/u/3895924?s=460&v=4"
+  membership : 'member'
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:mail@qhduan.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "http://qhduan.com"
+      url: "https://ai-ml.club/people/qhduan/"
 
 TuringLee:
   name       : "李童俊"
@@ -139,7 +146,7 @@ newip:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/newip"
-      
+
 gaojiuy:
   name        : "高久怡"
   bio         : "Actions speak louder than words"
@@ -148,7 +155,7 @@ gaojiuy:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: <"https://github.com/gaojiuy">
-      
+
 secortot:
   name        : "董青"
   bio         : "keep happy and smile"
@@ -157,3 +164,4 @@ secortot:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/secortot"
+
