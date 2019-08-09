@@ -22,6 +22,7 @@ toc_icon: "address-card"  # corresponding Font Awesome icon name (without fa pre
 - Cross-modal retrieval
 
 ## Research Projects
+
 - release soon
 
 ## Open Source Projects
