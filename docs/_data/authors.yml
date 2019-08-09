@@ -28,6 +28,9 @@ huan:
   avatar     : "https://avatars0.githubusercontent.com/u/13566583?s=460&v=4"
   membership : 'chair'
   links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/qhduan"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:614594368@qq.com"
@@ -37,12 +40,16 @@ huan:
 
 qhduan:
   name       : "段清华"
-  bio        : "人工智障工程师"
+  bio        : "Deamer, NLP, KG"
   avatar     : "https://avatars0.githubusercontent.com/u/3895924?s=460&v=4"
+  membership : 'member'
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:mail@qhduan.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "http://qhduan.com"
+      url: "https://ai-ml.club/people/qhduan/"
 
 TuringLee:
   name       : "李童俊"
@@ -59,6 +66,7 @@ cgpeter96:
   name        : "陈光"
   bio         : "Beiguo Man"
   avatar      : "https://avatars2.githubusercontent.com/u/18066295?s=96&v=4"
+  membership  : 'chair'
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -156,6 +164,19 @@ secortot:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/secortot"
+
+
+
+CyFeng:
+  name        : "石珅达"
+  bio         : "这个家伙很懒，什么都没有留下"
+  avatar      : "https://avatars3.githubusercontent.com/u/29787421?s=400&v=4"
+  membership : 'member'
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/CyFeng16"
+
 WdBlink:
   name        : "尹鹏宇"
   bio         : "诸恶莫作 自由快乐"
@@ -164,3 +185,4 @@ WdBlink:
     - lable: "Blog"
       icon: "fas fa-fw fa-link"
       url:  "https://wdblink.github.io/"
+
