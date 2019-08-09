@@ -13,7 +13,7 @@ toc_label: "Author Profile"
 toc_icon: "address-card"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 
-[Guang chen]() is a second year Master candidate at BUPT, major in ˜Intelligent science. 
+Guang chen is a second year Master candidate at BUPT, major in Intelligent science. 
 
 ## Research Interest
 
@@ -28,7 +28,6 @@ toc_icon: "address-card"  # corresponding Font Awesome icon name (without fa pre
 ## Open Source Projects
 
 - [simple-image-retrieval-system](https://github.com/cgpeter96/simple-image-retrieval-system)
-
 
 ## Contact
 
