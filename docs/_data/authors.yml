@@ -66,6 +66,7 @@ cgpeter96:
   name        : "陈光"
   bio         : "Beiguo Man"
   avatar      : "https://avatars2.githubusercontent.com/u/18066295?s=96&v=4"
+  membership  : 'chair'
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
