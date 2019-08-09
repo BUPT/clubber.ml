@@ -167,9 +167,10 @@ secortot:
 CyFeng:
   name        : "石珅达"
   bio         : "这个家伙很懒，什么都没有留下"
-  avatar      : ""
+  avatar      : "https://avatars3.githubusercontent.com/u/29787421?s=400&v=4"
+  membership : 'member'
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: <"https://github.com/CyFeng16">
+      url: "https://github.com/CyFeng16"
 
