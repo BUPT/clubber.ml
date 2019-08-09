@@ -3,13 +3,20 @@ title: Magic Mirror Project Introduction and Kick Off Notification
 date: 2019-07-14 20:00 +0800
 author: newip
 comments: true
-categories:
-  - magic mirror
+categories: projects
 tags:
-  - Project Doc
+  - magic mirror
+  - document
 ---
 
-## 综合AI技术（CV+NLP）在会议室场景中的部署与应用智能会议助理项目（暂定名）计划书
+## Magic Mirror Project
+
+《综合AI技术（CV+NLP）在会议室场景中的部署与应用智能会议助理项目（暂定名）计划书》
+
+- Slide Presentation
+  - Project (xin): [slide](https://docs.google.com/presentation/d/1S3DQyyWljchR0Fg65cHVm6rYh3gfDAfZ-qgeFWGFDtY/edit?usp=sharing)
+  - Technology (huan): [slide](https://docs.google.com/presentation/d/12I5k_lhlEyipIdHq270JzEFA8WH5B4VPZKnmjj1YHJs/edit?usp=sharing)
+- Github Repository: <https://github.com/bupt/magic-mirror>
 
 ## 一、智能会议项目研究目标与成果预期
 
