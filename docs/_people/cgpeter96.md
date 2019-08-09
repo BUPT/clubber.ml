@@ -13,7 +13,7 @@ toc_label: "Author Profile"
 toc_icon: "address-card"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 
-Guang chen is a second year Master candidate at BUPT, major in Intelligent science. 
+Guang chen is a second year Master candidate at BUPT, major in Intelligent science.
 
 ## Research Interest
 
