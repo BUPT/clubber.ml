@@ -121,13 +121,17 @@ ArronHZG:
   name        : "侯正罡"
   bio         : "Stay hungry,Stay foolish"
   avatar      : "https://avatars2.githubusercontent.com/u/24294073?s=460&v=4"
+  membership : 'member'
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ArronHZG"
-    - lable: "Website"
+    - lable: "Blob"
       icon: "fas fa-fw fa-link"
       url:  "https://blog.csdn.net/Arron_hou"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://ai-ml.club/people/arron/"
 
 Jarvisgivemeasuit:
   name        : "李京伦"
