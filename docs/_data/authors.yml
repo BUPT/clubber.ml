@@ -165,6 +165,8 @@ secortot:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/secortot"
 
+
+
 CyFeng:
   name        : "石珅达"
   bio         : "这个家伙很懒，什么都没有留下"
@@ -174,4 +176,13 @@ CyFeng:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/CyFeng16"
+
+WdBlink:
+  name        : "尹鹏宇"
+  bio         : "诸恶莫作 自由快乐"
+  avatar      : "https://avatars2.githubusercontent.com/u/42338898?s=460&v=4"
+  links:
+    - lable: "Blog"
+      icon: "fas fa-fw fa-link"
+      url:  "https://wdblink.github.io/"
 
