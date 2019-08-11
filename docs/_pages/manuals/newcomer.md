@@ -49,12 +49,19 @@ AMC 随时欢迎新朋友加入，前提是需要你：
 
 ## AMC 资源
 
-1. 北邮科研大楼821会议室
-    1. Wifi
-        - SSID: `CAD-Screen`
-        - Password: `chromecast`
-    1. Chromecast无线投屏
-        1. 连接接CAD-Screen Wifi网络
-        1. 打开 Chrome 浏览器
-        1. Chrome浏览器菜单中，选择 `Cast`
-        1. 等待 Chrome 找到 `CAD-Screen` 屏幕，选择 `Tab` 或 `Desktop` 进行投射即可
+1. Wifi: `AI-ML.Club`
+1. Chromecast: `AMC Chromecast`
+
+### 1 Wifi
+
+- SSID: `AI-ML.Club`
+- Password: `chromecast`
+
+### 2 Chromecast无线投屏
+
+Steps:
+
+1. 连接接 AMC Wifi 网络
+1. 打开 Chrome 浏览器
+1. Chrome浏览器菜单中，选择 `Cast`
+1. 等待 Chrome 找到 `AMC Chromecast` 屏幕，选择 `Tab` 或 `Desktop` 进行投射即可
