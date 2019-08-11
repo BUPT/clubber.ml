@@ -31,12 +31,13 @@ We only add paper to this list before we decide to oral/poster it at our AMC sem
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
-| [S3E1](https://ai-ml.club/events/seminar-meeting-minutes-3-1/) | [@qhduan](https://github.com/qhduan) | [如何把博客图谱变成问答机器人](https://deepdialog.github.io/blog/ai-ml-kg-bot/) |
-| [S3E1](https://ai-ml.club/events/seminar-meeting-minutes-3-1/) | [@cgpeter96](https://github.com/cgpeter96) | [Deep Sets](http://papers.nips.cc/paper/6931-deep-sets) |
+| [S3E1](https://ai-ml.club/events/seminar-meeting-minutes-3-1/) | [@initc](https://github.com/initc) | [The Evaluation of Chinese Human-Computer Dialogue Technology,SMP2019-ECDT](http://conference.cipsc.org.cn/smp2019/evaluation.html) |
 
 ### Posters (Season 3)
 
 | [S3E1](https://ai-ml.club/events/seminar-meeting-minutes-3-1/) | [@newip](https://github.com/newip) | [Clinically applicable deep learning for diagnosis and referral in retinal disease](https://www.nature.com/articles/s41591-018-0107-6) |
+| [S3E1](https://ai-ml.club/events/seminar-meeting-minutes-3-1/) | [@qhduan](https://github.com/qhduan) | [如何把博客图谱变成问答机器人](https://deepdialog.github.io/blog/ai-ml-kg-bot/) |
+| [S3E1](https://ai-ml.club/events/seminar-meeting-minutes-3-1/) | [@cgpeter96](https://github.com/cgpeter96) | [Deep Sets](http://papers.nips.cc/paper/6931-deep-sets) |
 
 -----
 
@@ -51,7 +52,6 @@ We only add paper to this list before we decide to oral/poster it at our AMC sem
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
-| [S2E20](https://ai-ml.club/events/seminar-meeting-minutes-2-20/) | [@initc](https://github.com/initc) | [The Evaluation of Chinese Human-Computer Dialogue Technology,SMP2019-ECDT](http://conference.cipsc.org.cn/smp2019/evaluation.html) |
 | [S2E18](https://ai-ml.club/events/seminar-meeting-minutes-2-18/) | [@824zzy](https://github.com/824zzy) | [The combination of NLP and Quantitative Investment](https://github.com/824zzy/Quantitative_Model_v3.1) |
 | [S2E16](https://ai-ml.club/events/seminar-meeting-minutes-2-16/) | [@ArronHZG](https://github.com/ArronHZG) | [语义分割综述](https://blog.csdn.net/Arron_hou/article/details/94134049) |
 | [S2E15](https://ai-ml.club/events/seminar-meeting-minutes-2-15/) | [@linbo0518](https://github.com/linbo0518) | [Dive into NN: Theory, Architecture and Initialization](https://github.com/linbo0518/Dive-into-NN) |
