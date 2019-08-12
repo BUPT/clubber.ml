@@ -32,6 +32,10 @@ toc_icon: "tasks"  # corresponding Font Awesome icon name (without fa prefix)
     3. 守时：**严格控制**论文介绍时间
 6. 如果有代码需要演示，尽量将代码添加到Colab方便大家查阅和运行。AMC 成员共享的 Colab Jupter Notebook 地址： <https://colab.research.google.com/drive/1AO3bwIgzfy63ty8OSSgUPRG1PIii3oo_> （访问前请提供自己的Google账号给轮值主席申请权限）
 
+## 远程参会
+
+Welcome to join us by at [Zoom Meeting Room](https://ai-ml.club/zoom/)
+
 ## 相关链接
 
 - AMC Repo <https://github.com/BUPT/ai-ml.club>
