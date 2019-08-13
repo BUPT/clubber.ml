@@ -34,6 +34,8 @@ header:
     > 分享了由肖达、李童俊、方文达、钱胜杰、崔春来、李卓桓、李佳芮和高原共同完成的[SMP2019中文人机对话技术评测](https://arxiv.org/abs/1610.02391),该方案取得了人工第二机测第一的好名次。
 
     ![钱胜杰]({{ '/assets/2019/seminar-3-1/oral-initc.jpg'| relative_url }})
+    
+  Google docs link https://drive.google.com/open?id=1J1bk-vM5SUHXKoSLwfhHjIADkGUBea5a
 
 ### Poster
 
@@ -43,16 +45,67 @@ header:
 
     ![段清华]({{ '/assets/2019/seminar-3-1/poster-qhduan.jpg'| relative_url }})
 
+  GitHub link https://github.com/deepdialog
+  Blog link https://deepdialog.github.io/blog/ai-ml-kg-bot/
+
 - 贺新 @[newip](https://github.com/newip)
   
     > 分享了DeepMind在[Nature Medicine](https://www.nature.com/articles/s41591-018-0107-6)上发布的最新成果，展示了其 AI 系统能够对常规临床实践中的眼球扫描结果进行快速诊断，准确率打破以往记录。
 
     ![贺新]({{ '/assets/2019/seminar-3-1/poster-newip.jpg'| relative_url }})
 
+  <div class="zoom-container" style="
+      position: relative;
+      padding-bottom:56.25%;
+      padding-top:30px;
+      height:0;
+      overflow:hidden;
+  ">
+    <iframe
+      src='{{ '/assets/js/viewer-js/#/assets/2019/seminar-3-1/poster-newip.pdf' | relative_url }}'
+      width='560'
+      height='315'
+      allowfullscreen
+      webkitallowfullscreen
+      frameborder="0"
+      style="
+        position: absolute;
+        top:0;
+        left:0;
+        width:100%;
+        height:100%;
+      "
+    ></iframe>
+  </div>
+  
 - 陈光 @[cgpeter96](https://github.com/cgpeter96)
   
     > 分享了发表于NeurIPS 2017的论文[Deep Sets](http://papers.nips.cc/paper/6931-deep-sets) ，主要定理描述了置换不变的目标函数，并提供了任何置换不变目标函数必须属于的函数族。模型在电云分类、红移估计和图像打标等任务上获得了性能提升。
 
+  <div class="zoom-container" style="
+      position: relative;
+      padding-bottom:56.25%;
+      padding-top:30px;
+      height:0;
+      overflow:hidden;
+  ">
+    <iframe
+      src='{{ '/assets/js/viewer-js/#/assets/2019/seminar-3-1/poster-cgpeter96.pdf' | relative_url }}'
+      width='560'
+      height='315'
+      allowfullscreen
+      webkitallowfullscreen
+      frameborder="0"
+      style="
+        position: absolute;
+        top:0;
+        left:0;
+        width:100%;
+        height:100%;
+      "
+    ></iframe>
+  </div>
+  
 - 刘征 @[zheng-luke](https://github.com/zheng-luke)
   
     > 分享了一个实际的AI项目需求。
