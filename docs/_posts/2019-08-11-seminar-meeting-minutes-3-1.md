@@ -32,7 +32,7 @@ header:
 - 钱胜杰 @[initc](https://github.com/initc)
 
     > 分享了由肖达、李童俊、方文达、钱胜杰、崔春来、李卓桓、李佳芮和高原共同完成的[SMP2019中文人机对话技术评测](https://arxiv.org/abs/1610.02391),该方案取得了人工第二机测第一的好名次。
-    
+
     ![钱胜杰]({{ '/assets/2019/seminar-3-1/oral-initc.jpg'| relative_url }})
 
 ### Poster
@@ -40,23 +40,23 @@ header:
 - 段清华 @[qhduan](https://github.com/qhduan)
   
     > 分享了如何把博客图谱变成问答机器人，并以AMC网站历届分享内容做为数据源进行了展示。
-    
+
     ![段清华]({{ '/assets/2019/seminar-3-1/poster-qhduan.jpg'| relative_url }})
 
 - 贺新 @[newip](https://github.com/newip)
   
     > 分享了DeepMind在[Nature Medicine](https://www.nature.com/articles/s41591-018-0107-6)上发布的最新成果，展示了其 AI 系统能够对常规临床实践中的眼球扫描结果进行快速诊断，准确率打破以往记录。
-    
+
     ![贺新]({{ '/assets/2019/seminar-3-1/poster-newip.jpg'| relative_url }})
 
 - 陈光 @[cgpeter96](https://github.com/cgpeter96)
   
     > 分享了发表于NeurIPS 2017的论文[Deep Sets](http://papers.nips.cc/paper/6931-deep-sets) ，主要定理描述了置换不变的目标函数，并提供了任何置换不变目标函数必须属于的函数族。模型在电云分类、红移估计和图像打标等任务上获得了性能提升。
-    
+
 - 刘征 @[zheng-luke](https://github.com/zheng-luke)
   
     > 分享了一个实际的AI项目需求。
-    
+
     ![刘征]({{ '/assets/2019/seminar-3-1/poster-zheng-luke.jpg'| relative_url }})
 
 ## 授蛋仪式
@@ -69,10 +69,10 @@ header:
 
 ## 俱乐部讨论内容
 
-1.  惯性的时间控制需要每一届主席持续把控
-2.  如果预期讨论过多的poster可以当成oral申报，poster主要还是集中在论文的某一个点讲清楚。
-3.  Zoom链接和视频录制正式上线，[入口地址:https://ai-ml.club/zoom/](https://ai-ml.club/zoom/)。
-4.  下一任主席为陈光，下一任副主席为段清华。
+1. 惯性的时间控制需要每一届主席持续把控
+2. 如果预期讨论过多的poster可以当成oral申报，poster主要还是集中在论文的某一个点讲清楚。
+3. Zoom链接和视频录制正式上线，[入口地址:https://ai-ml.club/zoom/](https://ai-ml.club/zoom/)。
+4. 下一任主席为陈光，下一任副主席为段清华。
 
 ## After Party
 
