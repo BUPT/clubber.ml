@@ -34,8 +34,8 @@ header:
     > 分享了由肖达、李童俊、方文达、钱胜杰、崔春来、李卓桓、李佳芮和高原共同完成的[SMP2019中文人机对话技术评测](https://arxiv.org/abs/1610.02391),该方案取得了人工第二机测第一的好名次。
 
     ![钱胜杰]({{ '/assets/2019/seminar-3-1/oral-initc.jpg'| relative_url }})
-    
-  Google docs link https://drive.google.com/open?id=1J1bk-vM5SUHXKoSLwfhHjIADkGUBea5a
+
+  [Google docs link](https://drive.google.com/open?id=1J1bk-vM5SUHXKoSLwfhHjIADkGUBea5a)
 
 ### Poster
 
@@ -45,9 +45,8 @@ header:
 
     ![段清华]({{ '/assets/2019/seminar-3-1/poster-qhduan.jpg'| relative_url }})
 
-  GitHub link https://github.com/deepdialog
-  Blog link https://deepdialog.github.io/blog/ai-ml-kg-bot/
-
+  [GitHub link](https://github.com/deepdialog) [Blog link](https://deepdialog.github.io/blog/ai-ml-kg-bot/)
+  
 - 贺新 @[newip](https://github.com/newip)
   
     > 分享了DeepMind在[Nature Medicine](https://www.nature.com/articles/s41591-018-0107-6)上发布的最新成果，展示了其 AI 系统能够对常规临床实践中的眼球扫描结果进行快速诊断，准确率打破以往记录。
