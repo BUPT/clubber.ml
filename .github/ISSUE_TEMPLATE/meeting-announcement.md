@@ -66,7 +66,7 @@ Newcomers number: 1
 
 | Referrer | Newcomer  | Bio                    |
 | -------- | --------- | ---------------------- |
-| @huan    | @NEWCOMER | ONE_SENTENCE_BIOGRAPHY |
+| @huan    | @NEWCOMER_GITHUB_USERNAME | ONE_SENTENCE_BIOGRAPHY |
 
 ## Confirmed Attendees
 
