@@ -29,33 +29,11 @@ header:
 
 ### OKR预备知识
 
-在使用OKR到MM项目前，需要对OKR有大概的理解，参考 [学习参考](https://github.com/BUPT/magic-mirror/issues/17)
+在使用OKR到MM项目前，需要对OKR有大概的理解，参考如下
 
-> 参考资料
-
-  <div class="zoom-container" style="
-      position: relative;
-      padding-bottom:56.25%;
-      padding-top:30px;
-      height:0;
-      overflow:hidden;
-  ">
-    <iframe
-      src='{{ '/assets/js/viewer-js/#/assets/2019/seminar-3-2/okr.pdf' | relative_url }}'
-      width='560'
-      height='315'
-      allowfullscreen
-      webkitallowfullscreen
-      frameborder="0"
-      style="
-        position: absolute;
-        top:0;
-        left:0;
-        width:100%;
-        height:100%;
-      "
-    ></iframe>
-  </div>
+- [学习参考](https://github.com/BUPT/magic-mirror/issues/17)
+- 参考资料pdf[pdf](https://github.com/BUPT/ai-ml.club/blob/master/docs/assets/2019/seminar-3-2/okr.pdf)
+- [总结](https://vdeamov.github.io/任务管理/2019/08/19/OKR总结/)
 
 ### OKR是如何应该与MM项目
 
