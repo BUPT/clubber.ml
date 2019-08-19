@@ -53,6 +53,7 @@ header:
 ![段清华]({{ '/assets/2019/seminar-3-2/step1-3.jpg'| relative_url }})
 
 ![段嘉明]({{ '/assets/2019/seminar-3-2/step1-4.jpg'| relative_url }})
+
 ![陈光]({{ '/assets/2019/seminar-3-2/step1-5.jpg'| relative_url }})
 
 #### 在每个会员对自己写的UO/O/KR进行介绍后，合并表述相同的UO、O、KR,并进行投票选出会员都认可的UO、O、KR
@@ -66,6 +67,7 @@ header:
 ![补充]({{ '/assets/2019/seminar-3-2/commit.jpg'| relative_url }})
 
 #### 本次OKR活动结论
+
 ![结论]({{ '/assets/2019/seminar-3-2/target.jpg'| relative_url }})
 
 > 本学期目标
