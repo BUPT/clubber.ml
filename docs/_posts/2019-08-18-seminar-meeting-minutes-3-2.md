@@ -1,5 +1,5 @@
 ---
-title: 第三季1场 AI ML Club 活动纪要
+title: 第三季2场 AI ML Club 活动纪要
 author: cyfeng16
 date: 2019-08-18 16:00 +0800
 comments: true
