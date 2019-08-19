@@ -20,7 +20,7 @@ header:
 - 地点：北邮科研楼821
 - 轮值主席：陈光 @[cgpeter96](https://github.com/cgpeter96)
 - 轮值副主席：段清华  @[qhduan](https://github.com/qhduan)
-- 会员：李卓桓、贺新、段清华
+- 会员：李卓桓、贺新、段嘉铭
 - 新人：无
 
 本届沙龙内容（按发言顺序，由主席指定顺序）
@@ -50,14 +50,14 @@ header:
 
 ![段清华]({{ '/assets/2019/seminar-3-2/step1-3.jpg'| relative_url }})
 
-![段嘉明]({{ '/assets/2019/seminar-3-2/step1-4.jpg'| relative_url }})
+![段嘉铭]({{ '/assets/2019/seminar-3-2/step1-4.jpg'| relative_url }})
 
 ![陈光]({{ '/assets/2019/seminar-3-2/step1-5.jpg'| relative_url }})
 
-### 在每个会员对自己写的UO/O/KR进行介绍后，合并表述相同的UO、O、KR,并进行投票选出会员都认可的UO、O、KR
+### 在每个会员对自己写的UO、O、KR进行介绍后，合并表述相同的UO、O、KR,并进行投票选出会员都认可的UO、O、KR
 
 本次活动安排，由贺新师兄作为朗读者
-1. 朗读者依次朗读每个人的UO/O/KR，与会者进行发言(表述自己对这一条是怎么理解或者存在什么问题)，作者最后进行整理发言(任何人同时可以随手补充关键信息到黑板)
+1. 朗读者依次朗读每个人的UO、O、KR，与会者进行发言(表述自己对这一条是怎么理解或者存在什么问题)，作者最后进行整理发言(任何人同时可以随手补充关键信息到黑板)
 2. 进行归票
 
 ![汇总]({{ '/assets/2019/seminar-3-2/sum.jpg'| relative_url }})
