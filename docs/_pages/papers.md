@@ -20,12 +20,33 @@ toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 
 We only add paper to this list before we decide to oral/poster it at our AMC seminar.
 
+## AMC Season 3
+
+| Season  | 3      |
+| ------- | ------ |
+| Episode | 1 - 20EST |
+| Date    | 11 August 2019 - 2020 |
+
+### Orals (Season 3)
+
+| Seminar | Member | Paper |
+| ------- | ------ | ----- |
+| [S3E1](https://ai-ml.club/events/seminar-meeting-minutes-3-1/) | [@initc](https://github.com/initc) | [The Evaluation of Chinese Human-Computer Dialogue Technology,SMP2019-ECDT](http://conference.cipsc.org.cn/smp2019/evaluation.html) |
+
+### Posters (Season 3)
+
+| [S3E1](https://ai-ml.club/events/seminar-meeting-minutes-3-1/) | [@newip](https://github.com/newip) | [Clinically applicable deep learning for diagnosis and referral in retinal disease](https://www.nature.com/articles/s41591-018-0107-6) |
+| [S3E1](https://ai-ml.club/events/seminar-meeting-minutes-3-1/) | [@qhduan](https://github.com/qhduan) | [如何把博客图谱变成问答机器人](https://deepdialog.github.io/blog/ai-ml-kg-bot/) |
+| [S3E1](https://ai-ml.club/events/seminar-meeting-minutes-3-1/) | [@cgpeter96](https://github.com/cgpeter96) | [Deep Sets](http://papers.nips.cc/paper/6931-deep-sets) |
+
+-----
+
 ## AMC Season 2
 
-| Season  | 2         |
-| ------- | --------- |
-| Episode | 1 - 24EST |
-| Date    | 3 March 2019 - ? ? 2019|
+| Season  | 2      |
+| ------- | ------ |
+| Episode | 1 - 20 |
+| Date    | 3 March 2019 - 21 July 2019|
 
 ### Orals (Season 2)
 
@@ -51,6 +72,7 @@ We only add paper to this list before we decide to oral/poster it at our AMC sem
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
+| [S2E20](https://ai-ml.club/events/seminar-meeting-minutes-2-20/) | [@qhduan](https://github.com/qhduan) | [Few-Shot Generalization Across Dialogue Tasks](https://arxiv.org/abs/1811.11707) |
 | [S2E19](https://ai-ml.club/events/seminar-meeting-minutes-2-19/) | [@ArronHZG](https://github.com/ArronHZG) | [Attention in computer version](https://blog.csdn.net/Arron_hou/article/details/95676716) |
 | [S2E19](https://ai-ml.club/events/seminar-meeting-minutes-2-19/) | [@WdBlink](https://github.com/wdblink) | [High-Resolution Representations for Labeling Pixels and Regions](https://arxiv.org/abs/1904.04514) |
 | [S2E19](https://ai-ml.club/events/seminar-meeting-minutes-2-19/) | [@secortot](https://github.com/secortot) | [guided anchor](https://arxiv.org/abs/1901.03278) |
@@ -110,6 +132,8 @@ We only add paper to this list before we decide to oral/poster it at our AMC sem
 | [S2E02](https://ai-ml.club/events/seminar-meeting-minutes-2-2) |  [@CyFeng16](https://github.com/CyFeng16)  | [TF2.0使用心法](https://tensorflow.org) |
 | [S2E02](https://ai-ml.club/events/seminar-meeting-minutes-2-2) |  [@cgpeter96](https://github.com/cgpeter96)  | [图神经网络工具DGL介绍](https://docs.dgl.ai/#get-started) |
 | [S2E01](https://ai-ml.club/events/seminar-meeting-minutes-2-1) |  [@cgpeter96](https://github.com/cgpeter96) | [Learning Semantic Concepts and Order for Image and Sentence Matching, Huang et. al, 2018](https://arxiv.org/abs/1712.02036) |
+
+-----
 
 ## AMC Season 1
 
