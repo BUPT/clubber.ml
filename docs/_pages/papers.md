@@ -34,6 +34,7 @@ We only add paper to this list before we decide to oral/poster it at our AMC sem
 | [S3E1](https://ai-ml.club/events/seminar-meeting-minutes-3-1/) | [@initc](https://github.com/initc) | [The Evaluation of Chinese Human-Computer Dialogue Technology,SMP2019-ECDT](http://conference.cipsc.org.cn/smp2019/evaluation.html) |
 
 ### Posters (Season 3)
+
 | [S3E3](https://ai-ml.club/events/seminar-meeting-minutes-3-3/) | [@newip](https://github.com/secortot) | [Feature Selective Anchor-Free Module for Single-Shot Object Detection](https://arxiv.org/abs/1903.00621) |
 | [S3E1](https://ai-ml.club/events/seminar-meeting-minutes-3-1/) | [@newip](https://github.com/newip) | [Clinically applicable deep learning for diagnosis and referral in retinal disease](https://www.nature.com/articles/s41591-018-0107-6) |
 | [S3E1](https://ai-ml.club/events/seminar-meeting-minutes-3-1/) | [@qhduan](https://github.com/qhduan) | [如何把博客图谱变成问答机器人](https://deepdialog.github.io/blog/ai-ml-kg-bot/) |
