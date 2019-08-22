@@ -32,9 +32,16 @@ toc_icon: "tasks"  # corresponding Font Awesome icon name (without fa prefix)
 
 ## OKR 使用案例 or 讨论实例
 
-- [初期 issue 中的讨论](https://github.com/BUPT/magic-mirror/issues/17)
+- 初期讨论
+    - [issue 中的讨论](https://github.com/BUPT/magic-mirror/issues/17)
+    - [zoom 视频会议讨论](https://zoom.us/recording/share/p0-3_CKAOxmVDUPEtTequfRkTGUdsDN3tSZW_QGOVi-wIumekTziMw)
 - [第一期 OKR 的讨论](https://ai-ml.club/events/seminar-meeting-minutes-3-2/)
 
 ## OKR 总结博客
 
 - [VDeamoV Blog OKR 简单总结](https://vdeamov.github.io/任务管理/2019/08/19/OKR总结/)
+
+## Learning Center
+
+1. [The Ultimate Guide to OKR](https://www.perdoo.com/the-ultimate-okr-guide/)
+1. [Guide: Set goals with OKRs](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/)
