@@ -36,6 +36,30 @@ header:
     ![钱胜杰]({{ '/assets/2019/seminar-3-1/oral-initc.jpg'| relative_url }})
 
   [Google docs link](https://drive.google.com/open?id=1J1bk-vM5SUHXKoSLwfhHjIADkGUBea5a)
+  
+  <div class="zoom-container" style="
+      position: relative;
+      padding-bottom:56.25%;
+      padding-top:30px;
+      height:0;
+      overflow:hidden;
+  ">
+    <iframe
+      src='{{ '/assets/js/viewer-js/' | relative_url }}#{{ '/assets/2019/seminar-3-1/oral-initc.pdf' | relative_url }}'
+      width='560'
+      height='315'
+      allowfullscreen
+      webkitallowfullscreen
+      frameborder="0"
+      style="
+        position: absolute;
+        top:0;
+        left:0;
+        width:100%;
+        height:100%;
+      "
+    ></iframe>
+  </div>
 
 ### Poster
 
