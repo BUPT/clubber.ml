@@ -1,5 +1,5 @@
 ---
-title: "Pengyu Lin (尹鹏宇)"
+title: "Pengyu Yin (尹鹏宇)"
 layout: author
 header:
   overlay_color: "#000"
