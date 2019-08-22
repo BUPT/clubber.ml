@@ -25,13 +25,14 @@ Will come soon =。=
 
 ## Talks
 
-* [High-Resolution Representations for Labeling Pixels and Regions](https://ai-ml.club/events/seminar-meeting-minutes-2-19/) Jun 2
+- [High-Resolution Representations for Labeling Pixels and Regions](https://ai-ml.club/events/seminar-meeting-minutes-2-19/) Jun 2
 
 - [MRI brain tumor segmentation using autoencoder regularization](https://ai-ml.club/events/seminar-meeting-minutes-2-17/) Jun 2019
 
 ## Contact
 
-* Github: <https://github.com/wdblink>
+- Github: <https://github.com/wdblink>
 
 - Email: <buptypy@gmail.com>
+
 - Blog: https://wdblink.github.io/
