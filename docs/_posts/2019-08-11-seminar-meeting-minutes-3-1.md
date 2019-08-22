@@ -45,7 +45,7 @@ header:
       overflow:hidden;
   ">
     <iframe
-      src='{{ '/assets/js/viewer-js/#/assets/2019/seminar-3-1/oral-initc.pdf' | relative_url }}'
+      src='{{ '/assets/js/viewer-js/' | relative_url }}#{{ '/assets/2019/seminar-3-1/oral-initc.pdf' | relative_url }}'
       width='560'
       height='315'
       allowfullscreen
