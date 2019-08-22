@@ -40,3 +40,8 @@ toc_icon: "tasks"  # corresponding Font Awesome icon name (without fa prefix)
 ## OKR 总结博客
 
 - [VDeamoV Blog OKR 简单总结](https://vdeamov.github.io/任务管理/2019/08/19/OKR总结/)
+
+## Learning Center
+
+1. [The Ultimate Guide to OKR](https://www.perdoo.com/the-ultimate-okr-guide/)
+1. [Guide: Set goals with OKRs](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/)
