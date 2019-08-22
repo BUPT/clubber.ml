@@ -35,6 +35,9 @@ We only add paper to this list before we decide to oral/poster it at our AMC sem
 
 ### Posters (Season 3)
 
+| Seminar | Member | Paper |
+| ------- | ------ | ----- |
+| [S3E3](https://ai-ml.club/events/seminar-meeting-minutes-3-3/) | [@tabZhang](https://github.com/ltg001) | [Chinese NER Using Lattice LSTM](https://arxiv.org/pdf/1805.02023.pdf) |  
 | [S3E3](https://ai-ml.club/events/seminar-meeting-minutes-3-3/) | [@vdeamov](https://github.com/vdeamov) | [Learning to Propagate Labels-Transductive Propagation Network for Few-Shot Learning](https://arxiv.org/pdf/1805.10002) |
 | [S3E3](https://ai-ml.club/events/seminar-meeting-minutes-3-3/) | [@secortot](https://github.com/secortot) | [Feature Selective Anchor-Free Module for Single-Shot Object Detection](https://arxiv.org/abs/1903.00621) |
 | [S3E1](https://ai-ml.club/events/seminar-meeting-minutes-3-1/) | [@newip](https://github.com/newip) | [Clinically applicable deep learning for diagnosis and referral in retinal disease](https://www.nature.com/articles/s41591-018-0107-6) |
