@@ -35,4 +35,4 @@ Will come soon =。=
 
 - Email: <buptypy@gmail.com>
 
-- Blog: https://wdblink.github.io/
+- Blog: <https://wdblink.github.io/>
