@@ -1,4 +1,3 @@
-<<<<<<< HEAD
  # /_data/authors.yml
 
 huan:
@@ -156,199 +155,7 @@ gaojiuy:
   name        : "高久怡"
   bio         : "Actions speak louder than words"
   avatar      : ""
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: <"https://github.com/gaojiuy">
-
-secortot:
-  name        : "董青"
-  bio         : "keep happy and smile"
-  avatar      : "https://avatars3.githubusercontent.com/u/38239721?s=400&u=9679c746790816da53865c32b820f3c84a075602&v=4"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/secortot"
-
-
-
-CyFeng:
-  name        : "石珅达"
-  bio         : "这个家伙很懒，什么都没有留下"
-  avatar      : "https://avatars3.githubusercontent.com/u/29787421?s=400&v=4"
   membership : 'member'
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/CyFeng16"
-
-WdBlink:
-  name        : "尹鹏宇"
-  bio         : "诸恶莫作 自由快乐"
-  avatar      : "https://avatars2.githubusercontent.com/u/42338898?s=460&v=4"
-  links:
-    - lable: "Blog"
-      icon: "fas fa-fw fa-link"
-      url:  "https://wdblink.github.io/"
-
-=======
- # /_data/authors.yml
-
-huan:
-  name       : "Huan LI (李卓桓)"
-  bio        : "Conversational AI Coder with 💖"
-  avatar     : "https://avatars1.githubusercontent.com/u/1361891?s=460&v=4"
-  membership : 'chair'
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/huan"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://weibo.com/lizhuohuan"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/lizhuohuan"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:huan@bupt.edu.cn"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://ai-ml.club/people/huan/"
-
-824zzy:
-  name       : "朱正源"
-  bio        : "The father of artificial general intelligence(AGI) in the future"
-  avatar     : "https://avatars0.githubusercontent.com/u/13566583?s=460&v=4"
-  membership : 'chair'
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/qhduan"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:614594368@qq.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/rhymeswithsackit"
-
-qhduan:
-  name       : "段清华"
-  bio        : "Deamer, NLP, KG"
-  avatar     : "https://avatars0.githubusercontent.com/u/3895924?s=460&v=4"
-  membership : 'member'
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:mail@qhduan.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://ai-ml.club/people/qhduan/"
-
-TuringLee:
-  name       : "李童俊"
-  bio        : "明明可以靠脸，偏偏要靠才华，因为我不是明明"
-  avatar     : "https://avatars0.githubusercontent.com/u/17496872?s=460&v=4"
-  membership : 'member'
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/TuringLee"
-
-
-cgpeter96:
-  name        : "陈光"
-  bio         : "Beiguo Man"
-  avatar      : "https://avatars2.githubusercontent.com/u/18066295?s=96&v=4"
-  membership  : 'chair'
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/cgpeter96"
-
-vdeamov:
-  name        : "段嘉铭"
-  bio         : "Initializing....."
-  avatar      : "https://avatars3.githubusercontent.com/u/35023950?v=4"
-  membership  : 'chair'
-  links:
-    - lable: "Blog"
-      icon: "fas fa-fw fa-link"
-      url:  "https://vdeamov.github.io"
-
-linbo0518:
-  name        : "林博"
-  bio         : "慢几步，深几度"
-  avatar      : "https://avatars0.githubusercontent.com/u/5896078?s=460&v=4"
-  membership  : 'chair'
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/linbo0518"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:linbo0518@gmail.com"
-
-fuyunfuyun666:
-  name        : "刘云"
-  bio         : "真的很不错哦"
-  avatar      : "https://avatars1.githubusercontent.com/u/42915208?s=400&u=c1ad7ea34603b95207f3f59391db4402c2d57d6d&v=4"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/fuyunfuyun666"
-
-Chen-Dixi:
-  name        : "陈帝羲"
-  bio         : "低调低调"
-  avatar      : "https://avatars1.githubusercontent.com/u/13377302?s=460&v=4"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/chen-dixi"
-    - lable: "Website"
-      icon: "fas fa-fw fa-link"
-      url:  "https://chen-dixi.github.io"
-
-
-ArronHZG:
-  name        : "侯正罡"
-  bio         : "Stay hungry,Stay foolish"
-  avatar      : "https://avatars2.githubusercontent.com/u/24294073?s=460&v=4"
-  membership : 'member'
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/ArronHZG"
-    - lable: "Blob"
-      icon: "fas fa-fw fa-link"
-      url:  "https://blog.csdn.net/Arron_hou"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://ai-ml.club/people/arron/"
-
-Jarvisgivemeasuit:
-  name        : "李京伦"
-  bio         : "Only the brave"
-  avatar      : "https://avatars3.githubusercontent.com/u/43956751?s=400&u=ebe7b4377123ab3e41159b8c5b95a7ae18c90d80&v=4"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/Jarvisgivemeasuit"
-
-newip:
-  name        : "贺新"
-  bio         : "AI Robot helping people living more efficiency. Welcome to the AI Bot world. (XinRobot is me)"
-  avatar      : "https://avatars0.githubusercontent.com/u/1592542?v=4"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/newip"
-
-gaojiuy:
-  name        : "高久怡"
-  bio         : "Actions speak louder than words"
-  avatar      : ""
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -375,13 +182,12 @@ cyfeng16:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/CyFeng16"
 
-WdBlink:
+wdblink:
   name        : "尹鹏宇"
   bio         : "诸恶莫作 自由快乐"
   avatar      : "https://avatars2.githubusercontent.com/u/42338898?s=460&v=4"
+  membership : 'member'
   links:
     - lable: "Blog"
       icon: "fas fa-fw fa-link"
       url:  "https://wdblink.github.io/"
-
->>>>>>> 448db5737174466c5d4ae2123c03bf5a1af808db
