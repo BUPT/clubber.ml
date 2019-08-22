@@ -32,8 +32,9 @@ toc_icon: "tasks"  # corresponding Font Awesome icon name (without fa prefix)
 
 ## OKR 使用案例 or 讨论实例
 
-- [初期 issue 中的讨论](https://github.com/BUPT/magic-mirror/issues/17)
-
+- 初期讨论
+    - [issue 中的讨论](https://github.com/BUPT/magic-mirror/issues/17)
+    - [zoom 视频会议讨论](https://zoom.us/recording/share/p0-3_CKAOxmVDUPEtTequfRkTGUdsDN3tSZW_QGOVi-wIumekTziMw)
 - [第一期 OKR 的讨论](https://ai-ml.club/events/seminar-meeting-minutes-3-2/)
 
 ## OKR 总结博客
