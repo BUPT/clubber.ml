@@ -1,5 +1,5 @@
 > Please copy/paste the title template from the following line:
-> 🗣Oral | 📰Poster - Paper Tite
+> 🗣Oral | 📰Poster - Paper Title
 > And delete this part before continue editing your PR
 
 # AMC Seminar Sign Up
