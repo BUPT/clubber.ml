@@ -1,6 +1,6 @@
 ---
 title: 第三季2场 AI ML Club 活动纪要
-author: cyfeng16
+author: cgpeter96
 date: 2019-08-18 16:00 +0800
 comments: true
 mathjax: true
@@ -32,7 +32,7 @@ header:
 在使用OKR到MM项目前，需要对OKR有大概的理解，参考如下
 
 - [学习参考](https://github.com/BUPT/magic-mirror/issues/17)
-- 参考资料pdf[pdf](https://github.com/BUPT/ai-ml.club/blob/master/docs/assets/2019/seminar-3-2/okr.pdf)
+- 参考资料[pdf](https://github.com/BUPT/ai-ml.club/blob/master/docs/assets/2019/seminar-3-2/okr.pdf)
 - [总结](https://vdeamov.github.io/任务管理/2019/08/19/OKR总结/)
 
 ### OKR是如何应该与MM项目
