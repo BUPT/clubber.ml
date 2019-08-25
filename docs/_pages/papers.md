@@ -37,6 +37,7 @@ We only add paper to this list before we decide to oral/poster it at our AMC sem
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
+| [S3E3](https://ai-ml.club/events/seminar-meeting-minutes-3-3/) | [@gaojiuy](https://github.com/gaojiuy) | [Visualizing and Understanding Convolutional Networks](https://arxiv.org/pdf/1311.2901.pdf) |
 | [S3E3](https://ai-ml.club/events/seminar-meeting-minutes-3-3/) | [@tabZhang](https://github.com/ltg001) | [Chinese NER Using Lattice LSTM](https://arxiv.org/pdf/1805.02023.pdf) |  
 | [S3E3](https://ai-ml.club/events/seminar-meeting-minutes-3-3/) | [@vdeamov](https://github.com/vdeamov) | [Learning to Propagate Labels-Transductive Propagation Network for Few-Shot Learning](https://arxiv.org/pdf/1805.10002) |
 | [S3E3](https://ai-ml.club/events/seminar-meeting-minutes-3-3/) | [@secortot](https://github.com/secortot) | [Feature Selective Anchor-Free Module for Single-Shot Object Detection](https://arxiv.org/abs/1903.00621) |
