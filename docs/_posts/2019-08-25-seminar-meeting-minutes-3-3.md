@@ -9,7 +9,7 @@ categories:
 tags:
   - 
 header:
-  teaser: /assets/2019/seminar-3-2/after-party.jpg
+  teaser: /assets/2019/seminar-3-3/after-party.jpg
 ---
 
 << 本次沙龙通知: [#275](https://github.com/BUPT/ai-ml.club/issues/275)  <<
