@@ -35,7 +35,7 @@ toc_icon: "tasks"  # corresponding Font Awesome icon name (without fa prefix)
 - Early Discussion
   - [Discussion in the issue](https://github.com/BUPT/magic-mirror/issues/17)
   - [zoom video conference](https://zoom.us/recording/share/p0-3_CKAOxmVDUPEtTequfRkTGUdsDN3tSZW_QGOVi-wIumekTziMw)
-- [Season 1 Episode 1 OKR discussion](https://ai-ml.club/events/seminar-meeting-minutes-3-2/)
+  - [OKR Brainstorm Meeting for Phase I of MM project](https://ai-ml.club/events/seminar-meeting-minutes-3-2/)
 
 ## Related Blog
 
