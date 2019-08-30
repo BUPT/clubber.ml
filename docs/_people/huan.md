@@ -44,6 +44,7 @@ Huan is a second year CS Ph.D. student at BUPT, major in Conversational AI. Tens
 - [Wechaty 101: from v0.0 to v0.7](https://blog.chatie.io/wechaty-101-presentation/), 18 Dec 2016 (video)
 - [听道演讲 - 李卓桓：和我一起来飞翔](https://mp.weixin.qq.com/s?__biz=MjM5MDQxOTIyMw==&mid=10000009&idx=1&sn=4d4adea2700d99f5fb9e90da7ddd812d), Aug 2012 (video)
 - [跟我一起飞](https://docs.google.com/presentation/d/1oV8me-DsH_TVgFhFeQQ3axvDID6R1n4Tya64NbClhaQ/edit?usp=sharing), Mar 2010
+- [ML from Investment Perspective: AI](https://docs.google.com/presentation/d/1Iz8esac3CaKwZqiiYGg-zdktArFJmu1rVvNXrnt1lws/edit?usp=sharing), Dec 2018
 
 ## Publications
 
