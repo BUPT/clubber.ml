@@ -155,6 +155,7 @@ gaojiuy:
   name        : "高久怡"
   bio         : "Actions speak louder than words"
   avatar      : ""
+  membership : 'member'
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -181,12 +182,12 @@ cyfeng16:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/CyFeng16"
 
-WdBlink:
+wdblink:
   name        : "尹鹏宇"
   bio         : "诸恶莫作 自由快乐"
   avatar      : "https://avatars2.githubusercontent.com/u/42338898?s=460&v=4"
+  membership : 'member'
   links:
     - lable: "Blog"
       icon: "fas fa-fw fa-link"
       url:  "https://wdblink.github.io/"
-
