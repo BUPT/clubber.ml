@@ -34,6 +34,7 @@ Huan is a second year CS Ph.D. student at BUPT, major in Conversational AI. Tens
 
 - [Operator in Variational Auto-Encoder (VAE)](https://docs.google.com/presentation/d/17w7gtD26MU2Ay38WXMDY9Ok37S6Mwd4JJ0EMpoq9M0I/edit?usp=sharing), Jan 2019
 - [Build Chatbot From 0 to 1](https://docs.google.com/presentation/d/1NUHIyrYyhYuUrfNm2E7D7GtMjfX2Y6EoiNwXhE33iPU/edit?usp=sharing), Dec 2018
+- [ML from Investment Perspective: AI](https://docs.google.com/presentation/d/1Iz8esac3CaKwZqiiYGg-zdktArFJmu1rVvNXrnt1lws/edit?usp=sharing), Dec 2018
 - [Machine Learning in TypeScript](https://docs.google.com/presentation/d/10u2hKAz4VjryCYr-oHxcxX4HzFeKOir7lq79ASV6TIA/edit?usp=sharing), Nov 2018
 - [A Concise Codelab of TensorFlow 2.0](https://docs.google.com/presentation/d/1fOcbvo8fcfMj-YGt2YSDqSlv-vH4NJ_EZOb9ZLd-0iI/edit?usp=sharing), Oct 2018
 - [“只投十万”的天使投资人李卓桓，不跟年轻人讲道理](https://mp.weixin.qq.com/s?__biz=MjM5MDQxOTIyMw==&mid=502834304&idx=1&sn=33ca3a355e446fb63b72df5d1b6b2127), Jan 2018 (video)
