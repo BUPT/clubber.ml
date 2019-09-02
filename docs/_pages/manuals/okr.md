@@ -18,15 +18,15 @@ toc_icon: "tasks"  # corresponding Font Awesome icon name (without fa prefix)
 
 ## OKR Introduction
 
-1. **Goal of OKR**: It should be pointed out that the purpose of OKR is to coordinate the members of the team and let all members unambiguously understand the direction of the project and what they should do. So OKR is **NOT SUITABLE** for personal use.
+1. **Goal of OKR**: It should be pointed out that the purpose of OKR is to coordinate the members of the team and let all members unambiguously understand the direction of the project and what they should do. It accomplishs the operation of converting strategy into execution smoothly. So OKR is **NOT SUGGESTED** for personal use.
 2. **Cognitive Change for OKR**: The thinking of OKR is **RESULT-ORIENTED**. When setting KR, it is necessary to consider whether the KR is strongly related to the corresponding Objective. Whether or not KR's completion can directly contribute to the Objective.
 3. **Realtion between Ultimate Objective, Objective and KeyResult**:
 
-    - Ultimate Objective: Ultimate Objective is a long-term goal. It is not required to be measurable. Moreoever, with the task moving on, it can be transformed with Objective. More importantly, it indicates the direction and definites the property for the entire project.
+    - Ultimate Objective: Ultimate Objective is one unique objective for the current cycle. It is not required to be measurable. Moreoever, with the task moving on, it can be transformed with Objective. More importantly, it indicates the direction and definites the property for the entire project.
 
-    - Objective: Same as Ultimate Objective，but need to serve the related Ultimate Objective.
+    - Objective: Objectives need to serve the related Ultimate Objective. It is also not required to be measurable. Same as Ultimate Objective, it point out the direction for the related KeyResult.
 
-    - KeyResult: A measurable task, however it **CAN NOT BE DIRECTLY ACCOMPLISHED** by the operater. Again, it should serve the related Objective.
+    - KeyResult: A measurable task, however it **CAN NOT BE DIRECTLY CONTROLLED** by the operater. Again, it should serve the related Objective.
 
     - More Infor: Key Result should serve Objective and Objectives should contribute to Ultimate Objective. Moreoever, each of them should be INDEPENDENT, such as KR should independent with KR, Objective should be independent with Objective and so on.
 
