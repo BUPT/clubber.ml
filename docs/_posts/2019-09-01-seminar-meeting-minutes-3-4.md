@@ -100,6 +100,10 @@ header:
     ![李卓桓]({{ '/assets/2019/seminar-3-4/poster-huan.jpg'| relative_url }})
     ![MM架构设计草图]({{ '/assets/2019/seminar-3-4/poster-MM-Arch.jpg'| relative_url }})
 
+## Zoom录影
+
+    > 本期活动Zoom录像链接[回放](https://zoom.us/recording/share/I8DsLBrR6rGvgKBEGigC8Hkm4tS6v9QTW2AHJ79xQ7OwIumekTziMw?startTime=1567335929000)
+
 ## 授蛋仪式
 
 ![授蛋]({{ '/assets/2019/seminar-3-4/inheritance.jpg'| relative_url }})
