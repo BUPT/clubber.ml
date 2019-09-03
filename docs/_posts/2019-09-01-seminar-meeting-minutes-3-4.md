@@ -98,7 +98,7 @@ header:
     > 分享了MM项目的架构设计
 
     ![李卓桓]({{ '/assets/2019/seminar-3-4/poster-huan.jpg'| relative_url }})
-    ![MM架构设计草图]({{ '/assets/2019/seminar-3-4/poster-MM-Arch.jpg'| relative_url }})
+    ![MM架构设计草图]({{ '/assets/2019/seminar-3-4/poster-mm-arch.jpg'| relative_url }})
 
 ## Zoom录影
 
