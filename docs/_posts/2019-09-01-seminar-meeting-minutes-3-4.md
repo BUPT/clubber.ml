@@ -102,7 +102,7 @@ header:
 
 ## Zoom录影
 
-![本期活动Zoom录像链接回放](https://zoom.us/recording/share/I8DsLBrR6rGvgKBEGigC8Hkm4tS6v9QTW2AHJ79xQ7OwIumekTziMw?startTime=1567335929000)
+[本期活动Zoom录像链接回放](https://zoom.us/recording/share/I8DsLBrR6rGvgKBEGigC8Hkm4tS6v9QTW2AHJ79xQ7OwIumekTziMw?startTime=1567335929000)
 
 ## 授蛋仪式
 
