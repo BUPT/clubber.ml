@@ -77,7 +77,7 @@ header:
       overflow:hidden;
   ">
     <iframe
-      src='{{ '/assets/js/viewer-js/#http://www.ijo.cn/gjyken/ch/reader/view_abstract.aspx?file_no=20190622&flag=1' | relative_url }}'
+      src='{{ '/assets/js/viewer-js/#http://www.ijo.cn/en_publish/2019/6/20190622.pdf' | relative_url }}'
       width='560'
       height='315'
       allowfullscreen
