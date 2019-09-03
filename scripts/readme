@@ -1,0 +1,11 @@
+The image size is too large, please use fit-image.sh to reduce the image size.
+
+For macOS
+
+brew install imagemagick
+For Linux
+
+apt install imagemagick
+And then
+
+./scripts/fit-image.sh
