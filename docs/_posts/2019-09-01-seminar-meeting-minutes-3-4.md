@@ -77,7 +77,7 @@ header:
       overflow:hidden;
   ">
     <iframe
-      src='{{ '/assets/js/viewer-js/#http://www.ijo.cn/gjyken/ch/reader/view_abstract.aspx?file_no=20190622&flag=1' | relative_url }}'
+      src='{{ '/assets/js/viewer-js/#http://www.ijo.cn/en_publish/2019/6/20190622.pdf' | relative_url }}'
       width='560'
       height='315'
       allowfullscreen
@@ -98,11 +98,11 @@ header:
     > 分享了MM项目的架构设计
 
     ![李卓桓]({{ '/assets/2019/seminar-3-4/poster-huan.jpg'| relative_url }})
-    ![MM架构设计草图]({{ '/assets/2019/seminar-3-4/poster-MM-Arch.jpg'| relative_url }})
+    ![MM架构设计草图]({{ '/assets/2019/seminar-3-4/poster-mm-arch.jpg'| relative_url }})
 
 ## Zoom录影
 
-    > 本期活动Zoom录像链接[回放](https://zoom.us/recording/share/I8DsLBrR6rGvgKBEGigC8Hkm4tS6v9QTW2AHJ79xQ7OwIumekTziMw?startTime=1567335929000)
+[本期活动Zoom录像链接回放](https://zoom.us/recording/share/I8DsLBrR6rGvgKBEGigC8Hkm4tS6v9QTW2AHJ79xQ7OwIumekTziMw?startTime=1567335929000)
 
 ## 授蛋仪式
 
