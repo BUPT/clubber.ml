@@ -77,7 +77,7 @@ header:
       overflow:hidden;
   ">
     <iframe
-      src='{{ '/assets/js/viewer-js/#http://www.ijo.cn/en_publish/2019/6/20190622.pdf' | relative_url }}'
+      src='{{ '/assets/js/viewer-js/#https://github.com/BUPT/ai-ml.club/raw/master/docs/assets/2019/seminar-3-4/20190622-otc-paper.pdf' | relative_url }}'
       width='560'
       height='315'
       allowfullscreen
