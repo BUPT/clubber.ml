@@ -136,6 +136,9 @@ apt install imagemagick
 
 ./scripts/fit-image.sh
 ```
+Or you can use your local picture resize tools to make the file size lower than 200kb
+The 1920 * 1080 with 8 bit sRGB is prefered.
+Also, aware the rules just under this content. The teasor image size should be right of 500 * 300. Resize it before your uploading.
 
 ### VsCode Markdown Linting
 
