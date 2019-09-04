@@ -9,7 +9,7 @@ categories:
 tags:
   - 
 header:
-  teaser: /assets/2019/seminar-3-4/after-party.jpg
+  teaser: /assets/2019/seminar-3-4/joint-photo1.jpg
 ---
 
 << 本次沙龙通知: [#285](https://github.com/BUPT/ai-ml.club/issues/285)  <<
@@ -77,7 +77,7 @@ header:
       overflow:hidden;
   ">
     <iframe
-      src='{{ '/assets/js/viewer-js/#http://www.ijo.cn/en_publish/2019/6/20190622.pdf' | relative_url }}'
+      src='{{ '/assets/js/viewer-js/#https://github.com/BUPT/ai-ml.club/raw/master/docs/assets/2019/seminar-3-4/20190622-otc-paper.pdf' | relative_url }}'
       width='560'
       height='315'
       allowfullscreen
@@ -117,6 +117,10 @@ header:
 1. MM项目OKR在24小时内完成更新；
 1. MM项目硬件需要安装与部署；
 1. 下期主席高久怡、副主席侯正罡。
+
+## After Party
+
+![AfterParty]({{ '/assets/2019/seminar-3-4/after-party.jpg' | relative_url }})
 
 ## RSVP
 
