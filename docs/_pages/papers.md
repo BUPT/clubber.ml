@@ -37,6 +37,7 @@ We only add paper to this list before we decide to oral/poster it at our AMC sem
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
+| [S3E5](https://ai-ml.club/events/seminar-meeting-minutes-3-5/) | [@huan](https://github.com/huan) | [Pre-training BERT from scratch with cloud TPU](https://towardsdatascience.com/pre-training-bert-from-scratch-with-cloud-tpu-6e2f71028379) |
 | [S3E4](https://ai-ml.club/events/seminar-meeting-minutes-3-4/) | [@newip](https://github.com/newip) | [Segmentation of retinal fluid based on deep learning: application of three-dimensional fully convolutional neural networks in optical coherence tomography images](http://www.ijo.cn/gjyken/ch/reader/view_abstract.aspx?file_no=20190622&flag=1) |
 | [S3E4](https://ai-ml.club/events/seminar-meeting-minutes-3-4/) | [@gaojiuy](https://github.com/gaojiuy) | [Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps](https://arxiv.org/pdf/1312.6034.pdf) |
 | [S3E3](https://ai-ml.club/events/seminar-meeting-minutes-3-3/) | [@ArronHZG](https://github.com/ArronHZG) | [Dual Attention Network for Scene Segmentation](https://arxiv.org/abs/1809.02983) |
