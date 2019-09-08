@@ -42,7 +42,7 @@ qhduan:
   name       : "段清华"
   bio        : "Deamer, NLP, KG"
   avatar     : "https://avatars0.githubusercontent.com/u/3895924?s=460&v=4"
-  membership : 'member'
+  membership : 'chair'
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -121,7 +121,7 @@ ArronHZG:
   name        : "侯正罡"
   bio         : "Stay hungry,Stay foolish"
   avatar      : "https://avatars2.githubusercontent.com/u/24294073?s=460&v=4"
-  membership : 'member'
+  membership : 'chair'
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -146,6 +146,7 @@ newip:
   name        : "贺新"
   bio         : "AI Robot helping people living more efficiency. Welcome to the AI Bot world. (XinRobot is me)"
   avatar      : "https://avatars0.githubusercontent.com/u/1592542?v=4"
+  membership : 'chair'
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -156,6 +157,7 @@ gaojiuy:
   bio         : "Actions speak louder than words"
   avatar      : ""
   membership : 'member'
+  membership : 'chair'
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -176,7 +178,7 @@ cyfeng16:
   name        : "石珅达"
   bio         : "这个家伙很懒，什么都没有留下"
   avatar      : "https://avatars3.githubusercontent.com/u/29787421?s=400&v=4"
-  membership : 'member'
+  membership : 'chair'
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
