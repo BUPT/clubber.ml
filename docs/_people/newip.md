@@ -12,16 +12,20 @@ toc_label: "Author Profile"
 toc_icon: "address-card"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 
-Xin is a startup project owner with AI robotics. Major member of BUPT entrepreneur association, Tsinghua IEIT technical incubation director. AMC MM Project horizontal leader.
+Xin (newip) was the founder of Gantry AI Robot, Beidou RTK Magic-Box. Contributor and sponsor of AMC.
+Major member of BUPT entrepreneur association, Tsinghua IEIT incubation director. AMC MM Project horizontal leader.
+Good at Project strategy planning and executive management.
 
 ## Research Interests
 
 1. AI Robotics
 1. Collaboration Intelligent
 1. Entrepreneurship
+1. Venture Capital for startup
+1. Incubation Coach
 
 ## Contact
 
 - Linkedin: <https://www.linkedin.com/in/robinhe>
 - Email: <robinhex@dingtalk.com>
-- Wechat: XinRobot
+- WechatID: XinRobot
