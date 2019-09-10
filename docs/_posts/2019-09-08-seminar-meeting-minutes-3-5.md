@@ -62,7 +62,7 @@ header:
   
  - 张璐 @[23LuZ](https://github.com/23LuZ)
 
-  > 分享了论文[A Neural Conversational Model](https://arxiv.org/pdf/1506.05869.pdf)
+   > 分享了论文[A Neural Conversational Model](https://arxiv.org/pdf/1506.05869.pdf)
 
   ![张璐]({{ '/assets/2019/seminar-3-5/seminar-3-5-talk-23LuZ.jpg'| relative_url }})
 
