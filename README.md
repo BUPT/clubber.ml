@@ -102,7 +102,7 @@ Learn more from <https://github.com/DavidAnson/vscode-markdownlint>
       teaser: /assets/2019/my-awesome-post-teaser-500x300.jpg
     ```
 
-## Chairmans
+## Super Chairs
 
 - Corresponding Chair （通讯主席）: [Meina SONG](https://baike.baidu.com/item/%E5%AE%8B%E7%BE%8E%E5%A8%9C/4444673) Ph.D, Professor, School of Computer Science, BUPT
 - Academic Chair （学术主席）: [Da XIAO](https://scss.bupt.edu.cn/info/1063/1162.htm) 肖达，博士毕业于清华大学计算机科学与技术系，现为北京邮电大学网络空间安全学院讲师，彩云科技首席科学家，集智俱乐部核心成员。目前研究兴趣包括深度学习、人工智能、认知科学。曾在集智俱乐部发起并主持“脑与Deep Learning读书会”、“高级认知Deep Learning读书会”等线下活动。
