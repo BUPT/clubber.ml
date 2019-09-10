@@ -102,17 +102,16 @@ Learn more from <https://github.com/DavidAnson/vscode-markdownlint>
       teaser: /assets/2019/my-awesome-post-teaser-500x300.jpg
     ```
 
-## MEMBERS
+## Chairmans
 
-### Academic Chairman
-
-- [Meina SONG](https://baike.baidu.com/item/%E5%AE%8B%E7%BE%8E%E5%A8%9C/4444673) Ph.D, Professor, School of Computer Science, BUPT
-- [Da XIAO](https://scss.bupt.edu.cn/info/1063/1162.htm) 肖达，博士毕业于清华大学计算机科学与技术系，现为北京邮电大学网络空间安全学院讲师，彩云科技首席科学家，集智俱乐部核心成员。目前研究兴趣包括深度学习、人工智能、认知科学。曾在集智俱乐部发起并主持“脑与Deep Learning读书会”、“高级认知Deep Learning读书会”等线下活动。
+- Corresponding Chair （通讯主席）: [Meina SONG](https://baike.baidu.com/item/%E5%AE%8B%E7%BE%8E%E5%A8%9C/4444673) Ph.D, Professor, School of Computer Science, BUPT
+- Academic Chair （学术主席）: [Da XIAO](https://scss.bupt.edu.cn/info/1063/1162.htm) 肖达，博士毕业于清华大学计算机科学与技术系，现为北京邮电大学网络空间安全学院讲师，彩云科技首席科学家，集智俱乐部核心成员。目前研究兴趣包括深度学习、人工智能、认知科学。曾在集智俱乐部发起并主持“脑与Deep Learning读书会”、“高级认知Deep Learning读书会”等线下活动。
+- Industry Chair (产业主席）: [Xin HE](https://ai-ml.club/people/newip/) 贺新，曾工作于千寻位置网络科技有限公司，阿里巴巴（中国），惠普，上海贝尔阿尔卡特等公司。曾任职项目经理、部门经理、资深经理、千寻位置网副总经理。负责过通信OSS研发、High Tech行业应用研发、YunOS系统框架研发、汽车行业经销商业务系统研发等。对软件研发与管理都有深入实战经验。其中DBS项目软件项目通过CMMI5级认证，千寻位置网的北斗魔盒项目获得智能终端墨菲斯奖。
 
 ## CO-FOUNDERS
 
-- @huan - Huan LI (李卓桓), CS Ph.D, BUPT
-- @824zzy - Yuan ZHU (朱正源), Master, BUPT
+- [Huan LI (李卓桓)](https://ai-ml.club/people/huan/), CS Ph.D, BUPT
+- [Zhengyuan ZHU (朱正源)](https://ai-ml.club/people/824zzy/), Master, BUPT
 
 ## Contributors
 
