@@ -8,19 +8,11 @@ Welcome to Artificial Intelligence & Machine Learning CLUB!
 
 Here are all of friends for Code, Paper, and Beers! 🍻
 
-- Paper Index: <https://ai-ml.club/papers>
-- Meetup Announcements & Minutes: <https://ai-ml.club/categories/#events>
-- Newcomer Manual: <https://ai-ml.club/manuals/newcomer/>
-
-## JOIN US 💖
-
 We have weekly offline meetups, you will be welcome to join if you are interested.
 
-Only one step is needed before you join:
-
-1. **Learn how to become a newcomer by reading [Newcomers Manual](https://github.com/BUPT/ai-ml.club/wiki/Newcomer-Manual)**
-
-Then you are set. we are looking forward to see you in the next meetup!
+- Paper Index: <https://ai-ml.club/papers>
+- Meetup Announcements & Minutes: <https://ai-ml.club/categories/#events>
+- Join Us 💖 by reading the **Newcomer Manual**: <https://ai-ml.club/manuals/newcomer/>
 
 ![paper oral](https://bupt.github.io/conversational-ai-club/images/paper-oral-screen.jpg)
 > [第十一次沙龙：朱正源Oral](https://github.com/BUPT/ai-ml.club/issues/28)
