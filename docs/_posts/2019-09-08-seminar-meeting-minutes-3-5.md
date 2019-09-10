@@ -67,7 +67,7 @@ header:
 
   > 分享了论文[A Neural Conversational Model](https://arxiv.org/pdf/1506.05869.pdf)
 
-  ![张璐]({{ '/assets/2019/seminar-3-5/seminar-3-5-talk-23LuZ.jpg'| relative_url }})
+  ![张璐]({{ '/assets/2019/seminar-3-5/seminar-3-5-talk-23Luz.jpg'| relative_url }})
 
   <div class="zoom-container" style="
       position: relative;
