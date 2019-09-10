@@ -1,6 +1,5 @@
 ---
 
-
 title: 第三季5场 AI ML Club 活动纪要
 author: gaojiuy
 date: 2019-09-08 19:00 +0800
@@ -11,9 +10,7 @@ categories:
 tags:
   - 
 header:
-  teaser: /assets/2019/seminar-3-4/joint-photo1.jpg
-
-
+  teaser: /assets/2019/seminar-3-5/seminar-3-5-group-photo.jpg
 ---
 
 << 本次沙龙通知: [#310](https://github.com/BUPT/ai-ml.club/issues/310)  <<
@@ -155,25 +152,17 @@ header:
     ></iframe>
   </di>
 
-
-
 ## 授蛋仪式
-
 
 ![授蛋]({{ '/assets/2019/seminar-3-5/seminar-3-5-chairman-appointment.jpg'| relative_url }})
 
-
 ## 集体合照
-
 
 ![合照]({{ '/assets/2019/seminar-3-5/seminar-3-5-group-photo.jpg' | relative_url }})
 
-
 ## After Party
 
-
 ![AfterParty]({{ '/assets/2019/seminar-3-5/seminar-3-5-after-party.jpg' | relative_url }})
-
 
 ## RSVP
 
