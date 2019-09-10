@@ -60,7 +60,7 @@ header:
     ></iframe>
   </div>
   
-  - 张璐 @[23LuZ](https://github.com/23LuZ)
+ - 张璐 @[23LuZ](https://github.com/23LuZ)
 
   > 分享了论文[A Neural Conversational Model](https://arxiv.org/pdf/1506.05869.pdf)
 
