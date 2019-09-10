@@ -8,19 +8,11 @@ Welcome to Artificial Intelligence & Machine Learning CLUB!
 
 Here are all of friends for Code, Paper, and Beers! 🍻
 
-- Paper Index: <https://ai-ml.club/papers>
-- Meetup Announcements & Minutes: <https://ai-ml.club/categories/#events>
-- Newcomer Manual: <https://ai-ml.club/manuals/newcomer/>
-
-## JOIN US 💖
-
 We have weekly offline meetups, you will be welcome to join if you are interested.
 
-Only one step is needed before you join:
-
-1. **Learn how to become a newcomer by reading [Newcomers Manual](https://github.com/BUPT/ai-ml.club/wiki/Newcomer-Manual)**
-
-Then you are set. we are looking forward to see you in the next meetup!
+- Paper Index: <https://ai-ml.club/papers>
+- Meetup Announcements & Minutes: <https://ai-ml.club/categories/#events>
+- Join Us 💖 by reading the **Newcomer Manual**: <https://ai-ml.club/manuals/newcomer/>
 
 ![paper oral](https://bupt.github.io/conversational-ai-club/images/paper-oral-screen.jpg)
 > [第十一次沙龙：朱正源Oral](https://github.com/BUPT/ai-ml.club/issues/28)
@@ -37,62 +29,12 @@ Then you are set. we are looking forward to see you in the next meetup!
 ![group photo - laker beer](docs/assets/2019/seminar-2-10-group-photo-beer.jpg)
 > [第二季第10次俱乐部 After Party: Beers at Lakers Bar](https://ai-ml.club/events/seminar-meeting-minutes-2-10/)
 
-## CONVERSATIONAL AI TUTORIALS
-
-- [Neural Approaches to Conversational AI, July 8, 2018​](https://www.microsoft.com/en-us/research/publication/neural-approaches-to-conversational-ai/)
-- [2017 Tutorial - Deep Learning for Dialogue Systems](https://www.slideshare.net/mlreview/2017-tutorial-deep-learning-for-dialogue-systems)
-- [An Annotated Reading List of Conversational AI](https://medium.com/gobeyond-ai/a-reading-list-and-mini-survey-of-conversational-ai-32fceea97180)
-
-## CHANLLENGES
-
-- [Dialog System Technology Challenge (DSTC)](https://www.microsoft.com/en-us/research/event/dialog-state-tracking-challenge/)
-- [The Conversational Intelligence Challenge 2 (ConvAI2, NIPS 2018 Competition, ongoing!)](http://convai.io/)
-
-### Deep Learning Tutorials
-
-- [吴恩达老师的深度学习课程笔记及资源](https://github.com/fengdu78/deeplearning_ai_books)
-
-### Reinforcement Learning
-
-- [强化学习从入门到放弃的资料](https://github.com/wwxFromTju/awesome-reinforcement-learning-zh)
-
-### ChatBot Tutorials
-
-- [自己动手做聊天机器人教程](https://github.com/warmheartli/ChatBotCourse)
-- [零基础系列教程：如何开发微信聊天机器人并集成深度人工智能应用](https://github.com/telescopeuser/workshop_blog)
-- [Natural Language Processing is Fun! - How computers understand Human Language](https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e)
-
-## SLIDES
-
-- [Deep Learning for Conversational AI, NAACL 2018 Tutorial, 1st June, 2018. New Orleans, USA.](https://www.poly-ai.com/naacl18)
-- [Deep Learning for Dialogue Systems. COLING 2018 Tutorial](https://sites.google.com/view/deepdial/)
-- [End-to-end Goal-oriented. Question Answering Systems. KDD 2018 Tutorial](https://sites.google.com/view/goal-oriented-qa/)
-- [Speech and Language Processsing. Chapter 25: Conversational Agents. Stanford 2017](https://web.stanford.edu/~jurafsky/slp3/slides/convagents1.pdf)
-
-## NLP
-
-- [Microsoft Natural Language Processing Group](https://www.microsoft.com/en-us/research/group/natural-language-processing/)
-- [Microsoft Research - Conversational Intelligence](https://www.microsoft.com/en-us/research/project/conversational-intelligence/#)
-- [Tracking Progress in Natural Language Processing](https://github.com/sebastianruder/NLP-progress)
-- [NLP Guide](https://nlpguide.github.io)
-- [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)
-
-## PAPERS & CODES
-
-- <https://github.com/ricsinaruto/Seq2seqChatbots/wiki/Chatbot-and-Related-Research-Paper-Notes-with-Images>
-- <https://github.com/nicolas-ivanov/seq2seq_chatbot_links>
-- [Neural Network Dialog System Papers](https://github.com/snakeztc/NeuralDialogPapers)
-
-## DOMAIN
-
-- [.BOT is an identity for bots.](https://www.amazonregistry.com/bot) - Currently, anyone who owns, operates or manages bots published using a supported tool (Amazon Lex, Botkit Studio, Dialogflow, Gupshup, Microsoft Bot Framework, and Pandorabots) can validate a bot and register a .BOT domain name.
-
 ## TOOLS
 
 - [GitXiv — Collaborative Open Computer Science](http://www.gitxiv.com) - arXiv + Github + Links + Discussion
 - [Web interface for browsing, search and filtering recent arxiv submissions](http://www.arxiv-sanity.com/library)
 
-## Blog
+## Development
 
 We are using [GitHub Pages](https://pages.github.com/) to host our blog, powered by [Jekyll] with the nice and flexible two-column Jekyll theme [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/).
 
@@ -137,6 +79,10 @@ apt install imagemagick
 ./scripts/fit-image.sh
 ```
 
+> Or you can use your local picture resize tools to make the file size lower than 200kb.
+> The 1920 * 1080 with 8 bit sRGB is prefered.
+> Also, aware the rules just under this content. The teasor image size should be right of 500 * 300. Resize it before your uploading.
+
 ### VsCode Markdown Linting
 
 ```shell
@@ -156,33 +102,16 @@ Learn more from <https://github.com/DavidAnson/vscode-markdownlint>
       teaser: /assets/2019/my-awesome-post-teaser-500x300.jpg
     ```
 
-## MEMBERS
+## Super Chairs
 
-### Academic Chairman
-
-- [Meina SONG](https://baike.baidu.com/item/%E5%AE%8B%E7%BE%8E%E5%A8%9C/4444673) Ph.D, Professor, School of Computer Science, BUPT
-- [Da XIAO](https://scss.bupt.edu.cn/info/1063/1162.htm) 肖达，博士毕业于清华大学计算机科学与技术系，现为北京邮电大学网络空间安全学院讲师，彩云科技首席科学家，集智俱乐部核心成员。目前研究兴趣包括深度学习、人工智能、认知科学。曾在集智俱乐部发起并主持“脑与Deep Learning读书会”、“高级认知Deep Learning读书会”等线下活动。
-
-### Rotating Chairperson
-
-Chairman or Chairwoman are senior members who volunteered to help the club for managing the AMC seminar.
-
-- AI ML Club Chairperson List: <https://github.com/orgs/BUPT/teams/chairs>
-- Chairpersonal Manual: <https://ai-ml.club/manuals/chair/>
-
-Require any chairperson for helping to add yourself to the chairs team on GitHub if you are a confirmed chairperson. (at least managed one AMC seminar as a rotating chairperson)
-
-### Members
-
-- AI ML Club Member List: <https://github.com/orgs/BUPT/teams/members>
-- Member Manual: <https://ai-ml.club/manuals/member/>
-
-Require any members for helping to add yourself to the member team on GitHub if you are a confirmed member. (at least presented one time at the AMC seminar)
+- Corresponding Chair （通讯主席）: [Meina SONG (宋美娜)](https://baike.baidu.com/item/%E5%AE%8B%E7%BE%8E%E5%A8%9C/4444673) Ph.D, Professor, School of Computer Science, BUPT
+- Academic Chair （学术主席）: [Da XIAO (肖达)](https://scss.bupt.edu.cn/info/1063/1162.htm)，博士毕业于清华大学计算机科学与技术系，现为北京邮电大学网络空间安全学院讲师，彩云科技首席科学家，集智俱乐部核心成员。目前研究兴趣包括深度学习、人工智能、认知科学。曾在集智俱乐部发起并主持“脑与Deep Learning读书会”、“高级认知Deep Learning读书会”等线下活动。
+- Industry Chair (产业主席）: [Xin HE (贺新)](https://ai-ml.club/people/newip/)，曾工作于千寻位置网络科技有限公司，阿里巴巴（中国），惠普，上海贝尔阿尔卡特等公司。曾任职项目经理、部门经理、资深经理、千寻位置网副总经理。负责过通信OSS研发、High Tech行业应用研发、YunOS系统框架研发、汽车行业经销商业务系统研发等。对软件研发与管理都有深入实战经验。其中DBS项目软件项目通过CMMI5级认证，千寻位置网的北斗魔盒项目获得智能终端墨菲斯奖。
 
 ## CO-FOUNDERS
 
-- @huan - Huan LI (李卓桓), CS Ph.D, BUPT
-- @824zzy - Yuan ZHU (朱正源), Master, BUPT
+- [Huan LI (李卓桓)](https://ai-ml.club/people/huan/), CS Ph.D, BUPT
+- [Zhengyuan ZHU (朱正源)](https://ai-ml.club/people/824zzy/), Master, BUPT
 
 ## Contributors
 
