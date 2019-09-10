@@ -1,5 +1,5 @@
-> Please copy/paste the title template from the following line:  
-> 🗣Oral | 📰Poster - Paper Title  
+> Please copy/paste the title template from the following line:
+> 🗣Oral | 📰Poster - Paper Title
 > And delete this part before continue editing your PR
 
 # AMC Seminar Sign Up
@@ -57,7 +57,7 @@ Please fill the following table for the new friend sign up(if any), or delete it
 
 | Referrer | Newcomer  | Bio                    |
 | -------- | --------- | ---------------------- |
-| @member  | @NEWCOMER | ONE_SENTENCE_BIOGRAPHY |
+| @member  | @_NEWCOMER_ | ONE_SENTENCE_BIOGRAPHY |
 
 ----------------
 <sub>
