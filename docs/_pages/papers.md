@@ -31,7 +31,7 @@ We only add paper to this list before we decide to oral/poster it at our AMC sem
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
-| [S3E6](https://ai-ml.club/events/seminar-meeting-minutes-3-6/) | [@hwfan](https://github.com/hwfan) | [Deep Metric Learning: A Frontal Report](https://github.com/deepinsight/insightface; https://github.com/zhunzhong07/ECN) |
+| [S3E6](https://ai-ml.club/events/seminar-meeting-minutes-3-6/) | [@hwfan](https://github.com/hwfan) | [Deep Metric Learning: A Frontal Report](https://arxiv.org/abs/1801.07698) |
 | [S3E5](https://ai-ml.club/events/seminar-meeting-minutes-3-5/) | [@Zecheng](https://github.com/zhanzecheng) | [Yale Semantic Parsing and Text-to-SQL Challenge](https://yale-lily.github.io/spider) |
 | [S3E1](https://ai-ml.club/events/seminar-meeting-minutes-3-1/) | [@initc](https://github.com/initc) | [The Evaluation of Chinese Human-Computer Dialogue Technology,SMP2019-ECDT](http://conference.cipsc.org.cn/smp2019/evaluation.html) |
 |[S3E5](https://ai-ml.club/events/seminar-meeting-minutes-3-5/)|[@23LuZ](https://github.com/23LuZ)|[A Neural Conversational Model](https://arxiv.org/pdf/1506.05869.pdf)|
