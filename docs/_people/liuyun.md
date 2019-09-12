@@ -13,7 +13,7 @@ toc_label: "Author Profile"
 toc_icon: "address-card"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 
-Liu Yun is a First-year  Master student at BUPT, major in Multi-model. 
+Liu Yun is a First-year  Master student at BUPT, major in Multi-model.
 
 ## Research Interest
 
@@ -22,7 +22,6 @@ Liu Yun is a First-year  Master student at BUPT, major in Multi-model.
 - Scene Text Recognition
 
 <!--## Research Projects-->
-
 
 <!--## Open Source Projects-->
 
