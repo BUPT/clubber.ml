@@ -1,5 +1,6 @@
 ---
 
+
 title: 第三季5场 AI ML Club 活动纪要
 author: gaojiuy
 date: 2019-09-08 19:00 +0800
@@ -10,7 +11,9 @@ categories:
 tags:
   - 
 header:
-  teaser: /assets/2019/seminar-3-5/seminar-3-5-group-photo.jpg
+  teaser: /assets/2019/seminar-3-5/t-photo.jpg
+
+
 ---
 
 << 本次沙龙通知: [#310](https://github.com/BUPT/ai-ml.club/issues/310)  <<
@@ -34,7 +37,7 @@ header:
 
   > 分享了论文[Spider: A Large-Scale Human-Labeled Dataset for Complex and Cross-Domain Semantic Parsing and Text-to-SQL Task](https://arxiv.org/pdf/1809.08887.pdf)
 
-  ![詹泽诚]({{ '/assets/2019/seminar-3-5/seminar-3-5-talk-zhanzecheng.jpg'| relative_url }})
+  ![詹泽诚]({{ '/assets/2019/seminar-3-5/seminar-3-5-talk-zhangzecheng.jpg'| relative_url }})
 
   <div class="zoom-container" style="
       position: relative;
@@ -44,7 +47,7 @@ header:
       overflow:hidden;
   ">
     <iframe
-      src='{{ '/assets/js/viewer-js/#https://arxiv.org/pdf/1809.08887.pdf' | relative_url }}'
+      src='{{ '/assets/js/viewer-js/#https://github.com/BUPT/ai-ml.club/tree/master/docs/assets/2019/seminar-3-5/seminar-3-5-nl2sql.pdf' | relative_url }}'
       width='560'
       height='315'
       allowfullscreen
@@ -74,7 +77,7 @@ header:
       overflow:hidden;
   ">
     <iframe
-      src='{{ '/assets/js/viewer-js/#https://arxiv.org/pdf/1506.05869.pdf' | relative_url }}'
+      src='{{ '/assets/js/viewer-js/#https://github.com/BUPT/ai-ml.club/tree/master/docs/assets/2019/seminar-3-5/seminar-3-5-basic-conversational-model' | relative_url }}'
       width='560'
       height='315'
       allowfullscreen
@@ -106,7 +109,7 @@ header:
       overflow:hidden;
   ">
     <iframe
-      src='{{ '/assets/js/viewer-js/#https://arxiv.org/pdf/1703.01365.pdf' | relative_url }}'
+      src='{{ '/assets/js/viewer-js/#https://github.com/BUPT/ai-ml.club/tree/master/docs/assets/2019/seminar-3-5/seminar-3-5-integrad' | relative_url }}'
       width='560'
       height='315'
       allowfullscreen
@@ -128,17 +131,49 @@ header:
 
   ![李卓桓]({{ '/assets/2019/seminar-3-5/seminar-3-5-talk-huan.jpg'| relative_url }})
 
+  <div class="zoom-container" style="
+      position: relative;
+      padding-bottom:56.25%;
+      padding-top:30px;
+      height:0;
+      overflow:hidden;
+  ">
+    <iframe
+      src='{{ '/assets/js/viewer-js/#https://towardsdatascience.com/pre-training-bert-from-scratch-with-cloud-tpu-6e2f71028379' | relative_url }}'
+      width='560'
+      height='315'
+      allowfullscreen
+      webkitallowfullscreen
+      frameborder="0"
+      style="
+        position: absolute;
+        top:0;
+        left:0;
+        width:100%;
+        height:100%;
+      "
+    ></iframe>
+  </di>
+
+
+
 ## 授蛋仪式
+
 
 ![授蛋]({{ '/assets/2019/seminar-3-5/seminar-3-5-chairman-appointment.jpg'| relative_url }})
 
+
 ## 集体合照
+
 
 ![合照]({{ '/assets/2019/seminar-3-5/seminar-3-5-group-photo.jpg' | relative_url }})
 
+
 ## After Party
 
+
 ![AfterParty]({{ '/assets/2019/seminar-3-5/seminar-3-5-after-party.jpg' | relative_url }})
+
 
 ## RSVP
 
