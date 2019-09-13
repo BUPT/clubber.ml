@@ -10,7 +10,7 @@ categories:
 tags:
   - 
 header:
-  teaser: /assets/2019/seminar-3-5/seminar-3-5-group-photo.jpg
+  teaser: /assets/2019/seminar-3-5/t-photo.jpg
 ---
 
 << 本次沙龙通知: [#310](https://github.com/BUPT/ai-ml.club/issues/310)  <<
@@ -44,7 +44,7 @@ header:
       overflow:hidden;
   ">
     <iframe
-      src='{{ '/assets/js/viewer-js/#https://arxiv.org/pdf/1809.08887.pdf' | relative_url }}'
+      src='{{ '/assets/js/viewer-js/#https://github.com/BUPT/ai-ml.club/tree/master/docs/assets/2019/seminar-3-5/seminar-3-5-nl2sql.pdf' | relative_url }}'
       width='560'
       height='315'
       allowfullscreen
@@ -74,7 +74,7 @@ header:
       overflow:hidden;
   ">
     <iframe
-      src='{{ '/assets/js/viewer-js/#https://arxiv.org/pdf/1506.05869.pdf' | relative_url }}'
+      src='{{ '/assets/js/viewer-js/#https://github.com/BUPT/ai-ml.club/blob/master/docs/assets/2019/seminar-3-5/seminar-3-5-basic-bonversational-model.pdf' | relative_url }}'
       width='560'
       height='315'
       allowfullscreen
@@ -106,7 +106,7 @@ header:
       overflow:hidden;
   ">
     <iframe
-      src='{{ '/assets/js/viewer-js/#https://arxiv.org/pdf/1703.01365.pdf' | relative_url }}'
+      src='{{ '/assets/js/viewer-js/#https://github.com/BUPT/ai-ml.club/blob/master/docs/assets/2019/seminar-3-5/seminar-3-5-integrad.pdf' | relative_url }}'
       width='560'
       height='315'
       allowfullscreen
