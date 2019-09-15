@@ -31,6 +31,7 @@ We only add paper to this list before we decide to oral/poster it at our AMC sem
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
+| [S3E6](https://ai-ml.club/events/seminar-meeting-minutes-3-6/) | [@ArronHZG](https://github.com/ArronHZG) | [Expectation-Maximization Attention Networks for Semantic Segmentation](https://arxiv.org/abs/1907.13426) |
 | [S3E5](https://ai-ml.club/events/seminar-meeting-minutes-3-5/) | [@Zecheng](https://github.com/zhanzecheng) | [Yale Semantic Parsing and Text-to-SQL Challenge](https://yale-lily.github.io/spider) |
 | [S3E1](https://ai-ml.club/events/seminar-meeting-minutes-3-1/) | [@initc](https://github.com/initc) | [The Evaluation of Chinese Human-Computer Dialogue Technology,SMP2019-ECDT](http://conference.cipsc.org.cn/smp2019/evaluation.html) |
 |[S3E5](https://ai-ml.club/events/seminar-meeting-minutes-3-5/)|[@23LuZ](https://github.com/23LuZ)|[A Neural Conversational Model](https://arxiv.org/pdf/1506.05869.pdf)|
