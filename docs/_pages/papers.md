@@ -39,7 +39,9 @@ We only add paper to this list before we decide to oral/poster it at our AMC sem
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
-| [S3E6](https://ai-ml.club/events/seminar-meeting-minutes-3-6/) | [@yun](https://github.com/fuyunfuyun666) | [Multi-task Learning of Hierarchical Vision-Language Representation](https://arxiv.org/pdf/1812.00500.pdf) |
+| [S3E6](https://ai-ml.club/events/seminar-meeting-minutes-3-6/) | [@fuyunfuyun666](https://github.com/fuyunfuyun666) | [Multi-task Learning of Hierarchical Vision-Language Representation](https://arxiv.org/pdf/1812.00500.pdf) |
+| [S3E6](https://ai-ml.club/events/seminar-meeting-minutes-3-6/) | [@23LuZ](https://github.com/23LuZ) | [Neural Responding Machine for Short-Text Conversation](https://www.aclweb.org/anthology/P15-1152) |
+| [S3E6](https://ai-ml.club/events/seminar-meeting-minutes-3-6/) | [@huan](https://github.com/huan) | [Tensorflow 2.0 with TPU](https://github.com/huan/tensorflow-handbook-tpu) |
 | [S3E5](https://ai-ml.club/events/seminar-meeting-minutes-3-5/) | [@huan](https://github.com/huan) | [Pre-training BERT from scratch with cloud TPU](https://towardsdatascience.com/pre-training-bert-from-scratch-with-cloud-tpu-6e2f71028379) |
 | [S3E4](https://ai-ml.club/events/seminar-meeting-minutes-3-4/) | [@newip](https://github.com/newip) | [Segmentation of retinal fluid based on deep learning: application of three-dimensional fully convolutional neural networks in optical coherence tomography images](http://www.ijo.cn/gjyken/ch/reader/view_abstract.aspx?file_no=20190622&flag=1) |
 | [S3E4](https://ai-ml.club/events/seminar-meeting-minutes-3-4/) | [@gaojiuy](https://github.com/gaojiuy) | [Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps](https://arxiv.org/pdf/1312.6034.pdf) |
