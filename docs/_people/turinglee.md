@@ -1,5 +1,4 @@
 ---
-
 layout: author
 title: "Turing Lee(李童俊)"
 header:
@@ -13,19 +12,22 @@ toc_label: "Author Profile"
 toc_icon: "address-card" 
 ---
 
-Turing Lee is a Master graduated from BUPT, major in Artificial Intelligence . 
+Turing Lee is a Master graduated from BUPT, major in Artificial Intelligence.
 
 ## Research Interest
 
-- Machine Reading Comprehension 
+- Machine Reading Comprehension
 - Natural Language Processing
 - Personal Digital Assistant (Like Jarvis.)
 
 ## Research Projects
+
 - will be added later.
 
 ## Open Source Projects
+
 - will be added later.
+
 ## Contact
 
 - Github: <https://github.com/TuringLee>
