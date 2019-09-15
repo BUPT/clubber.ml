@@ -1,4 +1,4 @@
- # /_data/authors.yml
+﻿ # /_data/authors.yml
 
 huan:
   name       : "Huan LI (李卓桓)"
@@ -97,12 +97,16 @@ linbo0518:
 
 fuyunfuyun666:
   name        : "刘云"
-  bio         : "真的很不错哦"
+  bio         : "开合之道，张弛有度"
   avatar      : "https://avatars1.githubusercontent.com/u/42915208?s=400&u=c1ad7ea34603b95207f3f59391db4402c2d57d6d&v=4"
+  membership  : 'member'
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/fuyunfuyun666"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:1530176037@qq.com"
 
 Chen-Dixi:
   name        : "陈帝羲"
