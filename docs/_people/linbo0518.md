@@ -2,13 +2,8 @@
 title: "Leon Lin (林博)"
 layout: author
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/amc-banner.jpg
-#   actions:
-#     - label: "Download"
-#       url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: [**buguroo**](https://www.buguroo.com/en/blog/topic/ai)"
+  overlay_image: /assets/people/linbo0518/linbo0518-bg.jpg
+  caption: "Poly Lakeside"
 excerpt: "Computer Vision"
 author: linbo0518
 toc: true
@@ -17,7 +12,9 @@ toc_label: "Author Profile"
 toc_icon: "address-card"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 
-Lin is a third year Master student at BUPT, major in Computer Vision, Deep Learning and Machine Learning
+Leon is currently a third-year master student at Beijing University of Posts and Telecommunications. Before coming to BUPT, he obtained his bachelor degree from Nanjing University of Science and Technology.
+
+Leon's interests are computer vision, deep learning, and machine learning.
 
 ## Open Source Projects
 

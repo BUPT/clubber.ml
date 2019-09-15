@@ -17,8 +17,8 @@ toc_icon: "tasks"  # corresponding Font Awesome icon name (without fa prefix)
 
 ## Newbie
 
-1. Add yourself to `docs/_authors.yml`, use your `github_username` in lowercase, and set `membership` to `member`
-1. Create your member profile page in `docs/_members/${github_username}.md`
+1. Add yourself to `docs/_data/authors.yml`, use your `github_username` in lowercase, and set `membership` to `member`
+1. Create your member profile page in `docs/_people/${github_username}.md`
 
 ## Todo List
 
@@ -31,6 +31,10 @@ toc_icon: "tasks"  # corresponding Font Awesome icon name (without fa prefix)
     2. Poster为 5 -10 min ，不得超过 15 min（包括 Q/A 时间）。要求：在**规定时间**内，对论文的主要**创新点**进行清晰的解读
     3. 守时：**严格控制**论文介绍时间
 6. 如果有代码需要演示，尽量将代码添加到Colab方便大家查阅和运行。AMC 成员共享的 Colab Jupter Notebook 地址： <https://colab.research.google.com/drive/1AO3bwIgzfy63ty8OSSgUPRG1PIii3oo_> （访问前请提供自己的Google账号给轮值主席申请权限）
+
+## 远程参会
+
+Welcome to join us by at [Zoom Meeting Room](https://ai-ml.club/zoom/)
 
 ## 相关链接
 

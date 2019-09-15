@@ -20,18 +20,55 @@ toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 
 We only add paper to this list before we decide to oral/poster it at our AMC seminar.
 
+## AMC Season 3
+
+| Season  | 3      |
+| ------- | ------ |
+| Episode | 1 - 20EST |
+| Date    | 11 August 2019 - 2020 |
+
+### Orals (Season 3)
+
+| Seminar | Member | Paper |
+| ------- | ------ | ----- |
+| [S3E6](https://ai-ml.club/events/seminar-meeting-minutes-3-6/) | [@hwfan](https://github.com/hwfan) | [Deep Metric Learning](https://arxiv.org/abs/1801.07698)[: A Frontal Report](https://arxiv.org/abs/1904.01990)|
+| [S3E6](https://ai-ml.club/events/seminar-meeting-minutes-3-6/) | [@ArronHZG](https://github.com/ArronHZG) | [Expectation-Maximization Attention Networks for Semantic Segmentation](https://arxiv.org/abs/1907.13426) |
+| [S3E5](https://ai-ml.club/events/seminar-meeting-minutes-3-5/) | [@Zecheng](https://github.com/zhanzecheng) | [Yale Semantic Parsing and Text-to-SQL Challenge](https://yale-lily.github.io/spider) |
+| [S3E1](https://ai-ml.club/events/seminar-meeting-minutes-3-1/) | [@initc](https://github.com/initc) | [The Evaluation of Chinese Human-Computer Dialogue Technology,SMP2019-ECDT](http://conference.cipsc.org.cn/smp2019/evaluation.html) |
+|[S3E5](https://ai-ml.club/events/seminar-meeting-minutes-3-5/)|[@23LuZ](https://github.com/23LuZ)|[A Neural Conversational Model](https://arxiv.org/pdf/1506.05869.pdf)|
+
+### Posters (Season 3)
+
+| Seminar | Member | Paper |
+| ------- | ------ | ----- |
+| [S3E6](https://ai-ml.club/events/seminar-meeting-minutes-3-6/) | [@fuyunfuyun666](https://github.com/fuyunfuyun666) | [Multi-task Learning of Hierarchical Vision-Language Representation](https://arxiv.org/pdf/1812.00500.pdf) |
+| [S3E6](https://ai-ml.club/events/seminar-meeting-minutes-3-6/) | [@23LuZ](https://github.com/23LuZ) | [Neural Responding Machine for Short-Text Conversation](https://www.aclweb.org/anthology/P15-1152) |
+| [S3E6](https://ai-ml.club/events/seminar-meeting-minutes-3-6/) | [@huan](https://github.com/huan) | [Tensorflow 2.0 with TPU](https://github.com/huan/tensorflow-handbook-tpu) |
+| [S3E5](https://ai-ml.club/events/seminar-meeting-minutes-3-5/) | [@huan](https://github.com/huan) | [Pre-training BERT from scratch with cloud TPU](https://towardsdatascience.com/pre-training-bert-from-scratch-with-cloud-tpu-6e2f71028379) |
+| [S3E4](https://ai-ml.club/events/seminar-meeting-minutes-3-4/) | [@newip](https://github.com/newip) | [Segmentation of retinal fluid based on deep learning: application of three-dimensional fully convolutional neural networks in optical coherence tomography images](http://www.ijo.cn/gjyken/ch/reader/view_abstract.aspx?file_no=20190622&flag=1) |
+| [S3E4](https://ai-ml.club/events/seminar-meeting-minutes-3-4/) | [@gaojiuy](https://github.com/gaojiuy) | [Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps](https://arxiv.org/pdf/1312.6034.pdf) |
+| [S3E3](https://ai-ml.club/events/seminar-meeting-minutes-3-3/) | [@ArronHZG](https://github.com/ArronHZG) | [Dual Attention Network for Scene Segmentation](https://arxiv.org/abs/1809.02983) |
+| [S3E3](https://ai-ml.club/events/seminar-meeting-minutes-3-3/) | [@gaojiuy](https://github.com/gaojiuy) | [Visualizing and Understanding Convolutional Networks](https://arxiv.org/pdf/1311.2901.pdf) |
+| [S3E3](https://ai-ml.club/events/seminar-meeting-minutes-3-3/) | [@tabZhang](https://github.com/ltg001) | [Chinese NER Using Lattice LSTM](https://arxiv.org/pdf/1805.02023.pdf) |  
+| [S3E3](https://ai-ml.club/events/seminar-meeting-minutes-3-3/) | [@vdeamov](https://github.com/vdeamov) | [Learning to Propagate Labels-Transductive Propagation Network for Few-Shot Learning](https://arxiv.org/pdf/1805.10002) |
+| [S3E3](https://ai-ml.club/events/seminar-meeting-minutes-3-3/) | [@secortot](https://github.com/secortot) | [Feature Selective Anchor-Free Module for Single-Shot Object Detection](https://arxiv.org/abs/1903.00621) |
+| [S3E1](https://ai-ml.club/events/seminar-meeting-minutes-3-1/) | [@newip](https://github.com/newip) | [Clinically applicable deep learning for diagnosis and referral in retinal disease](https://www.nature.com/articles/s41591-018-0107-6) |
+| [S3E1](https://ai-ml.club/events/seminar-meeting-minutes-3-1/) | [@qhduan](https://github.com/qhduan) | [如何把博客图谱变成问答机器人](https://deepdialog.github.io/blog/ai-ml-kg-bot/) |
+| [S3E1](https://ai-ml.club/events/seminar-meeting-minutes-3-1/) | [@cgpeter96](https://github.com/cgpeter96) | [Deep Sets](http://papers.nips.cc/paper/6931-deep-sets) |
+
+-----
+
 ## AMC Season 2
 
-| Season  | 2         |
-| ------- | --------- |
-| Episode | 1 - 24EST |
-| Date    | 3 March 2019 - ? ? 2019|
+| Season  | 2      |
+| ------- | ------ |
+| Episode | 1 - 20 |
+| Date    | 3 March 2019 - 21 July 2019|
 
 ### Orals (Season 2)
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
-| [S2E20](https://ai-ml.club/events/seminar-meeting-minutes-2-20/) | [@initc](https://github.com/initc) | [The Evaluation of Chinese Human-Computer Dialogue Technology,SMP2019-ECDT](http://conference.cipsc.org.cn/smp2019/evaluation.html) |
 | [S2E18](https://ai-ml.club/events/seminar-meeting-minutes-2-18/) | [@824zzy](https://github.com/824zzy) | [The combination of NLP and Quantitative Investment](https://github.com/824zzy/Quantitative_Model_v3.1) |
 | [S2E16](https://ai-ml.club/events/seminar-meeting-minutes-2-16/) | [@ArronHZG](https://github.com/ArronHZG) | [语义分割综述](https://blog.csdn.net/Arron_hou/article/details/94134049) |
 | [S2E15](https://ai-ml.club/events/seminar-meeting-minutes-2-15/) | [@linbo0518](https://github.com/linbo0518) | [Dive into NN: Theory, Architecture and Initialization](https://github.com/linbo0518/Dive-into-NN) |
@@ -112,6 +149,8 @@ We only add paper to this list before we decide to oral/poster it at our AMC sem
 | [S2E02](https://ai-ml.club/events/seminar-meeting-minutes-2-2) |  [@CyFeng16](https://github.com/CyFeng16)  | [TF2.0使用心法](https://tensorflow.org) |
 | [S2E02](https://ai-ml.club/events/seminar-meeting-minutes-2-2) |  [@cgpeter96](https://github.com/cgpeter96)  | [图神经网络工具DGL介绍](https://docs.dgl.ai/#get-started) |
 | [S2E01](https://ai-ml.club/events/seminar-meeting-minutes-2-1) |  [@cgpeter96](https://github.com/cgpeter96) | [Learning Semantic Concepts and Order for Image and Sentence Matching, Huang et. al, 2018](https://arxiv.org/abs/1712.02036) |
+
+-----
 
 ## AMC Season 1
 
