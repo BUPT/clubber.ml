@@ -77,7 +77,7 @@ header:
       overflow:hidden;
   ">
     <iframe
-      src='{{ '/assets/js/viewer-js/#https://github.com/BUPT/ai-ml.club/raw/master/docs/assets/2019/seminar-3-4/20190622-otc-paper.pdf' | relative_url }}'
+      src='{{ '/assets/js/viewer-js/' | relative_url }}#{{ '/assets/2019/seminar-3-4/20190622-otc-paper.pdf' | relative_url }}'
       width='560'
       height='315'
       allowfullscreen
