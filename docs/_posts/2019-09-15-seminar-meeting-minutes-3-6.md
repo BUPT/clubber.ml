@@ -185,9 +185,9 @@ header:
   Encoder-Decoder 结构
   Local/Global/Global-Local 三种分类
       
-    [Neural Responding Machine for Short-Text Conversation](https://www.aclweb.org/anthology/P15-1152)
+  [Neural Responding Machine for Short-Text Conversation](https://www.aclweb.org/anthology/P15-1152)
       
-    ![张璐]({{ '/assets/2019/seminar-3-6/seminar-3-6-23luz.jpg'| relative_url }})
+  ![张璐]({{ '/assets/2019/seminar-3-6/seminar-3-6-23luz.jpg'| relative_url }})
 
   <div class="zoom-container" style="
       position: relative;
