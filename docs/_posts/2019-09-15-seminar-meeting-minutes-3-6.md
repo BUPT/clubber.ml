@@ -32,17 +32,17 @@ header:
 - 范弘炜 @[hwfan](https://github.com/hwfan)
 
    >度量学习：监督与非监督
-    监督学习 ArcFace 比 TripletLoss 的优势在于模长的归一化
-    实验结果表明这样做对精度是有提升的，一个分析是可以避免由于模长过大带来的 target logit 值的不均匀分布,结束了 LFW 比赛
-    MegaFace 得分很高，也几乎终结了比赛
+   >监督学习 ArcFace 比 TripletLoss 的优势在于模长的归一化
+   >实验结果表明这样做对精度是有提升的，一个分析是可以避免由于模长过大带来的 target logit 值的不均匀分布,结束了 LFW 比赛
+   >MegaFace 得分很高，也几乎终结了比赛
     
    >非监督学习 ECN
-    现有的数据集在量级上非常 Naïve，因此需要通过相对多的有标记数据辅助少的无标记数据
-    学习无监督的典型方法类似于聚类
-    Exemplar Neighbor→聚类
-    Cam→跨摄像头
-    实际上是两个学习途径同时进行
-    实验结果达到了无监督 ReID 的 SOTA
+   >现有的数据集在量级上非常 Naïve，因此需要通过相对多的有标记数据辅助少的无标记数据
+   >学习无监督的典型方法类似于聚类
+   >Exemplar Neighbor→聚类
+   >Cam→跨摄像头
+   >际上是两个学习途径同时进行
+   >实验结果达到了无监督 ReID 的 SOTA
 
   [ArcFace: Additive Angular Margin Loss for Deep Face Recognition](https://arxiv.org/abs/1801.07698)  and [Invariance Matters: Exemplar Memory for Domain Adaptive Person Re-identification](https://arxiv.org/abs/1904.01990)
   GitHub: https://github.com/deepinsight/insightface; https://github.com/zhunzhong07/ECN
@@ -76,14 +76,14 @@ header:
 - 侯正罡 @[ArronHZG](https://github.com/ArronHZG)
 
   >语义分割中的 Attention 机制
-    一作李夏，北大林宙辰组，本科北邮
-    Attention 机制的分析：实际上是自相关，通过自相关对信息进行加权，关心自相关程度更大的信息。外壳结构类似于 Bottleneck。
-    参数学习：EM 算法，提取特征的部分已经 pretrained 过，本质上是一个 Post-processing 的过程。
-    通过实验表明了学习得到的基向量具有代表性，数量少，且互不相似，对语义分割的去噪有明显的帮助。
-    传统方法与 DL 结合的一个案例。
+  >一作李夏，北大林宙辰组，本科北邮
+  >Attention 机制的分析：实际上是自相关，通过自相关对信息进行加权，关心自相关程度更大的信息。外壳结构类似于 Bottleneck。
+  >参数学习：EM 算法，提取特征的部分已经 pretrained 过，本质上是一个 Post-processing 的过程。
+  >通过实验表明了学习得到的基向量具有代表性，数量少，且互不相似，对语义分割的去噪有明显的帮助。
+  >传统方法与 DL 结合的一个案例。
   
   [Expectation Maximization Attention Networks for Semantic Segmentation](https://arxiv.org/abs/1907.13426)
-  Github:https://xialipku.github.io/EMANet
+  [Github](https://xialipku.github.io/EMANet)
     
   ![侯正罡]({{ '/assets/2019/seminar-3-6/seminar-3-6-arron.jpg'| relative_url }})
 
@@ -117,13 +117,13 @@ header:
 - 刘云 @[fuyunfuyun666](https://github.com/fuyunfuyun666)
   
   >多模态问题的通用结构
-    2 3 5 层解决不同问题，每层是一个类 Res-Block 结构，表示从低级语义到高级语义。
-    通过实验探究了联合学习时几层 Res-Block 对问题最有帮助。
-    但实验性过强，并没有解释结果在不同问题的语义高低方面的启示（数据处理原理，越到高层互信息越少），略显遗憾。
-  
-     [Multi-task Learning of Hierarchical Vision-Language Representation](https://arxiv.org/pdf/1812.00500.pdf)
+  >2 3 5 层解决不同问题，每层是一个类 Res-Block 结构，表示从低级语义到高级语义。
+  >通过实验探究了联合学习时几层 Res-Block 对问题最有帮助。
+  >但实验性过强，并没有解释结果在不同问题的语义高低方面的启示（数据处理原理，越到高层互信息越少），略显遗憾。
+
+  [Multi-task Learning of Hierarchical Vision-Language Representation](https://arxiv.org/pdf/1812.00500.pdf)
       
-    ![刘云]({{ '/assets/2019/seminar-3-6/seminar-3-6-liuyun.jpg'| relative_url }})
+  ![刘云]({{ '/assets/2019/seminar-3-6/seminar-3-6-liuyun.jpg'| relative_url }})
 
   <div class="zoom-container" style="
       position: relative;
@@ -151,10 +151,10 @@ header:
     
 - 李卓桓 @[huan](https://github.com/huan)
   
-    > TPU 的应用案例: [使用 TPU 训练 TensorFlow 模型（Huan）](https://www.zixia.net/tensorflow-handbook-tpu/)，帮助快速进行大规模训练
-      可能可以申请到2500刀的资源。
+  >TPU 的应用案例: [使用 TPU 训练 TensorFlow 模型（Huan）](https://www.zixia.net/tensorflow-handbook-tpu/)，帮助快速进行大规模训练
+  >可能可以申请到2500刀的资源。
        
-    ![李卓桓]({{ '/assets/2019/seminar-3-6/seminar-3-6-huan.jpg'| relative_url }})
+  ![李卓桓]({{ '/assets/2019/seminar-3-6/seminar-3-6-huan.jpg'| relative_url }})
 
   <div class="zoom-container" style="
       position: relative;
@@ -182,8 +182,8 @@ header:
 
 - 张璐 @[23LuZ ](https://github.com/23LuZ)
   >语言中的注意力机制
-  Encoder-Decoder 结构
-  Local/Global/Global-Local 三种分类
+  >Encoder-Decoder 结构
+  >Local/Global/Global-Local 三种分类
       
   [Neural Responding Machine for Short-Text Conversation](https://www.aclweb.org/anthology/P15-1152)
       
