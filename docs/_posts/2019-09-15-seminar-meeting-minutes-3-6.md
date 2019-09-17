@@ -95,7 +95,7 @@ header:
       overflow:hidden;
   ">
     <iframe
-      src='{{ '/assets/js/viewer-js/' | relative_url }}#{{ '/assets/2019/seminar-3-6/1907-13426--emanet.pdf' | relative_url }}'
+      src='{{ '/assets/js/viewer-js/' | relative_url }}#{{ '/assets/2019/seminar-3-6/em.pdf' | relative_url }}'
       width='560'
       height='315'
       allowfullscreen
@@ -124,60 +124,12 @@ header:
 
   ![刘云]({{ '/assets/2019/seminar-3-6/seminar-3-6-liuyun.jpg'| relative_url }})
 
-  <div class="zoom-container" style="
-      position: relative;
-      padding-bottom:56.25%;
-      padding-top:30px;
-      height:0;
-      overflow:hidden;
-  ">
-    <iframe
-      src='{{ '/assets/js/viewer-js/#/assets/2019/seminar-3-6/1812-00500-multi-task.pdf' | relative_url }}'
-      width='560'
-      height='315'
-      allowfullscreen
-      webkitallowfullscreen
-      frameborder="0"
-      style="
-        position: absolute;
-        top:0;
-        left:0;
-        width:100%;
-        height:100%;
-      "
-    ></iframe>
-  </div>
-
 - 李卓桓 @[huan](https://github.com/huan)
   
   >TPU 的应用案例: [使用 TPU 训练 TensorFlow 模型（Huan）](https://www.zixia.net/tensorflow-handbook-tpu/)，帮助快速进行大规模训练
   >可能可以申请到2500刀的资源。
 
   ![李卓桓]({{ '/assets/2019/seminar-3-6/seminar-3-6-huan.jpg'| relative_url }})
-
-  <div class="zoom-container" style="
-      position: relative;
-      padding-bottom:56.25%;
-      padding-top:30px;
-      height:0;
-      overflow:hidden;
-  ">
-    <iframe
-      src='{{ '/assets/js/viewer-js/#/assets/2019/seminar-3-6/tensorflow-handbook-tpu.pdf' | relative_url }}'
-      width='560'
-      height='315'
-      allowfullscreen
-      webkitallowfullscreen
-      frameborder="0"
-      style="
-        position: absolute;
-        top:0;
-        left:0;
-        width:100%;
-        height:100%;
-      "
-    ></iframe>
-  </div>
 
 - 张璐 @[23LuZ](https://github.com/23LuZ)
   >语言中的注意力机制
@@ -187,30 +139,6 @@ header:
   [Neural Responding Machine for Short-Text Conversation](https://www.aclweb.org/anthology/P15-1152)
 
   ![张璐]({{ '/assets/2019/seminar-3-6/seminar-3-6-23luz.jpg'| relative_url }})
-
-  <div class="zoom-container" style="
-      position: relative;
-      padding-bottom:56.25%;
-      padding-top:30px;
-      height:0;
-      overflow:hidden;
-  ">
-    <iframe
-      src='{{ '/assets/js/viewer-js/#/assets/2019/seminar-3-6/neural-responding-machine-for-short-text-conversation.pdf' | relative_url }}'
-      width='560'
-      height='315'
-      allowfullscreen
-      webkitallowfullscreen
-      frameborder="0"
-      style="
-        position: absolute;
-        top:0;
-        left:0;
-        width:100%;
-        height:100%;
-      "
-    ></iframe>
-  </div>
 
 ## 授蛋仪式
 
@@ -223,13 +151,17 @@ NLP 授蛋仪式
 ## 集体合照
 
 ![合照]({{ '/assets/2019/seminar-3-6/seminar-3-6-group-photo.jpg' | relative_url }})
+ >AMC专门定制了限量粉色版本的 AMC 套头衫, 专门作为礼物送给了宋老师作为教师节礼物, 期待以后宋老师穿着AMC套头衫来 AMC 给大家指导.
+
+![合照]({{ '/assets/2019/seminar-3-6/seminar-3-6-amc-with-boss.jpg' | relative_url }})
 
 ## 俱乐部讨论内容
 
 1. 惯性的时间控制需要每一届主席持续把控
 2. 如果预期讨论过多的poster可以当成oral申报，poster主要还是集中在论文的某一个点讲清楚。
 3. Zoom链接和视频录制正式上线，[入口地址:https://ai-ml.club/zoom/](https://ai-ml.club/zoom/)。
-4. 下一任主席为陈光，下一任副主席为段清华。
+4. AMC(CV) Chairs:Chair: 段嘉明 Vice-chair: 刘云
+5. AMC(NLP) Chairs:Chair: 李卓桓 Vice-chair: 张璐
 
 ## After Party
 
