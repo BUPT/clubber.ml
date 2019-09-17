@@ -31,6 +31,8 @@ We only add paper to this list before we decide to oral/poster it at our AMC sem
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
+| [S3E6](https://ai-ml.club/events/seminar-meeting-minutes-3-6/) | [@hwfan](https://github.com/hwfan) | [Deep Metric Learning](https://arxiv.org/abs/1801.07698)[: A Frontal Report](https://arxiv.org/abs/1904.01990)|
+| [S3E6](https://ai-ml.club/events/seminar-meeting-minutes-3-6/) | [@ArronHZG](https://github.com/ArronHZG) | [Expectation-Maximization Attention Networks for Semantic Segmentation](https://arxiv.org/abs/1907.13426) |
 | [S3E5](https://ai-ml.club/events/seminar-meeting-minutes-3-5/) | [@Zecheng](https://github.com/zhanzecheng) | [Yale Semantic Parsing and Text-to-SQL Challenge](https://yale-lily.github.io/spider) |
 | [S3E1](https://ai-ml.club/events/seminar-meeting-minutes-3-1/) | [@initc](https://github.com/initc) | [The Evaluation of Chinese Human-Computer Dialogue Technology,SMP2019-ECDT](http://conference.cipsc.org.cn/smp2019/evaluation.html) |
 |[S3E5](https://ai-ml.club/events/seminar-meeting-minutes-3-5/)|[@23LuZ](https://github.com/23LuZ)|[A Neural Conversational Model](https://arxiv.org/pdf/1506.05869.pdf)|
@@ -39,6 +41,7 @@ We only add paper to this list before we decide to oral/poster it at our AMC sem
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
+| [S3E6](https://ai-ml.club/events/seminar-meeting-minutes-3-6/) | [@fuyunfuyun666](https://github.com/fuyunfuyun666) | [Multi-task Learning of Hierarchical Vision-Language Representation](https://arxiv.org/pdf/1812.00500.pdf) |
 | [S3E6](https://ai-ml.club/events/seminar-meeting-minutes-3-6/) | [@23LuZ](https://github.com/23LuZ) | [Neural Responding Machine for Short-Text Conversation](https://www.aclweb.org/anthology/P15-1152) |
 | [S3E6](https://ai-ml.club/events/seminar-meeting-minutes-3-6/) | [@huan](https://github.com/huan) | [Tensorflow 2.0 with TPU](https://github.com/huan/tensorflow-handbook-tpu) |
 | [S3E5](https://ai-ml.club/events/seminar-meeting-minutes-3-5/) | [@huan](https://github.com/huan) | [Pre-training BERT from scratch with cloud TPU](https://towardsdatascience.com/pre-training-bert-from-scratch-with-cloud-tpu-6e2f71028379) |
