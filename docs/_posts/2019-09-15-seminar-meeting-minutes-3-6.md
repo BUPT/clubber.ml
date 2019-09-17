@@ -35,7 +35,6 @@ header:
    >监督学习 ArcFace 比 TripletLoss 的优势在于模长的归一化
    >实验结果表明这样做对精度是有提升的，一个分析是可以避免由于模长过大带来的 target logit 值的不均匀分布,结束了 LFW 比赛
    >MegaFace 得分很高，也几乎终结了比赛
-    
    >非监督学习 ECN
    >现有的数据集在量级上非常 Naïve，因此需要通过相对多的有标记数据辅助少的无标记数据
    >学习无监督的典型方法类似于聚类
@@ -45,7 +44,8 @@ header:
    >实验结果达到了无监督 ReID 的 SOTA
 
   [ArcFace: Additive Angular Margin Loss for Deep Face Recognition](https://arxiv.org/abs/1801.07698)  and [Invariance Matters: Exemplar Memory for Domain Adaptive Person Re-identification](https://arxiv.org/abs/1904.01990)
-  GitHub: https://github.com/deepinsight/insightface; https://github.com/zhunzhong07/ECN
+  [GitHub insightface](https://github.com/deepinsight/insightface)
+  [GitHub ECN](https://github.com/zhunzhong07/ECN)
 
     ![范弘炜]({{ '/assets/2019/seminar-3-6/seminar-3-6-fanhongwei.jpg'| relative_url }})
 
@@ -84,7 +84,7 @@ header:
   
   [Expectation Maximization Attention Networks for Semantic Segmentation](https://arxiv.org/abs/1907.13426)
   [Github](https://xialipku.github.io/EMANet)
-    
+
   ![侯正罡]({{ '/assets/2019/seminar-3-6/seminar-3-6-arron.jpg'| relative_url }})
 
   <div class="zoom-container" style="
@@ -113,7 +113,6 @@ header:
 
 ### Poster
 
-
 - 刘云 @[fuyunfuyun666](https://github.com/fuyunfuyun666)
   
   >多模态问题的通用结构
@@ -122,7 +121,7 @@ header:
   >但实验性过强，并没有解释结果在不同问题的语义高低方面的启示（数据处理原理，越到高层互信息越少），略显遗憾。
 
   [Multi-task Learning of Hierarchical Vision-Language Representation](https://arxiv.org/pdf/1812.00500.pdf)
-      
+
   ![刘云]({{ '/assets/2019/seminar-3-6/seminar-3-6-liuyun.jpg'| relative_url }})
 
   <div class="zoom-container" style="
@@ -148,12 +147,12 @@ header:
       "
     ></iframe>
   </div>
-    
+
 - 李卓桓 @[huan](https://github.com/huan)
   
   >TPU 的应用案例: [使用 TPU 训练 TensorFlow 模型（Huan）](https://www.zixia.net/tensorflow-handbook-tpu/)，帮助快速进行大规模训练
   >可能可以申请到2500刀的资源。
-       
+
   ![李卓桓]({{ '/assets/2019/seminar-3-6/seminar-3-6-huan.jpg'| relative_url }})
 
   <div class="zoom-container" style="
@@ -180,13 +179,13 @@ header:
     ></iframe>
   </div>
 
-- 张璐 @[23LuZ ](https://github.com/23LuZ)
+- 张璐 @[23LuZ](https://github.com/23LuZ)
   >语言中的注意力机制
   >Encoder-Decoder 结构
   >Local/Global/Global-Local 三种分类
-      
+
   [Neural Responding Machine for Short-Text Conversation](https://www.aclweb.org/anthology/P15-1152)
-      
+
   ![张璐]({{ '/assets/2019/seminar-3-6/seminar-3-6-23luz.jpg'| relative_url }})
 
   <div class="zoom-container" style="
@@ -238,7 +237,7 @@ NLP 授蛋仪式
 
 ![AfterParty]({{ '/assets/2019/seminar-3-6/seminar-3-6-nlp-chairmen.jpg' | relative_url }})
 
-## Notice!!!
+## Notice
 
 根据AI-ML Club S3E6讨论的决定，从S3E7开始将实行CV/NLP分会计划，即隔周举办CV和NLP的分会议。具体实施是逢单周（本周即单周）进行CV会议，逢双周（下周即双周）进行NLP会议，因此下周的S3E7举行的将是NLP分会议，而下下周的S3E8举行的将是CV分会议。目前已完成主席选举，对相关领域感兴趣的会员和新人可以按时参加。
 
