@@ -19,7 +19,7 @@ header:
 - 日期：2019年9月15日周日下午3-6点
 - 地点：北邮科研楼821
 - 轮值主席：侯正罡 @[ArronHZG](https://github.com/ArronHZG)
-- 轮值副主席：段嘉明 @[VDeamoV](https://github.com/VDeamoV)
+- 轮值副主席：段嘉铭 @[VDeamoV](https://github.com/VDeamoV)
 - 会员：李卓桓、刘云、贺新、范弘炜、石珅达、张璐
 - 新人：王琳玉
 
