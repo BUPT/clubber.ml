@@ -16,10 +16,10 @@ header:
 
 ## 第三季1场 AMC 沙龙活动纪要
 
-- 日期：2019年8月11日周日下午7-10点
+- 日期：2019年9月15日周日下午3-6点
 - 地点：北邮科研楼821
-- 轮值主席：侯正罡 @[CyFeng16](https://github.com/CyFeng16)
-- 轮值副主席：段嘉明 @[cgpeter96](https://github.com/cgpeter96)
+- 轮值主席：侯正罡 @[ArronHZG](https://github.com/ArronHZG)
+- 轮值副主席：段嘉明 @[VDeamoV](https://github.com/VDeamoV)
 - 会员：李卓桓、刘云、贺新、范弘炜、石珅达、张璐
 - 新人：王琳玉
 
