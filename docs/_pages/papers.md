@@ -41,6 +41,7 @@ We only add paper to this list before we decide to oral/poster it at our AMC sem
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
+| [S3E7](https://ai-ml.club/events/seminar-meeting-minutes-3-7/) | [@AlaskaaWong](https://github.com/AlaskaaWong) | [模糊语言的语用分析](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD8589&filename=OUTL198904001&v=MzI2MDR1eFlTN0RoMVQzcVRyV00xRnJDVVJMT2ZidVJ2RkNua1VyM05LampmWXJLeEZ0ak1xNDlGWllSOGVYMUw=)
 | [S3E7](https://ai-ml.club/events/seminar-meeting-minutes-3-7/) | [@23LuZ](https://github.com/23LuZ) | [Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models](https://arxiv.org/pdf/1507.04808.pdf)
 | [S3E6](https://ai-ml.club/events/seminar-meeting-minutes-3-6/) | [@fuyunfuyun666](https://github.com/fuyunfuyun666) | [Multi-task Learning of Hierarchical Vision-Language Representation](https://arxiv.org/pdf/1812.00500.pdf) |
 | [S3E6](https://ai-ml.club/events/seminar-meeting-minutes-3-6/) | [@23LuZ](https://github.com/23LuZ) | [Neural Responding Machine for Short-Text Conversation](https://www.aclweb.org/anthology/P15-1152) |
