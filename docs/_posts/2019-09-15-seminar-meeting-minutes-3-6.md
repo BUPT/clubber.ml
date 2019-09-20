@@ -146,7 +146,7 @@ CV 授蛋仪式
 ![授蛋]({{ '/assets/2019/seminar-3-6/seminar-3-6-cv-chairman-appointment.jpg'| relative_url }})
 
 NLP 授蛋仪式
-![授蛋]({{ '/assets/2019/seminar-3-6/seminar-3-6-nlp-chairman-appointment.jpg'| relative_url }})
+![授蛋]({{ '/assets/2019/seminar-3-6/seminar-3-6-nlp-switch-chairman.jpg'| relative_url }})
 
 ## 集体合照
 
