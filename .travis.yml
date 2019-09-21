@@ -11,12 +11,10 @@ cache:
     - node_modules
 
 install:
-  - npm install
   - make install
 
 stages:
   - test
-  - pack
   - name: deploy
     if: (type = push) AND branch =~ ^(master|v\d+\.\d+)$
 
@@ -25,15 +23,10 @@ jobs:
 
     - stage: test
       script:
-        - npm test
-
-    - stage: pack
-      script:
+        - make test
         - make build
 
     - stage: deploy
-      script:
-        - echo "Deploying ..."
       deploy:
         provider: surge
         project: ./docs/_site/

@@ -42,9 +42,13 @@ test('image size should not more than 1MB', async t => {
   t.true(fileList.length > 0, 'should get image file list')
 
   for (const file of fileList) {
-    const dim = await probeImageSize(fs.createReadStream(file))
     const size = fs.statSync(file)['size']
+    if (size < 1e3) {
+      // File size less than 1KB, should be a Git LFS (Large File Storage) pointer
+      continue
+    }
 
+    const dim = await probeImageSize(fs.createReadStream(file))
     if (dim.width > MAX_WIDTH || size > MAX_SIZE) {
       t.fail(`${file} exceed the max limit: width: ${dim.width}, size: ${size}. use "./scripts/fit-image.sh <FILE>" to adjust it fit.`)
     }
