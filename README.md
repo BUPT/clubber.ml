@@ -38,6 +38,18 @@ We have weekly offline meetups, you will be welcome to join if you are intereste
 
 We are using [GitHub Pages](https://pages.github.com/) to host our blog, powered by [Jekyll] with the nice and flexible two-column Jekyll theme [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/).
 
+### Git
+
+We are using Github LFS (Large File Storage) to store `docs/assets/**/*`.
+
+If you want to check out the repository fast, use the following command to `clone`:
+
+```shell
+GIT_LFS_SKIP_SMUDGE=1 git clone git@github.com:BUPT/ai-ml.club.git
+```
+
+Learn more about `GIT_LFS_SKIP_SMUDGE` from [here](https://stackoverflow.com/a/42021818/1123955)
+
 ### Install
 
 ```sh
