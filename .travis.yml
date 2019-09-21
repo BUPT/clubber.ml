@@ -24,14 +24,17 @@ jobs:
     - stage: test
       script:
         - make test
-        - make build
 
     - stage: deploy
+      script:
+        - make build
       deploy:
         provider: surge
         project: ./docs/_site/
         domain: ai-ml.club
         skip_cleanup: true
+        on:
+          all_branches: true
 
 notifications:
   email:
