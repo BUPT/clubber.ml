@@ -15,11 +15,12 @@ lint: pylint pycodestyle flake8 mypy
 
 .PHONY: install
 install:
+	npm install
 	(cd docs && bundle install && bundle update)
 
 .PHONY: test
 test:
-	echo "test what?"
+	npm test
 
 .PHONY: code
 code:
