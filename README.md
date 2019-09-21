@@ -59,11 +59,8 @@ Learn more about `GIT_LFS_SKIP_SMUDGE` from [here](https://stackoverflow.com/a/4
 sudo apt install ruby
 sudo gem install bundle
 
-# Install the blog requirements
+# Install the blog requirements & NPM
 make install
-
-# Install the NPM dependencies
-npm install
 ```
 
 ### Serve
@@ -75,7 +72,7 @@ make serve
 ### Local Test
 
 ```sh
-npm test
+make test
 # If ERROR occurs please check out
 # 1. node version >= 10
 # 2. you have installed the lastest typescript
@@ -96,6 +93,10 @@ apt install imagemagick
 > Or you can use your local picture resize tools to make the file size lower than 200kb.
 > The 1920 * 1080 with 8 bit sRGB is prefered.
 > Also, aware the rules just under this content. The teasor image size should be right of 500 * 300. Resize it before your uploading.
+
+### Deploy
+
+Currently, we are deploy our Jekyll pages to [surge.sh](https://surge.sh) on Travis CI via Devops pipeline, with a [CloudFlare](https://cloudflare.com) CDN.
 
 ### VsCode Markdown Linting
 
@@ -122,7 +123,7 @@ Learn more from <https://github.com/DavidAnson/vscode-markdownlint>
 - Academic Chair （学术主席）: [Da XIAO (肖达)](https://scss.bupt.edu.cn/info/1063/1162.htm)，博士毕业于清华大学计算机科学与技术系，现为北京邮电大学网络空间安全学院讲师，彩云科技首席科学家，集智俱乐部核心成员。目前研究兴趣包括深度学习、人工智能、认知科学。曾在集智俱乐部发起并主持“脑与Deep Learning读书会”、“高级认知Deep Learning读书会”等线下活动。
 - Industry Chair (产业主席）: [Xin HE (贺新)](https://ai-ml.club/people/newip/)，曾工作于千寻位置网络科技有限公司，阿里巴巴（中国），惠普，上海贝尔阿尔卡特等公司。曾任职项目经理、部门经理、资深经理、千寻位置网副总经理。负责过通信OSS研发、High Tech行业应用研发、YunOS系统框架研发、汽车行业经销商业务系统研发等。对软件研发与管理都有深入实战经验。其中DBS项目软件项目通过CMMI5级认证，千寻位置网的北斗魔盒项目获得智能终端墨菲斯奖。
 
-## CO-FOUNDERS
+## Founders
 
 - [Huan LI (李卓桓)](https://ai-ml.club/people/huan/), CS Ph.D, BUPT
 - [Zhengyuan ZHU (朱正源)](https://ai-ml.club/people/824zzy/), Master, BUPT
