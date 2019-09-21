@@ -6,6 +6,7 @@ os:
   - linux
 
 cache:
+  bundler: true
   directories:
     - node_modules
 
