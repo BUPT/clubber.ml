@@ -25,6 +25,10 @@ test:
 code:
 	code .
 
+.PHONY: build
+build:
+	(cd docs && bundle exec jekyll build)
+
 .PHONY: serve
 serve:
 	(cd docs && bundle exec jekyll serve)
