@@ -31,6 +31,7 @@ We only add paper to this list before we decide to oral/poster it at our AMC sem
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
+| [S3E7](https://ai-ml.club/events/seminar-meeting-minutes-3-7/) | [@huan](https://github.com/huan) | [TensorFlow in JavaScript](https://github.com/huan/tensorflow-handbook-javascript) with A Seq2seq Model in JS |
 | [S3E6](https://ai-ml.club/events/seminar-meeting-minutes-3-6/) | [@hwfan](https://github.com/hwfan) | [Deep Metric Learning](https://arxiv.org/abs/1801.07698)[: A Frontal Report](https://arxiv.org/abs/1904.01990)|
 | [S3E6](https://ai-ml.club/events/seminar-meeting-minutes-3-6/) | [@ArronHZG](https://github.com/ArronHZG) | [Expectation-Maximization Attention Networks for Semantic Segmentation](https://arxiv.org/abs/1907.13426) |
 | [S3E5](https://ai-ml.club/events/seminar-meeting-minutes-3-5/) | [@Zecheng](https://github.com/zhanzecheng) | [Yale Semantic Parsing and Text-to-SQL Challenge](https://yale-lily.github.io/spider) |
