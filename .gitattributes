@@ -1,2 +1,2 @@
-docs/assets/ filter=lfs diff=lfs merge=lfs -text
+docs/assets/**/* filter=lfs diff=lfs merge=lfs -text
 * !text !filter !merge !diff
