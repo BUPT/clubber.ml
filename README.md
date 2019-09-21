@@ -42,6 +42,8 @@ We are using [GitHub Pages](https://pages.github.com/) to host our blog, powered
 
 We are using Github LFS (Large File Storage) to store `docs/assets/**/*`.
 
+Here's a good start for learning how to use LFS: [Git LFS Tutorial](https://github.com/git-lfs/git-lfs/wiki/Tutorial)
+
 If you want to check out the repository fast, use the following command to `clone`:
 
 ```shell
