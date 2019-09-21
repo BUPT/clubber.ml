@@ -4,8 +4,10 @@ about: The announcement should be published at least 48 hours before the meeting
 ---
 
 > TITLE TEMPLATE:
-> S2E12 AMC Meeting Announcement  
-> DELETE THIS PART AFTER FINISHED COPY/PASTE
+> S2E12 AMC Meeting (NLP|CV) Announcement  
+>
+> 1. SELECT TOPIC: NLP or CV  
+> 1. DELETE THIS PART AFTER FINISHED COPY/PASTE
 
 # AMC Meeting Announcement
 
@@ -14,7 +16,7 @@ about: The announcement should be published at least 48 hours before the meeting
 |          Date | 7-10 pm, Sunday                        |
 |      Location | 821, 8th floor, BUPT Research Building |
 |      Chairman | @824zzy                                |
-| Vice Chairman | @huan                                  |
+| Vice-chairman | @huan                                  |
 
 ## Previous Meeting
 
@@ -31,7 +33,7 @@ about: The announcement should be published at least 48 hours before the meeting
 
 | Presenter | Paper                                     |
 | --------- | ----------------------------------------- |
-| @824zzy   | [PAPER NAME](https://arxiv.org/PAPER_URL) |
+| @824zzy   | [PAPER_NAME](https://arxiv.org/PAPER_URL) |
 
 ### 2. Poster
 
@@ -40,8 +42,8 @@ about: The announcement should be published at least 48 hours before the meeting
 
 | Presenter        | Paper                                     |
 | ---------------- | ----------------------------------------- |
-| @huan            | [PAPER NAME](https://arxiv.org/PAPER_URL) |
-| @GITHUB_USERNAME | [PAPER NAME](https://arxiv.org/PAPER_URL) |
+| @huan            | [PAPER_NAME](https://arxiv.org/PAPER_URL) |
+| @GITHUB_USERNAME | [PAPER_NAME](https://arxiv.org/PAPER_URL) |
 
 ### 3. After Party
 
@@ -79,7 +81,7 @@ Total number: TOTAL_NUMBER
 | Role          | People List                    |
 | ------------- | ------------------------------ |
 | 🧓 Chair      | @CHAIR_GITHUB_USERNAME         |
-| 🧑 Vice Chair | @VICE_CHAIR_GITHUB_USERNAME    |
+| 🧑 Vice-chair | @VICE_CHAIR_GITHUB_USERNAME    |
 | 🗣 Oral       | @ORAL_MEMBER_GITHUB_USERNAME   |
 | 📰 Posters    | @POSTER_MEMBER_GITHUB_USERNAME |
 | 👶 Newcomers  | @NEWCOMER_GITHUB_USERNAME      |
