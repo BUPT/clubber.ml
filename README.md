@@ -52,6 +52,14 @@ GIT_LFS_SKIP_SMUDGE=1 git clone git@github.com:BUPT/ai-ml.club.git
 
 Learn more about `GIT_LFS_SKIP_SMUDGE` from [here](https://stackoverflow.com/a/42021818/1123955)
 
+You can download all the files stored on LFS later by run:
+
+```shell
+git lfs fetch
+```
+
+Pulling all LFS objects (to conveniently work offline) git lfs fetch --all, there is also a --recent flag to only fetch the last few days. See git lfs fetch --help for more details.
+
 ### Install
 
 ```sh
