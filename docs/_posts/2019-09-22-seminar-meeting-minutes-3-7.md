@@ -23,7 +23,7 @@ header:
 
 ## 沙龙内容
 
-### Oral([李卓桓](https://github.com/huan)): TensorFlow in JavaScript
+### 1 Oral([李卓桓](https://github.com/huan)): TensorFlow in JavaScript
 
 ![TensorFlow.js](/assets/2019/seminar-3-7/tensorflow-js.gif)
 
@@ -31,7 +31,7 @@ header:
 
 ![TensorFlow.js](/assets/2019/seminar-3-7/architecture.gif)
 
-### Poster([张璐](https://github.com/23luz)): [Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models](https://arxiv.org/pdf/1507.04808.pdf)
+### 2 Poster([张璐](https://github.com/23luz)): [Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models](https://arxiv.org/pdf/1507.04808.pdf)
 
 ![张璐]({{ '/assets/2019/seminar-3-7/zhanglu.jpg'| relative_url }})
 
@@ -63,7 +63,7 @@ header:
   ></iframe>
 </div>
 
-### Poster([王琳玉](https://github.com/AlaskaaWong)): [模糊语言的语用分析](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD8589&filename=OUTL198904001&v=MzI2MDR1eFlTN0RoMVQzcVRyV00xRnJDVVJMT2ZidVJ2RkNua1VyM05LampmWXJLeEZ0ak1xNDlGWllSOGVYMUw=)
+### 3 Poster([王琳玉](https://github.com/AlaskaaWong)): [模糊语言的语用分析](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD8589&filename=OUTL198904001&v=MzI2MDR1eFlTN0RoMVQzcVRyV00xRnJDVVJMT2ZidVJ2RkNua1VyM05LampmWXJLeEZ0ak1xNDlGWllSOGVYMUw=)
 
 ![王琳玉]({{ '/assets/2019/seminar-3-7/wanglinyu.jpg'| relative_url }})
 
@@ -95,7 +95,7 @@ header:
   ></iframe>
 </div>
 
-### Poster([郭成凯](https://github.com/ggsonic)): [Predicting Prosodic Prominence from Text with Pre-trained Contextualized Word Representations](https://arxiv.org/pdf/1908.02262.pdf)
+### 4 Poster([郭成凯](https://github.com/ggsonic)): [Predicting Prosodic Prominence from Text with Pre-trained Contextualized Word Representations](https://arxiv.org/pdf/1908.02262.pdf)
 
 ![郭成凯]({{ '/assets/2019/seminar-3-7/guochengkai.jpg'| relative_url }})
 
