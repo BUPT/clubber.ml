@@ -9,12 +9,12 @@ categories:
 tags:
   - 
 header:
-  teaser: /assets/2019/seminar-3-6/afterparty.jpg
+  teaser: /assets/2019/seminar-3-6/seminar-3-6-after-party.jpg
 ---
 
-<< 本次沙龙通知: [#325](https://github.com/BUPT/ai-ml.club/issues/254)  <<
+<< 本次沙龙通知: [#325](https://github.com/BUPT/ai-ml.club/issues/325)  <<
 
-## 第三季1场 AMC 沙龙活动纪要
+## 第三季6场 AMC 沙龙活动纪要
 
 - 日期：2019年9月15日周日下午3-6点
 - 地点：北邮科研楼821
