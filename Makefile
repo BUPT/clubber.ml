@@ -32,7 +32,7 @@ build:
 
 .PHONY: serve
 serve:
-	(cd docs && bundle exec jekyll serve)
+	(cd docs && bundle exec jekyll serve --incremental)
 
 .PHONY: fit-image
 fit-image:
