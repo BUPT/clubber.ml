@@ -7,7 +7,7 @@ function resize () {
     -verbose \
     -quality 80 \
     -resize '1920>' \
-    ${FILE}
+    "${FILE}"
 }
 
 DST=${1:-.}
@@ -19,15 +19,20 @@ if [ -f "$DST" ]; then
 fi
 
 echo "fit-image: $DST is directory"
-pushd ${DST}
+pushd "${DST}"
 
 # FILES=$(git ls-files --exclude-standard --others *.jpg)
 FILE_LIST=($(find . -type f -name '*.jpg' -o -name '*.jpeg' -o -name '*.png' -o -name '*.gif'))
 
 for FILE in "${FILE_LIST[@]}"; do
+  size=$(stat -f"%z" "$FILE")
+  if [ "$size" -lt 1024 ]; then
+    continue
+  fi
+
   WIDTH=$(identify -ping -format '%w' "$FILE")
-  if [ $WIDTH -gt 1920 ]; then
-    resize $FILE
+  if [ "$WIDTH" -gt 1920 ]; then
+    resize "$FILE"
   fi
 done
 
