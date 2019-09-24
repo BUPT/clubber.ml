@@ -28,6 +28,8 @@ jobs:
     - stage: deploy
       script:
         - make build
+        - ls -lh docs/assets/2019/seminar-3-7/
+        - ls -lh docs/_site/assets/2019/seminar-3-7/
       deploy:
         provider: surge
         project: ./docs/_site/
