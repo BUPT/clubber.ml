@@ -1,5 +1,5 @@
 ---
-title: 第三季7场 AI ML Club (NLP) 活动纪要
+title: 第三季7场 (NLP) AI ML Club 活动纪要
 author: huan
 categories: events
 tags:
