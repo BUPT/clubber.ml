@@ -5,7 +5,7 @@ categories: events
 tags:
   - nlp
 header:
-  teaser: /assets/2019/seminar-3-7/group-photo.jpg
+  teaser: /assets/2019/seminar-3-7/group.jpg
 ---
 
 << 本次沙龙通知: [#352](https://github.com/BUPT/ai-ml.club/issues/352)  <<
