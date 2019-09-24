@@ -28,11 +28,11 @@ code:
 
 .PHONY: build
 build:
-	(cd docs && bundle exec jekyll build)
+	(cd docs && JEKYLL_ENV=production bundle exec jekyll build)
 
 .PHONY: serve
 serve:
-	(cd docs && bundle exec jekyll serve --incremental)
+	(cd docs && JEKYLL_ENV=production bundle exec jekyll serve --incremental)
 
 .PHONY: fit-image
 fit-image:
