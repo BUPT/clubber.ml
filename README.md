@@ -56,6 +56,7 @@ You can download all the files stored on LFS later by run:
 
 ```shell
 git lfs fetch
+git lfs checkout
 ```
 
 Pulling all LFS objects (to conveniently work offline) git lfs fetch --all, there is also a --recent flag to only fetch the last few days. See git lfs fetch --help for more details.
