@@ -31,6 +31,8 @@ We only add paper to this list before we decide to oral/poster it at our AMC sem
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
+| [S3E8](https://ai-ml.club/events/seminar-meeting-minutes-3-8/) | [@CyFeng16](https://github.com/CyFeng16) | Development of Semantic Segmentation Domain and The Awesome Mathematical Reasoning Process of The [FastFCN](https://arxiv.org/abs/1903.11816) |
+| [S3E8](https://ai-ml.club/events/seminar-meeting-minutes-3-8/) | [@hwfan](https://github.com/hwfan) | [Consensus-Driven Propagation in Massive Unlabeled Data for Face Recognition](https://arxiv.org/abs/1809.01407)|
 | [S3E7](https://ai-ml.club/events/seminar-meeting-minutes-3-7/) | [@huan](https://github.com/huan) | [TensorFlow in JavaScript](https://github.com/huan/tensorflow-handbook-javascript) with A Seq2seq Model in JS |
 | [S3E6](https://ai-ml.club/events/seminar-meeting-minutes-3-6/) | [@hwfan](https://github.com/hwfan) | [Deep Metric Learning](https://arxiv.org/abs/1801.07698)[: A Frontal Report](https://arxiv.org/abs/1904.01990)|
 | [S3E6](https://ai-ml.club/events/seminar-meeting-minutes-3-6/) | [@ArronHZG](https://github.com/ArronHZG) | [Expectation-Maximization Attention Networks for Semantic Segmentation](https://arxiv.org/abs/1907.13426) |
@@ -42,6 +44,7 @@ We only add paper to this list before we decide to oral/poster it at our AMC sem
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
+| [S3E8](https://ai-ml.club/events/seminar-meeting-minutes-3-8/) | [@gaojiuy](https://github.com/gaojiuy) | [Visualizing the Hidden Activity of Artificial Neural Networks](https://ieeexplore.ieee.org/document/7539329)
 | [S3E7](https://ai-ml.club/events/seminar-meeting-minutes-3-7/) | [@AlaskaaWong](https://github.com/AlaskaaWong) | [模糊语言的语用分析](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD8589&filename=OUTL198904001&v=MzI2MDR1eFlTN0RoMVQzcVRyV00xRnJDVVJMT2ZidVJ2RkNua1VyM05LampmWXJLeEZ0ak1xNDlGWllSOGVYMUw=)
 | [S3E7](https://ai-ml.club/events/seminar-meeting-minutes-3-7/) | [@23LuZ](https://github.com/23LuZ) | [Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models](https://arxiv.org/pdf/1507.04808.pdf)
 | [S3E7](https://ai-ml.club/events/seminar-meeting-minutes-3-7/) | [@ggsonic](https://github.com/ggsonic) | [Predicting Prosodic Prominence from Text with Pre-trained Contextualized Word Representations](https://arxiv.org/pdf/1908.02262.pdf)
