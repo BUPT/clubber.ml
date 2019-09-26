@@ -36,6 +36,8 @@ Only one step is needed before you join:
 
 1. **Learn how to become a newcomer by reading [Newcomers Manual](https://github.com/BUPT/ai-ml.club/wiki/Newcomer-Manual)**
 
+> Optional: Join our Google Groups Mail List from <https://groups.google.com/forum/#!forum/ai-ml-club/join>
+
 Then you are set. we are looking forward to see you in the next meetup!
 
 ![paper oral]({{ 'assets/2018/paper-oral-screen.jpg' | relative_url }})
