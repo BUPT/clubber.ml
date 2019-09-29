@@ -3,6 +3,7 @@
 [![Colab Notebook](https://img.shields.io/badge/Google_Colab-Notebook-brightgreen.svg)](https://colab.research.google.com/drive/1AO3bwIgzfy63ty8OSSgUPRG1PIii3oo_)
 [![BUPT CAD Project](https://img.shields.io/badge/👀-BUPT_CAD_Project-blue.svg)](https://github.com/bupt/awesome-cad)
 [![Build Status](https://travis-ci.com/BUPT/ai-ml.club.svg?branch=master)](https://travis-ci.com/BUPT/ai-ml.club)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/715b9a9b-79e4-4181-9339-c67586b3a5d2/deploy-status)](https://app.netlify.com/sites/ai-ml-club/deploys)
 
 Welcome to Artificial Intelligence & Machine Learning CLUB!
 
