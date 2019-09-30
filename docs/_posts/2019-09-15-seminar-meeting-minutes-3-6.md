@@ -160,7 +160,7 @@ NLP 授蛋仪式
 1. 惯性的时间控制需要每一届主席持续把控
 2. 如果预期讨论过多的poster可以当成oral申报，poster主要还是集中在论文的某一个点讲清楚。
 3. Zoom链接和视频录制正式上线，[入口地址:https://ai-ml.club/zoom/](https://ai-ml.club/zoom/)。
-4. AMC(CV) Chairs:Chair: 段嘉明 Vice-chair: 刘云
+4. AMC(CV) Chairs:Chair: 段嘉铭 Vice-chair: 刘云
 5. AMC(NLP) Chairs:Chair: 李卓桓 Vice-chair: 张璐
 
 ## After Party
