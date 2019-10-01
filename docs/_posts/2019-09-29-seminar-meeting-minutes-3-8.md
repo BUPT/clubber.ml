@@ -5,7 +5,7 @@ categories: events
 tags:
   - cv
 header:
-  teaser: /assets/2019/seminar-3-9/group.jpg
+  teaser: /assets/2019/seminar-3-8/group.jpg
 ---
 
 << 本次沙龙通知: [#362](https://github.com/BUPT/ai-ml.club/issues/362)  <<
@@ -25,7 +25,7 @@ header:
 
 ### 1 Oral([石珅达](https://github.com/CyFeng16)): Development of Semantic Segmentation Domain
 
-![CyFeng16]({{ '/assets/2019/seminar-3-9/cyfeng16.jpg'| relative_url }})
+![CyFeng16]({{ '/assets/2019/seminar-3-8/cyfeng16.jpg'| relative_url }})
 
 <div class="zoom-container" style="
     position: relative;
@@ -38,7 +38,7 @@ header:
     src='{{
       '/assets/js/viewer-js/' | relative_url
     }}#{{
-      '/assets/2019/seminar-3-9/cyfeng16.pdf' | relative_url
+      '/assets/2019/seminar-3-8/cyfeng16.pdf' | relative_url
     }}'
     width='560'
     height='315'
@@ -57,7 +57,7 @@ header:
 
 ### 2 Oral([范弘炜](https://github.com/hwfan)): [Consensus-Driven Propagation in Massive Unlabeled Data for Face Recognition](https://arxiv.org/abs/1809.01407)
 
-![范弘炜]({{ '/assets/2019/seminar-3-9/hwfan.jpg'| relative_url }})
+![范弘炜]({{ '/assets/2019/seminar-3-8/hwfan.jpg'| relative_url }})
 
 <div class="zoom-container" style="
     position: relative;
@@ -70,7 +70,7 @@ header:
     src='{{
       '/assets/js/viewer-js/' | relative_url
     }}#{{
-      '/assets/2019/seminar-3-9/hwfan.pdf' | relative_url
+      '/assets/2019/seminar-3-8/hwfan.pdf' | relative_url
     }}'
     width='560'
     height='315'
@@ -89,7 +89,7 @@ header:
 
 ### 3 Poster([高久怡](https://github.com/gaojiuy)): [Visualizing the Hidden Activity of Artificial Neural Networks](https://ieeexplore.ieee.org/document/7539329)
 
-![高久怡]({{ '/assets/2019/seminar-3-9/gaojiuy.jpg'| relative_url }})
+![高久怡]({{ '/assets/2019/seminar-3-8/gaojiuy.jpg'| relative_url }})
 
 <div class="zoom-container" style="
     position: relative;
@@ -102,7 +102,7 @@ header:
     src='{{
       '/assets/js/viewer-js/' | relative_url
     }}#{{
-      '/assets/2019/seminar-3-9/gaojiuy.pdf' | relative_url
+      '/assets/2019/seminar-3-8/gaojiuy.pdf' | relative_url
     }}'
     width='560'
     height='315'
@@ -126,11 +126,11 @@ header:
 | S3E9   | 06 Oct | NLP   | 陈光/张璐    |
 | S3E10  | 13 Oct | CV    | 刘云/范弘炜  |
 
-![授蛋]({{ '/assets/2019/seminar-3-9/chairs.jpg'| relative_url }})
+![授蛋]({{ '/assets/2019/seminar-3-8/chairs.jpg'| relative_url }})
 
 ## 集体合照
 
-![合照]({{ '/assets/2019/seminar-3-9/group.jpg' | relative_url }})
+![合照]({{ '/assets/2019/seminar-3-8/group.jpg' | relative_url }})
 
 ## 俱乐部讨论内容
 
@@ -140,7 +140,7 @@ header:
 
 ## After Party
 
-![AfterParty]({{ '/assets/2019/seminar-3-9/after-party.jpg' | relative_url }})
+![AfterParty]({{ '/assets/2019/seminar-3-8/after-party.jpg' | relative_url }})
 
 ## RSVP
 
