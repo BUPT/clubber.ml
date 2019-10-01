@@ -131,7 +131,7 @@ header:
 
 | Series |  Date  | Topic | Chair/Vice |
 | ------ | ------ | ----- | ---------- |
-| S3E8   | 29 Oct | CV    | 段嘉明/刘云  |
+| S3E8   | 29 Oct | CV    | 段嘉铭/刘云  |
 | S3E9   | 06 Oct | NLP   | 陈光/张璐    |
 
 ![授蛋]({{ '/assets/2019/seminar-3-7/chairs.jpg'| relative_url }})
