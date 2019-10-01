@@ -33,7 +33,7 @@ header:
 
 ### Poster
 
-- 段嘉铭 @[VDeamoV](https://github.com/VDeamoV)
+- 段嘉铭 @[Duan-JM](https://github.com/Duan-JM)
 
     > 分享了论文[Learning to Propagate Labels-Transductive Propagation Network for Few-Shot Learning](https://arxiv.org/abs/1805.10002)
 

@@ -1,6 +1,6 @@
 ---
 title: 第二季第七次CAIC沙龙活动纪要
-author: vdeamov
+author: duan-jm
 date: 2019-04-13 19:00 +0800
 comments: true
 mathjax: true
@@ -23,7 +23,7 @@ header:
 
 ## 沙龙内容
 
-- 段嘉铭  @vdeamov
+- 段嘉铭  @Duan-JM
     > [CP-GAN](https://bupt.github.io/conversational-ai-club/#/papers/low-shot-learning-via-covariance-preserving-adversarial-augmentation-networks-2018)，NIPS 2018 的一篇工作，其主旨是认为相似的类内方差相似，同时使用 Cycle-GAN 结合条件 GAN 来扩充小样本以达到好的学习效果。
 ![段嘉铭]({{ '/assets/2019/seminar-2-7-poster-vdeamov.jpg' | relative_url }})
 
