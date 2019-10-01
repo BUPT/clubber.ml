@@ -55,7 +55,7 @@ CPM检测人体关节点
 
 ![侯正罡]({{ '/assets/2019/seminar-2-13/houzhenggang.jpg' | relative_url }})
 
-- 段嘉铭 @vdeamov
+- 段嘉铭 @Duan-JM
     > [TADAM: Task dependent adaptive metric for improved few-shot learnin, Oreshkin, et. al., 2018](http://papers.nips.cc/paper/7352-tadam-task-dependent-adaptive-metric-for-improved-few-shot-learning.pdf)
 
 ![段嘉铭]({{ '/assets/2019/seminar-2-13/duanjiaming.jpg' | relative_url }})

@@ -28,7 +28,7 @@ header:
 
 ![朱正源]({{ '/assets/2019/seminar-2-9-zzy-dnc.jpg' | relative_url }})
 
-1. 段嘉铭 @VDeamoV 分享 [Histograms of Oriented Gradients for Human Detection](https://hal.inria.fr/file/index/docid/548512/filename/hog_cvpr2005.pdf): 通过方向梯度直方图（Histograms of Oriented Gradient,HOG）对行人进行检测，它通过计算局部区域的梯度方向并进行统计来作为该局部区域的特征。
+1. 段嘉铭 @Duan-JM 分享 [Histograms of Oriented Gradients for Human Detection](https://hal.inria.fr/file/index/docid/548512/filename/hog_cvpr2005.pdf): 通过方向梯度直方图（Histograms of Oriented Gradient,HOG）对行人进行检测，它通过计算局部区域的梯度方向并进行统计来作为该局部区域的特征。
 
 ![段嘉铭]({{ '/assets/2019/seminar-2-9-duanjm-hog.jpg' | relative_url }})
 

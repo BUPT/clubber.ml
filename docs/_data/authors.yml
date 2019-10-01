@@ -72,15 +72,15 @@ cgpeter96:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cgpeter96"
 
-vdeamov:
+duan-jm:
   name        : "段嘉铭"
-  bio         : "Initializing....."
+  bio         : "Coding for Fun"
   avatar      : "https://avatars3.githubusercontent.com/u/35023950?v=4"
   membership  : 'chair'
   links:
     - lable: "Blog"
       icon: "fas fa-fw fa-link"
-      url:  "https://vdeamov.github.io"
+      url:  "https://duan-jm.github.io"
 
 linbo0518:
   name        : "林博"
