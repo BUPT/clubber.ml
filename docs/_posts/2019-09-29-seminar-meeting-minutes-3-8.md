@@ -55,7 +55,6 @@ header:
   ></iframe>
 </div>
 
-
 ### 2 Oral([范弘炜](https://github.com/hwfan)): [Consensus-Driven Propagation in Massive Unlabeled Data for Face Recognition](https://arxiv.org/abs/1809.01407)
 
 ![范弘炜]({{ '/assets/2019/seminar-3-9/hwfan.jpg'| relative_url }})
@@ -134,9 +133,10 @@ header:
 ![合照]({{ '/assets/2019/seminar-3-9/group.jpg' | relative_url }})
 
 ## 俱乐部讨论内容
-- NLP 与 CV 的内容混搭问题（高久怡，石珅达，段嘉铭）
-  - NLP 和 CV 的 Meeting 内容只是偏向于 CV 或者 NLP 并不排斥非当前 Meeting 的 Poster 或 Oral。
 
+- NLP 与 CV 的内容混搭问题（高久怡，石珅达，段嘉铭）
+
+  - NLP 和 CV 的 Meeting 内容只是偏向于 CV 或者 NLP 并不排斥非当前 Meeting 的 Poster 或 Oral。
 
 ## After Party
 
