@@ -35,7 +35,7 @@ header:
     > 介绍tensorflow2.0新特性
 ![image](https://user-images.githubusercontent.com/18066295/54087568-18fb0880-438f-11e9-92ee-fb31e57e5b48.png)
 
-- 段嘉铭 @VDeamoV
+- 段嘉铭 @Duan-JM
     > travelgan-image-to-image-translation-by-transformation-vector-learning 利用差异信息表示关系
 
 ----

@@ -33,7 +33,7 @@ header:
 
 - [学习参考](https://github.com/BUPT/magic-mirror/issues/17)
 - 参考资料[pdf](https://github.com/BUPT/ai-ml.club/blob/master/docs/assets/2019/seminar-3-2/okr.pdf)
-- [总结](https://vdeamov.github.io/任务管理/2019/08/19/OKR总结/)
+- [总结](https://duan-jm.github.io/任务管理/2019/08/19/OKR总结/)
 
 ### OKR是如何应该与MM项目
 

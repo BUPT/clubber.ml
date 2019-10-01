@@ -10,7 +10,7 @@ header:
 #       url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Photo credit: [**buguroo**](https://www.buguroo.com/en/blog/topic/ai)"
 excerpt: "Computer Vision"
-author: vdeamov
+author: duan-jm
 toc: true
 toc_sticky: true
 toc_label: "Author Profile"

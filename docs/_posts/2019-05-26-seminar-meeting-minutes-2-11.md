@@ -1,6 +1,6 @@
 ---
 title: 第二季第11场 AI ML Club 活动纪要
-author: vdeamov
+author: duan-jm
 date: 2019-05-27 19:00 +0800
 comments: true
 mathjax: true
@@ -18,7 +18,7 @@ header:
 
 - 日期：2019年5月26日周日晚上7-9点
 - 地点：北邮科研楼821
-- 轮值主席： 段嘉铭 @vdeamov
+- 轮值主席： 段嘉铭 @Duan-JM
 - 轮值副主席：刘云 @fuyunfuyun666
 - 新人：徐魁  李京伦  侯正罡
 

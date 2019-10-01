@@ -40,7 +40,7 @@ header:
 
 ### Poster
 
-- 段嘉铭 @VDeamoV
+- 段嘉铭 @Duan-JM
     > [Progressive Pose Attention Transfer for Person Image Generation](https://arxiv.org/abs/1905.10060)”类LSTM的一种卷机结构“(Pose Transfer)
 
 ![段嘉铭]({{ '/assets/2019/seminar-2-15/poster-duanjiaming.jpg' | relative_url }})

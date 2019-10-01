@@ -38,7 +38,7 @@ header:
     > 如何发表一篇顶级论文
 ![11](https://ws1.sinaimg.cn/large/744c8657ly1g1mfhh9l4aj21400u0q5a.jpg)
 
-- 段嘉铭 @VDeamoV
+- 段嘉铭 @Duan-JM
     > Learning-to-Compare-Relation-Network-for-Few-Shot-Learning
 ![微信图片_20190331234523](https://user-images.githubusercontent.com/18066295/55291429-1c733400-5411-11e9-9e44-27b9bc662c66.jpg)
 

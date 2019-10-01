@@ -1,6 +1,6 @@
 ---
 title: 第二季19场 AI ML Club 活动纪要
-author: vdeamov
+author: duan-jm
 date: 2019-07-21 19:00 +0800
 comments: true
 mathjax: true
@@ -18,7 +18,7 @@ header:
 
 - 日期：2019年7月21日周日晚上7-10点
 - 地点：北邮科研楼821
-- 轮值主席： 段嘉铭 @VDeamoV
+- 轮值主席： 段嘉铭 @Duan-JM
 - 轮值副主席：林博 @linbo0518
 - 会员： 李卓桓、贺新、林博、侯正罡、高久怡、董青、段嘉铭、李京伦、尹鹏宇
 - 新人：臧群、李朋涛、李财
@@ -58,7 +58,7 @@ header:
   ></iframe>
 </div>
 
-- 段嘉铭 @VDeamoV
+- 段嘉铭 @Duan-JM
     > 分享了[Finding Task-Relevant Features for Few-Shot Learning by Category Traversal](https://arxiv.org/pdf/1905.11116.pdf), 一种通过先纵览当前 Task 之后生成 Mask 来过滤无关特征的方法来达到更好的模型学习效果
 
 ![段嘉铭]({{ '/assets/2019/seminar-2-19/djm-poster.jpg'| relative_url }})
