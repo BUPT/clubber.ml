@@ -44,7 +44,7 @@ header:
       overflow:hidden;
   ">
     <iframe
-      src='{{ '/assets/js/viewer-js/#https://github.com/BUPT/ai-ml.club/tree/master/docs/assets/2019/seminar-3-5/seminar-3-5-nl2sql.pdf' | relative_url }}'
+      src='{{ '/assets/js/viewer-js/#/assets/2019/seminar-3-5/seminar-3-5-nl2sql.pdf' | relative_url }}'
       width='560'
       height='315'
       allowfullscreen
@@ -74,7 +74,7 @@ header:
       overflow:hidden;
   ">
     <iframe
-      src='{{ '/assets/js/viewer-js/#https://github.com/BUPT/ai-ml.club/blob/master/docs/assets/2019/seminar-3-5/seminar-3-5-basic-bonversational-model.pdf' | relative_url }}'
+      src='{{ '/assets/js/viewer-js/#/assets/2019/seminar-3-5/seminar-3-5-basic-bonversational-model.pdf' | relative_url }}'
       width='560'
       height='315'
       allowfullscreen
@@ -106,7 +106,7 @@ header:
       overflow:hidden;
   ">
     <iframe
-      src='{{ '/assets/js/viewer-js/#https://github.com/BUPT/ai-ml.club/blob/master/docs/assets/2019/seminar-3-5/seminar-3-5-integrad.pdf' | relative_url }}'
+      src='{{ '/assets/js/viewer-js/#/assets/2019/seminar-3-5/seminar-3-5-integrad.pdf' | relative_url }}'
       width='560'
       height='315'
       allowfullscreen
