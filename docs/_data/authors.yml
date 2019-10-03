@@ -203,3 +203,18 @@ wdblink:
     - lable: "Blog"
       icon: "fas fa-fw fa-link"
       url:  "https://wdblink.github.io/"
+hwfan:
+  name       : "范弘炜"
+  bio        : "和而不同"
+  avatar     : "https://avatars2.githubusercontent.com/u/43400050?s=460&v=4"
+  membership : 'member'
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/hwfan"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://weibo.com/u/7287606354"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:hwfan_bupt@outlook.com"
