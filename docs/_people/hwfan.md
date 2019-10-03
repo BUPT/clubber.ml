@@ -20,10 +20,12 @@ toc_icon: "address-card"  # corresponding Font Awesome icon name (without fa pre
 **Hongwei Fan** is a graduate student in **the Lab of Pattern Recognition and Intelligent Systems, BUPT**. Currently he is researching **Visual Metric Learning and Transfer Learning** under the instruction of Prof. Weihong Deng. He is also a major contributor to **Yanfeng ACG Club of BUPT** in his part time.
 
 ## Educational Background
+
 - 2015.9~2019.6: Bachelor degree of the School of Information and Communication Engineering, BUPT.
 - 2019.9~Now: Master candidate of the Lab of Pattern Recognition and Intelligent Systems, BUPT. (Under the instruction of Prof. Weihong Deng)
 
 ## Research Interests
+
 - Metric Learning(Face Recognition/Person Re-identification)
 - Transfer Learning(Unsupervised Domain Adaptation)
 
