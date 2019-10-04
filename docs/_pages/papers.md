@@ -44,6 +44,7 @@ We only add paper to this list before we decide to oral/poster it at our AMC sem
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
+| [S3E9](https://ai-ml.club/events/seminar-meeting-minutes-3-9/) | [@CyFeng16](https://github.com/CyFeng16) | [人工智能, 碳污染, 及其应对](https://www.technologyreview.com/f/614473/tiny-ai-could-supercharge-autocorrect-voice-assistants-on-your-phone/)
 | [S3E9](https://ai-ml.club/events/seminar-meeting-minutes-3-9/) | [@huan](https://github.com/huan) | [Transformer如戏，全靠Mask](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247499793&idx=1&sn=685c54d27186a89dcf32d91ce0927274)
 | [S3E8](https://ai-ml.club/events/seminar-meeting-minutes-3-8/) | [@gaojiuy](https://github.com/gaojiuy) | [Visualizing the Hidden Activity of Artificial Neural Networks](https://ieeexplore.ieee.org/document/7539329)
 | [S3E7](https://ai-ml.club/events/seminar-meeting-minutes-3-7/) | [@AlaskaaWong](https://github.com/AlaskaaWong) | [模糊语言的语用分析](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD8589&filename=OUTL198904001&v=MzI2MDR1eFlTN0RoMVQzcVRyV00xRnJDVVJMT2ZidVJ2RkNua1VyM05LampmWXJLeEZ0ak1xNDlGWllSOGVYMUw=)
