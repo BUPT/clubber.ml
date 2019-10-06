@@ -72,6 +72,8 @@ header:
 
 ![授蛋]({{ '/assets/2019/seminar-3-9/chairs.jpg'| relative_url }})
 
+> 从左往右：段嘉铭，陈光，李卓桓
+
 ## 集体合照
 
 ![合照]({{ '/assets/2019/seminar-3-9/group.jpg' | relative_url }})
