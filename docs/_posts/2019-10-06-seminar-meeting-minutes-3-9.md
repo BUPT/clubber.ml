@@ -10,7 +10,7 @@ header:
 
 << 本次沙龙通知: [#372](https://github.com/BUPT/ai-ml.club/issues/372)  <<
 
-## 第三季8场 CV AMC 沙龙活动纪要
+## 第三季9场 CV AMC 沙龙活动纪要
 
 - 日期：2019年10月6日周日下午7-10点
 - 地点：新科研楼8楼821
@@ -29,11 +29,11 @@ header:
 
 ### 2 Poster([CyFeng16](https://github.com/CyFeng16)): 人工智能，碳污染，及其解决方案
 
-![CyFeng16]({{ '/assets/2019/seminar-3-8/shida.jpg'| relative_url }})
+![CyFeng16]({{ '/assets/2019/seminar-3-9/shenda.jpg'| relative_url }})
 
 ### 3 Poster([cgpeter96](https://github.com/cgpeter96)): [25 Tweets to Know You: A New Model to Predict Personality with Social Media](https://arxiv.org/abs/1704.05513)
 
-![陈光]({{ '/assets/2019/seminar-3-8/guang.jpg'| relative_url }})
+![陈光]({{ '/assets/2019/seminar-3-9/guang.jpg'| relative_url }})
 
 <div class="zoom-container" style="
     position: relative;
@@ -78,12 +78,12 @@ header:
 
 ## 俱乐部讨论内容
 
-- 介绍新人的amc会员需要负责给新人提供我们的common sense
+- 介绍新人的amc会员需要负责给新人提供AMC的common sense
 
 - 讨论pr的merge
   - 建议提交pr的作者(条件允许情况下)，建议自己合并，也提议大家主动去合并pr
 
-- MM会议与AMC会议需要足够的间隔，同时需要负责解决工作餐
+- MM会议与AMC会议需要足够的间隔，同时需要负责工作餐问题
 
 ## After Party
 
