@@ -42,7 +42,7 @@ header:
     src='{{
       '/assets/js/viewer-js/' | relative_url
     }}#{{
-      '/assets/2019/seminar-3-9/CyFeng16.pdf' | relative_url
+      '/assets/2019/seminar-3-9/cyfeng.pdf' | relative_url
     }}'
     width='560'
     height='315'
