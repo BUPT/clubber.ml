@@ -31,6 +31,34 @@ header:
 
 ![CyFeng16]({{ '/assets/2019/seminar-3-9/shenda.jpg'| relative_url }})
 
+<div class="zoom-container" style="
+    position: relative;
+    padding-bottom:56.25%;
+    padding-top:30px;
+    height:0;
+    overflow:hidden;
+">
+  <iframe
+    src='{{
+      '/assets/js/viewer-js/' | relative_url
+    }}#{{
+      '/assets/2019/seminar-3-9/CyFeng16.pdf' | relative_url
+    }}'
+    width='560'
+    height='315'
+    allowfullscreen
+    webkitallowfullscreen
+    frameborder="0"
+    style="
+      position: absolute;
+      top:0;
+      left:0;
+      width:100%;
+      height:100%;
+    "
+  ></iframe>
+</div>
+
 ### 3 Poster([cgpeter96](https://github.com/cgpeter96)): [25 Tweets to Know You: A New Model to Predict Personality with Social Media](https://arxiv.org/abs/1704.05513)
 
 ![陈光]({{ '/assets/2019/seminar-3-9/guang.jpg'| relative_url }})
