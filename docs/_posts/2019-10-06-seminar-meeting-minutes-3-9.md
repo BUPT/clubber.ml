@@ -3,7 +3,7 @@ title: 第三季9场 (NLP) AI ML Club 活动纪要
 author: cgpeter96
 categories: events
 tags:
-  - cv
+  - nlp
 header:
   teaser: /assets/2019/seminar-3-9/group.jpg
 ---
