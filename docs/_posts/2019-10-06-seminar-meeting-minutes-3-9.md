@@ -10,7 +10,7 @@ header:
 
 << 本次沙龙通知: [#372](https://github.com/BUPT/ai-ml.club/issues/372)  <<
 
-## 第三季9场 CV AMC 沙龙活动纪要
+## 第三季9场 NLP AMC 沙龙活动纪要
 
 - 日期：2019年10月6日周日下午7-10点
 - 地点：新科研楼8楼821
