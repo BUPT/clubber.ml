@@ -121,7 +121,7 @@ header:
 
 ![AfterParty]({{ '/assets/2019/seminar-3-9/after-party.jpg' | relative_url }})
 
-> 从左起：李卓桓，贺新，石珅达 
+> 从左起：李卓桓，贺新，石珅达
 
 ## RSVP
 
