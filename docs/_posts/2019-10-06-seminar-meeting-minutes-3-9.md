@@ -104,7 +104,7 @@ header:
 
 ## 集体合照
 
-![合照]({{ '/assets/2019/seminar-3-9/group.jpg' | relative_url }})
+![合照]({{ '/assets/2019/seminar-3-9/groups.jpg' | relative_url }})
 
 ## 俱乐部讨论内容
 
