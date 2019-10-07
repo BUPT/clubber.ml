@@ -16,7 +16,7 @@ header:
 - 地点：新科研楼8楼821
 - 轮值主席：陈光 @[cgpeter96](https://github.com/cgpeter96)
 - 轮值副主席：张璐 @[23LuZ](https://github.com/23LuZ)
-- 会员：李卓桓，贺新，段嘉铭
+- 会员：李卓桓，贺新，段嘉铭，石珅达
 - 新人：行习铭
 
 本届沙龙内容（按发言顺序，由主席指定顺序）
@@ -106,6 +106,8 @@ header:
 
 ![合照]({{ '/assets/2019/seminar-3-9/groups.jpg' | relative_url }})
 
+> 从左起：行习铭，段嘉铭，陈光，石珅达，李卓桓，贺新
+
 ## 俱乐部讨论内容
 
 - 介绍新人的amc会员需要负责给新人提供AMC的common sense
@@ -118,6 +120,8 @@ header:
 ## After Party
 
 ![AfterParty]({{ '/assets/2019/seminar-3-9/after-party.jpg' | relative_url }})
+
+> 从左起：李卓桓，贺新，石珅达 
 
 ## RSVP
 
