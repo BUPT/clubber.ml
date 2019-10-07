@@ -98,7 +98,6 @@ header:
 | S3E10  | 13 Oct | CV    | 刘云/范弘炜  |
 | S3E11   |20 Oct | NLP   | 张璐/李卓桓  |
 
-
 ![授蛋]({{ '/assets/2019/seminar-3-9/chairs.jpg'| relative_url }})
 
 > 从左往右：段嘉铭（代张璐合影），陈光，李卓桓
