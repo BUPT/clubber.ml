@@ -31,6 +31,7 @@ We only add paper to this list before we decide to oral/poster it at our AMC sem
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
+| [S3E10](https://ai-ml.club/events/seminar-meeting-minutes-3-10/) | [@CyFeng16](https://github.com/CyFeng16) | [FastFCN and Cybernetics](https://arxiv.org/abs/1903.11816) |
 | [S3E8](https://ai-ml.club/events/seminar-meeting-minutes-3-8/) | [@CyFeng16](https://github.com/CyFeng16) | Development of Semantic Segmentation Domain |
 | [S3E8](https://ai-ml.club/events/seminar-meeting-minutes-3-8/) | [@hwfan](https://github.com/hwfan) | [Consensus-Driven Propagation in Massive Unlabeled Data for Face Recognition](https://arxiv.org/abs/1809.01407)|
 | [S3E7](https://ai-ml.club/events/seminar-meeting-minutes-3-7/) | [@huan](https://github.com/huan) | [TensorFlow in JavaScript](https://github.com/huan/tensorflow-handbook-javascript) with A Seq2seq Model in JS |
