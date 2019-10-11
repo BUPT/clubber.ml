@@ -44,6 +44,7 @@ We only add paper to this list before we decide to oral/poster it at our AMC sem
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
+| [S3E10](https://ai-ml.club/events/seminar-meeting-minutes-3-10/) | [@Leona08](https://github.com/Leona08) | [“Why Should I Trust You?”Explaining the Predictions of Any Classifier](https://arxiv.org/pdf/1602.04938.pdf)
 | [S3E9](https://ai-ml.club/events/seminar-meeting-minutes-3-9/) | [@cgpeter96](https://github.com/cgpeter96) | [25 Tweets to Know You: A New Model to Predict Personality with Social Media](https://arxiv.org/abs/1704.05513)
 | [S3E9](https://ai-ml.club/events/seminar-meeting-minutes-3-9/) | [@CyFeng16](https://github.com/CyFeng16) | [人工智能, 碳污染, 及其应对](https://www.technologyreview.com/f/614473/tiny-ai-could-supercharge-autocorrect-voice-assistants-on-your-phone/)
 | [S3E9](https://ai-ml.club/events/seminar-meeting-minutes-3-9/) | [@huan](https://github.com/huan) | [Transformer如戏，全靠Mask](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247499793&idx=1&sn=685c54d27186a89dcf32d91ce0927274)
