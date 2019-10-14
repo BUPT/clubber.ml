@@ -8,7 +8,7 @@ header:
   teaser: /assets/2019/seminar-3-10/groups.jpg
 ---
 
-<< 本次沙龙通知: [#372](https://github.com/BUPT/ai-ml.club/issues/382)  <<
+<< 本次沙龙通知: [#382](https://github.com/BUPT/ai-ml.club/issues/382)  <<
 
 ## 第三季10场 CV AMC 沙龙活动纪要
 
