@@ -59,9 +59,65 @@ header:
 
 ![wu]({{ '/assets/2019/seminar-3-10/wu.jpg'| relative_url }})
 
+<div class="zoom-container" style="
+    position: relative;
+    padding-bottom:56.25%;
+    padding-top:30px;
+    height:0;
+    overflow:hidden;
+">
+  <iframe
+    src='{{
+      '/assets/js/viewer-js/' | relative_url
+    }}#{{
+      '/assets/2019/seminar-3-10/wu.pdf' | relative_url
+    }}'
+    width='560'
+    height='315'
+    allowfullscreen
+    webkitallowfullscreen
+    frameborder="0"
+    style="
+      position: absolute;
+      top:0;
+      left:0;
+      width:100%;
+      height:100%;
+    "
+  ></iframe>
+</div>
+
 ### 3 Poster([行习铭](https://github.com/ximingxing)): [Induction Networks for Few-Shot Text Classification](https://arxiv.org/abs/1902.10482)
 
 ![xing]({{ '/assets/2019/seminar-3-10/xing.jpg'| relative_url }})
+
+<div class="zoom-container" style="
+    position: relative;
+    padding-bottom:56.25%;
+    padding-top:30px;
+    height:0;
+    overflow:hidden;
+">
+  <iframe
+    src='{{
+      '/assets/js/viewer-js/' | relative_url
+    }}#{{
+      '/assets/2019/seminar-3-10/xing.pdf' | relative_url
+    }}'
+    width='560'
+    height='315'
+    allowfullscreen
+    webkitallowfullscreen
+    frameborder="0"
+    style="
+      position: absolute;
+      top:0;
+      left:0;
+      width:100%;
+      height:100%;
+    "
+  ></iframe>
+</div>
 
 ### 4 Oral([石珅达](https://github.com/CyFeng16)): [FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation](https://arxiv.org/abs/1903.11816)
 
