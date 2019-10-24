@@ -31,7 +31,8 @@ We only add paper to this list before we decide to oral/poster it at our AMC sem
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
-| [S3E8](https://ai-ml.club/events/seminar-meeting-minutes-3-8/) | [@CyFeng16](https://github.com/CyFeng16) | Development of Semantic Segmentation Domain and The Awesome Mathematical Reasoning Process of The [FastFCN](https://arxiv.org/abs/1903.11816) |
+| [S3E10](https://ai-ml.club/events/seminar-meeting-minutes-3-10/) | [@CyFeng16](https://github.com/CyFeng16) | [FastFCN and Cybernetics](https://arxiv.org/abs/1903.11816) |
+| [S3E8](https://ai-ml.club/events/seminar-meeting-minutes-3-8/) | [@CyFeng16](https://github.com/CyFeng16) | Development of Semantic Segmentation Domain |
 | [S3E8](https://ai-ml.club/events/seminar-meeting-minutes-3-8/) | [@hwfan](https://github.com/hwfan) | [Consensus-Driven Propagation in Massive Unlabeled Data for Face Recognition](https://arxiv.org/abs/1809.01407)|
 | [S3E7](https://ai-ml.club/events/seminar-meeting-minutes-3-7/) | [@huan](https://github.com/huan) | [TensorFlow in JavaScript](https://github.com/huan/tensorflow-handbook-javascript) with A Seq2seq Model in JS |
 | [S3E6](https://ai-ml.club/events/seminar-meeting-minutes-3-6/) | [@hwfan](https://github.com/hwfan) | [Deep Metric Learning](https://arxiv.org/abs/1801.07698)[: A Frontal Report](https://arxiv.org/abs/1904.01990)|
@@ -44,6 +45,14 @@ We only add paper to this list before we decide to oral/poster it at our AMC sem
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
+
+| [S3E10](https://ai-ml.club/events/seminar-meeting-minutes-3-10/) | [@gaojiuy](https://github.com/gaojiuy) | [Visualizing the Hidden Activity of Artificial Neural Networks](https://ieeexplore.ieee.org/document/7539329)
+| [S3E10](https://ai-ml.club/events/seminar-meeting-minutes-3-10/) | [@ximingxing](https://github.com/ximingxing) | [Induction Networks for Few-Shot Text Classification](https://arxiv.org/abs/1902.10482)
+| [S3E10](https://ai-ml.club/events/seminar-meeting-minutes-3-10/) | [@Leona08](https://github.com/Leona08) | [“Why Should I Trust You?”Explaining the Predictions of Any Classifier](https://arxiv.org/pdf/1602.04938.pdf)
+| [S3E10](https://ai-ml.club/events/seminar-meeting-minutes-3-10/) | [@gaojiuy](https://github.com/gaojiuy) | [Visualizing the Hidden Activity of Artificial Neural Networks](https://ieeexplore.ieee.org/document/7539329)
+| [S3E9](https://ai-ml.club/events/seminar-meeting-minutes-3-9/) | [@cgpeter96](https://github.com/cgpeter96) | [25 Tweets to Know You: A New Model to Predict Personality with Social Media](https://arxiv.org/abs/1704.05513)
+| [S3E9](https://ai-ml.club/events/seminar-meeting-minutes-3-9/) | [@CyFeng16](https://github.com/CyFeng16) | [人工智能, 碳污染, 及其应对](https://www.technologyreview.com/f/614473/tiny-ai-could-supercharge-autocorrect-voice-assistants-on-your-phone/)
+| [S3E9](https://ai-ml.club/events/seminar-meeting-minutes-3-9/) | [@huan](https://github.com/huan) | [Transformer如戏，全靠Mask](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247499793&idx=1&sn=685c54d27186a89dcf32d91ce0927274)
 | [S3E8](https://ai-ml.club/events/seminar-meeting-minutes-3-8/) | [@gaojiuy](https://github.com/gaojiuy) | [Visualizing the Hidden Activity of Artificial Neural Networks](https://ieeexplore.ieee.org/document/7539329)
 | [S3E7](https://ai-ml.club/events/seminar-meeting-minutes-3-7/) | [@AlaskaaWong](https://github.com/AlaskaaWong) | [模糊语言的语用分析](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD8589&filename=OUTL198904001&v=MzI2MDR1eFlTN0RoMVQzcVRyV00xRnJDVVJMT2ZidVJ2RkNua1VyM05LampmWXJLeEZ0ak1xNDlGWllSOGVYMUw=)
 | [S3E7](https://ai-ml.club/events/seminar-meeting-minutes-3-7/) | [@23LuZ](https://github.com/23LuZ) | [Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models](https://arxiv.org/pdf/1507.04808.pdf)
