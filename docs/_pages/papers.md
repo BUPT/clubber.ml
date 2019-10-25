@@ -45,7 +45,7 @@ We only add paper to this list before we decide to oral/poster it at our AMC sem
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
-
+| [S3E12](to be done)| [@tabZhang](https://github.com/ltg001) | [Generative Code Modeling With Graphs](https://arxiv.org/pdf/1805.08490.pdf) |
 | [S3E10](https://ai-ml.club/events/seminar-meeting-minutes-3-10/) | [@gaojiuy](https://github.com/gaojiuy) | [Visualizing the Hidden Activity of Artificial Neural Networks](https://ieeexplore.ieee.org/document/7539329)
 | [S3E10](https://ai-ml.club/events/seminar-meeting-minutes-3-10/) | [@ximingxing](https://github.com/ximingxing) | [Induction Networks for Few-Shot Text Classification](https://arxiv.org/abs/1902.10482)
 | [S3E10](https://ai-ml.club/events/seminar-meeting-minutes-3-10/) | [@Leona08](https://github.com/Leona08) | [“Why Should I Trust You?”Explaining the Predictions of Any Classifier](https://arxiv.org/pdf/1602.04938.pdf)
