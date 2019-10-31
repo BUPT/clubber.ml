@@ -46,6 +46,7 @@ We only add paper to this list before we decide to oral/poster it at our AMC sem
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
+| [S3E12](https://ai-ml.club/events/seminar-meeting-minutes-3-12/) | [@qhduan](https://github.com/qhduan) | [Deep Biaffine Attention for Neural Dependency Parsing](https://arxiv.org/abs/1611.01734) |
 | [S3E12](https://ai-ml.club/events/seminar-meeting-minutes-3-12/)| [@tabZhang](https://github.com/ltg001) | [Generative Code Modeling With Graphs](https://arxiv.org/pdf/1805.08490.pdf) |
 | [S3E12](https://ai-ml.club/events/seminar-meeting-minutes-3-12/) | [@CyFeng16](https://github.com/CyFeng16) | [Recursive Sketches for Modular Deep Learning](https://arxiv.org/abs/1905.12730) |
 | [S3E10](https://ai-ml.club/events/seminar-meeting-minutes-3-10/) | [@gaojiuy](https://github.com/gaojiuy) | [Visualizing the Hidden Activity of Artificial Neural Networks](https://ieeexplore.ieee.org/document/7539329) |
