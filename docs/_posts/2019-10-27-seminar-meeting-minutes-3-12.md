@@ -88,7 +88,7 @@ header:
 
   [Recursive Sketches for Modular Deep Learning](https://arxiv.org/abs/1905.12730)
   
-  ![石珅达]({{ '/assets/2019/seminar-3-6/seminar-3-12-cyfeng.jpg'| relative_url }})
+  ![石珅达]({{ '/assets/2019/seminar-3-12/seminar-3-12-cyfeng.jpg'| relative_url }})
 
 
 ## 授蛋仪式
