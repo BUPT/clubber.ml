@@ -46,6 +46,7 @@ We only add paper to this list before we decide to oral/poster it at our AMC sem
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
+| [S3E13](https://ai-ml.club/events/seminar-meeting-minutes-3-13/) | [@23LuZ](https://github.com/23LuZ) | [A Brief Review of Evaluation for Chatbot systems](https://github.com/23LuZ/the-Evaluation-of-ChitChat-System/blob/master/%E5%88%9D%E6%80%BB%E7%BB%93_%E9%97%B2%E8%81%8A%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E8%AF%84%E4%BB%B7%20the%20evaluation%20of%20the%20chitchat%20system.pdf) |
 | [S3E12](https://ai-ml.club/events/seminar-meeting-minutes-3-12/) | [@Leona08](https://github.com/Leona08) | [A peek into the black box: exploring classifiers by randomization](https://arxiv.org/pdf/1309.6392.pdf) |
 | [S3E12](https://ai-ml.club/events/seminar-meeting-minutes-3-12/)| [@tabZhang](https://github.com/ltg001) | [Generative Code Modeling With Graphs](https://arxiv.org/pdf/1805.08490.pdf) |
 | [S3E12](https://ai-ml.club/events/seminar-meeting-minutes-3-12/) | [@CyFeng16](https://github.com/CyFeng16) | [Recursive Sketches for Modular Deep Learning](https://arxiv.org/abs/1905.12730) |
