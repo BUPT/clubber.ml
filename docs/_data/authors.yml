@@ -220,3 +220,12 @@ hwfan:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:hwfan_bupt@outlook.com"
       
+23LuZ:
+  name       : "张璐"
+  bio        : "To Be Better"
+  avatar     : "https://avatars1.githubusercontent.com/u/44162178?s=400&u=ea2f75071b985ef067a9e8c5992bf5202e6e6116&v=4"
+  membership : 'chair'
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/23LuZ"
