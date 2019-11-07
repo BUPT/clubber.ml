@@ -46,7 +46,7 @@ We only add paper to this list before we decide to oral/poster it at our AMC sem
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
-| [S3E13](https://ai-ml.club/events/seminar-meeting-minutes-3-12/) | [@qhduan](https://github.com/qhduan) | [Deep Biaffine Attention for Neural Dependency Parsing](https://arxiv.org/abs/1611.01734) |
+| [S3E13](https://ai-ml.club/events/seminar-meeting-minutes-3-13/) | [@qhduan](https://github.com/qhduan) | [Deep Biaffine Attention for Neural Dependency Parsing](https://arxiv.org/abs/1611.01734) |
 | [S3E13](https://ai-ml.club/events/seminar-meeting-minutes-3-13/) | [@23LuZ](https://github.com/23LuZ) | [A Brief Review of Evaluation for Chatbot systems](https://github.com/23LuZ/the-Evaluation-of-ChitChat-System/blob/master/%E5%88%9D%E6%80%BB%E7%BB%93_%E9%97%B2%E8%81%8A%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E8%AF%84%E4%BB%B7%20the%20evaluation%20of%20the%20chitchat%20system.pdf) |
 | [S3E12](https://ai-ml.club/events/seminar-meeting-minutes-3-12/) | [@Leona08](https://github.com/Leona08) | [A peek into the black box: exploring classifiers by randomization](https://arxiv.org/pdf/1309.6392.pdf) |
 | [S3E12](https://ai-ml.club/events/seminar-meeting-minutes-3-12/)| [@tabZhang](https://github.com/ltg001) | [Generative Code Modeling With Graphs](https://arxiv.org/pdf/1805.08490.pdf) |
@@ -70,7 +70,7 @@ We only add paper to this list before we decide to oral/poster it at our AMC sem
 | [S3E4](https://ai-ml.club/events/seminar-meeting-minutes-3-4/) | [@gaojiuy](https://github.com/gaojiuy) | [Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps](https://arxiv.org/pdf/1312.6034.pdf) |
 | [S3E3](https://ai-ml.club/events/seminar-meeting-minutes-3-3/) | [@ArronHZG](https://github.com/ArronHZG) | [Dual Attention Network for Scene Segmentation](https://arxiv.org/abs/1809.02983) |
 | [S3E3](https://ai-ml.club/events/seminar-meeting-minutes-3-3/) | [@gaojiuy](https://github.com/gaojiuy) | [Visualizing and Understanding Convolutional Networks](https://arxiv.org/pdf/1311.2901.pdf) |
-| [S3E3](https://ai-ml.club/events/seminar-meeting-minutes-3-3/) | [@tabZhang](https://github.com/ltg001) | [Chinese NER Using Lattice LSTM](https://arxiv.org/pdf/1805.02023.pdf) |  
+| [S3E3](https://ai-ml.club/events/seminar-meeting-minutes-3-3/) | [@tabZhang](https://github.com/ltg001) | [Chinese NER Using Lattice LSTM](https://arxiv.org/pdf/1805.02023.pdf) |
 | [S3E3](https://ai-ml.club/events/seminar-meeting-minutes-3-3/) | [@vdeamov](https://github.com/vdeamov) | [Learning to Propagate Labels-Transductive Propagation Network for Few-Shot Learning](https://arxiv.org/pdf/1805.10002) |
 | [S3E3](https://ai-ml.club/events/seminar-meeting-minutes-3-3/) | [@secortot](https://github.com/secortot) | [Feature Selective Anchor-Free Module for Single-Shot Object Detection](https://arxiv.org/abs/1903.00621) |
 | [S3E1](https://ai-ml.club/events/seminar-meeting-minutes-3-1/) | [@newip](https://github.com/newip) | [Clinically applicable deep learning for diagnosis and referral in retinal disease](https://www.nature.com/articles/s41591-018-0107-6) |
