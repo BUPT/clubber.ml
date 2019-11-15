@@ -31,6 +31,7 @@ We only add paper to this list before we decide to oral/poster it at our AMC sem
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
+| [S3E15](https://ai-ml.club/events/seminar-meeting-minutes-3-15/) | [@23LuZ](https://github.com/23LuZ) | 基于生成模型的闲聊机器人评价方法综述 |
 | [S3E12](https://ai-ml.club/events/seminar-meeting-minutes-3-12/) | [@hwfan](https://github.com/hwfan) | [How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)|
 | [S3E10](https://ai-ml.club/events/seminar-meeting-minutes-3-10/) | [@CyFeng16](https://github.com/CyFeng16) | [FastFCN and Cybernetics](https://arxiv.org/abs/1903.11816) |
 | [S3E8](https://ai-ml.club/events/seminar-meeting-minutes-3-8/) | [@CyFeng16](https://github.com/CyFeng16) | Development of Semantic Segmentation Domain |
