@@ -31,8 +31,10 @@ We only add paper to this list before we decide to oral/poster it at our AMC sem
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
-| [S3E15](https://ai-ml.club/events/seminar-meeting-minutes-3-15/) | [@23LuZ](https://github.com/23LuZ) | 基于生成模型的闲聊机器人评价方法综述 |
-| [S3E12](https://ai-ml.club/events/seminar-meeting-minutes-3-12/) | [@hwfan](https://github.com/hwfan) | [How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)|
+| [S3E13](https://ai-ml.club/events/seminar-meeting-minutes-3-13/) | [@23LuZ](https://github.com/23LuZ) | 基于生成模型的闲聊机器人评价方法综述 |
+| [S3E13](https://ai-ml.club/events/seminar-meeting-minutes-3-13/) | [@huan](https://github.com/huan) | [Chinese version of GPT2 training code, using BERT tokenizer.](https://github.com/Morizeyao/GPT2-Chinese) |
+| [S3E12](https://ai-ml.club/events/seminar-meeting-minutes-3-12/) | [@23LuZ](https://github.com/23LuZ) | 基于生成模型的闲聊机器人评价方法综述 |
+| [S3E11](https://ai-ml.club/events/seminar-meeting-minutes-3-11/) | [@hwfan](https://github.com/hwfan) | [How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)|
 | [S3E10](https://ai-ml.club/events/seminar-meeting-minutes-3-10/) | [@CyFeng16](https://github.com/CyFeng16) | [FastFCN and Cybernetics](https://arxiv.org/abs/1903.11816) |
 | [S3E8](https://ai-ml.club/events/seminar-meeting-minutes-3-8/) | [@CyFeng16](https://github.com/CyFeng16) | Development of Semantic Segmentation Domain |
 | [S3E8](https://ai-ml.club/events/seminar-meeting-minutes-3-8/) | [@hwfan](https://github.com/hwfan) | [Consensus-Driven Propagation in Massive Unlabeled Data for Face Recognition](https://arxiv.org/abs/1809.01407)|
@@ -47,6 +49,8 @@ We only add paper to this list before we decide to oral/poster it at our AMC sem
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
+| [S3E15](https://ai-ml.club/events/seminar-meeting-minutes-3-15/) | [@qhduan](https://github.com/qhduan) | [A Unified Model for Joint Chinese Word Segmentation and Dependency Parsing](https://arxiv.org/abs/1904.04697) |
+| [S3E15](https://ai-ml.club/events/seminar-meeting-minutes-3-15/) |[@CyFeng16](https://github.com/CyFeng16) | [An Empirical Study of Spatial Attention Mechanisms in Deep Networks](https://arxiv.org/abs/1904.05873)|
 | [S3E14](https://ai-ml.club/events/seminar-meeting-minutes-3-14/) | [@gaojiuy](https://github.com/gaojiuy) | [VISUALIZING DEEP NEURAL NETWORK DECISIONS:PREDICTION DIFFERENCE ANALYSIS](https://arxiv.org/pdf/1702.04595v1.pdf) |
 | [S3E13](https://ai-ml.club/events/seminar-meeting-minutes-3-13/) | [@qhduan](https://github.com/qhduan) | [Deep Biaffine Attention for Neural Dependency Parsing](https://arxiv.org/abs/1611.01734) |
 | [S3E13](https://ai-ml.club/events/seminar-meeting-minutes-3-13/) | [@23LuZ](https://github.com/23LuZ) | [A Brief Review of Evaluation for Chatbot systems](https://github.com/23LuZ/the-Evaluation-of-ChitChat-System/blob/master/%E5%88%9D%E6%80%BB%E7%BB%93_%E9%97%B2%E8%81%8A%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E8%AF%84%E4%BB%B7%20the%20evaluation%20of%20the%20chitchat%20system.pdf) |
