@@ -1,5 +1,5 @@
 ---
-title: 第三季11场 AI ML Club 活动纪要
+title: 第三季12场 AI ML Club 活动纪要
 author: hwfan
 date: 2019-10-27 19:00 +0800
 comments: true
@@ -9,7 +9,7 @@ categories:
 tags:
   - 
 header:
-  teaser: /assets/2019/seminar-3-11/seminar-3-11-after-party.jpg
+  teaser: /assets/2019/seminar-3-12/seminar-3-12-after-party.jpg
 ---
 
 << 本次沙龙通知: [#396](https://github.com/BUPT/ai-ml.club/issues/396)  <<
@@ -37,7 +37,7 @@ header:
   [How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
 
   （因故未能留下含本人的照片，以会议之后作同一讲解的含本人照片代替）
-    ![范弘炜]({{ '/assets/2019/seminar-3-11/seminar-3-11-fanhongwei.jpg'| relative_url }})
+    ![范弘炜]({{ '/assets/2019/seminar-3-12/seminar-3-12-fanhongwei.jpg'| relative_url }})
 
 ### Poster
 
@@ -48,7 +48,7 @@ header:
   [Generative Code Modeling With Graphs](https://arxiv.org/pdf/1805.08490.pdf)
   ([Github](https://github.com/Microsoft/graph-based-code-modelling))
 
-  ![张博涵]({{ '/assets/2019/seminar-3-11/seminar-3-11-ltg001.jpg'| relative_url }})
+  ![张博涵]({{ '/assets/2019/seminar-3-12/seminar-3-12-ltg001.jpg'| relative_url }})
 
   <div class="zoom-container" style="
       position: relative;
@@ -58,7 +58,7 @@ header:
       overflow:hidden;
   ">
     <iframe
-      src='{{ '/assets/js/viewer-js/' | relative_url }}#{{ '/assets/2019/seminar-3-11/ltg001.pdf' | relative_url }}'
+      src='{{ '/assets/js/viewer-js/' | relative_url }}#{{ '/assets/2019/seminar-3-12/ltg001.pdf' | relative_url }}'
       width='560'
       height='315'
       allowfullscreen
@@ -80,7 +80,7 @@ header:
 
   [A peek into the black box: exploring classifiers by randomization](https://arxiv.org/pdf/1309.6392.pdf)
 
-  ![吴凤民]({{ '/assets/2019/seminar-3-11/seminar-3-11-leona.jpg'| relative_url }})
+  ![吴凤民]({{ '/assets/2019/seminar-3-12/seminar-3-12-leona.jpg'| relative_url }})
 
 - 石珅达 @[CyFeng16](https://github.com/CyFeng16)
 
@@ -88,16 +88,16 @@ header:
 
   [Recursive Sketches for Modular Deep Learning](https://arxiv.org/abs/1905.12730)
 
-  ![石珅达]({{ '/assets/2019/seminar-3-11/seminar-3-11-cyfeng.jpg'| relative_url }})
+  ![石珅达]({{ '/assets/2019/seminar-3-12/seminar-3-12-cyfeng.jpg'| relative_url }})
 
 ## 授蛋仪式
 
 授蛋仪式
-![授蛋]({{ '/assets/2019/seminar-3-11/seminar-3-11-chairman-appointment.jpg'| relative_url }})
+![授蛋]({{ '/assets/2019/seminar-3-12/seminar-3-12-chairman-appointment.jpg'| relative_url }})
 
 ## 集体合照
 
-![合照]({{ '/assets/2019/seminar-3-11/seminar-3-11-group-photo.jpg' | relative_url }})
+![合照]({{ '/assets/2019/seminar-3-12/seminar-3-12-group-photo.jpg' | relative_url }})
 
 ## 俱乐部讨论内容
 
@@ -107,7 +107,7 @@ header:
 
 ## After Party
 
-![AfterParty]({{ '/assets/2019/seminar-3-11/seminar-3-11-after-party.jpg' | relative_url }})
+![AfterParty]({{ '/assets/2019/seminar-3-12/seminar-3-12-after-party.jpg' | relative_url }})
 
 ## RSVP
 
