@@ -1,5 +1,5 @@
 ---
-title: 第三季12场 AI ML Club 活动纪要
+title: 第三季11场 AI ML Club 活动纪要
 author: hwfan
 date: 2019-10-27 19:00 +0800
 comments: true

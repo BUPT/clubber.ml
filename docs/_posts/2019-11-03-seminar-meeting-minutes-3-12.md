@@ -1,5 +1,5 @@
 ---
-title: 第三季13场 (NLP) AI ML Club 活动纪要
+title: 第三季12场 (NLP) AI ML Club 活动纪要
 author: 23LuZ
 categories: events
 tags:
