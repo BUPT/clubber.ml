@@ -5,7 +5,7 @@ categories: events
 tags:
   - nlp
 header:
-  teaser: /assets/2019/seminar-3-13/seminar-3-13-after-party.jpg
+  teaser: /assets/2019/seminar-3-12/seminar-3-12-after-party.jpg
 ---
 
 << 本次沙龙通知: [#406](https://github.com/BUPT/ai-ml.club/issues/406)  <<
@@ -25,15 +25,15 @@ header:
 
 ### 1 Oral([hwfan](https://github.com/hwfan)): [How to Read a Paper](https://www.computing.dcu.ie/~ray/teaching/CA485/notes/01_how_to_read_a_paper.pdf)
 
-![hwfan]({{ '/assets/2019/seminar-3-13/seminar-3-13-talk-fanhongwei.jpg'| relative_url }})
+![hwfan]({{ '/assets/2019/seminar-3-12/seminar-3-12-talk-fanhongwei.jpg'| relative_url }})
 
 ### 2 Poster([qhduan](https://github.com/qhduan)): [Deep Biaffine Attention for Neural Dependency Parsing](https://arxiv.org/abs/1611.01734)
 
-![qhduan]({{ '/assets/2019/seminar-3-13/seminar-3-13-talk-duanqinghua.jpg'| relative_url }})
+![qhduan]({{ '/assets/2019/seminar-3-12/seminar-3-12-talk-duanqinghua.jpg'| relative_url }})
 
 ### 3 Poster([23LuZ](https://github.com/23LuZ)): [A Brief Review of Evaluation for Chatbot systems](https://github.com/23LuZ/the-Evaluation-of-ChitChat-System/blob/master/%E5%88%9D%E6%80%BB%E7%BB%93_%E9%97%B2%E8%81%8A%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E8%AF%84%E4%BB%B7%20the%20evaluation%20of%20the%20chitchat%20system.pdf)
 
-![Lu]({{ '/assets/2019/seminar-3-13/seminar-3-13-talk-zhanglu.jpg'| relative_url }})
+![Lu]({{ '/assets/2019/seminar-3-12/seminar-3-12-talk-zhanglu.jpg'| relative_url }})
 
 ## 授蛋仪式
 
@@ -41,13 +41,13 @@ header:
 | ------ | ------ | ----- | ------------- |
 | S3E15  | 17 Oct | NLP   | 李卓桓/段清华 |
 
-![授蛋]({{ '/assets/2019/seminar-3-13/seminar-3-13-chairman-appointment.jpg'| relative_url }})
+![授蛋]({{ '/assets/2019/seminar-3-12/seminar-3-12-chairman-appointment.jpg'| relative_url }})
 
 > 从左往右：段清华，张璐，贺新（代李卓桓合影）
 
 ## 集体合照
 
-![合照]({{ '/assets/2019/seminar-3-13/seminar-3-13-group-photo.jpg' | relative_url }})
+![合照]({{ '/assets/2019/seminar-3-12/seminar-3-12-group-photo.jpg' | relative_url }})
 
 > 从左起：贺新，段清华，范弘炜，张璐
 
@@ -60,7 +60,7 @@ header:
 
 ## After Party
 
-![AfterParty]({{ '/assets/2019/seminar-3-13/seminar-3-13-after-party.jpg' | relative_url }})
+![AfterParty]({{ '/assets/2019/seminar-3-12/seminar-3-12-after-party.jpg' | relative_url }})
 
 > 从左起：石珅达，贺新，张璐，段清华，范弘炜
 
