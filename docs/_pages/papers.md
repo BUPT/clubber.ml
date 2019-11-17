@@ -31,6 +31,7 @@ We only add paper to this list before we decide to oral/poster it at our AMC sem
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
+| [S3E15](https://ai-ml.club/events/seminar-meeting-minutes-3-13/) | [@secortot](https://github.com/secortot) | 关于申请成立AMC学术指导委员会暨MM项目外联工作汇报 |
 | [S3E15](https://ai-ml.club/events/seminar-meeting-minutes-3-13/) | [@23LuZ](https://github.com/23LuZ) | 基于生成模型的闲聊机器人评价方法综述 |
 | [S3E15](https://ai-ml.club/events/seminar-meeting-minutes-3-13/) | [@huan](https://github.com/huan) | [Chinese version of GPT2 training code, using BERT tokenizer.](https://github.com/Morizeyao/GPT2-Chinese) |
 | [S3E13](https://ai-ml.club/events/seminar-meeting-minutes-3-12/) | [@23LuZ](https://github.com/23LuZ) | 基于生成模型的闲聊机器人评价方法综述 |
