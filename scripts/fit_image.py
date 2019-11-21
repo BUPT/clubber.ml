@@ -1,14 +1,17 @@
 """
-A python tool to resize images 
+A python tool to resize images(如果你不想阅读下面的英文，使用推荐命令[第一条]就可以了)
 
 Usage:
     python fit_image.py --images (image_dir|one image) --width 1920
 
     if you wanna resize image by setting resolution
     please use this command :
-        - python fit_image.py --images xxxx --width 1920 (recommend)
+        - python fit_image.py --images xxxx --width 1920
+         (RECOMMEND!! you only set width which height can rescale by width change ratio)
         - python fit_image.py --images xxxx  --height 1080 
-        - python fit_image.py --images xxxx --width 1920 --height 1080  
+        (same as above)
+        - python fit_image.py --images xxxx --width 1920 --height 1080
+        (not recommend,only if you know how change image)
 
     if you wanna resize image resolution by setting ratio ,
     please use this command(not recommend):
