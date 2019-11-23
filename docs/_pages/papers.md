@@ -49,6 +49,7 @@ We only add paper to this list before we decide to oral/poster it at our AMC sem
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
+| [S3E16](https://ai-ml.club/events/seminar-meeting-minutes-3-16/) | [@newip](https://github.com/newip) | [Deep Learning in Spiking Neural Networks](https://arxiv.org/pdf/1804.08150) |
 | [S3E15](https://ai-ml.club/events/seminar-meeting-minutes-3-15/) | [@qhduan](https://github.com/qhduan) | [A Unified Model for Joint Chinese Word Segmentation and Dependency Parsing](https://arxiv.org/abs/1904.04697) |
 | [S3E15](https://ai-ml.club/events/seminar-meeting-minutes-3-15/) |[@CyFeng16](https://github.com/CyFeng16) | [An Empirical Study of Spatial Attention Mechanisms in Deep Networks](https://arxiv.org/abs/1904.05873)|
 | [S3E14](https://ai-ml.club/events/seminar-meeting-minutes-3-14/) | [@gaojiuy](https://github.com/gaojiuy) | [VISUALIZING DEEP NEURAL NETWORK DECISIONS:PREDICTION DIFFERENCE ANALYSIS](https://arxiv.org/pdf/1702.04595v1.pdf) |
