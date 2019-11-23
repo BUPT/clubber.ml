@@ -46,6 +46,7 @@ We only add paper to this list before we decide to oral/poster it at our AMC sem
 |[S3E5](https://ai-ml.club/events/seminar-meeting-minutes-3-5/)|[@23LuZ](https://github.com/23LuZ)|[A Neural Conversational Model](https://arxiv.org/pdf/1506.05869.pdf)|
 
 ### Posters (Season 3)
+
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
 | [S3E16](https://ai-ml.club/events/seminar-meeting-minutes-3-16/) | [@newip](https://github.com/newip) | [Deep Learning in Spiking Neural Networks](https://arxiv.org/pdf/1804.08150) |
