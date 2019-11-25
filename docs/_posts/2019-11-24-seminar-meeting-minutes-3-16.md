@@ -10,9 +10,6 @@ tags:
   - 
 header:
   teaser: /assets/2019/seminar-3-16/t-photo.jpg
-
-
-
 ---
 
 << 本次沙龙通知: [#430](https://github.com/BUPT/ai-ml.club/issues/430)  <<
@@ -28,8 +25,6 @@ header:
 本届沙龙内容（按发言顺序，由主席指定顺序)
 
 ## 沙龙内容
-
-
 
 ### Poster
 
@@ -93,27 +88,17 @@ header:
     ></iframe>
   </di>
 
-
-
 ## 授蛋仪式
 
 ![授蛋]({{ '/assets/2019/seminar-3-16/seminar-3-16-chairman-appointment.jpg'| relative_url }})
 
-
-
 > 从左起：贺新，高久怡，吴凤民
-
-
 
 ## 集体合照
 
 ![合照]({{ '/assets/2019/seminar-3-16/seminar-3-16-group-photo.jpg' | relative_url }})
 
-
-
 > 从左起：贺新，吴凤民，高久怡
-
-
 
 ## 脑洞
 
@@ -121,15 +106,11 @@ header:
 
 2. Leona08: SNNs研究方向非常新颖独特，其时间敏感性与RNN的信息传递方式非常相似；
 
-   
-
 ## 吐槽
 
 1. newip: 最近活动的参与人数较少，应该采取一些措施激发大家的参与热情，而且主席应该履行好相应的职责，比如指定oral或poster；
 
 2. gaojiuy: pr的提交期限应该遵循，不能拖太晚，最好应该在周五之前就提交，以方便之后活动通知的发布；
-
-   
 
 ## RSVP
 
