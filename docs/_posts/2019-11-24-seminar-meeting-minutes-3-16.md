@@ -28,9 +28,9 @@ header:
 
 ### Poster
 
-- 高久怡 @[gaojiuy](https://github.com/gaojiuy)
+- 高久怡 @[gaojiuy](https://github.com/gaojiuy)：[Visualizing Deep Neural Network Decisions: Prediction Difference Analysis](https://arxiv.org/abs/1702.04595)
 
-  > 分享了论文[Visualizing Deep Neural Network Decisions: Prediction Difference Analysis](https://arxiv.org/abs/1702.04595)
+  > 分享了一篇神经网络可视化的论文，这篇论文是建立在统计学研究的基础上的，论文通过对比移除某些输入特征前后的输入数据的特定类别预测概率的变化来作为特征重要性评估标准，论文的两个创新点分别是在假设特征相关的前提下提出了条件采样和多变量分析。
 
   ![高久怡]({{ '/assets/2019/seminar-3-16/seminar-3-16-talk-gaojiuy.jpg'| relative_url }})
 
@@ -58,11 +58,11 @@ header:
     ></iframe>
   </div>
 
-- 贺新 [newip](https://github.com/newip)
+- 贺新 @[newip](https://github.com/newip)[Deep Learning in Spiking Neural Networks](https://arxiv.org/abs/1804.08150)
 
-  > 分享了[Deep Learning in Spiking Neural Networks](https://)
+  > 分享了一篇关于脉冲神经网络的论文，这篇论文首先综合地阐述了SNN的特征：稀疏性、时间敏感性、快速性等，然后提出了SNN在不同的网络结构下（如：CNN,RNN,FCN）的训练方式。
 
-  ![李卓桓]({{ '/assets/2019/seminar-3-16/seminar-3-16-talk-newip.jpg'| relative_url }})
+  ![贺新]({{ '/assets/2019/seminar-3-16/seminar-3-16-talk-newip.jpg'| relative_url }})
 
   <div class="zoom-container" style="
       position: relative;
