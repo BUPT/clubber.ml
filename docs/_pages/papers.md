@@ -48,6 +48,7 @@ We only add paper to this list before we decide to oral/poster it at our AMC sem
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
+| [S3E17](https://ai-ml.club/events/seminar-meeting-minutes-3-17/) | [@qhduan](https://github.com/qhduan) | [Visualizing and Measuring the Geometry of BERT](https://arxiv.org/abs/1906.02715) |
 | [S3E17](https://ai-ml.club/events/seminar-meeting-minutes-3-17/) | [@huan](https://github.com/huan) | [Improving Multi-turn Dialogue Modelling with Utterance ReWriter](https://github.com/chin-gyou/dialogue-utterance-rewriter) |
 | [S3E16](https://ai-ml.club/events/seminar-meeting-minutes-3-16/) | [@newip](https://github.com/newip) | [Deep Learning in Spiking Neural Networks](https://arxiv.org/pdf/1804.08150) |
 | [S3E15](https://ai-ml.club/events/seminar-meeting-minutes-3-15/) | [@huan](https://github.com/huan) | [Chinese version of GPT2 training code, using BERT tokenizer.](https://github.com/Morizeyao/GPT2-Chinese) |
