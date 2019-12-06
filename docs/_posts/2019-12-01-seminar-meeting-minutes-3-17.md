@@ -42,7 +42,7 @@ header:
       overflow:hidden;
   ">
     <iframe
-      src='{{ '/assets/js/viewer-js/#https://arxiv.org/pdf/1906.07004' | relative_url }}'
+      src='{{ '/assets/js/viewer-js/#/assets/2019/seminar-3-17/seminar-3-17-huan.pdf' | relative_url }}'
       width='560'
       height='315'
       allowfullscreen
@@ -72,7 +72,7 @@ header:
       overflow:hidden;
   ">
     <iframe
-      src='{{ '/assets/js/viewer-js/#https://arxiv.org/pdf/1804.08150' | relative_url }}'
+      src='{{ '/assets/js/viewer-js/#/assets/2019/seminar-3-17/seminar-3-17-qhduan.pdf' | relative_url }}'
       width='560'
       height='315'
       allowfullscreen
@@ -102,7 +102,7 @@ header:
       overflow:hidden;
   ">
     <iframe
-      src='{{ '/assets/js/viewer-js/#https://arxiv.org/abs/1804.08150' | relative_url }}'
+      src='{{ '/assets/js/viewer-js/#/assets/2019/seminar-3-16/seminar3-16-snn.pdf' | relative_url }}'
       width='560'
       height='315'
       allowfullscreen
