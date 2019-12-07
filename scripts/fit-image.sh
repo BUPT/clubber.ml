@@ -5,7 +5,7 @@ function resize () {
   FILE=$1
   mogrify \
     -verbose \
-    -quality 80 \
+    -quality 90 \
     -resize '1920>' \
     "${FILE}"
 }
