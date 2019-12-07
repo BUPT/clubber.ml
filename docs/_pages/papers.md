@@ -31,6 +31,9 @@ We only add paper to this list before we decide to oral/poster it at our AMC sem
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
+| [S3E15](https://ai-ml.club/events/seminar-meeting-minutes-3-15/) | [@23LuZ](https://github.com/23LuZ) | 基于生成模型的闲聊机器人评价方法综述 |
+| [S3E13](https://ai-ml.club/events/seminar-meeting-minutes-3-13/) | [@23LuZ](https://github.com/23LuZ) | 基于生成模型的闲聊机器人评价方法综述 |
+| [S3E12](https://ai-ml.club/events/seminar-meeting-minutes-3-12/) | [@hwfan](https://github.com/hwfan) | [How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)|
 | [S3E10](https://ai-ml.club/events/seminar-meeting-minutes-3-10/) | [@CyFeng16](https://github.com/CyFeng16) | [FastFCN and Cybernetics](https://arxiv.org/abs/1903.11816) |
 | [S3E8](https://ai-ml.club/events/seminar-meeting-minutes-3-8/) | [@CyFeng16](https://github.com/CyFeng16) | Development of Semantic Segmentation Domain |
 | [S3E8](https://ai-ml.club/events/seminar-meeting-minutes-3-8/) | [@hwfan](https://github.com/hwfan) | [Consensus-Driven Propagation in Massive Unlabeled Data for Face Recognition](https://arxiv.org/abs/1809.01407)|
@@ -45,16 +48,29 @@ We only add paper to this list before we decide to oral/poster it at our AMC sem
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
-| [S3E10](https://ai-ml.club/events/seminar-meeting-minutes-3-10/) | [@ximingxing](https://github.com/ximingxing) | [Induction Networks for Few-Shot Text Classification](https://arxiv.org/abs/1902.10482)
-| [S3E10](https://ai-ml.club/events/seminar-meeting-minutes-3-10/) | [@Leona08](https://github.com/Leona08) | [“Why Should I Trust You?”Explaining the Predictions of Any Classifier](https://arxiv.org/pdf/1602.04938.pdf)
-| [S3E10](https://ai-ml.club/events/seminar-meeting-minutes-3-10/) | [@gaojiuy](https://github.com/gaojiuy) | [Visualizing the Hidden Activity of Artificial Neural Networks](https://ieeexplore.ieee.org/document/7539329)
-| [S3E9](https://ai-ml.club/events/seminar-meeting-minutes-3-9/) | [@cgpeter96](https://github.com/cgpeter96) | [25 Tweets to Know You: A New Model to Predict Personality with Social Media](https://arxiv.org/abs/1704.05513)
-| [S3E9](https://ai-ml.club/events/seminar-meeting-minutes-3-9/) | [@CyFeng16](https://github.com/CyFeng16) | [人工智能, 碳污染, 及其应对](https://www.technologyreview.com/f/614473/tiny-ai-could-supercharge-autocorrect-voice-assistants-on-your-phone/)
-| [S3E9](https://ai-ml.club/events/seminar-meeting-minutes-3-9/) | [@huan](https://github.com/huan) | [Transformer如戏，全靠Mask](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247499793&idx=1&sn=685c54d27186a89dcf32d91ce0927274)
-| [S3E8](https://ai-ml.club/events/seminar-meeting-minutes-3-8/) | [@gaojiuy](https://github.com/gaojiuy) | [Visualizing the Hidden Activity of Artificial Neural Networks](https://ieeexplore.ieee.org/document/7539329)
-| [S3E7](https://ai-ml.club/events/seminar-meeting-minutes-3-7/) | [@AlaskaaWong](https://github.com/AlaskaaWong) | [模糊语言的语用分析](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD8589&filename=OUTL198904001&v=MzI2MDR1eFlTN0RoMVQzcVRyV00xRnJDVVJMT2ZidVJ2RkNua1VyM05LampmWXJLeEZ0ak1xNDlGWllSOGVYMUw=)
-| [S3E7](https://ai-ml.club/events/seminar-meeting-minutes-3-7/) | [@23LuZ](https://github.com/23LuZ) | [Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models](https://arxiv.org/pdf/1507.04808.pdf)
-| [S3E7](https://ai-ml.club/events/seminar-meeting-minutes-3-7/) | [@ggsonic](https://github.com/ggsonic) | [Predicting Prosodic Prominence from Text with Pre-trained Contextualized Word Representations](https://arxiv.org/pdf/1908.02262.pdf)
+| [S3E17](https://ai-ml.club/events/seminar-meeting-minutes-3-17/) | [@qhduan](https://github.com/qhduan) | [Visualizing and Measuring the Geometry of BERT](https://arxiv.org/abs/1906.02715) |
+| [S3E17](https://ai-ml.club/events/seminar-meeting-minutes-3-17/) | [@huan](https://github.com/huan) | [Improving Multi-turn Dialogue Modelling with Utterance ReWriter](https://github.com/chin-gyou/dialogue-utterance-rewriter) |
+| [S3E16](https://ai-ml.club/events/seminar-meeting-minutes-3-16/) | [@newip](https://github.com/newip) | [Deep Learning in Spiking Neural Networks](https://arxiv.org/pdf/1804.08150) |
+| [S3E15](https://ai-ml.club/events/seminar-meeting-minutes-3-15/) | [@huan](https://github.com/huan) | [Chinese version of GPT2 training code, using BERT tokenizer.](https://github.com/Morizeyao/GPT2-Chinese) |
+| [S3E15](https://ai-ml.club/events/seminar-meeting-minutes-3-15/) | [@qhduan](https://github.com/qhduan) | [A Unified Model for Joint Chinese Word Segmentation and Dependency Parsing](https://arxiv.org/abs/1904.04697) |
+| [S3E15](https://ai-ml.club/events/seminar-meeting-minutes-3-15/) |[@CyFeng16](https://github.com/CyFeng16) | [An Empirical Study of Spatial Attention Mechanisms in Deep Networks](https://arxiv.org/abs/1904.05873)|
+| [S3E14](https://ai-ml.club/events/seminar-meeting-minutes-3-14/) | [@gaojiuy](https://github.com/gaojiuy) | [VISUALIZING DEEP NEURAL NETWORK DECISIONS:PREDICTION DIFFERENCE ANALYSIS](https://arxiv.org/pdf/1702.04595v1.pdf) |
+| [S3E13](https://ai-ml.club/events/seminar-meeting-minutes-3-13/) | [@qhduan](https://github.com/qhduan) | [Deep Biaffine Attention for Neural Dependency Parsing](https://arxiv.org/abs/1611.01734) |
+| [S3E13](https://ai-ml.club/events/seminar-meeting-minutes-3-13/) | [@23LuZ](https://github.com/23LuZ) | [A Brief Review of Evaluation for Chatbot systems](https://github.com/23LuZ/the-Evaluation-of-ChitChat-System/blob/master/%E5%88%9D%E6%80%BB%E7%BB%93_%E9%97%B2%E8%81%8A%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E8%AF%84%E4%BB%B7%20the%20evaluation%20of%20the%20chitchat%20system.pdf) |
+| [S3E12](https://ai-ml.club/events/seminar-meeting-minutes-3-12/) | [@Leona08](https://github.com/Leona08) | [A peek into the black box: exploring classifiers by randomization](https://arxiv.org/pdf/1309.6392.pdf) |
+| [S3E12](https://ai-ml.club/events/seminar-meeting-minutes-3-12/)| [@tabZhang](https://github.com/ltg001) | [Generative Code Modeling With Graphs](https://arxiv.org/pdf/1805.08490.pdf) |
+| [S3E12](https://ai-ml.club/events/seminar-meeting-minutes-3-12/) | [@CyFeng16](https://github.com/CyFeng16) | [Recursive Sketches for Modular Deep Learning](https://arxiv.org/abs/1905.12730) |
+| [S3E10](https://ai-ml.club/events/seminar-meeting-minutes-3-10/) | [@gaojiuy](https://github.com/gaojiuy) | [Visualizing the Hidden Activity of Artificial Neural Networks](https://ieeexplore.ieee.org/document/7539329) |
+| [S3E10](https://ai-ml.club/events/seminar-meeting-minutes-3-10/) | [@ximingxing](https://github.com/ximingxing) | [Induction Networks for Few-Shot Text Classification](https://arxiv.org/abs/1902.10482) |
+| [S3E10](https://ai-ml.club/events/seminar-meeting-minutes-3-10/) | [@Leona08](https://github.com/Leona08) | [“Why Should I Trust You?”Explaining the Predictions of Any Classifier](https://arxiv.org/pdf/1602.04938.pdf) |
+| [S3E10](https://ai-ml.club/events/seminar-meeting-minutes-3-10/) | [@gaojiuy](https://github.com/gaojiuy) | [Visualizing the Hidden Activity of Artificial Neural Networks](https://ieeexplore.ieee.org/document/7539329) |
+| [S3E9](https://ai-ml.club/events/seminar-meeting-minutes-3-9/) | [@cgpeter96](https://github.com/cgpeter96) | [25 Tweets to Know You: A New Model to Predict Personality with Social Media](https://arxiv.org/abs/1704.05513) |
+| [S3E9](https://ai-ml.club/events/seminar-meeting-minutes-3-9/) | [@CyFeng16](https://github.com/CyFeng16) | [人工智能, 碳污染, 及其应对](https://www.technologyreview.com/f/614473/tiny-ai-could-supercharge-autocorrect-voice-assistants-on-your-phone/) |
+| [S3E9](https://ai-ml.club/events/seminar-meeting-minutes-3-9/) | [@huan](https://github.com/huan) | [Transformer如戏，全靠Mask](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247499793&idx=1&sn=685c54d27186a89dcf32d91ce0927274) |
+| [S3E8](https://ai-ml.club/events/seminar-meeting-minutes-3-8/) | [@gaojiuy](https://github.com/gaojiuy) | [Visualizing the Hidden Activity of Artificial Neural Networks](https://ieeexplore.ieee.org/document/7539329) |
+| [S3E7](https://ai-ml.club/events/seminar-meeting-minutes-3-7/) | [@AlaskaaWong](https://github.com/AlaskaaWong) | [模糊语言的语用分析](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD8589&filename=OUTL198904001&v=MzI2MDR1eFlTN0RoMVQzcVRyV00xRnJDVVJMT2ZidVJ2RkNua1VyM05LampmWXJLeEZ0ak1xNDlGWllSOGVYMUw=) |
+| [S3E7](https://ai-ml.club/events/seminar-meeting-minutes-3-7/) | [@23LuZ](https://github.com/23LuZ) | [Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models](https://arxiv.org/pdf/1507.04808.pdf) |
+| [S3E7](https://ai-ml.club/events/seminar-meeting-minutes-3-7/) | [@ggsonic](https://github.com/ggsonic) | [Predicting Prosodic Prominence from Text with Pre-trained Contextualized Word Representations](https://arxiv.org/pdf/1908.02262.pdf) |
 | [S3E6](https://ai-ml.club/events/seminar-meeting-minutes-3-6/) | [@fuyunfuyun666](https://github.com/fuyunfuyun666) | [Multi-task Learning of Hierarchical Vision-Language Representation](https://arxiv.org/pdf/1812.00500.pdf) |
 | [S3E6](https://ai-ml.club/events/seminar-meeting-minutes-3-6/) | [@23LuZ](https://github.com/23LuZ) | [Neural Responding Machine for Short-Text Conversation](https://www.aclweb.org/anthology/P15-1152) |
 | [S3E6](https://ai-ml.club/events/seminar-meeting-minutes-3-6/) | [@huan](https://github.com/huan) | [Tensorflow 2.0 with TPU](https://github.com/huan/tensorflow-handbook-tpu) |
@@ -63,7 +79,7 @@ We only add paper to this list before we decide to oral/poster it at our AMC sem
 | [S3E4](https://ai-ml.club/events/seminar-meeting-minutes-3-4/) | [@gaojiuy](https://github.com/gaojiuy) | [Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps](https://arxiv.org/pdf/1312.6034.pdf) |
 | [S3E3](https://ai-ml.club/events/seminar-meeting-minutes-3-3/) | [@ArronHZG](https://github.com/ArronHZG) | [Dual Attention Network for Scene Segmentation](https://arxiv.org/abs/1809.02983) |
 | [S3E3](https://ai-ml.club/events/seminar-meeting-minutes-3-3/) | [@gaojiuy](https://github.com/gaojiuy) | [Visualizing and Understanding Convolutional Networks](https://arxiv.org/pdf/1311.2901.pdf) |
-| [S3E3](https://ai-ml.club/events/seminar-meeting-minutes-3-3/) | [@tabZhang](https://github.com/ltg001) | [Chinese NER Using Lattice LSTM](https://arxiv.org/pdf/1805.02023.pdf) |  
+| [S3E3](https://ai-ml.club/events/seminar-meeting-minutes-3-3/) | [@tabZhang](https://github.com/ltg001) | [Chinese NER Using Lattice LSTM](https://arxiv.org/pdf/1805.02023.pdf) |
 | [S3E3](https://ai-ml.club/events/seminar-meeting-minutes-3-3/) | [@vdeamov](https://github.com/vdeamov) | [Learning to Propagate Labels-Transductive Propagation Network for Few-Shot Learning](https://arxiv.org/pdf/1805.10002) |
 | [S3E3](https://ai-ml.club/events/seminar-meeting-minutes-3-3/) | [@secortot](https://github.com/secortot) | [Feature Selective Anchor-Free Module for Single-Shot Object Detection](https://arxiv.org/abs/1903.00621) |
 | [S3E1](https://ai-ml.club/events/seminar-meeting-minutes-3-1/) | [@newip](https://github.com/newip) | [Clinically applicable deep learning for diagnosis and referral in retinal disease](https://www.nature.com/articles/s41591-018-0107-6) |
