@@ -1,5 +1,5 @@
 ---
-title: 第三季17场 AI ML Club 活动纪要
+title: 第三季17场 (NLP) AI ML Club 活动纪要
 author: qhduan
 date: 2019-12-01 19:00 +0800
 comments: true
@@ -14,7 +14,7 @@ header:
 
 << 本次沙龙通知: [#437](https://github.com/BUPT/ai-ml.club/issues/437)  <<
 
-## 第三季17场 AMC 沙龙活动纪要
+## 第三季17场 NLP AMC 沙龙活动纪要
 
 - 日期：2019年12月1日周日下午7-10点
 - 地点：北邮科研楼821
