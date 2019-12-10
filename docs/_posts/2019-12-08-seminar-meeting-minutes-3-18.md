@@ -1,5 +1,5 @@
 ---
-title: 第三季18场 AI ML Club 活动纪要
+title: 第三季18场 (CV) AI ML Club 活动纪要
 author: Leona08
 date: 2019-12-08 19:00 +0800
 comments: true
