@@ -48,7 +48,7 @@ We only add paper to this list before we decide to oral/poster it at our AMC sem
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
-| [S3E18](https://ai-ml.club/events/seminar-meeting-minutes-3-18/) | [@Duan-JM](https://github.com/ximingxing) | Optimization-Based Meta-Learning |
+| [S3E18](https://ai-ml.club/events/seminar-meeting-minutes-3-18/) | [@ximingxing](https://github.com/ximingxing) | Optimization-Based Meta-Learning |
 | [S3E18](https://ai-ml.club/events/seminar-meeting-minutes-3-18/) | [@Duan-JM](https://github.com/Duan-JM) | Brief Roadmap for Few-shot Image Classification |
 | [S3E17](https://ai-ml.club/events/seminar-meeting-minutes-3-17/) | [@qhduan](https://github.com/qhduan) | [Visualizing and Measuring the Geometry of BERT](https://arxiv.org/abs/1906.02715) |
 | [S3E17](https://ai-ml.club/events/seminar-meeting-minutes-3-17/) | [@huan](https://github.com/huan) | [Improving Multi-turn Dialogue Modelling with Utterance ReWriter](https://github.com/chin-gyou/dialogue-utterance-rewriter) |
