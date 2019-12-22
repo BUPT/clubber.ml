@@ -38,7 +38,6 @@ header:
 
 > 本次活动没有副主席到场，也没有下下届主席人选，故缺失一次授蛋仪式（希望在下次开会结束进行讨论）
 
-
 ## 集体合照
 
 ![合照]({{ '/assets/2019/seminar-3-20/seminar-3-20-group-photo.jpg' | relative_url }})
