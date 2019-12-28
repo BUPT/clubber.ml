@@ -31,7 +31,7 @@ We only add paper to this list before we decide to oral/poster it at our AMC sem
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
-| [S3E15](https://ai-ml.club/events/seminar-meeting-minutes-3-21/) | [@zwj277567959](https://github.com/zwj277567959) | 基于bert的qc搜索相关性 |
+| [S3E21](https://ai-ml.club/events/seminar-meeting-minutes-3-21/) | [@zwj277567959](https://github.com/zwj277567959) | 基于bert的qc搜索相关性 |
 | [S3E15](https://ai-ml.club/events/seminar-meeting-minutes-3-15/) | [@23LuZ](https://github.com/23LuZ) | 基于生成模型的闲聊机器人评价方法综述 |
 | [S3E13](https://ai-ml.club/events/seminar-meeting-minutes-3-13/) | [@23LuZ](https://github.com/23LuZ) | 基于生成模型的闲聊机器人评价方法综述 |
 | [S3E12](https://ai-ml.club/events/seminar-meeting-minutes-3-12/) | [@hwfan](https://github.com/hwfan) | [How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)|
