@@ -48,6 +48,7 @@ We only add paper to this list before we decide to oral/poster it at our AMC sem
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
+| [S3E21](https://ai-ml.club/events/seminar-meeting-minutes-3-21/) | [@23LuZ](https://github.com/23LuZ) | [Language Models are Unsupervised Multitask Learners](https://www.techbooky.com/wp-content/uploads/2019/02/Better-Language-Models-and-Their-Implications.pdf) |
 | [S3E21](https://ai-ml.club/events/seminar-meeting-minutes-3-21/) | [@huan](https://github.com/huan) | [Generating Sentences from a Continuous Space](https://arxiv.org/pdf/1511.06349.pdf) |
 | [S3E20](https://ai-ml.club/events/seminar-meeting-minutes-3-20/) | [@Duan-JM](https://github.com/duan-jm) | [Dense Classification and Implanting for Few-Shot Learning](https://arxiv.org/pdf/1903.05050.pdf) |
 | [S3E18](https://ai-ml.club/events/seminar-meeting-minutes-3-18/) | [@ximingxing](https://github.com/ximingxing) | Optimization-Based Meta-Learning |
