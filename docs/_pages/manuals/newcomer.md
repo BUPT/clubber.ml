@@ -65,3 +65,29 @@ Steps:
 1. 打开 Chrome 浏览器
 1. Chrome浏览器菜单中，选择 `Cast`
 1. 等待 Chrome 找到 `AMC Chromecast` 屏幕，选择 `Tab` 或 `Desktop` 进行投射即可
+
+## Join AI-ML.Club Google Groups (required)
+
+We are using Google Group to manage read & write permissions for our online resources, like Google Docs. View our groups online at: <https://groups.google.com/forum/#!forum/ai-ml-club>
+
+You are requried to join the group.
+
+You can join by submitting your email address in the following form:
+
+<!-- markdownlint-disable MD033 -->
+
+<iframe id="forum_embed"
+  src="javascript:void(0)"
+  scrolling="no"
+  frameborder="0"
+  width="900"
+  height="700">
+</iframe>
+<script type="text/javascript">
+  document.getElementById('forum_embed').src =
+     'https://groups.google.com/forum/embed/?place=forum/ai-ml-club'
+     + '&showsearch=true&showpopout=true&showtabs=false'
+     + '&parenturl=' + encodeURIComponent(window.location.href);
+</script>
+
+Or, you can subscribe from this group by sending email to ai-ml-club+subscribe@googlegroups.com
