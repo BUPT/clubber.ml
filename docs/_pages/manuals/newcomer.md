@@ -70,4 +70,4 @@ Steps:
 
 We are using Google Group to manage read & write permissions for our online resources, like Google Docs. View our groups online at: <https://groups.google.com/d/forum/ai-ml-club>
 
-You are requried to join the group, so please subscribe from this group by sending email to <ai-ml-club+subscribe@googlegroups.com> and then follow the instructions from the reply email.
+You are requried to join the group, so please subscribe from this group by sending email to `ai-ml-club+subscribe@googlegroups.com` and then follow the instructions from the reply email.
