@@ -34,7 +34,7 @@ header:
 
   ![李卓桓]({{ '/assets/2019/seminar-3-21/talk-huan.jpg'| relative_url }})
 
-- 段清华 @[23LuZ](https://github.com/23LuZ)：[Language Models are Unsupervised Multitask Learners](https://www.techbooky.com/wp-content/uploads/2019/02/Better-Language-Models-and-Their-Implications.pdf)
+- 张璐 @[23LuZ](https://github.com/23LuZ)：[Language Models are Unsupervised Multitask Learners](https://www.techbooky.com/wp-content/uploads/2019/02/Better-Language-Models-and-Their-Implications.pdf)
 
   > 分享了GPT和GPT-2的架构及应用
 
