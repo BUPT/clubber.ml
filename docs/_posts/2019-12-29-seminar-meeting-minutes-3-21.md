@@ -32,7 +32,7 @@ header:
 
   > 分享了一篇有关VAE的文章，VAE可以生成两个语义之间的很多句子，并对VAE未来的应用进行了畅想如利用VAE生成不同礼貌表达的评论
 
-  ![李卓桓]({{ '/assets/2019/seminar-3-21/talk-huan.jpg'| relative_url }})
+  ![李卓桓]({{ '/assets/2019/seminar-3-21/talk-lizhuohuan.jpg'| relative_url }})
 
 - 张璐 @[23LuZ](https://github.com/23LuZ)：[Language Models are Unsupervised Multitask Learners](https://www.techbooky.com/wp-content/uploads/2019/02/Better-Language-Models-and-Their-Implications.pdf)
 
@@ -50,7 +50,7 @@ header:
 
 ## 授蛋仪式
 
-![授蛋]({{ '/assets/2019/seminar-3-21/chairs.jpg'| relative_url }})
+![授蛋]({{ '/assets/2019/seminar-3-21/chair.jpg'| relative_url }})
 
 > 从左起：石珅达、张璐、李卓桓
 
