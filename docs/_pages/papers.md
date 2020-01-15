@@ -31,6 +31,7 @@ We only add paper to this list before we decide to oral/poster it at our AMC sem
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
+| [S3E21](https://ai-ml.club/events/seminar-meeting-minutes-3-21/) | [@zwj277567959](https://github.com/zwj277567959) | 基于bert的qc搜索相关性(Distilling the Knowledge in a Neural Network) |
 | [S3E15](https://ai-ml.club/events/seminar-meeting-minutes-3-15/) | [@23LuZ](https://github.com/23LuZ) | 基于生成模型的闲聊机器人评价方法综述 |
 | [S3E13](https://ai-ml.club/events/seminar-meeting-minutes-3-13/) | [@23LuZ](https://github.com/23LuZ) | 基于生成模型的闲聊机器人评价方法综述 |
 | [S3E12](https://ai-ml.club/events/seminar-meeting-minutes-3-12/) | [@hwfan](https://github.com/hwfan) | [How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)|
@@ -48,6 +49,11 @@ We only add paper to this list before we decide to oral/poster it at our AMC sem
 
 | Seminar | Member | Paper |
 | ------- | ------ | ----- |
+| [S3E21](https://ai-ml.club/events/seminar-meeting-minutes-3-21/) | [@23LuZ](https://github.com/23LuZ) | [Language Models are Unsupervised Multitask Learners](https://www.techbooky.com/wp-content/uploads/2019/02/Better-Language-Models-and-Their-Implications.pdf) |
+| [S3E21](https://ai-ml.club/events/seminar-meeting-minutes-3-21/) | [@huan](https://github.com/huan) | [Generating Sentences from a Continuous Space](https://arxiv.org/pdf/1511.06349.pdf) |
+| [S3E20](https://ai-ml.club/events/seminar-meeting-minutes-3-20/) | [@Duan-JM](https://github.com/duan-jm) | [Dense Classification and Implanting for Few-Shot Learning](https://arxiv.org/pdf/1903.05050.pdf) |
+| [S3E18](https://ai-ml.club/events/seminar-meeting-minutes-3-18/) | [@ximingxing](https://github.com/ximingxing) | Optimization-Based Meta-Learning |
+| [S3E18](https://ai-ml.club/events/seminar-meeting-minutes-3-18/) | [@Duan-JM](https://github.com/Duan-JM) | Brief Roadmap for Few-shot Image Classification |
 | [S3E17](https://ai-ml.club/events/seminar-meeting-minutes-3-17/) | [@qhduan](https://github.com/qhduan) | [Visualizing and Measuring the Geometry of BERT](https://arxiv.org/abs/1906.02715) |
 | [S3E17](https://ai-ml.club/events/seminar-meeting-minutes-3-17/) | [@huan](https://github.com/huan) | [Improving Multi-turn Dialogue Modelling with Utterance ReWriter](https://github.com/chin-gyou/dialogue-utterance-rewriter) |
 | [S3E16](https://ai-ml.club/events/seminar-meeting-minutes-3-16/) | [@newip](https://github.com/newip) | [Deep Learning in Spiking Neural Networks](https://arxiv.org/pdf/1804.08150) |
