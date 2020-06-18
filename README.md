@@ -146,6 +146,15 @@ Learn more from <https://github.com/DavidAnson/vscode-markdownlint>
 This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
 <a href="https://github.com/BUPT/ai-ml.club/graphs/contributors"><img src="https://opencollective.com/ai-ml-club/contributors.svg?width=890&button=false" /></a>
 
+[![contributor](https://sourcerer.io/fame/huan/BUPT/ai-ml.club/images/0)](https://sourcerer.io/fame/huan/BUPT/ai-ml.club/links/0)
+[![contributor](https://sourcerer.io/fame/huan/BUPT/ai-ml.club/images/1)](https://sourcerer.io/fame/huan/BUPT/ai-ml.club/links/1)
+[![contributor](https://sourcerer.io/fame/huan/BUPT/ai-ml.club/images/2)](https://sourcerer.io/fame/huan/BUPT/ai-ml.club/links/2)
+[![contributor](https://sourcerer.io/fame/huan/BUPT/ai-ml.club/images/3)](https://sourcerer.io/fame/huan/BUPT/ai-ml.club/links/3)
+[![contributor](https://sourcerer.io/fame/huan/BUPT/ai-ml.club/images/4)](https://sourcerer.io/fame/huan/BUPT/ai-ml.club/links/4)
+[![contributor](https://sourcerer.io/fame/huan/BUPT/ai-ml.club/images/5)](https://sourcerer.io/fame/huan/BUPT/ai-ml.club/links/5)
+[![contributor](https://sourcerer.io/fame/huan/BUPT/ai-ml.club/images/6)](https://sourcerer.io/fame/huan/BUPT/ai-ml.club/links/6)
+[![contributor](https://sourcerer.io/fame/huan/BUPT/ai-ml.club/images/7)](https://sourcerer.io/fame/huan/BUPT/ai-ml.club/links/7)
+
 ## Backers
 
 [![Backers on Open Collective](https://opencollective.com/ai-ml-club/backers/badge.svg)](#backers)
