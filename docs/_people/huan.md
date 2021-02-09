@@ -12,7 +12,7 @@ toc_label: "Author Profile"
 toc_icon: "address-card"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 
-Huan is a second year CS Ph.D. student at BUPT, major in Conversational AI. Tensorflow contributor.
+Huan is a Conversational AI fan and Tensorflow contributor.
 
 ## Research Interests
 
