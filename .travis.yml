@@ -33,7 +33,7 @@ jobs:
       deploy:
         provider: surge
         project: ./docs/_site/
-        domain: ai-ml.club
+        domain: clubber.ml
         skip_cleanup: true
         on:
           all_branches: true
