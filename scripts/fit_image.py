@@ -77,7 +77,7 @@ def chose_proper_resolution(args, old_width, old_height):
 
 def resize_image(image_path, args):
     """
-    According ratio or resolution to resize image and relpace source image
+    According ratio or resolution to resize image and replace source image
     """
     img = Image.open(image_path)
     old_width, old_height = img.size
